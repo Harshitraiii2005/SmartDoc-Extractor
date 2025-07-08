@@ -1,33 +1,63 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>SmartDoc-Extractor (Flask)</title>
-  <style>
-    body { font-family: Arial; padding: 20px; background-color: #f9f9f9; }
-    textarea { width: 100%; height: 200px; }
-    .entity { padding: 8px; margin: 4px 0; background: #e8f5e9; border-left: 5px solid #4caf50; }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SmartDoc Extractor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 </head>
 <body>
-  <h2>📄 SmartDoc-Extractor (Flask)</h2>
-  <form method="POST" enctype="multipart/form-data">
-    <label><b>Upload Document</b> (.txt, .pdf, .docx, .csv, .jpg, .png):</label><br>
-    <input type="file" name="document" required><br><br>
-    <button type="submit">🚀 Extract</button>
-  </form>
+  <!-- Particles Background -->
+  <div id="particles-js"></div>
 
-  {% if extracted_text %}
-    <h3>📄 Extracted Text</h3>
-    <textarea readonly>{{ extracted_text }}</textarea>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-left">Harshit Rai</div>
+    <div class="header-center">📄 SmartDoc Extractor</div>
+    <div class="header-right">📞 7394809484</div>
+  </header>
 
-    <h3>🧠 Extracted Entities</h3>
-    {% if entities %}
-      {% for ent in entities %}
-        <div class="entity"><b>{{ ent.label }}</b>: {{ ent.text }}</div>
-      {% endfor %}
-    {% else %}
-      <p><i>No entities detected.</i></p>
-    {% endif %}
-  {% endif %}
+  <!-- Hero Section -->
+  <main class="main-content">
+    <h1>Revolutionize Document Intelligence</h1>
+    <p>SmartDoc Extractor helps you intelligently extract data from PDFs, images, Word files, and more using OCR + AI.</p>
+    <a href="/app" class="btn-start">🚀 Start Extracting</a>
+
+    <!-- What We Built -->
+    <section class="section">
+      <h2>🛠 What We’ve Built</h2>
+      <ul>
+        <li>Invoice field extractor using spaCy NER</li>
+        <li>OCR-powered image/PDF reader</li>
+        <li>Multi-format support: PDF, DOCX, TXT, CSV, Images</li>
+        <li>PDF download of extracted results</li>
+      </ul>
+    </section>
+
+    <!-- Future Scope -->
+    <section class="section">
+      <h2>🔮 Future Approach</h2>
+      <ul>
+        <li>Multi-language support</li>
+        <li>Cloud document integration (Google Drive, Dropbox)</li>
+        <li>Entity confidence scoring & validation</li>
+        <li>Mobile app version with camera OCR</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>📬 Let’s connect — <a href="mailto:harshitrai@example.com">harshitrai@example.com</a></p>
+    <p>Made with ❤️ by <strong>Harshit Rai</strong></p>
+  </footer>
+
+  <script>
+    particlesJS.load('particles-js', '{{ url_for("static", filename="js/particles.json") }}', function() {
+      console.log('Particles.js config loaded');
+    });
+  </script>
 </body>
 </html>

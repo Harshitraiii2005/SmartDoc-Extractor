@@ -1,0 +1,6 @@
+spacy
+flask
+uvicorn
+pdf2image
+pytesseract
+python-docx

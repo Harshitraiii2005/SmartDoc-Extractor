@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SmartDoc App</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+</head>
+<body>
+  <!-- 3D Background -->
+  <div id="particles-js"></div>
+
+  <!-- Main Container -->
+  <div class="app-container">
+    <h1 class="title">📄 SmartDoc Extractor</h1>
+    <p class="subtitle">Upload a document (PDF, DOCX, TXT, CSV, Image)</p>
+
+    <!-- Upload Form -->
+    <form method="POST" action="/extract" enctype="multipart/form-data" class="upload-form">
+      <input type="file" name="file" required />
+      <button type="submit">Extract</button>
+    </form>
+
+    <!-- Extracted Text -->
+    {% if extracted_text %}
+    <div class="output-section">
+      <h2>📄 Extracted Text</h2>
+      <textarea rows="15" readonly>{{ extracted_text }}</textarea>
+    </div>
+    {% endif %}
+
+    <!-- Entities -->
+    {% if entities %}
+    <div class="output-section">
+      <h2>🔍 Entities Detected</h2>
+      <pre>{{ entities }}</pre>
+    </div>
+    {% endif %}
+
+    <!-- PDF Download -->
+    {% if pdf_ready %}
+    <a href="{{ url_for('download_pdf') }}" class="download-btn" download>⬇️ Download as PDF</a>
+    {% endif %}
+  </div>
+
+  <script>
+    particlesJS.load('particles-js', '{{ url_for("static", filename="js/particles.json") }}', function() {
+      console.log('Particles.js loaded');
+    });
+  </script>
+</body>
+</html>
