@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-30356
+
+Date: 12-06-2024
+
+From:
+
+Mangat LLC
+
+H.No. 248 Suri Path Alwar 811372
+To:
+
+Dhaliwal-Kulkarni
+
+402, Bumb Road Kishanganj-138554
+Amount Paid: €44486
+
+Payment Mode: Cash

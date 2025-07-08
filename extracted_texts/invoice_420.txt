@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-36782
+
+Date: 22-08-2024
+
+From:
+
+Ratta, Sandhu and Vohra
+
+H.No. 55, Chander Zila Bellary-394680
+
+Billed To:
+
+Magar Ltd
+
+23/32 Shanker Marg Thiruvananthapuram-626389
+
+GSTIN: GM789690d1471Z5
+
+Item Description
+
+Animi Repellendus accusantium aperiam voluptatum.
+
+Architecto Facere itaque qui.
+
+Nam Cumdque iste commodi provident quasi.
+
+Grand Total: €18396
+
+Rate
+
+€1018
+
+€1698
+
+€1390
+
+Quantity
+7
+
+5
+
+Total
+
+€7126
+
+€8490
+
+€2780

@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-551739
+Date: 07 Jan 2025
+Valid From: 13 Apr 2025 To 24 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-7447
+Transporter ID: TID-7982
+Transporter Name: Guzman-Finley
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-8812
+
+Taxable Value Tax Rate (%)
+
+Reason: Type whom drug.
+

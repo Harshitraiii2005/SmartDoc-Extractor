@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-70005
+
+Date: 10/07/2024
+
+From:
+
+Mallick-Tiwari
+
+27/749, Dhawan Circle, Navi Mumbai 387443
+To:
+
+Raval, Taneja and Raval
+
+H.No. 273 Mahajan Zila, Belgaum-942875
+Amount Paid: €28237
+
+Payment Mode: Net Banking

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-22160
+
+Invoice Date: 13 May 2025
+
+Issued By:
+
+Basak Group
+
+H.No. 99 Mann Zila Tadepalligudem 543618
+To:
+
+Balasubramanian-Char
+
+241 Kala Circle Solapur 440357
+
+GSTIN: rk782924sH364Z0
+
+Item Description Rate
+Quae Eius asperiores velit molestias voluptatibus. €2504
+Vitae Dicta perferendis minima quia alias. €4993
+
+Grand Total: €72466
+
+Quantity
+9
+
+10
+
+Total
+
+€22536
+
+€49930

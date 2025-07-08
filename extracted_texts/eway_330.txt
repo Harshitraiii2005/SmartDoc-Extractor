@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-102932
+
+Date: 27 Oct 2023
+
+Consignor:
+
+Uppal Inc
+
+53/71, Chanda Ganj, Chandigarh-392241
+Consignee:
+
+Shukla Inc
+
+83, Balakrishnan Circle, Kottayam-962102
+Vehicle No: Mv63kD4717
+
+GSTIN: PK271231fe9612Z3
+
+Item Description
+
+Minima Quasi quod nostrum.
+
+Possimus Deserunt aut fugiat.
+
+Ratione Exercitationem vel ratione animi accusamus.
+
+Ullam Facilis suscipit.
+
+Quantity
+50
+32
+17
+
+19
+
+Value
+
+$15258
+$31330
+$12826
+
+$49867

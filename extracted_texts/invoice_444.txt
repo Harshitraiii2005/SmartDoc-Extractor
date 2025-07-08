@@ -1,0 +1,77 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-68365
+
+Invoice Date: 03/03/2024
+
+Issued By:
+Manda-Karan
+
+740, Jani Path, Kollam-654875
+
+Billed To:
+
+Sarraf Group
+
+H.No. 583 Acharya Chowk, Nellore 960093
+
+GSTIN: UN867587Gm706Z8
+
+Item
+Incidunt
+Officia
+Quod
+Incidunt
+Iste
+
+Commodi
+
+Description
+Vero eveniet est.
+Sunt nemo et occaecati.
+
+Officiis velit quidem.
+
+Molestias provident repellendus blanditiis.
+
+Natus delectus quaerat aliquid facere.
+
+Libero placeat.
+
+Grand Total: €100953
+
+Rate
+
+€3649
+
+€4562
+
+€4850
+
+€1062
+
+€2294
+
+€3840
+
+Quantity
+1
+
+9
+
+Total
+
+€3649
+
+€41058
+
+€24250
+
+€2124
+
+€18352
+
+€11520

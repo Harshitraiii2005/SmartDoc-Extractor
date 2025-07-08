@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-41957
+
+Date: 30/01/2024
+
+Issued By:
+
+Krish-Amble
+
+63/289 Comar Marg Farrukhabad 458841
+Billed To:
+
+Yogi-Bath
+
+52 Ravi Marg, Kota-992228
+
+GSTIN: V1947922bN89024
+
+Item Description Rate
+Dolorum Quaerat asperiores sapiente. €746
+Et Odio enim. €3335
+
+Grand Total: €35237
+
+Quantity
+7
+
+9
+
+Total
+
+€5222
+
+€30015

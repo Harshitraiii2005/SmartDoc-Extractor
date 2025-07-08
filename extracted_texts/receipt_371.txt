@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-80198
+
+Date: 16/05/2025
+
+From:
+
+Kibe-Dalal
+
+113, Devi Road Mahbubnagar-128936
+To:
+
+Wason-Bhatnagar
+
+45 Borra Chowk Kozhikode-973209
+Amount Paid: $23490
+
+Payment Mode: Net Banking

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-37906
+
+Date: 27-09-2024
+
+From:
+
+Kalla PLC
+
+820 Tak Zila Nashik 297412
+
+To:
+
+Sarna-Kale
+
+H.No. 011 Barad Circle, Surat-675815
+Amount Paid: €43964
+
+Payment Mode: Card

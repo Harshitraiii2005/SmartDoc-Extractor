@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9570
+Date: 14 Jun 2025
+
+Exporter
+
+West Inc
+7762 John Keys Apt. 846 Katrinaburgh, NV 86024
+
+Importer
+
+Mendoza-Evans
+9431 Kevin Unions Suite 171 Port Charlene, VT 57659
+
+Buyer Ref: 30bab4c8-de70-4699-be3c-81ee1c11a15c
+Origin: Holy See (Vatican City State)
+Destination: Lao People's Democratic Republic
+
+Currency: INR
+Incoterms: FOB
+
+Description
+
+funterce [town
+
+@ 8719 $748.08 $3530.94
+Enjoy 7150 $86.63 $102.22
+
+Freight: $382.37
+
+Insurance: $166.63
+Total Invoice Value: $1065.74
+

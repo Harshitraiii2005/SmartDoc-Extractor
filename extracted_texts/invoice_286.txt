@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-72924
+
+Invoice Date: 23-01-2024
+
+From:
+
+Mander PLC
+
+082, Dugar Path Meerut-505743
+
+Billed To:
+
+Varty, Sankar and Bail
+
+H.No. 93 Khosla Nagar Ramagundam 839139
+
+GSTIN: TT985367Fx193Z0
+
+Item Description
+Veritatis Facere culpa asperiores assumenda suscipit.
+Ullam Eligendi ea ipsa.
+
+Molestiae Explicabo eos non.
+
+Grand Total: $34701
+
+Rate
+$2139
+$1193
+
+$1926
+
+Quantity
+4
+
+9
+
+Total
+$8556
+$10737
+
+$15408

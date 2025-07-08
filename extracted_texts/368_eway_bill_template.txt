@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-576434
+Date: 24 Mar 2025
+Valid From: 24 Jan 2025 To 29 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-5745
+
+Transporter ID: TID-4320
+Transporter Name: Daniels and Sons
+
+Document Reference
+
+Type: Invoice
+No: DOC-7511
+
+Reason: Research spring southern.
+

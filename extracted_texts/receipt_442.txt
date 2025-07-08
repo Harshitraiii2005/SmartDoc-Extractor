@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-90104
+
+Date: 02/07/2024
+
+From:
+
+Vora and Sons
+
+799 Dara Ganj Tirupati-659299
+To:
+
+Sama-Sarna
+
+H.No. 39 Gill Chowk Guna 676405
+Amount Paid: $28401
+
+Payment Mode: Net Banking

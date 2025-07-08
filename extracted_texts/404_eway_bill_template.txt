@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-952754
+Date: 04 Jan 2025
+Valid From: 21 Jan 2025 To 15 Mar 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-1698
+Transporter ID: TID-4163
+Transporter Name: James Group
+
+Document Reference
+
+Type: Invoice
+No: DOC-9578
+
+Reason: | meet.
+

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-16075
+
+Date: 23-08-2024
+
+From:
+
+Thaman Ltd
+
+29/523, Swamy Street, Rajkot 012845
+
+To:
+
+Tella Group
+
+51, Majumdar Chowk, Bihar Sharif-290290
+Amount Paid: $32370
+
+Payment Mode: Card

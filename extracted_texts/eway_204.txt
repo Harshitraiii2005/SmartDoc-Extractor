@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-274318
+
+Date: 13/12/2023
+
+Consignor:
+
+Raju PLC
+
+28/759, Bhatia Road, Durgapur 090421
+Consignee:
+
+Ramanathan Group
+
+811 Choudhury Circle Gaya-549305
+Vehicle No: HC26wP3387
+
+GSTIN: Fq121317HW2782Z8
+
+Item Description
+
+Quaerat Soluta numquam.
+Repudiandae Ipsa iste.
+
+Esse Iste quo dolore cupiditate.
+
+Assumenda Sunt tenetur exercitationem culpa.
+
+Quantity
+15
+34
+43
+
+35
+
+Value
+
+$37171
+$42696
+$15859
+
+$35497

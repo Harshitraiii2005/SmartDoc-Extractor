@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-128947
+Date: 09 Mar 2025
+Valid From: 04 Apr 2025 To 16 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-3780
+Transporter ID: TID-6286
+Transporter Name: Bishop-Cook
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-1566
+
+Reason: Up finish.

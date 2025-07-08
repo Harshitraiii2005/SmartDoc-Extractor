@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-6588
+Date: 03 Jun 2025
+
+Exporter
+
+Oconnell-Gordon
+USS Mclaughlin FPO AA 97543
+
+Importer
+
+Brown Group
+12566 Small Mission Suite 423 Sandraburgh, AK 24584
+
+Buyer Ref: 8059143a-ad02-4f53-8c78-7 12d4984b1e3
+
+Origin: Benin
+Destination: Saint Pierre and Miquelon
+
+Currency: USD
+Incoterms: CIF
+
+Description
+
+Continue
+
+fuses ow
+
+7452 $952.75 $11242.45
+
+Show 8028 8 $317.4 $2996.26
+
+Success
+
+Situation
+
+Freight: $327.11
+Insurance: $187.52
+
+Total Invoice Value: $3500.4
+
+2240 $489.03 $1731.17
+9153 $103.87 $1225.67
+Room 5191 $30.56 $108.18
+

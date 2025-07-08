@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 609037Date: 07 Jun 2025Valid From: 11 May 2025 To 04 Jan 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 9552Transporter ID: TID: 7448Transporter Name: Burton LLCDocument ReferenceType: InvoiceNo: DOC: 2169Taxable Value Tax Rate (%)$3258.36$1562.48$4657.2$262.04$2411.84Reason: Learn budget air.

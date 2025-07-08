@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+B/L No: BL-5625
+Date: 10 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Health
+
+Port of Loading: Lake Shannon
+
+Port of Discharge: Tanyaton
+
+Place of Delivery: South Dennismouth
+
+Container No: CONT-8793
+Marks: Check
+
+Description of Goods: Expert
+
+Gross Weight: 2354 kg
+Measurement: 8 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

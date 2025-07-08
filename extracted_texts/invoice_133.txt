@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-72884
+
+Invoice Date: 16 Jul 2024
+
+From:
+
+Guha-Bhat
+
+14/90, Loke Street Berhampur-853648
+Billed To:
+
+Bhakta LLC
+
+852, Talwar Street, Jalna 170181
+
+GSTIN: Kf475510Sj860Z4
+
+Item Description Rate
+Doloribus Non deleniti tempora. $3778
+Aliquid Laudantium nobis molestias. $944
+
+Grand Total: $23610
+
+Quantity
+5
+
+5
+
+Total
+$18890
+
+$4720

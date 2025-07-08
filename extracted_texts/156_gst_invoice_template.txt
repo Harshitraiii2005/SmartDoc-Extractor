@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4721
+Date: 17 Feb 2025
+
+Supplier
+
+Smith and Sons
+
+8346 Steven Glen Rachelside, WV 36639
+GSTIN: 384297876838
+
+Contact: +1-632-769-2887
+
+Buyer
+
+Howard-Mccormick
+
+50417 Francisco Alley Suite 315 Christianmouth, AK 47165
+GSTIN: 922878173883
+
+Contact: 298.747.4904x0005
+
+Place of Supply: Port Tiffany
+
+4985 $881.56 $8815.6 $793.4 $793.4 $10402.41
+
+Sub Total: $973.98
+
+CGST: $125.34
+
+SGST: $157.52
+
+Grand Total: $1564.06
+
+Amount in Words: 4125 dollars only
+
+PO Number: PO-9841
+
+Terms: Somebody director new development check major country.
+
+Reverse Charge: Yes

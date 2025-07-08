@@ -1,0 +1,80 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-22839
+
+Invoice Date: 24 Apr 2024
+
+From:
+
+Bassi, Dugar and Cheema
+152, Lad Chowk, Bally-808379
+
+Billed To:
+Magar-Bhatti
+
+60 Suresh Zila Bhubaneswar 112341
+
+GSTIN: AR958398cM52024
+
+Item
+Assumenda
+Fugiat
+
+Sit
+
+Unde
+Tenetur
+
+Autem
+
+Description
+
+Alias aut sit.
+
+Eum adipisci quas ut.
+
+Unde quia vitae voluptas dolorem.
+
+Incidunt fugit officiis.
+
+Velit accusamus culpa suscipit architecto.
+
+Qui pariatur alias.
+
+Grand Total: %162962
+
+Rate
+
+24393
+
+24041
+
+2408
+
+24957
+
+24990
+
+530
+
+Quantity
+10
+
+9
+
+Total
+
+243930
+
+%36369
+
+=12040
+
+244613
+
+24950
+
+1060

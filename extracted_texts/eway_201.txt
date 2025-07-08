@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-64416
+
+Date: 13/01/2024
+
+Consignor:
+
+Barman, Gandhi and Samra
+
+60/14, Tiwari Marg Kalyan-Dombivli-410480
+Consignee:
+
+Ahluwalia Group
+
+08/003 Bhandari Hapur 094856
+
+Vehicle No: uQ78jA6487
+
+GSTIN: Un231231Gs99024
+
+Item Description
+
+Nisi Tempore maiores ipsam asperiores.
+Dolores Repellat quis fugit laborum saepe.
+Assumenda Rem alias dolorum.
+
+Quantity
+4
+12
+
+26
+
+Value
+$30868
+$11664
+
+$37576

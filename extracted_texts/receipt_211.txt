@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-90382
+
+Date: 05-04-2025
+
+From:
+
+Dani and Sons
+
+64/50, Saha Guntur 068509
+
+To:
+
+Bali-Thakkar
+
+H.No. 50 Lala Chowk Jalandhar 954525
+Amount Paid: $35909
+
+Payment Mode: Card

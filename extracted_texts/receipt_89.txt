@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-82236
+
+Date: 13-10-2023
+
+From:
+
+Gara-Balasubramanian
+
+668, Dhillon Road, Malegaon 761401
+
+To:
+
+Wason, Kurian and Konda
+
+05/750, lyer Zila Surendranagar Dudhrej-433588
+Amount Paid: $32294
+
+Payment Mode: UPI

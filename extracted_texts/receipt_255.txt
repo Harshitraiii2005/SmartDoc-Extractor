@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-59954
+
+Date: 30/12/2024
+
+From:
+
+Bora, Gulati and Doctor
+
+583, Mallick Thoothukudi 869076
+
+To:
+
+Rastogi-Keer
+
+97, Sengupta Chowk, Kakinada-374394
+Amount Paid: €45125
+
+Payment Mode: Card

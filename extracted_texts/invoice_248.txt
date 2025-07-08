@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-97284
+
+Invoice Date: 13 Mar 2024
+From:
+Subramaniam-Viswanathan
+H.No. 011 Lad Zila, Tenali 844735
+To:
+
+Lata-Chander
+
+24/986, Dalal Zila Ratlam-864435
+
+GSTIN: PA584140dx8742Z7
+
+Item Description Rate Quantity Total
+Nostrum Culpa vel harum nam inventore. %2444 %2444
+Accusantium Recusandae officiis cumque quo. 23089 7 %21623
+Asperiores Ilo rerum. 73813 5 219065
+Inventore Fugiat labore voluptatum molestias adipisci. 73193 3 29579
+Quis Nam recusandae modi eveniet. 21346 2 22692
+Eaque Sed error. 24221 7 229547
+
+Grand Total: 84950

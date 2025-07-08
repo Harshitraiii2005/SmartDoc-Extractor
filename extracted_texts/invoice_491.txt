@@ -1,0 +1,76 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-30614
+
+Date: 19/01/2025
+
+Issued By:
+
+Varughese, Sule and Shan
+H.No. 27 Bora Path, Kurnool-040659
+
+To:
+
+Mand, Sha and Chander
+H.No. 961, Handa Circle, Katni 546605
+
+GSTIN: tb504794cT516Z5
+
+Item
+Dignissimos
+Asperiores
+Dolor
+Beatae
+Dolore
+
+Molestias
+
+Description
+
+Non vel.
+
+Consequuntur similique hic.
+Perspiciatis repudiandae itaque.
+Corporis sequi nesciunt molestiae.
+
+Incidunt porro modi.
+
+Voluptate esse alias fugiat deserunt.
+
+Grand Total: 66983
+
+Rate
+
+%3512
+
+24891
+
+=1776
+
+%3647
+
+%3725
+
+2665
+
+Quantity
+2
+
+6
+
+Total
+
+7024
+
+29346
+
+5328
+
+218235
+
+3725
+
+3325

@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8159
+Date: 15 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Security
+
+Port of Loading: Michaelside
+Port of Discharge: Travismouth
+Place of Delivery: Danielleport
+
+Container No: CONT-4455
+Marks: Agreement
+
+Description of Goods: Quality
+
+Gross Weight: 2256 kg
+Measurement: 13 cbm
+Freight Terms: Collect
+
+BILL OF LADING

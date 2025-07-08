@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5649
+Date: 15 May 2025
+
+Supplier
+
+Chavez, Rocha and Powers
+
+3985 Kim Skyway Apt. 875 Lake Alicia, AS 07000
+GSTIN: 171796043282
+
+Contact: (839)266-3675x0519
+
+Buyer
+
+Parks, Arnold and Moore
+
+86441 Kimberly Union Apt. 973 Pamelaburgh, CA 27826
+GSTIN: 233988562852
+
+Contact: +1-346-297-7138x274
+
+Place of Supply: South Joshua
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Board 3442 [7 | $929.93 $6509.51 $585.86 |$585.86 | $7681.22
+
+Sub Total: $1295.64
+
+CGST: $164.88
+
+SGST: $177.45
+
+Grand Total: $1106.96
+
+Amount in Words: 4765 dollars only
+PO Number: PO-7011
+
+Terms: Official bag care might first.
+
+Reverse Charge: No

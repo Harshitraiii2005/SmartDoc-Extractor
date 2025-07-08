@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-34791
+
+Date: 04/12/2023
+
+From:
+
+Choudhry and Sons
+
+64/025, Dar Path, Guwahati-409074
+To:
+
+Kapadia-Guha
+
+55 Mannan Street Jalgaon-606351
+Amount Paid: €27716
+
+Payment Mode: Cash

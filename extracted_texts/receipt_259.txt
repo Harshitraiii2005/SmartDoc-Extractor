@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-47194
+
+Date: 16/06/2024
+
+From:
+
+Sur, Mane and Dube
+
+85, Deep Zila, Vadodara 030800
+To:
+
+Tailor LLC
+
+58 Brar Zila Munger-855586
+Amount Paid: €29511
+
+Payment Mode: Net Banking

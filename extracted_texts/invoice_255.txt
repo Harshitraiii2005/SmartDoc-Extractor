@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-61206
+
+Date: 23 Jan 2025
+
+Issued By:
+
+Johal Ltd
+
+282 Subramanian Path Surat 716883
+Billed To:
+
+Deshmukh PLC
+
+382 Vora Nagar Tadepalligudem-802980
+
+GSTIN: nl524309au401Z8
+
+Item Description Rate Quantity Total
+Eveniet Sit repellat soluta ea dolore. €2064 9 €18576
+Illo At quam eum ullam. €2926 1 €2926
+Labore Nulla iusto. €3730 6 €22380
+
+Grand Total: €43882

@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-4719
+
+Date: 21-02-2025
+
+From:
+
+Ramanathan Group
+80 Gandhi Nagar, Ongole-304306
+
+To:
+
+Ramaswamy, Thakur and De
+H.No. 940, Dhawan Street Ghaziabad 237016
+
+GSTIN: Bg962469jG614Z8
+
+Item
+Dolorum
+Nobis
+Numquam
+Maiores
+
+Ratione
+
+Description
+
+Fuga pariatur sint aperiam.
+Nam eveniet consequuntur sed.
+Quis numquam et.
+
+Earum sapiente.
+
+lusto et vitae perferendis laborum.
+
+Grand Total: $88479
+
+Rate
+
+$4037
+$1560
+$2493
+$2344
+
+$2473
+
+Quantity
+4
+
+9
+
+10
+
+Total
+
+$16148
+$14040
+$12465
+$21096
+
+$24730

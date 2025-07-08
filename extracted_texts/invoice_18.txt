@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-9823
+
+Invoice Date: 27 Aug 2023
+
+From:
+
+Lata Group
+
+30/831, Dugar Road Korba-809301
+Billed To:
+
+Golla PLC
+
+24/93, Mann Street, Tadipatri-568026
+
+GSTIN: 9j792294QS580Z4
+
+Item Description Rate
+
+Pariatur Ab ad exercitationem. $1843
+Modi Occaecati nihil. $1171
+Similique Soluta dicta fugit et. $4981
+
+Grand Total: $48420
+
+Quantity
+1
+10
+
+7
+
+Total
+$1843
+$11710
+
+$34867

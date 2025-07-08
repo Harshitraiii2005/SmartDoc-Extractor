@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-2736
+Date: 29 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Woman
+
+Port of Loading: South Kelly
+
+Port of Discharge: East Martinfurt
+Place of Delivery: Ilsaactown
+
+Container No: CONT-4783
+Marks: Pay
+
+Description of Goods: Morning
+
+Gross Weight: 1846 kg
+Measurement: 12 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

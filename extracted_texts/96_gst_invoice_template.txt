@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2002
+Date: 30 Apr 2025
+
+Supplier
+
+Turner Ltd
+
+51810 Nelson Causeway Samuelfurt, IL 05641
+GSTIN: 781786405432
+
+Contact: 858.409.8596x1774
+
+Buyer
+
+Sampson Group
+
+17625 Eric Fords East Megan, CO 51481
+GSTIN: 453204936130
+
+Contact: 974.278.8993
+
+Place of Supply: Smithview
+
+Description /HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Home 1604 |6 | $118.04 $708.24 $63.74 | $63.74 | $835.72
+
+8042 $337.11 $337.11 $30.34 | $30.34 | $397.79
+Tough 1069 $305.94 $305.94 $27.53  |$27.53 | $361.01
+Seem 7744 $92.22 $461.1 $415 |$a15 | $544.1
+
+Sub Total: $613.14
+
+CGST: $65.11
+
+SGST: $61.3
+
+Grand Total: $1712.37
+
+Amount in Words: 4808 dollars only
+
+PO Number: PO-4125
+
+Terms: Woman across land special war car foot article.
+
+Reverse Charge: Yes

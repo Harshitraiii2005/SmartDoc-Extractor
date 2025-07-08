@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-91890
+
+Invoice Date: 05 Aug 2023
+
+Issued By:
+
+Kadakia Group
+
+H.No. 17, Master Road, Bidar-632075
+
+To:
+
+Bal, Choudhury and Chandra
+
+H.No. 27 Chakrabarti Nagar, Latur 143029
+
+GSTIN: zv921109KD976Z2
+
+Item Description
+Incidunt Fuga vel blanditiis ad.
+Facilis In nemo incidunt necessitatibus explicabo.
+
+Ducimus Excepturi velit ratione impedit voluptatibus.
+
+Dicta Cum delectus harum.
+
+Maxime Deleniti aliquam ipsa.
+
+Grand Total: =79726
+
+Rate
+
+24132
+
+1820
+
+4604
+
+1278
+
+3642
+
+Quantity
+5
+
+9
+
+Total
+
+%20660
+
+=16380
+
+24604
+
+8946
+
+29136

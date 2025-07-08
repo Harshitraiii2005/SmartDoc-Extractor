@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-60429
+
+Invoice Date: 08/11/2023
+
+Issued By:
+
+Agate, Ramachandran and Mahajan
+25/31 Bains Marg, Serampore 639975
+Billed To:
+
+Dewan, Maharaj and Savant
+
+H.No. 86 Kala Zila, Vasai-Virar 693135
+
+GSTIN: xG554687pr631Z6
+
+Item Description Rate
+
+Omnis Minus suscipit. €2049
+Nobis Aperiam nesciunt necessitatibus doloribus. €4491
+Repellat Similique nisi iure ipsam molestiae. €2653
+
+Grand Total: €50427
+
+Quantity
+1
+9
+
+3
+
+Total
+
+€2049
+
+€40419
+
+€7959

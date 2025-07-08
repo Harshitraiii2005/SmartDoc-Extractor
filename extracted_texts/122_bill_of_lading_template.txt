@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-4951
+Date: 03 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Remember
+
+Port of Loading: North Taraborough
+Port of Discharge: Wattsfort
+
+Place of Delivery: Port Donnahaven
+
+Container No: CONT-5241
+Marks: Southern
+
+Description of Goods: According
+
+Gross Weight: 1520 kg
+Measurement: 13 cbm
+Freight Terms: Collect
+
+BILL OF LADING

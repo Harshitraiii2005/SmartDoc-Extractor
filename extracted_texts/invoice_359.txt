@@ -1,0 +1,60 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-54911
+
+Invoice Date: 10-06-2024
+
+Issued By:
+
+Tiwari, Mani and Swamy
+71 Doctor Zila, Vadodara 710692
+
+Billed To:
+
+Savant-Doctor
+
+24/25 Goswami Zila, Bhalswa Jahangir Pur 417891
+
+GSTIN: fy567880er3442Z6
+
+Item
+Temporibus
+Sunt
+Debitis
+
+Quae
+
+Description
+
+Itaque hic ipsam ut eligendi.
+
+Corporis magnam cupiditate temporibus explicabo.
+
+Ilo dolorem ullam repellat.
+
+Illum iste laboriosam labore.
+
+Grand Total: $47176
+
+Rate
+
+$2913
+$1621
+$3781
+
+$2616
+
+Quantity
+5
+
+2
+
+Total
+$14565
+$3242
+$18905
+
+$10464

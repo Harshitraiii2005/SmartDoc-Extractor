@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4491
+Date: 01 Jan 2025
+
+Exporter
+
+Peterson, Blanchard and Cantu
+393 Castro Road South Chloe, TN 49148
+
+Importer
+
+Chambers-Jackson
+750 Andrews Meadows East Daniellemouth, MT 04623
+
+Buyer Ref: 09bbe621-6d40-4fcd-b99d-a05b1b8ec386
+Origin: Jordan
+Destination: Mayotte
+
+Currency: INR
+Incoterms: EXW
+
+escinion «(HSN [uneroce [tom
+
+Freight: $446.32
+
+Insurance: $157.85
+Total Invoice Value: $2993.3

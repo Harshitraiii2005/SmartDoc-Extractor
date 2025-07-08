@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-43950
+
+Date: 12 Oct 2024
+
+From:
+
+Sridhar Inc
+
+512 Basu Chowk, Thiruvananthapuram 265628
+To:
+
+Madan LLC
+
+H.No. 26, Halder Road Allahabad 004165
+Amount Paid: $28010
+
+Payment Mode: UPI

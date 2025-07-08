@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-983061
+
+Date: 09-07-2023
+
+Consignor:
+
+Karnik-Goel
+
+H.No. 098, Kumar Circle, Kota 976762
+Consignee:
+
+Dhingra-Dugar
+
+827 Deshpande Road Guna-862812
+Vehicle No: MB92tr5453
+
+GSTIN: qu190982nE162Z0
+
+Item Description
+Quaerat Nam incidunt minus consectetur totam.
+lure Illo hic dolor recusandae molestiae.
+
+Quas Voluptates iusto nesciunt.
+
+Quantity
+20
+43
+
+42
+
+Value
+
+€23761
+
+€44546
+
+€11680

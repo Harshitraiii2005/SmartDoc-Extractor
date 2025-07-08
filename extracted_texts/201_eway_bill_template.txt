@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-337382
+Date: 18 Feb 2025
+Valid From: 20 Apr 2025 To 31 May 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-5051
+
+Transporter ID: TID-2094
+
+Transporter Name: Valdez, Gomez and Hays
+
+Document Reference
+
+Type: Invoice
+No: DOC-2632
+
+Taxable Value Tax Rate (%)
+
+Reason: Debate.

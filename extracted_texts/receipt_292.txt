@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-6891
+
+Date: 15 Oct 2023
+
+From:
+
+Dugar-Khatri
+
+42/704, Kakar Marg Ichalkaranji-107738
+To:
+
+Maharaj-Shroff
+
+H.No. 26 Gopal Marg Purnia 878665
+Amount Paid: =19446
+
+Payment Mode: UPI

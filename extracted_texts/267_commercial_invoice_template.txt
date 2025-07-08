@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8689
+Date: 22 Feb 2025
+
+Exporter
+
+Marsh, Lara and Martin
+59469 Lee Lake Rachelmouth, LA 12629
+
+Importer
+
+Black Inc
+581 Thomas Ports Randyborough, FM 34352
+
+Buyer Ref: 4fd50ce1-e884-4001-9c41-e5edfb672d22
+Origin: Peru
+Destination: Portugal
+
+Currency: USD
+Incoterms: FOB
+
+Doctor 5454 $75.96 $358.53
+
+Institution 9755 $118.01 $1392.52
+Kid 5138 6 $203.59 $1441.42
+
+Freight: $352.64
+
+Insurance: $61.83
+
+Total Invoice Value: $2844.42

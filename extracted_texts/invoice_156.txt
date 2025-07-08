@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-55959
+
+Invoice Date: 13 Aug 2023
+
+Issued By:
+
+Agrawal, Bir and Sundaram
+
+H.No. 616 Tata Road Bardhaman-638852
+Billed To:
+
+Goda, Sha and Deo
+
+34/70 Saraf Street, Knandwa-673488
+
+GSTIN: rp793930cG879Z1
+
+Item Description
+
+Quaerat Fugit nobis iste facilis.
+
+Fugit Eligendi aspernatur.
+
+Vitae Suscipit laborum maxime inventore sint.
+
+Debitis Expedita ipsum.
+
+Eveniet Ullam dignissimos numquam minus minus.
+
+Ipsum Consequuntur ab consequuntur.
+
+Grand Total: €75332
+
+Rate
+
+€1914
+
+€3580
+
+€3220
+
+€4442
+
+€860
+
+€771
+
+Quantity
+4
+
+4
+
+Total
+
+€7656
+
+€14320
+
+€19320
+
+€26652
+
+€4300
+
+€3084

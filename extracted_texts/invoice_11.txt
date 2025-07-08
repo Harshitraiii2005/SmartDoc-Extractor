@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-84456
+
+Date: 23 Apr 2024
+
+From:
+
+Bhat-Rajagopalan
+
+444, Kalla Path Proddatur-529613
+To:
+
+Wable-Behl
+
+H.No. 32 Gaba Ganj, Solapur-344808
+
+GSTIN: yR876445dq226Z8
+
+Item Description Rate
+Sunt Voluptate commodi corporis. $4928
+Commodi Deleniti quam consequuntur. $3723
+
+Grand Total: $46978
+
+Quantity
+5
+
+6
+
+Total
+$24640
+
+$22338

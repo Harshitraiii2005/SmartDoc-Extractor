@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-86175
+
+Date: 02/07/2024
+
+From:
+
+Rajagopal-Ahluwalia
+
+58, Ray Street Patna-971397
+
+To:
+
+Dasgupta, Cherian and Chadha
+
+H.No. 44, Seshadri Nagar Bettiah 215946
+Amount Paid: $46914
+
+Payment Mode: UPI

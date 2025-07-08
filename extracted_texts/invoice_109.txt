@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-85821
+
+Date: 25/06/2024
+
+Issued By:
+
+Saran, Loyal and Magar
+
+H.No. 103, Sheth Chowk Rourkela 590409
+To:
+
+Comar Ltd
+
+82/106, Cherian Road Jalna-010193
+
+GSTIN: 0J0585952B818Z5
+
+Item Description Rate
+Error Eius libero voluptas voluptatem aperiam. $2329
+Natus Eos velit ducimus animi. $926
+Nesciunt Optio inventore harum. $1264
+Autem Natus veritatis. $4049
+
+Grand Total: $32175
+
+Quantity
+9
+
+2
+
+Total
+$20961
+$1852
+$1264
+
+$8098

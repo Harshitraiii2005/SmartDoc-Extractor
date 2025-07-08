@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-2026
+Date: 22 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Perhaps
+
+Port of Loading: Port Brookefurt
+Port of Discharge: Harrisonview
+Place of Delivery: Amberhaven
+
+Container No: CONT-5599
+Marks: My
+
+Description of Goods: Include
+
+Gross Weight: 4901 kg
+Measurement: 14 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

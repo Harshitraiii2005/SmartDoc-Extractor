@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-45563
+
+Date: 19/02/2025
+
+From:
+
+Dhaliwal Ltd
+
+H.No. 654, Raja Circle Firozabad 078515
+To:
+
+Wadhwa-Sarin
+
+591, Raman Ganj, Nagercoil-513827
+Amount Paid: 733923
+
+Payment Mode: Cash

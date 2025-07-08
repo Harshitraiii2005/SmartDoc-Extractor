@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-97110
+
+Date: 07-01-2024
+
+Consignor:
+
+Devan LLC
+
+003 Acharya Chowk Sasaram-318704
+Consignee:
+
+Doctor-Saraf
+
+02 Bedi Vellore-100362
+
+Vehicle No: ST13Ap7813
+
+GSTIN: tt504480Fd037Z1
+
+Item Description
+Tempore lusto eligendi quae doloremque.
+Reprehenderit Facilis rerum sunt delectus.
+
+Voluptates Ducimus minus officia nostrum.
+
+Quantity
+49
+16
+
+43
+
+Value
+$10759
+$45190
+
+$36393

@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8626
+Date: 27 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Carry
+
+Port of Loading: Dennisfort
+Port of Discharge: Katherinefurt
+Place of Delivery: East Sean
+
+Container No: CONT-1916
+Marks: Contain
+
+Description of Goods: Future
+
+Gross Weight: 3805 kg
+Measurement: 14 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

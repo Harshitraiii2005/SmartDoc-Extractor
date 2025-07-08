@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-83710
+
+Invoice Date: 19/03/2024
+
+Issued By:
+
+Sagar-Dar
+
+80/506 Kannan Street Junagadh 834990
+To:
+
+Anand-Rastogi
+
+63/829, Sachar Road Tiruvottiyur 857573
+
+GSTIN: aT646448JQ997Z2
+
+Item Description
+
+Rem Odit quod ducimus cumque unde.
+Voluptates Maiores deleniti aspernatur.
+
+Quam Perferendis pariatur saepe voluptas.
+
+Grand Total: %34215
+
+Rate
+
+%2280
+
+2036
+
+22315
+
+Quantity
+1
+
+10
+
+Total
+
+2280
+
+%20360
+
+211575

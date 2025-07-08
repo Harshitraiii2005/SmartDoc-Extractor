@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-946516
+Date: 16 Mar 2025
+Valid From: 23 Apr 2025 To 01 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-5706
+Transporter ID: TID-2169
+Transporter Name: Dillon-Ortega
+
+Document Reference
+
+Type: Invoice
+No: DOC-9067
+
+Taxable Value Tax Rate (%)
+$5368.5
+$3977.0
+
+$5543.65
+$2540.65
+
+Reason: Thank table bring.

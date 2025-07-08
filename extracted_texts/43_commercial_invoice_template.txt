@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3626
+Date: 02 Jun 2025
+
+Exporter
+
+James, Robertson and Vasquez
+702 James Coves Suite 115 New Anthony, PA 05494
+
+Importer
+
+Giles Group
+5875 Kari Via New Heatherport, DE 54636
+
+Buyer Ref: 7b435c62-0d5f-420b-bb0c-9702e79447a9
+Origin: Congo
+Destination: Togo
+
+Currency: INR
+Incoterms: EXW
+
+Success 6813 $48.86 $57.65
+Herself 3136 $181.55 $642.69
+
+Newspaper 1995 $546.98 $4518.05
+Single 3104 $942.17 $5558.8
+Almost 5464 16 «| $517.05 $3660.71
+
+Freight: $386.84
+Insurance: $155.21
+
+Total Invoice Value: $4598.8

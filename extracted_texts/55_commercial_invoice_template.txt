@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9320
+Date: 28 Jan 2025
+
+Exporter
+
+Adams, Greene and Johnson
+73142 Reeves Circles Suite 645 South Michaelville, OH 94574
+
+Importer
+
+Allen-Jackson
+6759 Davidson Springs South Timothyburgh, TX 20790
+
+Buyer Ref: e905b218-6dc7-4ec9-a28e-0c3dec796332
+Origin: Cyprus
+Destination: Bolivia
+
+Currency: EUR
+Incoterms: EXW
+
+Open 3519 $598.13 $4940.55
+
+Letter 3836 $882.03 $2081.59
+Clear 6608 $681.21 $4019.14
+
+Freight: $120.7
+
+Insurance: $189.18
+
+Total Invoice Value: $2724.4

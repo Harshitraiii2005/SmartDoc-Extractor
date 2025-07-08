@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-85805
+
+Invoice Date: 08/01/2024
+
+From:
+
+Sachdev, Vohra and Sanghvi
+88/257 Dara Nagar, Deoghar 148685
+
+Billed To:
+Dar-Dass
+
+81, Samra Road Anantapuram 751241
+
+GSTIN: tw706101FX9522Z8
+
+Item
+
+Iste
+Aspernatur
+Doloribus
+
+Neque
+
+Description
+Optio eius fugit.
+Veniam tempore labore nisi.
+
+Sapiente animi.
+
+Dolor reiciendis doloremque nemo magnam.
+
+Grand Total: =74873
+
+Rate
+
+%3549
+
+3965
+
+2618
+
+%3996
+
+Quantity
+8
+
+3
+
+Total
+
+28392
+
+211895
+
+2618
+
+31968

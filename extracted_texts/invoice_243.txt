@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-73283
+
+Invoice Date: 28-12-2023
+
+From:
+
+Kata-Suresh
+
+H.No. 693, Karan, Shimla-048777
+To:
+
+Kunda-Ratti
+
+H.No. 85 Gandhi Anand 914689
+
+GSTIN: Y1758853JD530Z3
+
+Item Description
+
+Ratione Voluptates maxime modi.
+
+Ratione Assumenda recusandae nisi tempora.
+Reprehenderit Excepturi asperiores cumque.
+Incidunt Accusamus earum nemo.
+
+Grand Total: $41091
+
+Rate
+
+$2676
+$1279
+$4879
+
+$1413
+
+Quantity
+4
+
+9
+
+Total
+$10704
+$11511
+$14637
+
+$4239

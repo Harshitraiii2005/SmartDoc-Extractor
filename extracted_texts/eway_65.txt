@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-616800
+
+Date: 21/03/2024
+
+Consignor:
+
+Bhavsar, Wadhwa and Krishnamurthy
+05/676, Sem Street Asansol-719051
+Consignee:
+
+Garg-Butala
+
+30, Mani Nagar, Ujjain-078637
+Vehicle No: xW37XI7794
+
+GSTIN: gC988979KZ691Z9
+
+Item Description
+
+Amet Autem porro consequuntur.
+
+Quantity
+
+14
+
+Value
+
+€34152

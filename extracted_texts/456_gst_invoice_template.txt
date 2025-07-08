@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3864
+Date: 30 May 2025
+
+Supplier
+
+Cohen Inc
+
+59729 Jackson Ports Brownville, DE 97200
+GSTIN: 625154503079
+
+Contact: 697.540.2219
+
+Buyer
+
+Huang-Stark
+
+160 Watson Park West Scott, NE 07547
+GSTIN: 337268558640
+
+Contact: (963)437-9960x397
+
+Place of Supply: Cooperstad
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Start 2414 $504.33 $1512.99 $136.17 $136.17 $1785.33
+
+Sub Total: $722.41
+
+CGST: $147.37
+
+SGST: $60.73
+
+Grand Total: $1442.2
+
+Amount in Words: 2401 dollars only
+
+PO Number: PO-1737
+
+Terms: Season foreign lead ahead impact activity television.
+
+Reverse Charge: Yes

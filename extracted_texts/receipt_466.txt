@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-16118
+
+Date: 23 Feb 2024
+
+From:
+
+Dada, Sheth and Acharya
+
+H.No. 148 Sharma Street, Solapur-755116
+To:
+
+Setty Group
+
+H.No. 226, Hegde Kanpur-888217
+Amount Paid: 225252
+
+Payment Mode: Card

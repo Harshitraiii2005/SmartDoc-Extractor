@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-243357
+
+Date: 21 Dec 2024
+
+Consignor:
+
+Halder-Kale
+
+61, Tak Marg Medininagar-838333
+Consignee:
+
+Behl-Varghese
+
+H.No. 28 Shetty Marg Kozhikode 020000
+Vehicle No: bj40XH2724
+
+GSTIN: EV572947KQ182Z1
+
+Item Description
+
+Recusandae Occaecati et dolor nemo.
+
+Labore Aperiam consectetur in itaque pariatur.
+
+Quantity
+43
+
+15
+
+Value
+$45686
+
+$15291

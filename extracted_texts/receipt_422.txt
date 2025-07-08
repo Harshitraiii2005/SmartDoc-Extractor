@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-93214
+
+Date: 29 Apr 2024
+
+From:
+
+Gandhi and Sons
+
+H.No. 661 Acharya Marg Alwar 558342
+To:
+
+Chakraborty Inc
+
+85/02, Thakur Circle, Rewa-975820
+Amount Paid: €6577
+
+Payment Mode: Cash

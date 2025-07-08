@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-30466
+
+Invoice Date: 22/09/2023
+
+Issued By:
+
+Karan, Dora and Dutt
+
+H.No. 468 Ghose Street, Sonipat-932904
+To:
+
+Lall, Chhabra and Sarin
+
+H.No. 57 Wable Road, Bahraich 392875
+
+GSTIN: UU3101951V877Z1
+
+Item Description Rate
+
+Corrupti Tenetur illum maiores. €3855
+Ea Id ea officiis enim. €4062
+Voluptatum Expedita deserunt. €4648
+
+Grand Total: €55287
+
+Quantity
+5
+
+2
+
+Total
+
+€19275
+
+€8124
+
+€27888

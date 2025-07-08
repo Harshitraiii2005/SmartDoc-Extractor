@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-6157
+Date: 07 Jun 2025
+
+Exporter
+
+Garcia Ltd
+USNV Sloan FPO AE 71603
+
+Importer
+
+Weber, Jackson and Mathews
+982 Rogers Station Apt. 479 East Holly, UT 49347
+
+Buyer Ref: a1d298f7-0508-4d5c-85e9-efa8b4f52e9d
+Origin: Liberia
+Destination: Guyana
+
+Currency: USD
+Incoterms: EXW
+
+7330 $634.4 $7485.92
+
+Freight: $392.37
+Insurance: $78.87
+
+Total Invoice Value: $1717.11

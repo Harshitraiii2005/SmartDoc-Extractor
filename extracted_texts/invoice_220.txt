@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-78602
+
+Invoice Date: 30 Sep 2023
+
+From:
+
+Korpal, Behl and Atwal
+
+38/125, Kapadia Path, Tirunelveli 156761
+To:
+
+Venkataraman, Saxena and Mane
+
+41, Mahal Street, Dharmavaram-755700
+
+GSTIN: Jt127599QT298Z0
+
+Item Description
+Porro Occaecati expedita fugit.
+In Nisi quaerat nemo culpa.
+
+Placeat Velit nemo unde nobis.
+
+Alias Consectetur soluta laborum modi consequatur.
+
+Grand Total: ¥44245
+
+Rate
+
+2181
+
+22359
+
+24293
+
+2468
+
+Quantity
+1
+
+3
+
+Total
+
+2181
+
+7077
+
+30051
+
+24936

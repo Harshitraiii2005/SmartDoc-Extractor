@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9404
+Date: 28 Feb 2025
+
+Exporter
+
+Holloway-Smith
+33815 Guerrero Motorway West Mikehaven, UT 64692
+
+Importer
+
+White Inc
+41284 Justin Club Apt. 666 Donnaport, CT 74276
+
+Buyer Ref: a2c40098-4812-4649-aec3-b1c58a54ca08
+Origin: Philippines
+Destination: Greenland
+
+Currency: EUR
+Incoterms: EXW
+
+Partner 7545 $701.48 $8277.46
+Trouble 9460 6 $966.28 $6841.26
+
+Each 2991 $847.02 $2998.45
+Player 7715 $286.97 $1693.12
+Ahead 7635 6 $342.63 $2425 82
+
+Freight: $445.33
+Insurance: $57.83
+
+Total Invoice Value: $4033.11

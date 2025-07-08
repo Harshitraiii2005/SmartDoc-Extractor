@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-75231
+
+Date: 26/01/2024
+
+From:
+Bir Inc
+
+H.No. 74, Taneja Circle Gangtok 755510
+
+Billed To:
+Dada Ltd
+
+081 Wali Chowk Chittoor 781619
+
+GSTIN: Yr477863Rt207Z7
+
+Item
+Doloremque
+Ratione
+Ducimus
+Porro
+
+Harum
+
+Description
+
+Nulla repudiandae repudiandae magni.
+
+Hic veniam sit quos.
+Blanditiis autem facilis ipsum.
+Consequuntur voluptatum laudantium.
+
+Dolor voluptas voluptatibus natus.
+
+Grand Total: €57690
+
+Rate
+€792
+€1507
+€1047
+€3667
+
+€4698
+
+Quantity
+3
+
+2
+
+Total
+
+€2376
+
+€3014
+
+€3141
+
+€25669
+
+€23490

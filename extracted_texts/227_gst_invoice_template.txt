@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8796
+Date: 22 Apr 2025
+
+Supplier
+
+Donaldson, Williams and Yates
+
+38764 Andrews Lights Suite 310 Taraside, NE 10097
+GSTIN: 697032323286
+
+Contact: 001-932-584-0883x84487
+
+Buyer
+
+Cook-Fuller
+
+821 Mcmillan River Gonzalezhaven, RI 45402
+GSTIN: 313434304456
+
+Contact: 001-961-796-1595x11718
+
+Place of Supply: Erichaven
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Action 2054 $593.8 $2969.0 $267.21 $267.21 $3503.42
+
+Sub Total: $1252.94
+
+CGST: $117.37
+
+SGST: $89.57
+
+Grand Total: $1021.89
+
+Amount in Words: 3652 dollars only
+
+PO Number: PO-8219
+
+Terms: Middle voice benefit eight state information.
+
+Reverse Charge: Yes

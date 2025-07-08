@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-13028
+
+Date: 13/11/2023
+
+From:
+
+Kibe LLC
+
+H.No. 625 Ramakrishnan Circle Haldia 461145
+To:
+
+Mani-Dubey
+
+32/649 Baral Nagar Avadi 807316
+
+Amount Paid: €1964
+
+Payment Mode: Card

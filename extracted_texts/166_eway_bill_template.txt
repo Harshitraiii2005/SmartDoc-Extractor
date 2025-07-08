@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-309735
+Date: 20 May 2025
+Valid From: 27 Feb 2025 To 09 May 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-9910
+Transporter ID: TID-3904
+Transporter Name: Brown-Luna
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-4995
+
+i
+
+$5221.14
+$4527.3
+
+Reason: Here movie.

@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9129
+Date: 31 Jan 2025
+
+Supplier
+
+Nguyen-Harris
+
+073 Jessica River New Robert, KS 25431
+GSTIN: 998423099751
+
+Contact: 001-900-638-2580x51988
+
+Buyer
+
+Adams Inc
+
+608 Lindsey Harbor West Kristin, NH 56400
+GSTIN: 584596666519
+
+Contact: (941)532-4279x90369
+
+Place of Supply: West Josephview
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Everyone 9065 le | $914.61 $5487.66 $493.89 | $493.89 | $6475.44
+
+Say 1672 fo | $696.28 $6266.52 $563.99 |$563.99 | $7394.49
+Two 7268 6 | $85.72 $514.32 $46.29 $46.29 $606.9
+A788 $398.59 $398.59 $35.87 $35.87 $470.34
+
+Sub Total: $1145.33
+
+CGST: $127.78
+
+SGST: $104.95
+
+Grand Total: $1564.71
+
+Amount in Words: 4514 dollars only
+PO Number: PO-4076
+
+Terms: Prove someone gas.
+
+Reverse Charge: No

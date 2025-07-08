@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-5470
+Date: 13 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Sometimes
+
+Port of Loading: South David
+Port of Discharge: New William
+Place of Delivery: Richardburgh
+
+Container No: CONT-3024
+Marks: Party
+
+Description of Goods: Plan
+
+Gross Weight: 3422 kg
+Measurement: 10 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

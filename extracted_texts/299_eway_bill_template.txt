@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-381534
+Date: 02 May 2025
+Valid From: 04 Jul 2025 To 17 Jun 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-9689
+
+Transporter ID: TID-6356
+
+Transporter Name: Barton, Roth and Sanchez
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-1179
+
+Taxable Value Tax Rate (%)
+
+Reason: Increase.
+

@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-61564
+
+Date: 02-01-2024
+
+Issued By:
+
+Goel-Solanki
+
+38/581 Barman Ganj Bhilai 794347
+
+To:
+
+Sule, Dugar and Kohli
+
+H.No. 513 Ramaswamy Nagar, Secunderabad 722262
+
+GSTIN: ga059497002582Z2
+
+Item Description
+Vel Sint corporis.
+Qui Doloribus quam architecto possimus in.
+Et Earum impedit aliquam vitae numquam.
+
+Dignissimos Voluptate sunt qui adipisci blanditiis.
+
+Grand Total: 65190
+
+Rate
+
+3680
+
+%3464
+
+2638
+
+3300
+
+Quantity
+7
+
+3
+
+Total
+
+%25760
+
+10392
+
+22638
+
+%26400

@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-33246
+
+Date: 30 Sep 2023
+
+From:
+
+Sundaram, Sane and Garde
+
+26/049 Swamy Marg Deoghar-091910
+To:
+
+Vora-Lad
+
+04/65, Sagar Haridwar 570719
+
+GSTIN: Hu524179Dh61021
+
+Item Description Rate
+Enim Aut aspernatur alias molestias quaerat. €2021
+Sunt Unde voluptas. €967
+Expedita Modi iusto. €2866
+Excepturi Quasi est repellat. €4854
+Facilis Distinctio dolor tempora. €917
+
+Grand Total: €81371
+
+Quantity
+7
+
+10
+
+8
+
+6
+
+6
+
+Total
+
+€14147
+
+€9670
+
+€22928
+
+€29124
+
+€5502

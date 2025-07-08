@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-3540
+Date: 25 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Identify
+
+Port of Loading: Lesliefurt
+
+Port of Discharge: Port Christopherberg
+Place of Delivery: Port Zacharyburgh
+
+Container No: CONT-9881
+Marks: Interest
+
+Description of Goods: You
+
+Gross Weight: 4214 kg
+Measurement: 19 cbm
+Freight Terms: Collect
+
+BILL OF LADING

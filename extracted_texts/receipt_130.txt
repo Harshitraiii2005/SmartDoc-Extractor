@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-90924
+
+Date: 31-07-2024
+
+From:
+
+Venkatesh LLC
+
+44/702, Bajaj Street, Berhampur 255079
+To:
+
+Sandhu-Saran
+
+H.No. 434 Ganguly Nagar Eluru-713302
+Amount Paid: 731266
+
+Payment Mode: Card

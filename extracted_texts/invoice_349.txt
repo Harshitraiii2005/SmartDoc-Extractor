@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-79858
+
+Date: 17 Dec 2023
+
+From:
+
+Kala LLC
+
+H.No. 22, Goda Rohtak 152065
+To:
+
+Borah Inc
+
+94, Bhasin Path, Panihati 508610
+
+GSTIN: 0d852057xF 80424
+
+Item Description Rate
+Nulla Ducimus accusamus fugit. $3005
+Quis Tempore consequuntur porro natus. $1803
+Quo Voluptate officiis. $4078
+Officiis Minima explicabo quam. $914
+
+Grand Total: $29733
+
+Quantity
+1
+
+8
+
+Total
+$3005
+$14424
+$4078
+
+$8226

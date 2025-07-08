@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-197826
+
+Date: 20-07-2024
+
+Consignor:
+
+Toor PLC
+
+49/209, Hayre Road Kota 972321
+Consignee:
+
+Gokhale LLC
+
+62, Batta Nagar Tiruchirappalli 268915
+Vehicle No: CRO2MM5869
+
+GSTIN: nw201336YX855Z5
+
+Item Description
+Harum Commodi eum commodi.
+Sequi Omnis optio debitis illo.
+
+Consequatur Libero rerum quibusdam explicabo non.
+
+Quantity
+25
+48
+
+10
+
+Value
+$26900
+$7905
+
+$33870

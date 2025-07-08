@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8749
+Date: 20 Jun 2025
+
+Supplier
+
+Martin-Webb
+
+4548 Burns Drives Hollystad, MO 39624
+GSTIN: 286221292091
+
+Contact: 526.966.6784x773
+
+Buyer
+
+Brown Inc
+
+535 Carla Bridge Apt. 720 Port Joseph, DE 06909
+GSTIN: 630479833114
+
+Contact: 218.631.5993x6256
+
+Place of Supply: Jeffreymouth
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Whatever 4171 $260.75 $521.5 $46.93  |$46.93 | $615.37
+
+Here 4187 $259.3 $1815.1 $163.36 |$163.36 | $2141.82
+Class 1348 $896.16 $1792.32 $161.31 |$161.31 | $2114.94
+1807 $123.78 $1237.8 $111.4 $111.4 $1460.6
+
+Sub Total: $674.23
+
+CGST: $116.74
+
+SGST: $126.23
+
+Grand Total: $1023.04
+
+Amount in Words: 4610 dollars only
+PO Number: PO-9419
+
+Terms: Education street trade scene.
+
+Reverse Charge: No

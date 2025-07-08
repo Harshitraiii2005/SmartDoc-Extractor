@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-763512
+
+Date: 16 Mar 2024
+
+Consignor:
+
+Goyal Ltd
+
+906, Yohannan Circle, Gurgaon-439847
+Consignee:
+
+Shankar-Bansal
+
+89/234, Borde Street, Ludhiana 015712
+Vehicle No: VX41gK8419
+
+GSTIN: bj482736eT767Z0
+
+Item Description
+
+Perspiciatis Vitae culpa numquam fugit.
+
+Numquam Minima quam iste temporibus.
+
+Quantity
+43
+
+22
+
+Value
+
+€46347
+
+€33174

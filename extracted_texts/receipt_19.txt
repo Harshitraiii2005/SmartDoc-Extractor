@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33986
+
+Date: 17-01-2025
+
+From:
+
+Das, Ghosh and Dara
+
+71/435 Sha Road Bikaner-107759
+To:
+
+Dave-Kurian
+
+86/12 Agate Marg, Guntakal-976602
+Amount Paid: =36371
+
+Payment Mode: Cash

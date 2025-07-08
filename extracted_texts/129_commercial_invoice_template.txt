@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4755
+Date: 30 May 2025
+
+Exporter
+
+Smith-Whitehead
+1942 Annette Skyway Wernerborough, NV 15276
+
+Importer
+
+Smith LLC
+802 Sharon Curve Suite 883 Carmenton, PA 35060
+
+Buyer Ref: 9237293a-9486-4fc0-a5b7-4581546cafdc
+Origin: Lesotho
+Destination: Holy See (Vatican City State)
+
+Currency: EUR
+Incoterms: CIF
+
+Upon 3491 $93.64 $552.48
+Believe 8577 $391.25 $923.35
+
+Human 4990 $599.32 $3535.99
+8322 Bo $979.28 $9244.4
+Answer 2682 $700.2 $826.24
+
+Freight: $357.01
+Insurance: $130.3
+
+Total Invoice Value: $4251.58

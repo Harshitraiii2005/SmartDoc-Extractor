@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 469449Date: 08 Apr 2025Valid From: 11 Jun 2025 To 13 Jan 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: RailVehicle No: VEH: 9955Transporter ID: TID: 5847Transporter Name: Bright: IngramDocument ReferenceType: InvoiceNo: DOC: 5005Taxable Value Tax Rate (%)Reason: Food minute loss.

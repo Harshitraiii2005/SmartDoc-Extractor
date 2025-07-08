@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67450
+
+Date: 21-01-2025
+
+From:
+
+Apte, Ganesan and Goel
+
+847 Arora Marg, Ranchi 607393
+To:
+
+Kata Group
+
+82, Dua Chowk, Guntakal-001787
+Amount Paid: $24147
+
+Payment Mode: Card

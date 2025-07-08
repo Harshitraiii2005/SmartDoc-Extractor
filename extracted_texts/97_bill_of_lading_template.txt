@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-3955
+Date: 08 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Reality
+
+Port of Loading: New Elizabeth
+
+Port of Discharge: West Markberg
+Place of Delivery: Lake Warrenchester
+
+Container No: CONT-6403
+Marks: Professor
+
+Description of Goods: Word
+
+Gross Weight: 4374 kg
+Measurement: 8 cbm
+Freight Terms: Collect
+
+BILL OF LADING

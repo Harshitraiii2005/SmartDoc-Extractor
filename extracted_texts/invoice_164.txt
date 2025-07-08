@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-97222
+
+Invoice Date: 05 Nov 2023
+
+From:
+
+Koshy Inc
+
+67/69 Mangal Path Bangalore 038161
+To:
+
+Sagar, Dubey and Srivastava
+
+H.No. 32, Dugar Circle Tirunelveli-135967
+
+GSTIN: BE274626sT658Z8
+
+Item Description Rate
+Accusamus Odit quidem ex. €4257
+Cupiditate Earum eos animi nam. €2726
+Maxime Architecto nostrum. €2652
+Quisquam Facilis numquam. €637
+
+Grand Total: €69104
+
+Quantity
+7
+
+5
+
+Total
+
+€29799
+
+€13630
+
+€21216
+
+€4459

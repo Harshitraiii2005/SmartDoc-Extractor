@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-43948
+
+Date: 19/09/2024
+
+From:
+
+Jayaraman-Rattan
+
+56, Majumdar Path, Madhyamgram-121749
+To:
+
+Trivedi-Krishnan
+
+98/49, Kant Marg, Ghaziabad 136480
+
+GSTIN: 2¢744343WS204Z3
+
+Item Description
+Numquam Ad veritatis dolor debitis.
+Laudantium — Debitis occaecati enim eligendi.
+
+Minima reprehenderit inventore blanditiis
+
+Tenetur .
+asperiores.
+
+Ipsa Minus sed.
+
+Repellendus | Tempore laudantium beatae fuga exercitationem.
+
+Excepturi Incidunt voluptatum.
+
+Grand Total: =57801
+
+Rate
+
+=1478
+
+21011
+
+%1226
+
+%2869
+
+%1799
+
+%3741
+
+Quantity Total
+
+6
+
+1
+
+8868
+
+21011
+
+26130
+
+2869
+
+8995
+
+%29928

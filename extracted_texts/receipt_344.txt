@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-12073
+
+Date: 14 Oct 2023
+
+From:
+
+Garg and Sons
+
+H.No. 700 Sabharwal Zila Miryalaguda 491860
+To:
+
+Aggarwal-Das
+
+231 Sankar Ganj Arrah 935378
+
+Amount Paid: €43118
+
+Payment Mode: UPI

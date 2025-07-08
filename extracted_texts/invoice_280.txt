@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-75011
+
+Date: 05/04/2024
+
+From:
+
+Dugal, Tara and Issac
+
+79/494 Ram Road Eluru-668928
+Billed To:
+
+Kakar and Sons
+
+885 Madan Ganj Kharagpur-345356
+
+GSTIN: vz520794yW787Z9
+
+Item Description Rate
+
+Hic Molestiae odio perferendis vel. $3660
+Dicta Animi commodi impedit quia. $1416
+Voluptatum Distinctio hic minima sequi. $4441
+
+Grand Total: $52125
+
+Quantity
+1
+6
+
+9
+
+Total
+$3660
+$8496
+
+$39969

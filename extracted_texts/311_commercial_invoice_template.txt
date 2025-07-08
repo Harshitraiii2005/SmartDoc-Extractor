@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-6564
+Date: 31 Mar 2025
+
+Exporter
+
+Pope-Mosley
+1664 Robert Forge New Cristina, NM 02477
+
+Importer
+
+Schultz and Sons
+6633 Schneider Circle North Stephanie, MT 48035
+
+Buyer Ref: e01c6d34-f0a9-4ff1-88c8-5af2f8e8c287
+Origin: Croatia
+Destination: Cook Islands
+
+Currency: EUR
+Incoterms: CIF
+
+Just 6754 $726.52 $1714.59
+Standard 8294 $369.86 $2182.17
+
+Freight: $227.93
+
+Insurance: $110.2
+
+Total Invoice Value: $3691.8

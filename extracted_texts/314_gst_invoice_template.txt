@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5945
+Date: 06 Mar 2025
+
+Supplier
+
+Parks, Morgan and Drake
+
+155 Mercer Summit Brownside, NY 90539
+GSTIN: 124503204713
+
+Contact: 4515909363
+
+Buyer
+
+Gonzales-Curtis
+
+11222 Clark Lake North David, GA 36247
+GSTIN: 324506874559
+
+Contact: 001-201-443-0431x0745
+
+Place of Supply: Lake Deborahport
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Student 6371 $458.75 $2293.75 $206.44 |$206.44 | $2706.62
+
+Dark 5471 $814.09 $4070.45 $366.34 |$366.34 | $4803.13
+4297 fo | $13.33 $119.97 $10.8 $10.8 $141.56
+9435 $189.37 $1893.7 $170.43 |$170.43 | $2234.57
+
+Sub Total: $1029.67
+
+CGST: $96.38
+
+SGST: $92.73
+
+Grand Total: $964.05
+
+Amount in Words: 3348 dollars only
+
+PO Number: PO-7402
+
+Terms: Hospital college simple measure important.
+
+Reverse Charge: Yes

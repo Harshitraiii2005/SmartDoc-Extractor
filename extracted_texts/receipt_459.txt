@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-16854
+
+Date: 11-01-2024
+
+From:
+
+Bandi-Kaul
+
+15/377 Goda Street, Thanjavur-817146
+To:
+
+Manne, Joshi and Kar
+
+132 Ramachandran Marg, Panvel-265798
+Amount Paid: €4976
+
+Payment Mode: UPI

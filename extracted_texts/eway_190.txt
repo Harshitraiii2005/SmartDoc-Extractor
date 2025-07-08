@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-828492
+
+Date: 14/09/2023
+
+Consignor:
+
+Venkataraman Ltd
+
+935 Agrawal Circle, Dhanbad 249027
+Consignee:
+
+Kohli-Bawa
+
+H.No. 102, Vaidya Nagar Bokaro 219005
+Vehicle No: Dg59Cs1228
+
+GSTIN: TJ298042Nm3732Z6
+
+Item Description
+
+Asperiores Tempora fuga numquam pariatur voluptates.
+
+Nostrum Tenetur tempore nisi laboriosam dolor.
+
+Quantity
+23
+
+41
+
+Value
+
+€16145
+
+€14479

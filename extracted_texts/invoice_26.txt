@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-9144
+
+Date: 30-04-2025
+
+From:
+
+Comar, Lad and Biswas
+
+H.No. 430 Dora Zila, Gudivada 977501
+Billed To:
+
+Agarwal-Sibal
+
+H.No. 480, Datta Road Bhavnagar 079226
+
+GSTIN: OV630731Sx1432Z1
+
+Item Description Rate
+Laboriosam Quas dolores illo magnam. %3993
+Hic Nemo cupiditate laborum sint. 590
+Debitis Facilis excepturi ea corporis id. 22240
+Et Nostrum vitae nobis. %3887
+
+Grand Total: %74449
+
+Quantity
+10
+
+1
+
+Total
+
+39930
+
+590
+
+6720
+
+227209

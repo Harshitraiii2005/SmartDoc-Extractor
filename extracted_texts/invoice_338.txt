@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-66912
+
+Date: 28 Aug 2024
+
+From:
+
+Sandhu, Kala and Manda
+H.No. 22 Dhar Durg-357771
+
+Billed To:
+
+Chaudhry, Comar and Agrawal
+35/95, Sampath Zila, Thiruvananthapuram 831486
+
+GSTIN: X1548485Xb195Z9
+
+Item
+Temporibus
+Inventore
+Aut
+
+Ad
+
+Vel
+
+Ut
+
+Description
+Recusandae qui nostrum.
+Fuga alias incidunt ipsa dignissimos.
+
+Aperiam ex autem maiores eos.
+
+Dolorum consequuntur eius commodi voluptate.
+
+Fugit alias animi.
+
+Enim a ab debitis.
+
+Grand Total: $76043
+
+Rate
+
+$2984
+$1358
+$4998
+$2001
+$1084
+
+$3139
+
+Quantity Total
+
+7
+
+6
+
+$20888
+$8148
+$4998
+$4002
+$9756
+
+$28251

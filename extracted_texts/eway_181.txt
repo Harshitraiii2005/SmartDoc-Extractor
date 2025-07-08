@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-878450
+Date: 15 May 2025
+
+Consignor:
+
+Upadhyay, Bhargava and Chhabra
+83/58, Goel Madurai 677997
+Consignee:
+
+Andra Ltd
+
+73/348, Bahl Zila, Agartala-351656
+Vehicle No: xq92hq9356
+
+GSTIN: JZ790188zr814Z0
+
+Item Description
+
+Asperiores Explicabo quisquam harum.
+
+Est Doloremque est.
+
+Quidem Asperiores minima commodi non.
+
+Neque Aspernatur animi exercitationem.
+
+Quantity
+4
+
+16
+
+24
+
+11
+
+Value
+
+€39293
+
+€35956
+
+€28526
+
+€28569

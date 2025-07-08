@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67387
+
+Date: 11/01/2025
+
+From:
+
+Buch Inc
+
+49, Master Chowk Kakinada 618550
+
+To:
+
+Bahri and Sons
+
+H.No. 505, Korpal Chowk Rohtak-078716
+Amount Paid: $35726
+
+Payment Mode: Net Banking

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-87316
+
+Date: 29-08-2023
+
+From:
+
+Saini, Lalla and Madan
+
+323 Guha Chowk Kottayam 973662
+
+To:
+
+Sunder Ltd
+
+H.No. 27, Rajagopalan Ganj, Jamshedpur-559649
+Amount Paid: €28520
+
+Payment Mode: UPI

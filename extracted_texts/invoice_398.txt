@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-63131
+
+Date: 18 May 2025
+
+Issued By:
+
+Sarkar, Golla and Srivastava
+626 Bhat Road, Kulti 307886
+To:
+
+Dora Ltd
+
+58/96, Tak Guntur-578791
+
+GSTIN: aD0860240C21527
+
+Item Description
+
+Voluptas Laboriosam deserunt eaque ipsa hic.
+Libero Rem aliquam.
+
+Harum Dolores id incidunt laudantium.
+
+Grand Total: €22785
+
+Rate
+
+€1715
+
+€1939
+
+€3220
+
+Quantity
+2
+5
+
+3
+
+Total
+
+€3430
+
+€9695
+
+€9660

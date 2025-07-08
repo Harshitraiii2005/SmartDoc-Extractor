@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4220
+Date: 25 Apr 2025
+
+Exporter
+
+Dudley-Williams
+USNV Thompson FPO AP 55732
+
+Importer
+
+Green Group
+086 Jennifer Club Suite 228 Edwardsfurt, FL 47595
+
+Buyer Ref: f01be7d4-108c-48d4-ad2d-da90967197f5
+Origin: Faroe Islands
+Destination: Togo
+
+Currency: EUR
+Incoterms: EXW
+
+Hit 4797 $989.46 $4670.25
+Learn 9257 6 $320.18 $2266.87
+
+Improve 8697 $530.82 $4384.57
+Film 3447 $150.49 $355.16
+Second 6267 $150.39 $1774.6
+
+Freight: $296.54
+Insurance: $101.03
+
+Total Invoice Value: $3211.12

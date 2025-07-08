@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-37299
+
+Date: 05/03/2025
+
+From:
+
+Ratta, Amble and Luthra
+
+62/33, Gupta Nagar, Anand 189279
+To:
+
+Ramachandran, Kashyap and Kumar
+815, Bhakta Ganj, Gorakhpur 198674
+Amount Paid: 74355
+
+Payment Mode: UPI

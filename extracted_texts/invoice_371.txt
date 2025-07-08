@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-51837
+
+Date: 08 Jul 2024
+
+Issued By:
+
+Varty Ltd
+
+77/437, Chowdhury Circle, Nagercoil-744223
+Billed To:
+
+Bhardwaj Group
+
+71 Sule Road, Korba-517739
+
+GSTIN: zs200112bk863Z3
+
+Item Description
+
+Quibusdam Quisquam consequuntur laudantium quidem.
+
+Repellendus — Voluptas deserunt.
+Illo Facilis perferendis totam amet.
+
+Sequi Exercitationem at.
+
+Grand Total: %81045
+
+Rate
+
+24355
+
+22125
+
+4661
+
+2627
+
+Quantity
+6
+
+8
+
+Total
+
+26130
+
+17000
+
+37288
+
+2627

@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-40407
+
+Invoice Date: 17-02-2024
+
+Issued By:
+
+Chacko Group
+
+H.No. 04, Dutt Chowk, Allahabad 849091
+
+Billed To:
+
+Ganesan LLC
+
+H.No. 402 Choudhury Street Sangli-Miraj & Kupwad 417111
+
+GSTIN: Yp9290691X403Z5
+
+Item Description Rate
+
+Voluptatum Vitae quisquam nam nostrum. €4480
+Corporis Aperiam veniam explicabo alias. €1562
+Perspiciatis Modi nihil voluptatum. €4097
+
+Grand Total: €48927
+
+Quantity
+6
+
+1
+
+Total
+
+€26880
+
+€1562
+
+€20485

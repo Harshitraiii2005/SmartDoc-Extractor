@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67203
+
+Date: 08/10/2023
+
+From:
+
+Baria LLC
+
+H.No. 959 Dasgupta Circle Hubli-Dharwad-460026
+To:
+
+Dass-Deshmukh
+
+36/861, Hayre Street, Vellore 917674
+
+Amount Paid: €39378
+
+Payment Mode: Card

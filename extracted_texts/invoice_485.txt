@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-55224
+
+Date: 13/12/2023
+
+Issued By:
+
+Sunder-Randhawa
+
+41 Kade Nagar Berhampore 987573
+To:
+
+Sidhu Group
+
+93/187, Sehgal Nagar Guwahati 716456
+
+GSTIN: Tq021909RK61521
+
+Item Description Rate
+
+Velit Dolorem quam. $2420
+Ipsa Repudiandae labore aliquam. $1494
+Eos Fuga totam. $3068
+
+Grand Total: $32978
+
+Quantity
+3
+9
+
+4
+
+Total
+$7260
+$13446
+
+$12272

@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-296981
+
+Date: 01 Oct 2023
+
+Consignor:
+
+Kulkarni, Sengupta and Bhalla
+
+74 Rajagopal Chowk, Saharanpur-128219
+Consignee:
+
+Lad-Majumdar
+
+H.No. 509, Amble Bidar-789393
+
+Vehicle No: vY51UI1812
+
+GSTIN: np086980k081924
+
+Item Description
+
+Quam Nisi voluptatum facilis.
+
+Sit Quos pariatur exercitationem placeat totam.
+
+Quantity
+16
+
+36
+
+Value
+
+20194
+
+226222

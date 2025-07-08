@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-60745
+
+Date: 20 Nov 2024
+
+Issued By:
+
+Choudhury, Das and Varkey
+
+95/98 Ratta Ganj Serampore-376804
+
+Billed To:
+Dyal, Basu and Bhatti
+33 Hora Ganj, Pudukkottai-755030
+
+GSTIN: WD179104kW007Z27
+
+Item Description
+
+Atque Blanditiis cupiditate quos temporibus.
+Illo Ad dolor iusto nihil iste.
+
+Hic Distinctio voluptatibus ullam veritatis.
+Magnam Quod eum aspernatur.
+
+Grand Total: %67426
+
+Rate
+
+22877
+
+3956
+
+2864
+
+2662
+
+Quantity
+8
+
+10
+
+Total
+
+23016
+
+%39560
+
+2864
+
+1986

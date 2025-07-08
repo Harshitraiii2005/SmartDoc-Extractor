@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1115
+Date: 06 May 2025
+
+Exporter
+
+Trujillo Ltd
+5782 Peggy Creek Port Joseph, VI 38110
+
+Importer
+
+Nichols, Gray and Austin
+Unit 7525 Box 4885 DPO AP 77767
+
+Buyer Ref: da4de8e1-f5d6-490c-a802-0dd4aa5d2853
+Origin: Korea
+Destination: Trinidad and Tobago
+
+Currency: EUR
+Incoterms: CIF
+
+escinion «(HSN ay [uneroce [tom
+
+Freight: $192.83
+
+Insurance: $108.52
+Total Invoice Value: $2849.96

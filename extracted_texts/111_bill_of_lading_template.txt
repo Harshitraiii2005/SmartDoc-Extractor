@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-7290
+Date: 17 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Of
+
+Port of Loading: Cartershire
+
+Port of Discharge: Thorntonbury
+Place of Delivery: North Joanborough
+
+Container No: CONT-5106
+Marks: Size
+
+Description of Goods: Once
+
+Gross Weight: 1387 kg
+Measurement: 5 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

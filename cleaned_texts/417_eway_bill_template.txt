@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 238538Date: 18 Jan 2025Valid From: 25 Feb 2025 To 18 Feb 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 1305Transporter ID: TID: 7073Transporter Name: Boone: LawsonDocument ReferenceType: InvoiceNo: DOC: 8977Taxable Value Tax Rate (%)$1881.52$2903.25$7935.3$1473.84Reason: Couple evening.

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-92306
+
+Date: 20-05-2025
+
+From:
+
+Kaur Group
+
+26/990, Upadhyay Zila Hubli-Dharwad 383009
+To:
+
+Sengupta-Gole
+
+88 Loke Ganj Bokaro-230940
+
+Amount Paid: =2750
+
+Payment Mode: Cash

@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1410
+Date: 19 Apr 2025
+
+Exporter
+
+Wright-Hernandez
+449 Erin Shoal Warrenstad, HI 61912
+
+Importer
+
+Hoover, Novak and Obrien
+499 Zoe Mountain Suite 057 Lake Heather, MI 57795
+
+Buyer Ref: 7d4c5277-f8cf-46c8-8739-1229eef232be
+Origin: Guinea-Bissau
+Destination: Bahrain
+
+Currency: USD
+Incoterms: FOB
+
+7740 $652.41 $3079.38
+
+Freight: $187.3
+Insurance: $108.98
+Total Invoice Value: $4626.66

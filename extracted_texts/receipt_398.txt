@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-12572
+
+Date: 20/05/2025
+
+From:
+
+Anand-Lala
+
+12/964, Doshi Marg, North Dumdum 504911
+To:
+
+Dayal-Kade
+
+36, Balakrishnan Road Bhubaneswar-968386
+Amount Paid: €23318
+
+Payment Mode: Card

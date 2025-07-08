@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-393845
+
+Date: 09-07-2023
+
+Consignor:
+
+Kulkarni Inc
+
+H.No. 27, Aggarwal Ganj Chennai-713762
+Consignee:
+
+Saraf, Mahajan and Krish
+
+55/08 Guha Nagar Bhilwara-545575
+Vehicle No: 0p35pl2469
+
+GSTIN: al715933yB654Z0
+
+Item Description Quantity
+
+Alias Magni atque nam. 23
+
+Value
+
+€33260

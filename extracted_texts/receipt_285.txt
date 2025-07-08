@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-46080
+
+Date: 18-07-2024
+
+From:
+
+Madan, Gandhi and Tak
+
+73/743, Date Chowk Raebareli 820776
+To:
+
+Solanki-Master
+
+44/986 Comar Ganj, Purnia-108821
+Amount Paid: €28598
+
+Payment Mode: Card

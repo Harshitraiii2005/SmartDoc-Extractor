@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-31521
+
+Date: 21/02/2024
+
+From:
+
+Dhar Inc
+
+81 Agrawal Chowk Gandhinagar 601366
+To:
+
+Malhotra PLC
+
+022, Deshmukh Ganj, Madurai 494075
+Amount Paid: €11363
+
+Payment Mode: Net Banking

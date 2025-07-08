@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-67328
+
+Date: 21/02/2025
+
+From:
+
+Balay, Dayal and Sura
+
+90/37, De, Kota 784692
+
+To:
+
+Vig-Gola
+
+08/586, Tiwari Zila Alappuzha-530612
+
+GSTIN: Gm197685HA539Z0
+
+Item Description
+
+Tempore Nihil voluptas.
+
+Amet Aliquid facilis nemo dolores hic.
+Doloremque Similique quis.
+
+Aspernatur Libero hic delectus cumque.
+Modi Libero cumque consequuntur.
+
+Grand Total: $43971
+
+Rate
+$2200
+$534
+$1224
+$2651
+
+$1048
+
+Quantity
+8
+
+7
+
+Total
+$17600
+$3738
+$7344
+$7953
+
+$7336

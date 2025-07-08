@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-87375
+
+Date: 19 May 2025
+
+Issued By:
+
+Dasgupta, Bahl and Tella
+
+89/466 Basak Street, Jalandhar-700183
+Billed To:
+
+Thakur and Sons
+
+95/90, Upadhyay Ganj Dnanbad-203010
+
+GSTIN: DQ634461vR412Z0
+
+Item Description
+At Occaecati nulla ipsa tenetur pariatur.
+
+Laudantium Maiores dolorem distinctio sit.
+
+Enim Magnam commodi laborum vel dignissimos.
+Porro Odit eveniet vero.
+Inventore Esse amet iste aspernatur.
+
+Grand Total: $40293
+
+Rate
+$1198
+$722
+$1520
+$3499
+
+$4624
+
+Quantity
+9
+
+3
+
+Total
+$10782
+$2166
+$7600
+$10497
+
+$9248

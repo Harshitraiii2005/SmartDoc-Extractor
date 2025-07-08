@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-12624
+
+Date: 30 Nov 2024
+
+From:
+
+Balasubramanian-Madan
+
+796, Subramaniam Chowk Nagaon-790363
+To:
+
+Ratti, Sur and Rajagopalan
+
+15/627 Gour Street Bellary 531762
+Amount Paid: $49297
+
+Payment Mode: UPI

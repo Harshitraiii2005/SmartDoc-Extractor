@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-61692
+
+Date: 14 Oct 2023
+
+From:
+
+Jhaveri, Deol and Arya
+
+H.No. 465, Sama Jamalpur 409410
+Billed To:
+
+Kari Inc
+
+849 Gulati Street, Kakinada-448942
+
+GSTIN: wt231838c0189Z0
+
+Item Description Rate
+Eligendi Ea ab. 24428
+Quod Corrupti labore voluptatibus iste. 2586
+
+Grand Total: §24484
+
+Quantity
+5
+
+4
+
+Total
+
+22140
+
+%2344

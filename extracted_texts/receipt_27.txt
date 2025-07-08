@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-60533
+
+Date: 12/11/2023
+
+From:
+
+Borah, Kothari and Ravel
+
+51/070 Lad Circle, Bareilly 823576
+
+To:
+
+Singhal-Sundaram
+
+03/534 Cherian Nagar, Sasaram-257631
+Amount Paid: €34012
+
+Payment Mode: Net Banking

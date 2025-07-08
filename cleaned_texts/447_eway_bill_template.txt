@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 300898Date: 06 Jan 2025Valid From: 15 Jan 2025 To 08 Feb 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: RailVehicle No: VEH: 5230Transporter ID: TID: 3435Transporter Name: Gray GroupDocument ReferenceType: InvoiceNo: DOC: 5325Taxable Value Tax Rate (%)Reason: World either.

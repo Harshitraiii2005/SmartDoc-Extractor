@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-62021
+
+Date: 12-12-2023
+
+From:
+
+Devan-Sandal
+
+H.No. 92, Gopal Street, Bahraich-045874
+To:
+
+Ratta Ltd
+
+42, Chaudry Chowk, Bijapur 841440
+Amount Paid: 730481
+
+Payment Mode: Net Banking

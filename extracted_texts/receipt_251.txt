@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73349
+
+Date: 24 Jul 2023
+
+From:
+
+Dar and Sons
+
+78/80 Solanki Circle, Tirupati 883093
+To:
+
+Chaudhary, Gola and Singh
+
+65 Garde Nagar Dehradun 298176
+Amount Paid: €13688
+
+Payment Mode: Cash

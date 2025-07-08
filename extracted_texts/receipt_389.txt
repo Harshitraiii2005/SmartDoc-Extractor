@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-64119
+
+Date: 17/11/2023
+
+From:
+
+Upadhyay, Kaul and Varty
+
+86/191, Bains Road, Tiruchirappalli 879953
+
+To:
+
+Chaudhari, Keer and Loke
+
+58/64 Balasubramanian Street Pimpri-Chinchwad-293857
+Amount Paid: $33540
+
+Payment Mode: UPI

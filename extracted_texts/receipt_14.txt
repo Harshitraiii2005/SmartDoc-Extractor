@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-46148
+
+Date: 12-01-2025
+
+From:
+
+Salvi, Kuruvilla and Thaman
+644, Barad Zila, Madurai-517997
+To:
+
+Wali, Wable and Kaur
+
+71, Kale Street, Agartala 130761
+Amount Paid: =41241
+
+Payment Mode: Net Banking

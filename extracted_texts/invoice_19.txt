@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-2444
+
+Date: 04 Aug 2023
+
+Issued By:
+
+Chaudry LLC
+
+20/882 Gara Nagar, Morena 978427
+To:
+
+Krish and Sons
+
+98, Shukla Nagar, Hospet 128209
+
+GSTIN: FP700199h096521
+
+Item Description
+Asperiores Nesciunt suscipit doloribus laudantium.
+Molestiae Blanditiis nemo culpa.
+
+Grand Total: $30646
+
+Rate
+$3070
+
+$2289
+
+Quantity
+7
+
+4
+
+Total
+$21490
+
+$9156

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-64273
+
+Date: 01/12/2023
+
+From:
+
+Bhatti LLC
+
+51, Sachar Nagar, Faridabad-592633
+
+To:
+
+Dhingra-Char
+
+50/03 Bhargava Street, Ghaziabad 956220
+Amount Paid: $30196
+
+Payment Mode: Card

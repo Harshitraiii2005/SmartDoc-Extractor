@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-95181
+
+Date: 24-01-2024
+
+From:
+
+Taneja-Wadhwa
+
+73/42, Manne Street, Sangli-Miraj & Kupwad 649051
+To:
+
+Dey Group
+
+677 Kuruvilla Marg, Jamalpur 855072
+
+Amount Paid: €47875
+
+Payment Mode: Cash

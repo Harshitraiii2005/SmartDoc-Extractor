@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-11512
+Invoice Date: 12-10-2024
+
+From:
+Ranganathan Inc
+H.No. 087, Mangat Nagar Guntur-099339
+
+Billed To:
+Guha Inc
+H.No. 57 Sunder Chowk, Tiruvottiyur 870202
+
+GSTIN: £2643425dY913Z7
+
+Item Description
+
+Laboriosam Magni doloribus blanditiis hic.
+Ut Corrupti molestias culpa.
+
+Ea Autem corrupti omnis distinctio.
+Repudiandae Optio omnis.
+
+Grand Total: %82789
+
+Rate
+
+690
+
+4066
+
+1503
+
+%3348
+
+Quantity
+6
+
+10
+
+3
+
+10
+
+Total
+
+24140
+
+%40660
+
+24509
+
+%33480

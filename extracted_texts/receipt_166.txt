@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-13432
+
+Date: 27-11-2024
+
+From:
+
+Chacko and Sons
+
+82/229 Chakrabarti Circle, Cuttack 799897
+To:
+
+Seshadri-Rout
+
+46 Divan Jodhpur 529290
+
+Amount Paid: €37266
+
+Payment Mode: Net Banking

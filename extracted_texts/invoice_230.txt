@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-61992
+
+Invoice Date: 08-07-2024
+
+From:
+
+Kapoor, Chopra and Gara
+
+H.No. 971 Bala Zila Bangalore 439910
+To:
+
+Kakar, Sanghvi and Raja
+
+H.No. 12 Gandhi Marg, Gulbarga 369357
+
+GSTIN: Pp582306Pv60724
+
+Item Description Rate
+Laudantium Officiis quo. €1398
+Accusamus Illo error sint praesentium excepturi. €796
+Quos Eos maxime. €4199
+
+Grand Total: €11577
+
+Quantity
+3
+
+4
+
+Total
+
+€4194
+
+€3184
+
+€4199

@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1696
+Date: 12 Jun 2025
+
+Exporter
+
+Lopez, Summers and Mendez
+76049 Heather Harbors Apt. 455 Turnerport, AS 55613
+
+Importer
+
+Mcmillan Ltd
+9976 Henry Points South Jackson, AK 12076
+
+Buyer Ref: 50ca0c36-b389-4056-9e32-b64848da66a4
+Origin: Morocco
+Destination: Malta
+
+Currency: EUR
+Incoterms: CIF
+
+escipion «HSN ay [uneroce [tom
+
+Freight: $320.74
+
+Insurance: $64.89
+
+Total Invoice Value: $3044.85

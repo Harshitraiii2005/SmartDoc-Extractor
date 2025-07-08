@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-68317
+
+Invoice Date: 29/07/2024
+
+From:
+
+Comar-Wadhwa
+
+H.No. 53, Sule Zila Nadiad-266038
+Billed To:
+
+Sidhu Ltd
+
+559 Bhardwaj Road, Akola 158602
+
+GSTIN: Qu7819070A419Z0
+
+Item Description
+
+Quas Suscipit recusandae inventore.
+Totam Tempora deleniti nostrum sapiente.
+Accusamus Nam minus distinctio dolorem totam.
+
+Grand Total: %55628
+
+Rate Quantity Total
+
+2758 1 758
+23932 9 235388
+%3247 6 19482

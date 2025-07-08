@@ -1,0 +1,77 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-57432
+
+Date: 18-07-2024
+
+Issued By:
+Johal Group
+
+72/32 Balakrishnan Street, Ongole 045434
+
+Billed To:
+
+Chaudhari, Rau and Kari
+96/67, Chaudhari Street Hosur 898452
+
+GSTIN: OH336418Bz816Z7
+
+Item
+Dolores
+Amet
+
+Error
+Voluptatum
+Laudantium
+
+Delectus
+
+Description
+
+Ullam vel reiciendis libero id.
+
+Eligendi laborum enim sapiente animi.
+Accusantium quibusdam fugit.
+
+Nisi eius sit maxime.
+
+Velit unde.
+
+Recusandae sed provident consequatur deleniti.
+
+Grand Total: €70388
+
+Rate
+
+€4808
+
+€3574
+
+€1255
+
+€1819
+
+€2851
+
+€2805
+
+Quantity Total
+
+8
+
+1
+
+€38464
+
+€3574
+
+€1255
+
+€7276
+
+€11404
+
+€8415

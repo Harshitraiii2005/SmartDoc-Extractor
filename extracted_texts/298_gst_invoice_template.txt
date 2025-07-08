@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9725
+Date: 17 Apr 2025
+
+Supplier
+
+Smith-Martinez
+
+521 Stafford Mountains Apt. 064 Crystalmouth, RI 30054
+GSTIN: 955401151831
+
+Contact: 993-816-0310x76461
+
+Buyer
+
+Martin and Sons
+
+192 Mitchell Ville Apt. 221 South Justinport, VT 53309
+GSTIN: 583026819960
+
+Contact: +1-331-651-3996x728
+
+Place of Supply: Padillaburgh
+
+Description /HSN Qty Unit Price | Taxable Value CGST SGST
+Wife 7468 $882.3 $8823.0 $794.07 $794.07 $10411.14
+
+Read 9660 '7 | $428.07 $2996.49 $269.68 | $269.68 | $3535.86
+Dark 8252 2 | $9114 $1822.8 $164.05 | $164.05 | $2150.9
+
+Sub Total: $728.22
+
+CGST: $102.76
+
+SGST: $61.31
+
+Grand Total: $1042.09
+
+Amount in Words: 2820 dollars only
+PO Number: PO-5833
+
+Terms: Boy agree prepare hour.
+
+Reverse Charge: Yes

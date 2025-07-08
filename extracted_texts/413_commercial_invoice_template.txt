@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-7122
+Date: 10 Jun 2025
+
+Exporter
+
+Lester-Chase
+4607 Valdez Loaf South Stanley, AR 29692
+
+Importer
+
+Goodman-Moran
+418 Franklin Brook Jonathanberg, NC 59201
+
+Buyer Ref: 868b2e2b-5348-40c9-abbe-f4a11429cfff
+Origin: Nigeria
+Destination: Bolivia
+
+Currency: USD
+Incoterms: EXW
+
+escinion «HSN ay [uneroce [tom
+
+Freight: $145.86
+
+Insurance: $97.66
+
+Total Invoice Value: $4114.37

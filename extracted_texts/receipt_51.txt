@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-35388
+
+Date: 26 Jan 2024
+
+From:
+
+Khanna, Ram and Khurana
+
+09/96, Das Circle Durgapur-649164
+To:
+
+Dada PLC
+
+87 Amble Circle Jammu 206634
+Amount Paid: €4119
+
+Payment Mode: Net Banking

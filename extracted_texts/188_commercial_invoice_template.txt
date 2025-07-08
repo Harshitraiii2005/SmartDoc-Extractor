@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4384
+Date: 11 May 2025
+
+Exporter
+
+Shaffer PLC
+5687 Garcia Islands South Deborah, PA 06487
+
+Importer
+
+Morrison Inc
+2364 Beltran Trail Stephanieview, MA 81298
+
+Buyer Ref: 932b01ce-8339-4746-a82c-f77 154e6639a
+Origin: Syrian Arab Republic
+Destination: Guernsey
+
+Currency: INR
+Incoterms: CIF
+
+Too 1182 $152.09 $1794.66
+
+Laugh 6657 6 $632.51 $4478.17
+Account 5688 $995.1 $4696.87
+
+Freight: $477.96
+
+Insurance: $158.85
+Total Invoice Value: $3548.84

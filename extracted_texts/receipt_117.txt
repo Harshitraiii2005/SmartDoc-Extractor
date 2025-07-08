@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-69511
+
+Date: 17/08/2023
+
+From:
+
+Varma, Karnik and Venkataraman
+
+604, Sabharwal Ganj Noida-928494
+
+To:
+
+Ranganathan Group
+
+46/690 Mander Road, Farrukhabad-203805
+Amount Paid: $37441
+
+Payment Mode: UPI

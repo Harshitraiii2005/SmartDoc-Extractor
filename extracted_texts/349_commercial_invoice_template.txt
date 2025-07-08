@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5063
+Date: 16 Jan 2025
+
+Exporter
+
+Smith and Sons
+4302 Stacy Inlet Port Bryan, CT 95308
+
+Importer
+
+Hoffman, Baker and Cole
+84536 Daniel Greens Lake Damon, MI 55950
+
+Buyer Ref: 58c54666-e4d6-48cd-a87 1-2a2d85679d83
+Origin: Mauritania
+Destination: Lesotho
+
+Currency: INR
+Incoterms: CIF
+
+Employee 2068 6 $55.72 $394.5
+Force 9484 $261.64 $926.21
+
+Term 1806 $311.09 $2569.6
+Anything 9114 $420.02 $1982.49
+Him 4430 $183.27 $1513.81
+
+Freight: $392.81
+Insurance: $164.28
+Total Invoice Value: $4241.23

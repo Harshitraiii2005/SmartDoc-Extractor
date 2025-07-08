@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8080
+Date: 02 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Improve
+
+Port of Loading: New Michaelberg
+Port of Discharge: South Dakota
+Place of Delivery: Sandrashire
+
+Container No: CONT-3325
+Marks: Develop
+
+Description of Goods: Suffer
+
+Gross Weight: 2967 kg
+Measurement: 17 cbm
+Freight Terms: Collect
+
+BILL OF LADING

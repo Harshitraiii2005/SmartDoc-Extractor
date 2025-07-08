@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-46591
+
+Date: 05 Nov 2024
+
+From:
+
+Ravel, Chacko and Agate
+
+72/699 Rama Nagar, Hindupur-660149
+To:
+
+Manda, Jhaveri and Butala
+
+H.No. 561 Divan Zila, Jalandhar 607696
+
+GSTIN: VD8026551Y 28221
+
+Item Description Rate
+Distinctio Perferendis nobis optio. €4488
+Placeat Dolorem totam necessitatibus rem. €2266
+
+Grand Total: €49588
+
+Quantity
+6
+
+10
+
+Total
+
+€26928
+
+€22660

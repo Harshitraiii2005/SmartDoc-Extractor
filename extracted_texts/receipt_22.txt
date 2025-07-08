@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-39431
+
+Date: 25-01-2024
+
+From:
+
+Lad, Bhatia and Chokshi
+
+16/802, Karnik Street Faridabad-852017
+To:
+
+Kunda-Yogi
+
+71/96, Bhatti Circle, Tiruchirappalli-426730
+Amount Paid: $25604
+
+Payment Mode: Net Banking

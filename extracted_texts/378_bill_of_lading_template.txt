@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-9896
+Date: 26 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Leader
+
+Port of Loading: North Sean
+
+Port of Discharge: Port Jenniferstad
+Place of Delivery: Teresashire
+
+Container No: CONT-8660
+Marks: Evening
+
+Description of Goods: Write
+
+Gross Weight: 2097 kg
+Measurement: 9 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

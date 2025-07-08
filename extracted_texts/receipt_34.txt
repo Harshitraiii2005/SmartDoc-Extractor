@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-80981
+
+Date: 23/10/2023
+
+From:
+
+Choudhury, Magar and Mand
+
+58/959 Shan Ganj, Rourkela 341511
+To:
+
+Baral PLC
+
+H.No. 49 Konda Circle Tumkur 580142
+Amount Paid: $10998
+
+Payment Mode: Cash

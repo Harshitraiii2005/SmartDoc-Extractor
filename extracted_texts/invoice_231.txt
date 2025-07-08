@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-92357
+
+Invoice Date: 03 May 2025
+
+Issued By:
+
+Sanghvi Ltd
+
+824, Swamy Circle Jammu-638427
+Billed To:
+
+Agate, Gera and Loke
+
+124 Dhar Chowk, Chandrapur 560654
+
+GSTIN: pQ428264Pn406Z6
+
+Item Description Rate
+
+Dolorem Animi repudiandae illum. €3374
+Nostrum Odit occaecati tempore. €2806
+Rerum Veritatis pariatur earum. €1555
+
+Grand Total: €28702
+
+Quantity
+5
+
+2
+
+Total
+
+€16870
+
+€5612
+
+€6220

@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2589
+Date: 24 Mar 2025
+
+Supplier
+
+Hale, Black and Blackwell
+
+72317 Carlos Road Suite 832 Lake Rachelside, FL 64406
+GSTIN: 730266328727
+
+Contact: 001-746-838-4663x0752
+
+Buyer
+
+Morgan LLC
+
+75204 Young Wells Suite 385 Stokesmouth, WI 94638
+GSTIN: 224227511526
+
+Contact: +1-247-599-2907x2480
+
+Place of Supply: Lake Jackville
+
+[Wife ‘| 8099 fe | $518.43 $3110.58 $279.95 | $279.95 | $3670.48
+
+Daughter 6910 fe | $143.45 $860.7 $77.46 |$77.46 | $1015.63
+
+Sub Total: $962.65
+
+CGST: $196.44
+
+SGST: $66.19
+
+Grand Total: $1353.2
+
+Amount in Words: 1021 dollars only
+
+PO Number: PO-1625
+
+Terms: Century herself more performance form last.
+
+Reverse Charge: No

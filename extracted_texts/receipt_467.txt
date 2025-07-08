@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65917
+
+Date: 18-08-2024
+
+From:
+
+Goda and Sons
+
+21/691, Aurora Road Thanjavur 790899
+To:
+
+Luthra and Sons
+
+00/48 Lalla Path Moradabad-256149
+Amount Paid: €29707
+
+Payment Mode: Card

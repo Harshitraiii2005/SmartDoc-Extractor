@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27800
+
+Date: 08 Jul 2023
+
+From:
+
+Vala, Sami and Jain
+
+79 Kumer Road Hajipur 521913
+To:
+
+Doshi Ltd
+
+09/13 Ratti, Bhubaneswar 783238
+Amount Paid: $24065
+
+Payment Mode: Net Banking

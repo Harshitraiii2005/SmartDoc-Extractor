@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-2331
+Date: 11 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Office
+
+Port of Loading: South Melissaburgh
+Port of Discharge: Rodriguezberg
+Place of Delivery: Jimmychester
+
+Container No: CONT-3551
+Marks: Wide
+
+Description of Goods: Medical
+
+Gross Weight: 2986 kg
+Measurement: 13 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

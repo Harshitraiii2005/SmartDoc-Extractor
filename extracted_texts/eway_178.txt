@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-842528
+
+Date: 20/12/2024
+
+Consignor:
+
+Dutta-Sama
+
+30/443 Master Chowk, Jamalpur 849113
+Consignee:
+
+Swaminathan, Deep and Thaker
+
+63 Vohra Ganj, Hazaribagh-065519
+Vehicle No: XP58YZ1214
+
+GSTIN: kp858336gX368Z9
+
+Item Description
+
+Ut Assumenda quasi similique reprehenderit.
+Facere Alias assumenda in.
+
+Sed Vero aperiam quibusdam cumque.
+
+Voluptatibus Explicabo odit vero voluptatem.
+
+Quantity
+31
+15
+47
+
+41
+
+Value
+
+$34575
+$42878
+$37778
+
+$6105

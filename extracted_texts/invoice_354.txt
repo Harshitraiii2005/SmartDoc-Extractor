@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-90043
+
+Date: 02 Dec 2023
+
+From:
+
+Kulkarni-Bassi
+
+02/920, Ramesh Circle, Bhalswa Jahangir Pur 602618
+To:
+
+Bhattacharyya-Deshpande
+
+H.No. 235 Edwin Path, Saharanpur-245293
+
+GSTIN: bw274315sQ984Z7
+
+Item Description
+
+Sapiente Error eaque ducimus reiciendis impedit.
+
+Dicta Asperiores alias culpa explicabo.
+Ut Architecto voluptas.
+At Mollitia distinctio molestiae perspiciatis dolor.
+
+Grand Total: %111145
+
+Rate
+
+24153
+
+24403
+
+%2349
+
+1730
+
+Quantity
+10
+
+10
+
+Total
+
+241530
+
+%44030
+
+=11745
+
+%13840

@@ -1,0 +1,19 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27671
+
+Date: 19-04-2024
+
+From:
+
+Zachariah, Bhatt and Mahajan
+238, Kuruvilla Zila, Agra-400962
+To:
+Krishnamurthy-Ramakrishnan
+04, Bora Circle Bahraich-936939
+Amount Paid: %27980
+
+Payment Mode: Cash

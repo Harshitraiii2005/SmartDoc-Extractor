@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-57628
+
+Date: 17/01/2025
+
+From:
+
+Bhatia and Sons
+
+H.No. 583 Badami Street, Avadi 649762
+
+To:
+
+Seshadri-Dyal
+
+663, Malhotra Ganj Sultan Pur Majra-724562
+Amount Paid: ~40109
+
+Payment Mode: UPI

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-57966
+
+Date: 01 Oct 2024
+
+From:
+
+Sharma Group
+
+79/71 Bassi Circle, Sagar 994466
+
+To:
+
+Kala and Sons
+
+H.No. 748, Kuruvilla Marg Deoghar 138820
+Amount Paid: $17224
+
+Payment Mode: Cash

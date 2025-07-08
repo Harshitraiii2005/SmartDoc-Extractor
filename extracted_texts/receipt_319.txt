@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-48036
+
+Date: 08 May 2025
+
+From:
+
+lyer-Agrawal
+
+H.No. 31 Bansal, Saharsa-351965
+To:
+
+Kohli Group
+
+70/324, Mani Zila, Katihar-139982
+Amount Paid: €24484
+
+Payment Mode: UPI

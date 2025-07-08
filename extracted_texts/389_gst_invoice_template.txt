@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7115
+Date: 24 Apr 2025
+
+Supplier
+
+Miller Group
+
+452 Weaver Center Apt. 914 Claytonmouth, NY 16953
+GSTIN: 207741858177
+
+Contact: (801)966-9160
+
+Buyer
+
+Lopez, Sutton and Dixon
+
+62599 Thomas Grove Suite 889 North Julia, AZ 89050
+GSTIN: 128623865773
+
+Contact: +1-944-445-8021x45249
+
+Place of Supply: Lake Jamesmouth
+
+|Major ‘| 9093 '1 | $735.73 $735.73 $66.22 $66.22 $868.16
+
+Although 2674 $452.14 $2260.7 $203.46 $203.46 $2667.63
+
+Sub Total: $1176.91
+
+CGST: $89.17
+
+SGST: $196.98
+
+Grand Total: $1515.33
+
+Amount in Words: 4621 dollars only
+PO Number: PO-1996
+
+Terms: Three result drive firm born poor.
+
+Reverse Charge: Yes

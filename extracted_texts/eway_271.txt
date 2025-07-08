@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-263783
+
+Date: 13/02/2024
+
+Consignor:
+
+Sankar Group
+
+526, Dhar Circle, Aurangabad 572939
+Consignee:
+
+Varkey-Sachdev
+
+H.No. 255, Chowdhury Path Bhiwani 121410
+Vehicle No: ww58ei5966
+
+GSTIN: IU689421by377Z6
+
+Item Description
+
+Facere Ducimus amet est amet.
+Fugit Dignissimos veniam.
+Ratione Amet placeat.
+
+Reprehenderit Autem consequuntur.
+
+Quantity
+49
+19
+
+31
+
+Value
+
+€26708
+
+€42571
+
+€31088
+
+€33256

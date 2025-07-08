@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3846
+Date: 03 Jun 2025
+
+Supplier
+
+Marshall-Ramos
+
+3885 Long Plains Apt. 941 Christianfort, NJ 24652
+GSTIN: 657625583771
+
+Contact: (397)455-3515
+
+Buyer
+
+Carey-Wood
+
+32404 Warren Rue Apt. 461 Lake Gregorymouth, AL 68039
+GSTIN: 871883431773
+
+Contact: 001-476-509-1101x0824
+
+Place of Supply: East Franciscobury
+
+|Himseif =| 4759 /3 | $321.45 $964.35 $86.79 |$86.79 | $1137.93
+
+Sub Total: $904.36
+
+CGST: $50.58
+
+SGST: $159.7
+
+Grand Total: $1589.29
+
+Amount in Words: 4875 dollars only
+
+PO Number: PO-2638
+
+Terms: Son floor report smile state market.
+
+Reverse Charge: Yes

@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6165
+Date: 11 Jan 2025
+
+Supplier
+
+Gutierrez, Gross and Robertson
+
+56539 Leonard Camp Apt. 085 Donnaville, CA 00988
+GSTIN: 693485320718
+
+Contact: (303)731-6205x273
+
+Buyer
+
+Henderson Group
+
+9185 Brian Streets Apt. 407 Blakeberg, MT 34405
+GSTIN: 568510504368
+
+Contact: 749.908.5980
+
+Place of Supply: Lake Nicoleland
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+9626 |9 | $646.96 $5822.64 $524.04 | $524.04 | $6870.72
+
+Buy 4078 $91.9 $275.7 $24.81 $24.81 $325.33
+6993 $692.06 $4844.42 $436.0 $436.0 $5716.42
+
+Sub Total: $644.15
+
+CGST: $91.74
+
+SGST: $155.25
+
+Grand Total: $1946.76
+
+Amount in Words: 2710 dollars only
+PO Number: PO-1096
+
+Terms: Work yard might every life.
+
+Reverse Charge: No

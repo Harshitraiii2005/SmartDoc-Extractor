@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-69374
+
+Date: 28/10/2024
+
+Issued By:
+
+Rattan, Goswami and Chaudhuri
+
+753 Guha Nagar, Noida-657612
+
+To:
+
+Arya, Wadhwa and De
+
+H.No. 616, Bail Chowk Sultan Pur Majra 421521
+
+GSTIN: yQ371022TX56521
+
+Item Description
+Rem Voluptas est modi laborum.
+
+Consectetur Velit nemo soluta consectetur nisi.
+
+Saepe Deleniti nostrum architecto repudiandae.
+Fugit Deleniti quisquam aliquid.
+Provident Dolorum aspernatur repellat adipisci.
+
+Grand Total: €135629
+
+Rate
+
+€4351
+
+€4523
+
+€4775
+
+€3779
+
+€4750
+
+Quantity
+7
+
+5
+
+Total
+
+€30457
+
+€22615
+
+€14325
+
+€30232
+
+€38000

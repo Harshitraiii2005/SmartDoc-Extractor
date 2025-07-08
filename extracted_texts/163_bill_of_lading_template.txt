@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-2686
+Date: 09 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Analysis
+
+Port of Loading: South Christinehaven
+Port of Discharge: Carterton
+
+Place of Delivery: Jamiebury
+
+Container No: CONT-7302
+Marks: Safe
+
+Description of Goods: Reality
+
+Gross Weight: 3654 kg
+Measurement: 14 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

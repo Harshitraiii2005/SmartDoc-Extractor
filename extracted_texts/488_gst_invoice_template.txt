@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6640
+Date: 26 Mar 2025
+
+Supplier
+
+Hodge, Delacruz and West
+
+514 Catherine Union Dominiquefort, MT 89510
+GSTIN: 111889849803
+
+Contact: +1-649-647-9024x35904
+
+Buyer
+
+Ryan, Peters and Foster
+
+30803 Daniels Junctions Apt. 787 Huberview, ND 40240
+GSTIN: 769268600156
+
+Contact: 417.957.4563
+
+Place of Supply: New Curtisport
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Evidence 7737 |5 | $299.37 $1496.85 $134.72 |$134.72 | $1766.28
+
+Shake 3989 fo | $189.74 $1707.66 $153.69 |$153.69 | $2015.04
+Project 3953 /2 | $781.21 $1562.42 $140.62 |$140.62 | $1843.66
+
+Sub Total: $616.36
+
+CGST: $105.43
+
+SGST: $139.09
+
+Grand Total: $1151.61
+
+Amount in Words: 3030 dollars only
+PO Number: PO-3678
+
+Terms: Student natural determine until.
+
+Reverse Charge: Yes

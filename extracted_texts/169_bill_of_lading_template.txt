@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-4913
+Date: 09 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Window
+
+Port of Loading: New Lucasborough
+Port of Discharge: Christopherbury
+Place of Delivery: East Noahside
+
+Container No: CONT-4216
+Marks: Film
+
+Description of Goods: Population
+
+Gross Weight: 4050 kg
+Measurement: 17 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

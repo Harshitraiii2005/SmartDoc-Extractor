@@ -1,0 +1,78 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-44195
+
+Date: 31 Jul 2023
+
+Issued By:
+
+Sinha Inc
+
+44/25 Bhalla Street, Jaunpur 467443
+
+To:
+
+Balay-Gola
+
+97/89 Bakshi Road, Miryalaguda-992296
+
+GSTIN: vo419900vL720Z5
+
+Item Description
+
+Consequatur Earum temporibus ut consequuntur corporis.
+Molestias Aspernatur perspiciatis magnam.
+
+Quia Tempore qui.
+
+Est Repellat eos.
+
+Reprehenderit | Ad recusandae.
+
+Vitae Facere autem adipisci.
+
+Grand Total: =76732
+
+Rate
+
+%2706
+
+%3596
+
+22326
+
+2006
+
+21272
+
+%622
+
+Quantity
+4
+
+3
+
+8
+
+10
+
+10
+
+6
+
+Total
+
+%10824
+
+=10788
+
+%18608
+
+%20060
+
+%12720
+
+%3732

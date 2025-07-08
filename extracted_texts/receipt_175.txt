@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-43238
+
+Date: 02-10-2024
+
+From:
+
+Chaudhari Group
+
+04/812 Keer Street, Proddatur-278785
+To:
+
+Apte-Borde
+
+59/66, Dyal Ganj, Ozhukarai 061116
+Amount Paid: €15782
+
+Payment Mode: Net Banking

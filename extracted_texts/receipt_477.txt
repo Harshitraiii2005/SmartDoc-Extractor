@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-30841
+
+Date: 18 Jun 2024
+
+From:
+
+Walia-Chanda
+
+95 Kata Circle Hazaribagh 985854
+To:
+
+Ramanathan LLC
+
+406, Kamdar Street Dehradun 759285
+Amount Paid: $6512
+
+Payment Mode: UPI

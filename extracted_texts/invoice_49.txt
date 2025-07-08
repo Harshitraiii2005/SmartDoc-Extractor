@@ -1,0 +1,52 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-15345
+
+Invoice Date: 09 Oct 2023
+
+From:
+
+Tata, Yohannan and Bansal
+
+88/878 Shenoy Street Machilipatnam 831231
+To:
+
+Vasa-Deol
+
+13, Sankar Nagar Gangtok-743926
+
+GSTIN: 0X680549Jx799Z6
+
+Item Description
+
+Repellendus Vel ad iste maiores.
+Dignissimos Voluptate eveniet.
+
+Minus Eaque maiores.
+
+Adipisci Voluptatibus dolor itaque dicta.
+
+Grand Total: $98429
+
+Rate
+
+$1848
+$4143
+$2932
+
+$4109
+
+Quantity
+1
+
+10
+
+Total
+$1848
+$41430
+$26388
+
+$28763

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-62175
+
+Date: 10 Jul 2024
+
+From:
+
+Mangat-Batta
+
+H.No. 074 Kapadia Street Bhagalpur-351393
+To:
+
+Dave-Garde
+
+H.No. 57 Gara Nagar, Yamunanagar 533920
+Amount Paid: €47893
+
+Payment Mode: UPI

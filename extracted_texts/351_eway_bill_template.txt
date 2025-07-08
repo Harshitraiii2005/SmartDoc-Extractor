@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-358011
+Date: 21 Feb 2025
+Valid From: 02 Jan 2025 To 10 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-5087
+
+Transporter ID: TID-5661
+
+Transporter Name: Davis, Howell and Mann
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-4066
+
+Description
+
+Also 5633 is | pcs
+
+Environment 9726 pcs
+Pick 9127 pcs
+Stay 2627 pcs
+
+Reason: Meet stage organization spring.
+
+[Unit Taxable Value Tax Rate (%)
+

@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-19644
+
+Date: 16-05-2024
+
+From:
+
+Malhotra-Chacko
+
+10/260 Kala Nagar, Bikaner-037734
+To:
+
+Varghese-Korpal
+
+818, Lad Chowk Uluberia 192805
+
+GSTIN: UI682134fx981Z2
+
+Item Description
+
+Laborum Sed id asperiores aliquam.
+Consectetur Expedita cum possimus ea.
+Consectetur Ipsum ipsa numquam labore.
+Dolore Illo illo maxime dignissimos atque.
+
+Grand Total: $31443
+
+Rate
+
+$2735
+$3167
+$1787
+
+$1203
+
+Quantity
+2
+
+5
+
+Total
+$5470
+$15835
+$8935
+
+$1203

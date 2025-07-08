@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5227
+Date: 24 Jan 2025
+
+Exporter
+
+Riley Ltd
+46439 Kim Camp Juliemouth, UT 63321
+
+Importer
+
+Barnes Ltd
+972 Suzanne Shore Suite 976 Browningview, NM 23821
+
+Buyer Ref: da633ae2-e569-47 76-84ec-81d4e13e4377
+Origin: Uganda
+Destination: Finland
+
+Currency: USD
+Incoterms: FOB
+
+Description HSN| Qty
+
+Cr
+
+Participant 6208 $321.55 $758.86
+
+Freight: $495.62
+Insurance: $119.27
+
+Total Invoice Value: $3429.31

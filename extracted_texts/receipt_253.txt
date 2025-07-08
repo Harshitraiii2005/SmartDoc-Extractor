@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-6561
+
+Date: 29 Feb 2024
+
+From:
+
+Hans, Loyal and Kakar
+
+595, Bath Gurgaon-931139
+
+To:
+
+Goel Group
+
+944 Sangha Road Hapur 163802
+Amount Paid: $43165
+
+Payment Mode: Cash

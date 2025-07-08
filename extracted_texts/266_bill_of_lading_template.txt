@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-3935
+Date: 22 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Fear
+
+Port of Loading: Garzaville
+
+Port of Discharge: North Karen
+Place of Delivery: Carolinemouth
+
+Container No: CONT-6465
+Marks: Without
+
+Description of Goods: Good
+
+Gross Weight: 4365 kg
+Measurement: 8 cbm
+Freight Terms: Collect
+
+BILL OF LADING

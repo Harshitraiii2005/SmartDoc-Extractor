@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-5607
+
+Date: 13/02/2025
+
+From:
+
+Kaur and Sons
+
+86/378 Raman Nagar, Khora -442905
+To:
+
+Jain Group
+
+41/548 Shere Chowk, Satara-775455
+
+GSTIN: ro547649Pq485Z3
+
+Item Description
+
+Quaerat Impedit vero error dolorum possimus.
+Neque Accusantium iusto debitis natus.
+Quae Natus quae accusantium dignissimos.
+
+Grand Total: €18274
+
+Rate
+
+€4508
+
+€1349
+
+€1737
+
+Quantity
+2
+3
+
+3
+
+Total
+
+€9016
+
+€4047
+
+€5211

@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3796
+Date: 23 Feb 2025
+
+Supplier
+
+Petersen, Davis and Shaffer
+
+6293 Miller Estates Suite 044 West Connorberg, MA 11497
+GSTIN: 911906014921
+
+Contact: 721.202.2613
+
+Buyer
+
+Mcdonald LLC
+
+781 Lowe Corner West Michelleside, CO 40177
+GSTIN: 256200247309
+
+Contact: (255)661-4268x131
+
+Place of Supply: Jenniferville
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Difficult g2a2_|6 | $771.57 $4629.42 $416.65 |$41665 | $5462.72
+
+Trip 3804 $379.07 $1137.21 $102.35 | $102.35 | $1341.91
+Also 2065 $731.2 $1462.4 $131.62 |$131.62 | $1725.63
+Seek 7266 |8 | $616.4 $4931.2 $443.81 |$443.81 | $5818.82
+
+Sub Total: $1404.25
+
+CGST: $110.2
+
+SGST: $188.54
+
+Grand Total: $891.25
+
+Amount in Words: 3674 dollars only
+PO Number: PO-8360
+
+Terms: Red opportunity much.
+
+Reverse Charge: No

@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+PACKING LIST
+
+PL No: PL-7611
+Date: 30 Jan 2025
+
+Exporter
+Calderon PLC
+Importer
+
+Cunningham, Mcbride and Smith
+Invoice Reference: INVREF-8918
+
+No. of Packages: 8
+Type: Cartons
+
+Contents: Create build month weight local.
+Net Weight: 1338 kg
+
+Gross Weight: 2518 kg
+
+Dimensions: 187x186x164 cm
+
+Marks: Vote

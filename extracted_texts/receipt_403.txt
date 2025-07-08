@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-44291
+
+Date: 10 Feb 2025
+
+From:
+
+Chatterjee-Khanna
+
+40 Zacharia Chowk, Jaipur-394521
+To:
+
+Walia, Gola and Dayal
+
+17, D’Alia Zila Hospet-640864
+Amount Paid: $22029
+
+Payment Mode: Net Banking

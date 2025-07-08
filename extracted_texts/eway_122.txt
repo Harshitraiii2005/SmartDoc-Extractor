@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-247632
+
+Date: 08/12/2024
+
+Consignor:
+
+Mani-Sethi
+
+61/97, Ramachandran Chowk Morena-812755
+Consignee:
+
+Dasgupta, Sastry and Badami
+
+50/67 Shroff Chowk Rampur-564440
+
+Vehicle No: RJ06Zh4216
+
+GSTIN: PG105737IW454Z8
+
+Item Description Quantity
+Qui Possimus ex occaecati. 42
+Iste Atque nisi fugiat. 22
+Soluta Quisquam cumque eum. 43
+
+Tenetur Ex temporibus eius. 49
+
+Value
+
+$32334
+$10684
+$29069
+
+$18575

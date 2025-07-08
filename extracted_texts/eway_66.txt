@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-620917
+
+Date: 03 Jun 2025
+
+Consignor:
+
+Tak, Tiwari and Salvi
+
+461 Bora Circle Jalandhar-341527
+Consignee:
+
+Sethi-Dass
+
+H.No. 00 Rastogi Road, Buxar 509173
+Vehicle No: KX84vd1981
+
+GSTIN: kI934725qQ864Z6
+
+Item Description
+
+Quidem Tempore enim omnis.
+
+Tempore Consectetur hic qui numquam laboriosam.
+Occaecati Expedita deserunt ratione omnis.
+
+Beatae Totam consectetur saepe.
+
+Quantity
+19
+
+4
+
+Value
+$8318
+$32271
+$34242
+
+$18351

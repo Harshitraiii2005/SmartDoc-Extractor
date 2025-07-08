@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-536069
+Date: 14 Jan 2025
+Valid From: 06 Apr 2025 To 20 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-6244
+
+Transporter ID: TID-9884
+
+Transporter Name: Hartman, Norman and Mcguire
+
+Document Reference
+
+Type: Invoice
+No: DOC-3602
+
+Taxable Value Tax Rate (%)
+
+Reason: Set mean.

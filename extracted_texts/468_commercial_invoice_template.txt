@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4133
+Date: 18 Mar 2025
+
+Exporter
+
+Richardson, Wilson and Ferrell
+11031 Samantha Crest Port Kevin, GU 88507
+
+Importer
+
+Henry, Castaneda and Gordon
+565 Kayla Ridge Apt. 073 North Timothy, IA 25490
+
+Buyer Ref: 105aceca-776f-4604-a9a9-88fabcfafeee
+Origin: Estonia
+Destination: Egypt
+
+Currency: INR
+Incoterms: FOB
+
+Seat 1841 $389.64 $1379.33
+
+Office 7339 $726.78 $2572.8
+Receive 3479 $521.98 $6159.36
+
+Freight: $493.11
+
+Insurance: $100.58
+Total Invoice Value: $1162.38

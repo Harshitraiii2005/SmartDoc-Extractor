@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7944
+Date: 19 Mar 2025
+
+Supplier
+
+Lynch, Leblanc and Stephens
+
+5354 Joel Loaf Apt. 052 Jacquelineside, GU 38088
+GSTIN: 909502887960
+
+Contact: 001-300-836-5323
+
+Buyer
+
+Gillespie, Morales and Ewing
+
+457 Jennifer Valley Apt. 775 South Mauriceborough, WI 98012
+GSTIN: 214032397755
+
+Contact: (845)547-6679
+
+Place of Supply: Martinstad
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Including 5318 $266.17 $1064.68 $95.82 $95.82 $1256.32
+
+Half 1181 /3 | $403.57 $1210.71 $108.96 |$108.96 | $1428.64
+Movement 9408 $146.18 $584.72 $52.62 $52.62 $689.97
+
+Sub Total: $1486.0
+
+CGST: $89.16
+
+SGST: $196.4
+
+Grand Total: $1552.17
+
+Amount in Words: 4654 dollars only
+PO Number: PO-2662
+
+Terms: Home detail fear.
+
+Reverse Charge: No

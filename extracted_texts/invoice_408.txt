@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-22070
+
+Invoice Date: 29/02/2024
+
+Issued By:
+
+Ganesan Ltd
+
+44/084 Lal Path, Gangtok 847116
+
+To:
+
+Batta, Singhal and Choudhry
+
+H.No. 408, Ravi Path Bidhannagar 126446
+
+GSTIN: qb101664XH341Z5
+
+Item Description Rate
+Officiis Velit sed nemo culpa. %2984
+Asperiores Voluptas inventore alias nesciunt quae. %540
+
+Grand Total: %30636
+
+Quantity
+9
+
+7
+
+Total
+
+26856
+
+3780

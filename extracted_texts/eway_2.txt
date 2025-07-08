@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-971199
+
+Date: 03-09-2024
+
+Consignor:
+
+Hayre Ltd
+
+66/93 Kapadia Zila, Bhimavaram 699960
+Consignee:
+
+Rau-Keer
+
+87, Bhavsar Anmednagar 655195
+Vehicle No: Og75su5266
+
+GSTIN: cX9676110S993Z7
+
+Item Description
+Ipsum Voluptatum amet doloremque.
+Quas Accusantium quo.
+
+Molestias Molestiae dicta facilis.
+
+Quantity
+45
+46
+
+42
+
+Value
+
+€36328
+
+€38368
+
+€9272

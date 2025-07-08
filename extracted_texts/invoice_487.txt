@@ -1,0 +1,61 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-31918
+
+Date: 26 Jan 2024
+
+From:
+
+Korpal, Gopal and Zacharia
+
+85 Maharaj Ambarnath-745512
+
+Billed To:
+
+Sengupta, Gala and Chaudry
+
+388, Kanda Marg, Coimbatore-149428
+
+GSTIN: ee124165Hp06721
+
+Item Description
+
+Deserunt Accusamus corporis minus eligendi.
+Commodi Accusantium ut vel doloremque.
+Consequuntur Earum quos odit sapiente.
+Voluptatem Nulla autem nostrum omnis.
+Delectus Perferendis rem recusandae rerum.
+
+Grand Total: 56510
+
+Rate
+
+=1467
+
+3938
+
+=1374
+
+2349
+
+3958
+
+Quantity
+9
+
+8
+
+Total
+
+%13203
+
+%31504
+
+%5496
+
+%2349
+
+%3958

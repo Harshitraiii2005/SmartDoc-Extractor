@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73853
+
+Date: 30/12/2023
+
+From:
+
+Bhardwaj, Srivastava and Saraf
+
+H.No. 697 Sagar Nagar, Pudukkottai-025147
+To:
+
+Manda, Gokhale and Sarna
+
+95/801 Handa Street, Chinsurah-456181
+Amount Paid: €23585
+
+Payment Mode: UPI

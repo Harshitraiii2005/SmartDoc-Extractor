@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-88796
+
+Date: 22-10-2023
+
+From:
+
+Chahal, Sharaf and Varghese
+
+26 Choudhary Path, Ramgarh-108437
+To:
+
+Verma-Kale
+
+53/347, Kothari Bihar Sharif-370218
+Amount Paid: $35197
+
+Payment Mode: Card

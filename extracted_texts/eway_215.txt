@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-844898
+
+Date: 30 Apr 2024
+
+Consignor:
+
+Mangat-Gopal
+
+04 Ramakrishnan Ganj Ongole-893162
+Consignee:
+
+Dasgupta Inc
+
+95 Sood Chowk, Hyderabad 838701
+Vehicle No: XG29Dt4185
+
+GSTIN: WK565236Lq559Z2
+
+Item Description
+
+Qui Beatae possimus doloremque velit.
+
+Quantity
+
+45
+
+Value
+
+27060

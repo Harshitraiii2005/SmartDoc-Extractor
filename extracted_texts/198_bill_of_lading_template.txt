@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-2015
+Date: 13 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: But
+
+Port of Loading: New Victoria
+Port of Discharge: East Angel
+Place of Delivery: Angelaborough
+
+Container No: CONT-7978
+Marks: West
+
+Description of Goods: |
+
+Gross Weight: 1190 kg
+Measurement: 12 cbm
+Freight Terms: Collect
+
+BILL OF LADING

@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-868206
+Date: 05 Jul 2025
+Valid From: 04 Jun 2025 To 09 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-5408
+
+Transporter ID: TID-2959
+
+Transporter Name: Mitchell, Bryant and Moon
+
+Document Reference
+
+Type: Invoice
+No: DOC-2701
+
+oles
+
+Reason: Strategy catch.
+

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73599
+
+Date: 30-12-2024
+
+From:
+
+Krish, Sami and Krishnan
+
+18, Tiwari Circle, Amravati-134373
+
+To:
+
+Vyas-Chowdhury
+
+004, Lall Marg, Sangli-Miraj & Kupwad-969230
+Amount Paid: €1029
+
+Payment Mode: Card

@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-2464
+Date: 16 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Spend
+
+Port of Loading: Terryberg
+
+Port of Discharge: Port Marissaville
+Place of Delivery: Brownfurt
+
+Container No: CONT-6092
+Marks: Ready
+
+Description of Goods: Strong
+
+Gross Weight: 3737 kg
+Measurement: 17 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

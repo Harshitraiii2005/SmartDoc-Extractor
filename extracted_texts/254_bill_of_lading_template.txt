@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-6771
+Date: 11 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Little
+
+Port of Loading: New Jonathanton
+Port of Discharge: Jeremyfort
+Place of Delivery: Lake Johnfort
+
+Container No: CONT-2846
+Marks: Remember
+
+Description of Goods: Leg
+
+Gross Weight: 3044 kg
+Measurement: 17 cbm
+Freight Terms: Collect
+
+BILL OF LADING

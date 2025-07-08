@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-84385
+
+Date: 23 May 2024
+
+Issued By:
+
+Dugar, Wali and Borra
+
+43/148 Mani Circle, Saharanpur-408800
+Billed To:
+
+Shanker Inc
+
+63/35, Kohli Bathinda 086166
+
+GSTIN: Ko443313tl026Z0
+
+Item Description
+
+Vel Ex incidunt quis hic quaerat.
+
+Impedit Rerum illo enim inventore.
+
+Nemo Inventore error cum ducimus.
+
+Ullam Dolor sed fuga.
+
+Impedit Molestias minima consectetur sunt.
+Eos Deserunt sunt molestiae itaque animi.
+
+Grand Total: $106089
+
+Rate
+
+$1062
+$2325
+$1631
+$4167
+$1722
+
+$2143
+
+Quantity
+8
+
+10
+
+4
+
+7
+
+10
+
+10
+
+Total
+$8496
+$23250
+$6524
+$29169
+$17220
+
+$21430

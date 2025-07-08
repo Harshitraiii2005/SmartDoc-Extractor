@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65117
+
+Date: 05-12-2024
+
+From:
+
+Kalita Inc
+
+H.No. 39, Sahni Marg, Rajkot 240608
+To:
+
+Ganesh, Sahota and Edwin
+
+78, Dey Chowk, Bhiwani 850285
+Amount Paid: $20281
+
+Payment Mode: Card

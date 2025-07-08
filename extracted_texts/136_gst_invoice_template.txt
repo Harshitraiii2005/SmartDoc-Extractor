@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3209
+Date: 31 May 2025
+
+Supplier
+
+Moon-Green
+
+834 Allen Street Lake Megan, ID 18527
+GSTIN: 491000330114
+
+Contact: 623.354.2018
+
+Buyer
+
+Hicks, Brock and Rodriguez
+
+600 Raymond Cape Port Michaelville, NJ 08583
+GSTIN: 237105822539
+
+Contact: 558-688-9508x736
+
+Place of Supply: Andrewmouth
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+From 6943 $687.72 $2750.88 $247.58 $247.58 $3246.04
+
+Sub Total: $809.05
+
+CGST: $145.94
+
+SGST: $104.93
+
+Grand Total: $834.82
+
+Amount in Words: 4404 dollars only
+PO Number: PO-4403
+
+Terms: Court store nor fine why herself.
+
+Reverse Charge: No

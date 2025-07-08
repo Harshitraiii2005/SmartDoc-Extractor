@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27116
+
+Date: 29 Apr 2024
+
+From:
+
+Kamdar PLC
+
+45/93 Dua Marg Tiruvottiyur-752487
+To:
+
+Bhakta-Chakraborty
+
+66 Kunda Marg, Bhagalpur-190343
+Amount Paid: $39146
+
+Payment Mode: Card

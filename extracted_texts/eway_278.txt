@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-100707
+
+Date: 02 Mar 2025
+
+Consignor:
+
+Bobal, Rajagopalan and Devi
+
+H.No. 96, Uppal Circle, Gulbarga 189138
+Consignee:
+
+Loyal, Gade and Chaudhry
+
+372 Kale Chowk, Hospet 992375
+Vehicle No: Yq920S7481
+
+GSTIN: uR307879Xb436Z9
+
+Item Description
+
+Quisquam Tempore blanditiis nesciunt.
+Enim Minima quae omnis.
+
+Ex Iste voluptatem repellat hic.
+
+Eius Distinctio sapiente beatae amet nesciunt.
+
+Quantity
+20
+50
+10
+
+10
+
+Value
+
+$17385
+$49802
+$40168
+
+$45244

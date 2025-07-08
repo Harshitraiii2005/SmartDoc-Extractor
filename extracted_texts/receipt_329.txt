@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-20510
+
+Date: 18/01/2025
+
+From:
+
+Mani, Kibe and Dayal
+
+01/138, Subramaniam Circle Akola 540480
+To:
+
+Keer-Varma
+
+H.No. 75, Raman Agartala 197865
+Amount Paid: €29188
+
+Payment Mode: Net Banking

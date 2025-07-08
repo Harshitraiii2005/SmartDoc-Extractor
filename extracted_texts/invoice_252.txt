@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-26242
+
+Invoice Date: 22/10/2023
+
+Issued By:
+
+Gandhi, Gopal and Rajan
+
+H.No. 475 Sathe Zila Jamalpur 899351
+
+Billed To:
+
+Sharma-Bhandari
+
+H.No. 488, Hegde Path Dharmavaram-942284
+
+GSTIN: Ts547581Uv338Z5
+
+Item Description Rate
+Adipisci Labore rerum eum. $2764
+Ratione Excepturi eveniet impedit soluta. $2577
+
+Grand Total: $18600
+
+Quantity
+3
+
+4
+
+Total
+$8292
+
+$10308

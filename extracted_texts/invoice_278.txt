@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-89097
+
+Date: 06 Feb 2024
+
+From:
+
+Rajagopalan-Kale
+
+H.No. 624, Madan Chowk Pali-786090
+To:
+
+Mammen LLC
+
+H.No. 206 Tandon Zila, Jaunpur 509103
+
+GSTIN: JM815485zS97021
+
+Item Description
+Molestiae Ea quibusdam quaerat quis.
+Veritatis Necessitatibus vel.
+
+Necessitatibus Alias pariatur dolorem autem distinctio.
+
+Grand Total: €40604
+
+Rate
+
+€3179
+
+€2435
+
+€2358
+
+Quantity
+6
+
+4
+
+Total
+
+€19074
+
+€9740
+
+€11790

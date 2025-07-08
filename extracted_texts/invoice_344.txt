@@ -1,0 +1,60 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-57931
+
+Date: 15/02/2025
+
+From:
+
+Bhatt LLC
+
+31 Loyal Zila Sangli-Miraj & Kupwad 416049
+Billed To:
+
+Goswami-Yadav
+
+H.No. 30 Sha, Silchar 987772
+
+GSTIN: mV511676qx010Z6
+
+Item Description
+
+Odit Quibusdam perferendis.
+Cumque Deleniti voluptas ea ullam.
+Fuga Facere recusandae perferendis.
+Illo Cupiditate necessitatibus.
+Laboriosam Qui aspernatur id quaerat.
+
+Grand Total: €62512
+
+Rate
+
+€2388
+
+€4986
+
+€1401
+
+€2187
+
+€1016
+
+Quantity
+9
+
+5
+
+Total
+
+€21492
+
+€24930
+
+€1401
+
+€6561
+
+€8128

@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-549521
+Date: 26 Apr 2025
+Valid From: 29 May 2025 To 08 May 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-7841
+
+Transporter ID: TID-7408
+Transporter Name: Hansen-Lowery
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-8999
+
+Itself 9709
+
+Reason: During.
+

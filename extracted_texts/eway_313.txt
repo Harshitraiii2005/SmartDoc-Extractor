@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-810870
+
+Date: 15-02-2024
+
+Consignor:
+
+Manne Group
+
+43, Sehgal Mahbubnagar 166607
+Consignee:
+
+Bansal-Ahuja
+
+H.No. 046 Chanda Nagar Jaipur-740137
+Vehicle No: KA66Dk2876
+
+GSTIN: rF930639Xm849Z5
+
+Item Description
+
+Et Harum sequi perferendis pariatur.
+
+Quantity
+
+4
+
+Value
+
+$32038

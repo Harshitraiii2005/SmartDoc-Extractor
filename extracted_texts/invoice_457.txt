@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-46830
+
+Invoice Date: 26/12/2024
+
+From:
+
+Doctor Inc
+
+H.No. 144 Joshi Chowk, Mathura-591767
+Billed To:
+
+Ratta, De and Gade
+
+988 Roy Nagar Tadipatri 442381
+
+GSTIN: or9299851c480Z0
+
+Item Description
+
+Magnam Reiciendis facere odit vitae nemo.
+Consequuntur Pariatur nihil alias repudiandae et.
+Praesentium Molestias saepe voluptate.
+
+Sint Sunt quod veritatis ab.
+
+Natus Aperiam animi.
+
+Grand Total: $90465
+
+Rate
+$511
+$3330
+$1509
+$3377
+
+$4342
+
+Quantity
+4
+
+10
+
+Total
+$2044
+$33300
+$3018
+$30393
+
+$21710

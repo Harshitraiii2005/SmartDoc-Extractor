@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-2771
+Date: 14 Feb 2025
+
+Exporter
+
+Brown-Pennington
+339 Brandy Tunnel Apt. 090 South Daniel, PR 96663
+
+Importer
+
+Williams-Anderson
+9023 Jesse Viaduct Suite 961 Villegasberg, VI 35962
+
+Buyer Ref: f859f056-7fdd-4f62-9d5e-f2928a78bd55
+Origin: Tuvalu
+Destination: Chad
+
+Currency: INR
+Incoterms: EXW
+
+Occur 8892 $471.1 $2779.49
+Every 9992 $936.44 $5525.0
+
+Freight: $307.73
+
+Insurance: $99.2
+
+Total Invoice Value: $3414.26

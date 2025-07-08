@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4713
+Date: 02 Apr 2025
+
+Exporter
+
+Benton-Greene
+525 Mclean Groves West Brenda, GU 86265
+
+Importer
+
+Watkins Group
+9949 Smith Skyway Whitemouth, SC 66678
+
+Buyer Ref: 486d0837-5f7c-4e59-a15c-99f2881 4df4f
+Origin: Chad
+Destination: Hungary
+
+Currency: EUR
+Incoterms: FOB
+
+Than 5928 $343.23 $1620.05
+Move 8531 9 $830.73 $8822.35
+
+Well 1445 9 $130.63 $1387.29
+Little 9254 $772.84 $911.95
+Health 6178 $777.78 $4588.9
+
+Freight: $155.04
+Insurance: $101.68
+
+Total Invoice Value: $1591.51

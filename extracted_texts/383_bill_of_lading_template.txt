@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-7477
+Date: 01 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Bill
+
+Port of Loading: Reynoldsberg
+
+Port of Discharge: Jamesmouth
+Place of Delivery: New Hannah
+
+Container No: CONT-5441
+Marks: Mind
+
+Description of Goods: Law
+
+Gross Weight: 1874 kg
+Measurement: 8 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

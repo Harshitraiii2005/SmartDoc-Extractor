@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-85542
+
+Date: 29/11/2023
+
+From:
+
+Sidhu, Aurora and Dyal
+
+55/35, Chacko Zila Chapra-986198
+To:
+
+Ratti-Datta
+
+01/24 Kari Zila, Firozabad 086276
+Amount Paid: $5564
+
+Payment Mode: Card

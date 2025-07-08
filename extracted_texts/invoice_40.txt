@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-79591
+
+Invoice Date: 02 Aug 2023
+
+From:
+
+Sibal, Dutta and Tata
+
+H.No. 994 Banerjee Path, Jhansi-726483
+To:
+
+Handa-Rajan
+
+639 Dixit Ganj, Burhanpur-663402
+
+GSTIN: jk012951Tn872Z7
+
+Item Description Rate
+
+Saepe Aliquid iure assumenda. 23747
+Deserunt Occaecati est tempore. 24428
+Temporibus Consequuntur autem officia. 24172
+
+Grand Total: ¥106526
+
+Quantity
+10
+9
+
+7
+
+Total
+
+%37470
+
+%39852
+
+%29204

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-57321
+
+Date: 30/11/2024
+
+From:
+
+Randhawa, Dyal and Sood
+
+48/40 Ravi Chowk Amroha-232157
+
+To:
+
+Gara-Atwal
+
+106 Ramanathan Circle Mahbubnagar-407814
+Amount Paid: €25164
+
+Payment Mode: Cash

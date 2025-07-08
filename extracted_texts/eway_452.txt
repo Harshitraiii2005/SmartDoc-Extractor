@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-856055
+
+Date: 07-05-2025
+
+Consignor:
+
+Guha, Butala and Bajwa
+
+50/95 Andra Chowk Kota 728359
+Consignee:
+
+Saxena-Loke
+
+H.No. 04, Chander Circle Phusro 543896
+Vehicle No: Tx27qn9024
+
+GSTIN: Yi2263261Y6012Z8
+
+Item Description
+
+Voluptatem lpsa dolor possimus esse corporis.
+Quia Quisquam sequi illum.
+Doloremque Soluta fuga quibusdam.
+
+Aliquam Ratione recusandae magni.
+
+Quantity
+19
+
+3
+
+23
+
+17
+
+Value
+
+$13849
+$49098
+$47022
+
+$45290

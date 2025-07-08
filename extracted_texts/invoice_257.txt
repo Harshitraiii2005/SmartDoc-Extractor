@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-53038
+
+Date: 13-03-2024
+
+From:
+
+Sethi, Chandra and Badal
+
+24/427, Chandra Road Sirsa 306831
+Billed To:
+
+Dugar Group
+
+H.No. 63 Hayer Marg Pondicherry-028897
+
+GSTIN: Ke411191B0882Z0
+
+Item Description
+
+Ad Dicta ex velit.
+Laudantium Voluptatibus in.
+
+Vero Libero nisi repellat in.
+Libero Amet atque cumque rem.
+
+Grand Total: €64132
+
+Rate
+
+€4506
+€4401
+€1937
+
+€4416
+
+Quantity
+1
+
+2
+
+Total
+
+€4506
+
+€8802
+
+€15496
+
+€35328

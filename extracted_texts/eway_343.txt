@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-873108
+
+Date: 06 Mar 2025
+
+Consignor:
+
+Bahl, Venkataraman and Gola
+
+08, Bakshi Path, Visakhapatnam-505136
+Consignee:
+
+Dutta Group
+
+59/399, Saraf Ganj Indore-027400
+Vehicle No: Rp97jc7834
+
+GSTIN: Ko903011vW059Z4
+
+Item Description
+
+Natus Suscipit voluptatum voluptatem.
+
+Temporibus Natus sapiente illo autem.
+
+Provident Mollitia enim reprehenderit minima recusandae.
+
+Illo lpsam quod veniam.
+
+Quantity
+6
+16
+
+30
+
+Value
+
+=13860
+
+226921
+
+222629
+
+%30365

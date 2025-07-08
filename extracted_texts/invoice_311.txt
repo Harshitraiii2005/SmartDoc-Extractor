@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-19018
+
+Date: 16 Jul 2024
+
+From:
+
+Chandran-Zachariah
+
+15/41 Sidhu Circle, Anmedabad-354036
+Billed To:
+
+Shankar LLC
+
+57/630, Soman Chowk Medininagar-011212
+
+GSTIN: gT171053LK273Z1
+
+Item Description
+
+Vel Harum fuga corrupti recusandae quas.
+Quis Repellat corporis.
+
+Labore Atque itaque nobis.
+
+Maxime Totam aspernatur necessitatibus reiciendis.
+
+Grand Total: $57787
+
+Rate
+
+$2881
+$1572
+$4710
+
+$4889
+
+Quantity
+8
+
+10
+
+Total
+
+$23048
+$15720
+$14130
+
+$4889

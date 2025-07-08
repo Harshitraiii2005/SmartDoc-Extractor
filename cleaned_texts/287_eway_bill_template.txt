@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 496262Date: 01 May 2025Valid From: 06 Jun 2025 To 23 Mar 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: RoadVehicle No: VEH: 7209Transporter ID: TID: 7146Transporter Name: Jones: KingDocument ReferenceType: InvoiceNo: DOC: 1073Taxable Value Tax Rate (%)cscs .:Reason: Attention.

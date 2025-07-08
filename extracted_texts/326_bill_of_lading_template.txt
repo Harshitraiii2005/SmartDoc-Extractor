@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-5270
+Date: 04 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Note
+
+Port of Loading: Parkerland
+
+Port of Discharge: Port Christopherchester
+Place of Delivery: Mayberg
+
+Container No: CONT-7267
+Marks: Expert
+
+Description of Goods: Second
+
+Gross Weight: 2671 kg
+Measurement: 16 cbm
+Freight Terms: Collect
+
+BILL OF LADING

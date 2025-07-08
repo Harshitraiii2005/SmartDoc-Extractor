@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4230
+Date: 16 Jun 2025
+
+Supplier
+
+Conrad, Armstrong and Vega
+
+139 Cole Island Port Andrewburgh, WV 01064
+GSTIN: 450882868489
+
+Contact: 9199376602
+
+Buyer
+
+Haley and Sons
+
+1764 Toni Coves South Joshuaport, LA 41704
+GSTIN: 185757064524
+
+Contact: 685.352.8244x0127
+
+Place of Supply: Fitzpatrickport
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Chair 1938 $226.97 $907.88 $81.71 $81.71 $1071.3
+Local 2878 fo | $799.67 $7197.03 $647.73 |$647.73 | $8492.5
+
+Doctor 5528 $179.55 $359.1 $32.32 $32.32 $423.74
+Dark 4792 $320.14 $2240.98 $201.69 |$201.69 | $2644.36
+Cost 6720 6 | $764.08 $4584.48 $412.6 $412.6 $5409.69
+
+Sub Total: $1013.6
+
+CGST: $198.19
+
+SGST: $165.25
+
+Grand Total: $1928.2
+
+Amount in Words: 2538 dollars only
+
+PO Number: PO-3066
+
+Terms: Color game focus between investment those realize.
+
+Reverse Charge: Yes

@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-7506
+Date: 11 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Rock
+
+Port of Loading: Adamport
+Port of Discharge: Ashleyhaven
+Place of Delivery: North Jacob
+
+Container No: CONT-6154
+Marks: Practice
+
+Description of Goods: Focus
+
+Gross Weight: 4623 kg
+Measurement: 20 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

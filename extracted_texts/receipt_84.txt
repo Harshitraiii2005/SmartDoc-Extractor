@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-19360
+
+Date: 03 Sep 2023
+
+From:
+
+Butala-Bali
+
+095 Soni Path, Kottayam-594608
+
+To:
+
+Dhaliwal-Sastry
+
+H.No. 286, Shetty Ganj, Maheshtala 277748
+Amount Paid: €9768
+
+Payment Mode: UPI

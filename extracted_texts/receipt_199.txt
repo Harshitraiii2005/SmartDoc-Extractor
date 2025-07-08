@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-85034
+
+Date: 10-08-2024
+
+From:
+
+Loke-Goswami
+
+H.No. 457, Sundaram Circle Thrissur-080414
+To:
+
+Manda LLC
+
+73, Jha Nagar Siliguri 909285
+
+Amount Paid: €47983
+
+Payment Mode: UPI

@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8284
+Date: 05 Jul 2025
+
+Supplier
+
+Smith, Estrada and Wong
+
+9313 Walker Dale Apt. 107 Port Sarah, SD 63627
+GSTIN: 505712920651
+
+Contact: (424)460-4040
+
+Buyer
+
+Maddox, Roberts and Parker
+
+7707 Jenkins Isle Apt. 935 North Rhonda, ME 55763
+GSTIN: 353793286413
+
+Contact: 767.601.4692
+
+Place of Supply: Port Jamesville
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Art 3632 |6 | $790.42 $4742.52 $426.83 |$426.83 | $5596.17
+Company 8171 fe | $975.81 $5854.86 $526.94 $526.94 $6908.73
+
+Wall 3373 fo | $888.62 $7997.58 $719.78 |$719.78 | $9437.14
+Street 5942 8 | $143.83 $1150.64 $103.56 |$103.56 | $1357.76
+1959 fo | $104.1 $936.9 $84.32 $84.32 $1105.54
+
+Sub Total: $753.7
+
+CGST: $166.54
+
+SGST: $109.36
+
+Grand Total: $1374.8
+
+Amount in Words: 2004 dollars only
+
+PO Number: PO-1267
+
+Terms: Letter condition day speech produce arrive score data.
+
+Reverse Charge: Yes

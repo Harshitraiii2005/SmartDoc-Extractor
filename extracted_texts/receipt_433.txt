@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-54317
+
+Date: 02 Apr 2025
+
+From:
+
+Maharaj-Amble
+
+96 Bhatnagar Road, Jorhat 523795
+To:
+
+Balay, Mani and Deol
+
+192, Goda Marg Proddatur 213111
+Amount Paid: $1770
+
+Payment Mode: Card

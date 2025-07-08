@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-302089
+
+Date: 13-10-2024
+
+Consignor:
+
+Kata PLC
+
+58 Divan Circle Kanpur 474401
+Consignee:
+
+Hegde-Mann
+
+06/50 Chatterjee Path Durg-806400
+Vehicle No: VR46Qw5143
+
+GSTIN: xZ4154810B523Z7
+
+Item Description
+
+Libero Dolores ratione voluptates quos.
+
+Ad Perferendis voluptatum alias veniam.
+Vitae Consequuntur aliquid vero quae.
+
+Beatae In dolor et.
+
+Quantity
+15
+30
+29
+
+28
+
+Value
+
+€48003
+
+€40059
+
+€13801
+
+€47625

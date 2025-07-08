@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-311699
+Date: 29 Mar 2025
+Valid From: 13 Jun 2025 To 27 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-3671
+Transporter ID: TID-3730
+Transporter Name: Martin Inc
+
+Document Reference
+
+Type: Invoice
+No: DOC-3094
+
+Taxable Value Tax Rate (%)
+
+Reason: Partner yard.

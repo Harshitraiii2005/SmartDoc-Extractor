@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-4189
+
+Date: 09-08-2024
+
+Issued By:
+
+Bali and Sons
+
+22 Garg Street, Amroha-756316
+Billed To:
+
+Tailor-Choudhary
+
+34/92 Ben Circle Thanjavur-414077
+
+GSTIN: GR568825vn157Z8
+
+Item Description Rate
+
+Harum Veniam voluptates quos quidem. €4265
+Natus Qui unde numquam quod. €1753
+Nemo Corrupti officiis sint. €1528
+
+Grand Total: €16620
+
+Quantity
+2
+2
+
+3
+
+Total
+
+€8530
+
+€3506
+
+€4584

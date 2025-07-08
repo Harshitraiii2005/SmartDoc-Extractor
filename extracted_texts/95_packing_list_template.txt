@@ -1,0 +1,25 @@
+
+
+---- Page 1 ----
+PACKING LIST
+
+PL No: PL-1108
+Date: 08 Jun 2025
+
+Exporter
+Brady Ltd
+Importer
+
+Mueller Ltd
+Invoice Reference: INVREF-1948
+
+No. of Packages: 9
+Type: Pallets
+
+Contents: Inside alone site reflect.
+Net Weight: 1884 kg
+
+Gross Weight: 2345 kg
+Dimensions: 167x167x88 cm
+
+Marks: Social

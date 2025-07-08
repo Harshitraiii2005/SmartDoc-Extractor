@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-44770
+
+Invoice Date: 15 Aug 2024
+
+From:
+
+Sant-Bala
+
+79 Vig Chowk, Mahbubnagar 124600
+Billed To:
+
+Guha-Tella
+
+H.No. 35, Amble Nagar Jalandhar 839906
+
+GSTIN: ul408256n02942Z9
+
+Item Description Rate
+Tempore Maiores provident qui. 24167
+Porro Voluptatibus nesciunt impedit. %3319
+Ducimus Porro quibusdam consequatur dolore. 2972
+Repudiandae Sint possimus quod qui. %3491
+
+Grand Total: 60474
+
+Quantity
+6
+
+7
+
+Total
+
+25002
+
+223233
+
+%8748
+
+%3491

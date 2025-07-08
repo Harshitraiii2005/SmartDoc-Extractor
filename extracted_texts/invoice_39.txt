@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-74130
+
+Date: 31/12/2023
+
+Issued By:
+
+Balan-Dasgupta
+
+H.No. 044 Sur Path Orai 439295
+To:
+
+Master LLC
+
+87/98 Mammen Ozhukarai 105080
+
+GSTIN: IL220556jT133Z7
+
+Item Description Rate
+
+Nemo Eveniet quaerat aut neque. %1892
+Unde Explicabo quae est corrupti. 21574
+Odio Aliquid magni iure occaecati. 21307
+
+Grand Total: =37917
+
+Quantity
+8
+
+7
+
+Total
+
+%15136
+
+=11018
+
+=11763

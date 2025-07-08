@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-60482
+
+Invoice Date: 30 Nov 2024
+
+From:
+
+Bakshi Ltd
+
+83 Bora Street, Secunderabad-268181
+Billed To:
+
+Chowdhury, Deshmukh and Khanna
+30/33 Dara Road Faridabad 429184
+
+GSTIN: pz277996Pn926Z7
+
+Item Description
+
+Necessitatibus Voluptatibus delectus.
+
+Natus Deleniti cum assumenda.
+Porro Cupiditate cupiditate mollitia.
+Aperiam Rerum praesentium nemo dolores nihil.
+
+Grand Total: €51840
+
+Rate
+
+€4642
+
+€2128
+
+€4914
+
+€1204
+
+Quantity
+5
+
+2
+
+Total
+
+€23210
+
+€4256
+
+€14742
+
+€9632

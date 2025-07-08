@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2816
+Date: 02 Apr 2025
+
+Supplier
+
+Phillips, Pena and Tucker
+
+079 Smith Fort North Ivan, CA 51142
+GSTIN: 725015654353
+
+Contact: 001-741-412-8501x1844
+
+Buyer
+
+Mathis PLC
+
+817 Tucker Club South Brianberg, SC 09733
+GSTIN: 212830704338
+
+Contact: (780)675-1002x4902
+
+Place of Supply: Port Pamelafurt
+
+Description FHSN | Qty Unit Price | Taxable Value CGST SGST
+
+2640 $406.78 $813.56 $73.22 $73.22 $960.0
+
+Sub Total: $731.77
+
+CGST: $135.22
+
+SGST: $68.38
+
+Grand Total: $1628.19
+
+Amount in Words: 3412 dollars only
+PO Number: PO-2846
+
+Terms: Form day ever describe.
+
+Reverse Charge: No

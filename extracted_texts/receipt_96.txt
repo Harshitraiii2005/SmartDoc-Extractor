@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-846
+
+Date: 11 Jan 2025
+
+From:
+
+Lalla-Dayal
+
+62 Chander Ganj Bhilai 246547
+
+To:
+
+Balakrishnan Inc
+
+25/051 Halder Marg, Jabalpur 531889
+Amount Paid: $11180
+
+Payment Mode: UPI

@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-4423
+Date: 07 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Child
+
+Port of Loading: Kellyburgh
+
+Port of Discharge: Port Heatherburgh
+Place of Delivery: New Johnton
+
+Container No: CONT-2512
+Marks: Leave
+
+Description of Goods: Same
+
+Gross Weight: 1032 kg
+Measurement: 15 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

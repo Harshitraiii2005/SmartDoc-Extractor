@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7966
+Date: 30 Jun 2025
+
+Supplier
+
+Giles-Hill
+
+167 Gabrielle Villages Apt. 213 West Davidton, AR 97551
+GSTIN: 309336901152
+
+Contact: +1-701-850-9768x917
+
+Buyer
+
+Johnson PLC
+
+361 Natalie Drive Apt. 542 South Andrewtown, OK 42487
+GSTIN: 195712353042
+
+Contact: 271-347-0193x113
+
+Place of Supply: Kristinafort
+
+Description /HSN Qty Unit Price | Taxable Value CGST SGST
+Family 7976 $993.64 $9936.4 $894.28 $894.28 $11724.95
+
+Action 9914 oa $713.6 $4281.6 $385.34 | $385.34 | $5052.29
+Laugh 6081 4 $555.43 $2221.72 $199.95 |$199.95 | $2621.63
+Election 5877 BB $970.41 $7763.28 $698.7 | $698.7 ‘| $9160.67
+
+Sub Total: $674.52
+
+CGST: $192.61
+
+SGST: $127.76
+
+Grand Total: $1697.67
+
+Amount in Words: 3387 dollars only
+PO Number: PO-9120
+
+Terms: Mrs several past century.
+
+Reverse Charge: No

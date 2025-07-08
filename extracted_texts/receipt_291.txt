@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-4200
+
+Date: 21/01/2024
+
+From:
+
+Sundaram LLC
+
+13/05, Ratta Zila Danapur-404634
+To:
+
+Konda Group
+
+88/67 Jhaveri Zila Udupi-995627
+Amount Paid: €12860
+
+Payment Mode: Cash

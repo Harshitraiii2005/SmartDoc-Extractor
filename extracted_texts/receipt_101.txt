@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-25743
+
+Date: 26/08/2023
+
+From:
+
+Shankar LLC
+
+H.No. 39, Dash, Bharatpur 489174
+To:
+
+Batta, Sarraf and Srinivas
+
+21, Johal Ganj, Burhanpur 360935
+Amount Paid: €47757
+
+Payment Mode: Cash

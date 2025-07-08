@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6297
+Date: 21 Feb 2025
+
+Supplier
+
+Smith-Gonzalez
+
+2013 Michael Knoll Marystad, MO 05537
+GSTIN: 474580489950
+
+Contact: 8828793967
+
+Buyer
+
+Caldwell, Green and King
+
+458 Wong Land Christianland, WI 27790
+GSTIN: 672564039483
+
+Contact: 516-304-8559x77946
+
+Place of Supply: East Annaburgh
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Save 3159 $262.7 $1838.9 $165.5 $165.5 $2169.9
+Live 5698 fe | $465.98 $2795.88 $251.63 $251.63 $3299.14
+
+imagine 9189 $847.84 $4239.2 $381.53 | $381.53 | $5002.26
+Choice 5565 8 | $10.6 $84.8 $7.63 $7.63 $100.06
+Pressure 9384 $81.4 $325.6 $29.3 $29.3 $384.21
+
+Sub Total: $1357.66
+
+CGST: $84.48
+
+SGST: $132.48
+
+Grand Total: $887.76
+
+Amount in Words: 2500 dollars only
+PO Number: PO-5863
+
+Terms: Pay lose instead sing.
+
+Reverse Charge: Yes

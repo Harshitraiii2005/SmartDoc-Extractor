@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-57874
+
+Date: 11 Apr 2025
+
+From:
+
+Boase-Sekhon
+
+H.No. 30 Balakrishnan Path, Tumkur-245535
+To:
+
+Brar-Sur
+
+92/67 Baria Bihar Sharif-660960
+
+Amount Paid: €35841
+
+Payment Mode: UPI

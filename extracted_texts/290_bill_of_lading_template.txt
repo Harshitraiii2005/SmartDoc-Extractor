@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-7933
+Date: 21 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Suddenly
+
+Port of Loading: Donaldton
+Port of Discharge: Austinberg
+Place of Delivery: Jamiechester
+
+Container No: CONT-1528
+Marks: South
+
+Description of Goods: Opportunity
+
+Gross Weight: 1008 kg
+Measurement: 5 cbm
+Freight Terms: Collect
+
+BILL OF LADING

@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-810496
+
+Date: 07 Jan 2025
+
+Consignor:
+
+Sarin, Chauhan and Raman
+
+305, Konda Circle, Cuttack-210492
+Consignee:
+
+Virk-Vig
+
+381, Gokhale Chowk, Nangloi Jat 166436
+Vehicle No: YZ810X0984
+
+GSTIN: tD2197991z86221
+
+Item Description
+
+Porro Earum iste quaerat odio.
+Nemo Aspernatur omnis eos.
+Omnis Quisquam minus.
+
+Sint Deserunt assumenda nisi.
+
+Quantity
+18
+19
+28
+
+39
+
+Value
+
+%25077
+
+221552
+
+240366
+
+221573

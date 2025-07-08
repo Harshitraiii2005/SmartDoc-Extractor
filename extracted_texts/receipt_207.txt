@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-2169
+
+Date: 27 Jun 2025
+
+From:
+
+Chaudhuri, Bhatia and Kohli
+
+185, Chakrabarti Marg, Tiruchirappalli 061582
+To:
+
+Dora-Lata
+
+H.No. 875, Butala Circle, Khandwa 771292
+Amount Paid: =14423
+
+Payment Mode: Cash

@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-20082
+
+Invoice Date: 12/04/2025
+
+From:
+
+Hari Group
+
+116, Ben Street Latur 197728
+
+To:
+
+Ramachandran Inc
+
+26/027, Srivastava Nagar Gaya 153536
+
+GSTIN: 0a173176rm887Z7
+
+Item Description
+
+Fuga Cum eligendi.
+
+Voluptatem | Accusamus excepturi et necessitatibus occaecati.
+
+Grand Total: $52836
+
+Rate
+$1211
+
+$4557
+
+Quantity Total
+
+6
+
+10
+
+$7266
+
+$45570

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14199
+
+Date: 25/05/2025
+
+From:
+
+Ganguly-Sarin
+
+H.No. 419, Jayaraman Nagar Udaipur-995336
+To:
+
+Ratti, Bala and Vaidya
+
+H.No. 72, Shetty Nagar Kochi-863638
+Amount Paid: €41202
+
+Payment Mode: UPI

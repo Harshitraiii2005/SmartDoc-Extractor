@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-33012
+
+Invoice Date: 12/12/2023
+
+Issued By:
+
+Bains, Bhattacharyya and Singh
+
+93/708 Mangat Road Mango 127221
+Billed To:
+
+Grewal-Jha
+
+27/806 Gupta Path, Ulhasnagar-124200
+
+GSTIN: cO957880zG56927
+
+Item Description Rate
+
+Rem Cum natus sed qui. €3929
+Provident Quas reprehenderit. €1782
+Quibusdam Sed cum doloribus aut fugit. €2012
+
+Grand Total: €20792
+
+Quantity
+2
+5
+
+2
+
+Total
+
+€7858
+
+€8910
+
+€4024

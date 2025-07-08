@@ -1,0 +1,76 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-47614
+
+Invoice Date: 28-02-2025
+
+From:
+Raj LLC
+
+32/08, Sarma Street, Karimnagar-438599
+
+To:
+
+Bumb, Keer and Ghosh
+01/87, Tripathi Marg Medininagar-801669
+
+GSTIN: HS969450MI226Z6
+
+Item
+Voluptates
+Possimus
+Maxime
+Tenetur
+Reiciendis
+
+Sed
+
+Description
+Sint maiores odit maxime.
+Rerum laboriosam fugiat.
+
+Sint exercitationem sapiente illum.
+
+Accusantium ab quasi accusantium esse.
+
+Suscipit soluta nesciunt.
+
+Ut adipisci ad.
+
+Grand Total: 124953
+
+Rate
+
+24178
+
+3076
+
+21385
+
+=1624
+
+24263
+
+800
+
+Quantity
+10
+
+9
+
+Total
+
+241780
+
+%27684
+
+11080
+
+11368
+
+%29841
+
+3200

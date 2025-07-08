@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-70557
+
+Date: 02-11-2024
+
+From:
+
+Master Group
+
+H.No. 36, Venkatesh Nagar, Surendranagar Dudhrej 999427
+To:
+
+Ray-Soni
+
+H.No. 66, Walia Zila, Ratlam 833842
+
+Amount Paid: %8799
+
+Payment Mode: Card

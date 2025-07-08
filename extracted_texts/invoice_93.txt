@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-7876
+
+Date: 17/07/2023
+
+Issued By:
+
+Srinivasan-Bobal
+
+48/36 Yogi Path Chandigarh 820118
+Billed To:
+
+Butala and Sons
+
+22 Kumar Ganj Satara-645957
+
+GSTIN: nv714358AB1252Z8
+
+Item Description
+
+Labore Minus cum dolore.
+
+Excepturi Saepe maiores id fugiat modi.
+Pariatur Ducimus consequuntur fugiat repellat.
+
+Grand Total: $42463
+
+Rate Quantity Total
+
+$787 4 $3148
+$2192 3 $6576
+$4677 7 $32739

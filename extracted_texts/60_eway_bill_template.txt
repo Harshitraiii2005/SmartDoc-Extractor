@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-432967
+Date: 15 Mar 2025
+Valid From: 20 May 2025 To 09 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-5194
+
+Transporter ID: TID-9767
+
+Transporter Name: Smith, Stanley and Rodriguez
+
+Document Reference
+
+Type: Invoice
+No: DOC-8563
+
+oles
+
+Reason: Movie run.
+

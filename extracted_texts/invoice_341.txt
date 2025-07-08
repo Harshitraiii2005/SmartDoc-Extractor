@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-3555
+
+Invoice Date: 17/05/2024
+
+Issued By:
+
+Thaker Ltd
+
+H.No. 44 Sarkar Zila Kumbakonam 011802
+Billed To:
+
+Tella Inc
+
+96, Tandon Marg, Surendranagar Dudhrej-811166
+
+GSTIN: tP174393aA4452Z7
+
+Item Description Rate
+Modi Inventore facere voluptatum. €4452
+Assumenda Velit sed ducimus. €2758
+
+Grand Total: €33292
+
+Quantity
+5
+
+4
+
+Total
+
+€22260
+
+€11032

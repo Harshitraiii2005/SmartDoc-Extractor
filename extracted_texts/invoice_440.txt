@@ -1,0 +1,60 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-27130
+
+Invoice Date: 17 Aug 2023
+
+From:
+
+Magar-Malhotra
+
+75 Joshi Path Naihati-562865
+
+Billed To:
+
+Goswami and Sons
+
+H.No. 529, Dugar Road, Mira-Bhayandar 023841
+
+GSTIN: Kk004118GB669Z0
+
+Item
+Neque
+Voluptas
+Quibusdam
+
+Molestiae
+
+Description
+
+Animi doloribus rerum beatae.
+
+Atque sit dolor ullam.
+Ipsa dolorum tempora vitae.
+
+Nam soluta eos.
+
+Grand Total: $77456
+
+Rate
+
+$1768
+$4681
+$1495
+
+$3173
+
+Quantity
+5
+
+7
+
+Total
+$8840
+$32767
+$10465
+
+$25384

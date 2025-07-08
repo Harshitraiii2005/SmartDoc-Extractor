@@ -1,0 +1,79 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-23215
+
+Invoice Date: 03/10/2023
+
+From:
+
+Buch Group
+
+H.No. 238 Kant Road, Mehsana-627715
+
+To:
+
+Krishnan-Swaminathan
+577 Raman Marg Jaipur 666544
+
+GSTIN: yZ408148GT281Z3
+
+Item
+Enim
+Cumque
+Occaecati
+Magni
+Delectus
+
+Incidunt
+
+Description
+
+Omnis repudiandae nisi.
+
+Atque labore sunt distinctio.
+
+Ratione maxime magnam sed enim.
+
+Earum laborum quia totam.
+
+Fugiat recusandae reiciendis pariatur odit.
+
+Dolorum doloremque adipisci aliquid.
+
+Grand Total: %125074
+
+Rate
+
+3661
+
+24797
+
+21065
+
+2889
+
+%3117
+
+2399
+
+Quantity
+10
+
+9
+
+Total
+
+%36610
+
+243173
+
+%8520
+
+%20223
+
+9351
+
+=7197

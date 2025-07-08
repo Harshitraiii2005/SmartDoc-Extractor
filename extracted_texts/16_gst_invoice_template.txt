@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6285
+Date: 10 Apr 2025
+
+Supplier
+
+Long and Sons
+
+98847 Yesenia Square Apt. 528 West Wanda, KS 78468
+GSTIN: 772734606695
+
+Contact: +1-782-776-6500x593
+
+Buyer
+
+Davila-Shelton
+
+16548 Lopez Expressway New Jamesfurt, PW 19886
+GSTIN: 982768961736
+
+Contact: 439.750.5111
+
+Place of Supply: Alyssamouth
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+General 4249 $490.36 $3432.52 $308.93 |$308.93 | $4050.37
+
+Population 8448 }3 | $513.99 $1541.97 $138.78 | $138.78 | $1819.52
+Maintain 9025 1s | $383.2 $3065.6 $275.9 $275.9 $3617.41
+
+Sub Total: $1053.66
+
+CGST: $127.7
+
+SGST: $149.56
+
+Grand Total: $854.14
+
+Amount in Words: 2424 dollars only
+PO Number: PO-2107
+
+Terms: Occur attack though tonight.
+
+Reverse Charge: Yes

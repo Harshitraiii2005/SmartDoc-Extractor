@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-28446
+
+Invoice Date: 26 Jan 2024
+
+Issued By:
+Vora and Sons
+
+31/493 Anne Circle, Karnal 348549
+
+To:
+Kohli-Rege
+
+85/95 Dhawan Marg, Hubli-Dharwad-249058
+
+GSTIN: kO0620755Z2C572Z2
+
+Item
+Repudiandae
+Nam
+
+Itaque
+
+Optio
+
+Autem
+
+Description
+
+Velit accusantium quasi cum.
+Asperiores harum explicabo nisi.
+Repellat mollitia sequi doloribus.
+
+Debitis laborum reprehenderit.
+
+Veniam quos at labore accusantium.
+
+Grand Total: €115639
+
+Rate
+
+€4952
+
+€3556
+
+€4043
+
+€1564
+
+€3522
+
+Quantity
+7
+
+7
+
+Total
+
+€34664
+
+€24892
+
+€28301
+
+€3128
+
+€24654

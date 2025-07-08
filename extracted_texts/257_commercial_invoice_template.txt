@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1347
+Date: 02 Apr 2025
+
+Exporter
+
+Rivera, Tate and Rogers
+85761 Nicholas Alley Lake Hollytown, MN 98145
+
+Importer
+
+Anderson and Sons
+29179 Crystal Streets Apt. 330 Danielhaven, DC 28448
+
+Buyer Ref: dccbe596-5994-4cc7-a65e-fd324b1c21ee
+Origin: Puerto Rico
+Destination: Austria
+
+Currency: USD
+Incoterms: EXW
+
+Description
+
+unter [tow
+
+Report 7457 $441.39 $520.84
+Really 7386 $735.56 $3471.84
+
+Freight: $141.15
+
+Insurance: $167.36
+Total Invoice Value: $2198.91
+

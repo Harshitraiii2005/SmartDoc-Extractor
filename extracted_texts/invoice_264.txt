@@ -1,0 +1,29 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-88688
+
+Date: 09 Apr 2025
+
+Issued By:
+
+Kapur PLC
+
+65/99, Apte Circle, Hospet-684784
+To:
+
+Sama Group
+
+80, Shenoy Circle, Ludhiana-375936
+
+GSTIN: pj828968u061627
+
+Item Description Rate Quantity Total
+Dolore Nihil delectus. €2219 7 €15533
+Quibusdam Maxime corrupti voluptatibus nisi. €3436 10 €34360
+Fugiat Omnis magnam ad quia nihil. €1522 3 €4566
+Non Quod nam. €2647 2 €5294
+
+Grand Total: €59753

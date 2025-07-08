@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-28821
+
+Date: 11/08/2024
+
+From:
+
+Biswas Inc
+
+H.No. 04, Goda Path, Rampur 510341
+
+To:
+
+Samra-Kota
+
+H.No. 745 Savant Zila Sangli-Miraj & Kupwad 612446
+Amount Paid: $7683
+
+Payment Mode: Card

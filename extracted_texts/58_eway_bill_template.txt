@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-248961
+Date: 30 May 2025
+Valid From: 16 Jun 2025 To 14 Mar 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-6204
+Transporter ID: TID-8100
+Transporter Name: Paul PLC
+
+Document Reference
+
+Type: Invoice
+No: DOC-6332
+
+Taxable Value Tax Rate (%)
+
+Reason: Citizen pattern instead.

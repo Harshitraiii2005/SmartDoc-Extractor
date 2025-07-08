@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4087
+Date: 14 Feb 2025
+
+Exporter
+
+Gallagher, Johnson and Gilbert
+3653 Watts Views Apt. 581 Brianborough, AS 32258
+
+Importer
+
+Henderson, Ford and Holden
+913 Cody Keys Suite 176 Lake Laura, NY 25443
+
+Buyer Ref: 75386391-9f17-47f7-ab93-fc34f423f6b4
+Origin: Sri Lanka
+Destination: Samoa
+
+Currency: USD
+Incoterms: FOB
+
+Response 5815 $297.37 $701.79
+
+Freight: $141.43
+
+Insurance: $98.68
+
+Total Invoice Value: $1436.95

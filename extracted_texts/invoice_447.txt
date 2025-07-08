@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-48051
+
+Invoice Date: 18-05-2024
+
+From:
+
+Wable, Shah and Tank
+
+H.No. 20 Kota Srikakulam 147668
+Billed To:
+
+Bhandari, Dhillon and Raja
+
+H.No. 28, Ben Ganj, Udupi-104537
+
+GSTIN: nr838990SR36124
+
+Item Description
+
+Vitae Totam debitis molestiae doloribus voluptate.
+
+Inventore Repudiandae dolorum dolorum.
+
+Aliquam Voluptas inventore dolor eius.
+Nemo Provident eligendi totam.
+Porro Porro dignissimos occaecati qui.
+
+Tempore Quod cum natus facere nulla.
+
+Grand Total: €96019
+
+Rate
+
+€1902
+
+€2892
+
+€4206
+
+€3346
+
+€2774
+
+€2011
+
+Quantity
+9
+1
+7
+
+10
+
+Total
+
+€17118
+
+€2892
+
+€29442
+
+€33460
+
+€11096
+
+€2011

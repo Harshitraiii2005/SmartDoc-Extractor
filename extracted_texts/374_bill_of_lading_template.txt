@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-6991
+Date: 18 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Result
+
+Port of Loading: West Kristineborough
+Port of Discharge: Port Emilytown
+Place of Delivery: West Edwinstad
+
+Container No: CONT-1152
+Marks: Within
+
+Description of Goods: Interesting
+
+Gross Weight: 4368 kg
+Measurement: 7 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

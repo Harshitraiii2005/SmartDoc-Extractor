@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-18486
+
+Date: 11/06/2025
+
+From:
+
+Arya-Sani
+
+25/20, Babu Path Nizamabad-822623
+Billed To:
+
+Thaman-Bhagat
+
+H.No. 27 Sachdev Zila Panihati 736281
+
+GSTIN: de368730dL86724
+
+Item Description Rate
+
+Fuga Qui voluptatem assumenda. €1048
+Suscipit Itaque architecto repellat. €2155
+Labore lure libero. €1638
+
+Grand Total: €26388
+
+Quantity
+7
+2
+
+9
+
+Total
+
+€7336
+
+€4310
+
+€14742

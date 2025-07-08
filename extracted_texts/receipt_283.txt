@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-85368
+
+Date: 22 Apr 2024
+
+From:
+
+Tiwari-Sant
+
+H.No. 47, Edwin Ganj Gurgaon 574631
+To:
+
+Ben-Bhatnagar
+
+80/76 Dada Marg, Shahjahanpur 198449
+Amount Paid: $8896
+
+Payment Mode: Net Banking

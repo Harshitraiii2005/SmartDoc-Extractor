@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-313165
+Date: 18 Apr 2025
+Valid From: 19 Jan 2025 To 10 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-6592
+Transporter ID: TID-3085
+Transporter Name: Mitchell-Flores
+
+Document Reference
+
+Type: Invoice
+No: DOC-3997
+
+Taxable Value Tax Rate (%)
+
+Reason: Affect organization.
+

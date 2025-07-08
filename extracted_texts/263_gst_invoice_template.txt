@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1086
+Date: 08 Mar 2025
+
+Supplier
+
+Herman Ltd
+
+79576 Meyers Crescent Suite 481 Jasonmouth, AS 73370
+GSTIN: 344746379980
+
+Contact: 001-716-454-3455x81262
+
+Buyer
+
+Barron-Smith
+
+34674 Brittany Islands Suite 709 Butlerstad, SD 49389
+GSTIN: 378650572724
+
+Contact: +1-607-555-5998x4203
+
+Place of Supply: Gonzalezmouth
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Enjoy 7017 8 | $149.51 $1196.08 $107.65 $107.65 $1411.37
+
+Sub Total: $984.76
+
+CGST: $171.86
+
+SGST: $112.74
+
+Grand Total: $1562.21
+
+Amount in Words: 3305 dollars only
+PO Number: PO-4626
+
+Terms: Ask someone same common.
+
+Reverse Charge: No

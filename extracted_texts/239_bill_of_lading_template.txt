@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-7531
+Date: 29 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Fill
+
+Port of Loading: West Shanebury
+
+Port of Discharge: East Cameronmouth
+Place of Delivery: Floresside
+
+Container No: CONT-6695
+Marks: Physical
+
+Description of Goods: Also
+
+Gross Weight: 4860 kg
+Measurement: 19 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

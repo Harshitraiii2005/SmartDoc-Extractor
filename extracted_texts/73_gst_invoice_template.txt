@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6266
+Date: 25 Feb 2025
+
+Supplier
+
+Lee, Johnson and Cunningham
+
+80845 Campbell Brook Suite 864 North John, MN 24609
+GSTIN: 596920279098
+
+Contact: +1-556-799-9471x67880
+
+Buyer
+
+Marsh Group
+
+76520 Robbins Harbors Apt. 334 Lesliemouth, PW 93508
+GSTIN: 509047357673
+
+Contact: 520.674.8128x57773
+
+Place of Supply: South Angelaburgh
+
+Description FHSN | Qty Unit Price | Taxable Value CGST SGST
+
+Operation 7865 $737.88 $737.88 $66.41 $66.41 $870.7
+
+Sub Total: $1252.34
+
+CGST: $185.11
+
+SGST: $94.37
+
+Grand Total: $1125.07
+
+Amount in Words: 4088 dollars only
+
+PO Number: PO-4408
+
+Terms: Peace century others cultural him present.
+
+Reverse Charge: Yes

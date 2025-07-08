@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-8739
+Date: 07 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Low
+
+Port of Loading: South Wendy
+
+Port of Discharge: West Cynthiaview
+Place of Delivery: New Sandra
+
+Container No: CONT-5790
+Marks: Score
+
+Description of Goods: Sometimes
+
+Gross Weight: 1886 kg
+Measurement: 11 cbm
+Freight Terms: Collect
+
+BILL OF LADING

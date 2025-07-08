@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-303114
+
+Date: 18-03-2025
+
+Consignor:
+
+Kara-Dugar
+
+654 Chakrabarti Street, Sikar 279066
+Consignee:
+
+Suri Inc
+
+H.No. 54 Kaul Nagar, Farrukhabad 567365
+Vehicle No: oc04SL2168
+
+GSTIN: Sq250613nU512Z2
+
+Item Description
+
+Voluptatem Ea dolores minima fugit.
+
+Quantity
+
+9
+
+Value
+
+€21889

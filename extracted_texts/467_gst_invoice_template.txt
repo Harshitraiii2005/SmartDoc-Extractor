@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7438
+Date: 05 Jan 2025
+
+Supplier
+
+Clark and Sons
+
+5921 Campbell Junction Apt. 252 New Richard, AL 93494
+GSTIN: 529819831370
+
+Contact: (431)898-2387x405
+
+Buyer
+
+Williams Ltd
+
+463 Michael Forge Apt. 448 Jeremyview, MI 32123
+GSTIN: 999988224316
+
+Contact: +1-470-660-6772
+
+Place of Supply: West Timothytown
+
+[call =| 6260 [5 | $198.18 $990.9 $89.18 $89.18 $1169.26
+
+Hair =| 5693 '8 | $890.78 $7126.24 $641.36 | $641.36 | $8408.96
+
+Sub Total: $1382.72
+
+CGST: $171.29
+
+SGST: $149.23
+
+Grand Total: $1306.56
+
+Amount in Words: 2632 dollars only
+
+PO Number: PO-4643
+
+Terms: Name machine great town smile million wall view.
+
+Reverse Charge: No

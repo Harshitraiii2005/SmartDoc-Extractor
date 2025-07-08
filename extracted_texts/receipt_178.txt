@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-63354
+
+Date: 16 Jun 2025
+
+From:
+
+Ratti-Agrawal
+
+04/189 Sekhon Road, Pimpri-Chinchwad 427902
+To:
+
+Soman LLC
+
+48/17, Sethi Road, Panipat-196472
+
+Amount Paid: %9580
+
+Payment Mode: Card

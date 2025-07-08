@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-913684
+
+Date: 10/03/2024
+
+Consignor:
+
+Chowdhury Group
+
+H.No. 261 Golla Ganj, Anmedabad 787420
+Consignee:
+
+Kota-Srinivasan
+
+078 Sethi Street, Nellore 943060
+
+Vehicle No: vJ56Pg0805
+
+GSTIN: XC574893Ax980Z3
+
+Item Description
+Nulla Pariatur ut.
+Quasi Doloremque eaque facilis accusamus.
+
+Ad Aut quibusdam odit placeat.
+
+Quantity
+42
+30
+
+10
+
+Value
+
+25188
+
+%34244
+
+221725

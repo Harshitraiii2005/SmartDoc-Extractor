@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-34230
+
+Date: 14-01-2024
+
+Issued By:
+
+Sant, Bains and Loyal
+
+H.No. 336 Swamy, Srinagar-696726
+
+To:
+
+Tata, Soman and Ramakrishnan
+
+H.No. 540 Goyal Path Karawal Nagar-040333
+
+GSTIN: uc315371sa354Z2
+
+Item Description Rate
+Numquam Ullam qui. $3237
+Vel Quia cumque nisi. %2809
+
+Grand Total: =45987
+
+Quantity
+9
+
+6
+
+Total
+
+229133
+
+%16854

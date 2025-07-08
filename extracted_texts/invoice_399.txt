@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-47496
+
+Invoice Date: 03-12-2023
+
+Issued By:
+
+Ahuja LLC
+
+59/939, Shetty Chowk, Warangal 614308
+To:
+
+Chana, Bali and Kulkarni
+
+886, Khanna Phusro 166157
+
+GSTIN: dM3118600u148Z2
+
+Item Description Rate
+Odio lusto delectus quaerat. 23354
+Aut Sequi illum modi. =1597
+
+Grand Total: 25075
+
+Quantity
+7
+
+1
+
+Total
+
+223478
+
+21597

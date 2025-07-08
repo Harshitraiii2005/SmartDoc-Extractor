@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-94464
+
+Invoice Date: 18 Jul 2023
+
+Issued By:
+
+Barad, Kakar and Keer
+
+H.No. 59 Sani Nagar, Bihar Sharif 194247
+Billed To:
+
+Mangat-Manda
+
+41, Virk Nagar, Thoothukudi-513511
+
+GSTIN: VI582389kI1015Z8
+
+Item Description
+
+Consequatur Reiciendis iure voluptates impedit.
+Ex Culpa harum deleniti dolorem.
+Possimus Saepe odit error.
+
+Grand Total: $67541
+
+Rate
+$2897
+$3408
+
+$2589
+
+Quantity
+10
+
+6
+
+Total
+$28970
+$20448
+
+$18123

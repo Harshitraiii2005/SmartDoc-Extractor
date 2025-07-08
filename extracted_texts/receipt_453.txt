@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-64440
+
+Date: 25 Jun 2024
+
+From:
+
+Khurana, Setty and Hans
+
+83/64 Batta Marg Salem-971273
+
+To:
+
+Mangat Group
+
+H.No. 08 Tandon, Farrukhabad-997540
+Amount Paid: €16268
+
+Payment Mode: Net Banking

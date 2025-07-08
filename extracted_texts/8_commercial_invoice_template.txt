@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1896
+Date: 19 May 2025
+
+Exporter
+
+Brown-Nelson
+0558 Stacy Ville Apt. 237 Mcphersonside, MO 26800
+
+Importer
+
+Young Group
+89821 Lori Hollow North Devin, HI 14324
+
+Buyer Ref: 6dd98fb1-4064-4035-bfd2-8b236e92ae9e
+Origin: Brazil
+Destination: Honduras
+
+Currency: EUR
+Incoterms: FOB
+
+escinion «HN [aw [unwerce [tom
+
+Freight: $497.31
+
+Insurance: $87.18
+
+Total Invoice Value: $4767.97

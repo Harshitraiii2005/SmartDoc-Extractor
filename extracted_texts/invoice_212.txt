@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-33797
+
+Date: 19-04-2024
+
+From:
+
+Salvi-Ahuja
+
+H.No. 967, Bal Marg Muzaffarnagar-614064
+To:
+
+Saha and Sons
+
+78/40, Goel Nagar Tenali-607476
+
+GSTIN: Bs656365pv080Z9
+
+Item Description Rate
+
+Neque Eius consectetur ex occaecati ad. $4902
+Nobis Veritatis dignissimos quam dolore. $4765
+Quas Voluptatem possimus labore. $1840
+
+Grand Total: $32214
+
+Quantity
+2
+2
+
+7
+
+Total
+$9804
+$9530
+
+$12880

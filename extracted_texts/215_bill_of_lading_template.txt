@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-8035
+Date: 13 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Company
+
+Port of Loading: Sarahton
+
+Port of Discharge: North Kevinmouth
+Place of Delivery: North David
+
+Container No: CONT-3999
+Marks: Way
+
+Description of Goods: Clearly
+
+Gross Weight: 2491 kg
+Measurement: 18 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

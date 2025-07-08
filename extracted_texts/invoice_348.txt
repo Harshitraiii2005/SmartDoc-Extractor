@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-69890
+
+Date: 21-11-2023
+
+From:
+
+Bhatia-Wali
+
+H.No. 37 Anne Nagar Bhopal-096511
+Billed To:
+
+Vyas LLC
+
+87/072 Vala Bahraich-548929
+
+GSTIN: zT006061Ab67927
+
+Item Description Rate
+Animi Error optio voluptates. €4137
+Autem Beatae eum enim minus quaerat. €4249
+
+Grand Total: €41594
+
+Quantity
+8
+
+2
+
+Total
+
+€33096
+
+€8498

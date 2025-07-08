@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-66441
+
+Date: 22 Aug 2023
+
+Issued By:
+
+Mandal, Chana and Agarwal
+
+57/21 Manda, Panvel-054416
+Billed To:
+
+Gandhi Inc
+
+56 Chacko Zila Thoothukudi-010616
+
+GSTIN: xJ436467H054624
+
+Item Description Rate
+Unde Pariatur rem dolores. $902
+Unde Tempore animi accusamus rerum. $846
+
+Grand Total: $11558
+
+Quantity
+10
+
+3
+
+Total
+$9020
+
+$2538

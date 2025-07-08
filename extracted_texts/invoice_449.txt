@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-18515
+
+Invoice Date: 20-11-2024
+
+From:
+
+Cherian Inc
+
+H.No. 836 Kurian Circle Shahjahanpur-214812
+To:
+
+Cheema LLC
+
+H.No. 55, lyengar Chowk Junagadh 201804
+
+GSTIN: Qb477575uc147Z5
+
+Item Description Rate
+Accusamus Ipsam reiciendis consectetur. $4125
+Tenetur Quae perspiciatis at. $2923
+
+Grand Total: $21663
+
+Quantity
+1
+
+6
+
+Total
+$4125
+
+$17538

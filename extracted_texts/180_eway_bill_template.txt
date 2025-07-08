@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-414978
+Date: 12 Mar 2025
+Valid From: 02 Jan 2025 To 09 Jun 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-7273
+
+Transporter ID: TID-3531
+
+Transporter Name: Lucero, Santana and Jones
+
+Document Reference
+
+Type: Invoice
+No: DOC-4618
+
+fay [unt [Teoiovane [Taxa
+os [semi
+
+Ce ee
+jo [os [sez
+oes _|
+oes |
+
+Reason: Property heavy nothing.
+
+$1528.62
+$1518.57
+$4338.99
+

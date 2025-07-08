@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-672619
+
+Date: 08-05-2024
+
+Consignor:
+
+Gulati and Sons
+
+H.No. 723, Dhar Marg, Kochi 030241
+Consignee:
+
+Sarin Group
+
+73/70, Koshy Road, Morbi-122214
+Vehicle No: fr89LB7424
+
+GSTIN: Yx104687ku596Z1
+
+Item Description
+
+Occaecati Vero impedit libero quia ipsa.
+
+Quantity
+
+24
+
+Value
+
+$23234

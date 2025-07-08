@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-708575
+
+Date: 30-07-2024
+
+Consignor:
+
+Som Inc
+
+13, Sawhney Marg, Thanjavur-308192
+Consignee:
+
+Buch, Goel and Wason
+
+H.No. 06, Sundaram Marg Kharagpur-093857
+Vehicle No: ZN54jx7209
+
+GSTIN: ee548101yy615Z0
+
+Item Description
+Quia Labore unde ipsum nostrum.
+Earum A dolorem incidunt vero quaerat.
+
+Vero Dignissimos quia occaecati ea.
+
+Quantity
+3
+44
+
+27
+
+Value
+$29088
+$27076
+
+$40752

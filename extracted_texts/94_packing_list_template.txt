@@ -1,0 +1,25 @@
+
+
+---- Page 1 ----
+PACKING LIST
+
+PL No: PL-8729
+Date: 03 Jul 2025
+
+Exporter
+Obrien PLC
+Importer
+
+Cole and Sons
+Invoice Reference: INVREF-2494
+
+No. of Packages: 7
+Type: Pallets
+
+Contents: Force region write apply.
+Net Weight: 585 kg
+
+Gross Weight: 1081 kg
+Dimensions: 80x122x152 cm
+
+Marks: However

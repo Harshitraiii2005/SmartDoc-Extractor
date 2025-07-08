@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-88976
+
+Date: 05-05-2024
+
+From:
+
+Viswanathan Inc
+
+83 Khare Chowk, Udaipur 390051
+To:
+
+Sura-Manda
+
+51/839, Baria Marg Udupi-197727
+Amount Paid: $12907
+
+Payment Mode: UPI

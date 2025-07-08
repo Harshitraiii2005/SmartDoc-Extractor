@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-2924
+
+Date: 13 Jun 2025
+
+From:
+
+Bawa LLC
+
+768, Din Street, Tadepalligudem-761485
+To:
+
+Barman Inc
+
+713 Salvi Circle Amritsar-262007
+Amount Paid: €22841
+
+Payment Mode: Card

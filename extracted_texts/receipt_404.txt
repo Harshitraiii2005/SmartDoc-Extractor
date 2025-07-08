@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-7885
+
+Date: 08/10/2023
+
+From:
+
+Gour and Sons
+
+H.No. 029 Shetty Marg Khora -148190
+To:
+
+Sampath, Badami and Sane
+
+H.No. 41 Sarna Ganj Tiruvottiyur-538522
+Amount Paid: 748581
+
+Payment Mode: UPI

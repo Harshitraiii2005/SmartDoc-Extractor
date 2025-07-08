@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33085
+
+Date: 27/06/2025
+
+From:
+
+Ramanathan, Konda and Sane
+260 Konda Circle Amravati-365343
+To:
+
+Arya, Korpal and Gour
+
+628, Barad Path, Tumkur-149662
+Amount Paid: €42567
+
+Payment Mode: Net Banking

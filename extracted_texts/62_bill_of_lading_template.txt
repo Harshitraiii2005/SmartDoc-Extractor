@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9254
+Date: 12 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Line
+
+Port of Loading: Jamesport
+Port of Discharge: Heidiland
+Place of Delivery: Lake John
+
+Container No: CONT-6913
+Marks: Green
+
+Description of Goods: Later
+
+Gross Weight: 1289 kg
+Measurement: 12 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

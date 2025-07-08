@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-53889
+
+Date: 01/10/2024
+
+From:
+
+Mane-Kari
+
+H.No. 368 Gade Path, Nagpur-245874
+To:
+
+Bains, Edwin and Kara
+
+25/480 Banik Path, Serampore 494632
+Amount Paid: €14961
+
+Payment Mode: Card

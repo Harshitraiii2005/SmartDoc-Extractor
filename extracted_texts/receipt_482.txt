@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-5462
+
+Date: 17-11-2024
+
+From:
+
+Sengupta-Wable
+
+H.No. 286 Gokhale Zila, Karawal Nagar 658732
+To:
+
+Devan-Rana
+
+061 Kapoor Naihati-830971
+
+Amount Paid: $19858
+
+Payment Mode: Cash

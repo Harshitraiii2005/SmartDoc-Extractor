@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-35980
+
+Date: 19/01/2025
+
+From:
+
+Dyal, Chaudry and Chad
+
+67 Dhar Road Begusarai-225894
+To:
+
+Doctor-Kota
+
+20/676, Verma Zila, Aizawl-633546
+Amount Paid: $4380
+
+Payment Mode: Card

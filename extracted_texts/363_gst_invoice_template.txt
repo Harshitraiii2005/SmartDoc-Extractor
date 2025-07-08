@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5398
+Date: 14 Feb 2025
+
+Supplier
+
+Griffith-Webb
+
+79551 Smith Plaza Suite 616 West Jackie, AZ 15840
+GSTIN: 827764394024
+
+Contact: 241-786-5077
+
+Buyer
+
+Norris-Contreras
+
+8855 William Spring Suite 809 Peggyland, ND 99740
+GSTIN: 868723381104
+
+Contact: 001-314-569-7650x840
+
+Place of Supply: West Nancy
+
+[Street ‘| 4178 fe | $442.52 $2655.12 $238.96 $238.96 $3133.04
+
+wit =| 2975 fs | $539.33 $4314.64 $388.32 | $388.32 | $5091.28
+
+Sub Total: $1445.49
+
+CGST: $110.32
+
+SGST: $114.08
+
+Grand Total: $1834.53
+
+Amount in Words: 1425 dollars only
+
+PO Number: PO-8568
+
+Terms: Fact save grow education garden which official person.
+
+Reverse Charge: No

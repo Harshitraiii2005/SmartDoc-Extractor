@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-590357
+Date: 07 Jan 2025
+Valid From: 26 Apr 2025 To 26 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-1508
+
+Transporter ID: TID-8912
+
+Transporter Name: Brown, Shelton and Dunn
+
+Document Reference
+
+Type: Invoice
+No: DOC-2039
+
+Description HSN [Qty [Unit Taxable Value Tax Rate (%)
+
+Reason: Physical phone detail.
+

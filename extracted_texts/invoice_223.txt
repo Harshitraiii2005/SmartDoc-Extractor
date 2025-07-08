@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-74969
+
+Invoice Date: 27/05/2024
+
+Issued By:
+
+Varma and Sons
+
+026, Bhagat Marg, Sambalpur 473829
+
+Billed To:
+
+Shukla, Dasgupta and Bora
+H.No. 390 Dugar Path Delhi-963873
+
+GSTIN: ck441186Cb548Z7
+
+Item
+
+Nihil
+Numquam
+Neque
+Totam
+
+Veritatis
+
+Description
+Omnis quo dolor dolores.
+Eaque sequi repellat.
+
+Commodi totam quae quisquam.
+
+Maiores alias cupiditate amet facere.
+
+Quod alias nam deserunt animi.
+
+Grand Total: €77388
+
+Rate
+
+€912
+
+€1589
+
+€3682
+
+€4613
+
+€4089
+
+Quantity
+1
+
+2
+
+Total
+
+€912
+
+€3178
+
+€3682
+
+€36904
+
+€32712

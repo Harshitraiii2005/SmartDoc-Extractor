@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-15507
+
+Date: 17/09/2024
+
+From:
+
+Bail-Anand
+
+H.No. 395 Krishna Zila, Vasai-Virar 913707
+To:
+
+Solanki-Amble
+
+H.No. 428 Dar Circle, Vijayawada-059023
+
+GSTIN: TN766574sB113Z0
+
+Item Description
+
+Nobis Quod alias distinctio libero quas.
+
+Sunt Vero perspiciatis repudiandae excepturi.
+Totam Similique corrupti occaecati placeat.
+
+Adipisci | Voluptatem perferendis facilis reiciendis cupiditate.
+
+Grand Total: €61870
+
+Rate
+
+€3703
+
+€2536
+
+€2352
+
+€2955
+
+Quantity
+4
+
+6
+
+Total
+
+€14812
+
+€15216
+
+€14112
+
+€17730

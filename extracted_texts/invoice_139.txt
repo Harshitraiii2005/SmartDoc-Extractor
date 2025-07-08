@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-34615
+
+Invoice Date: 14 Sep 2024
+
+Issued By:
+
+Gole Inc
+
+61/998, Dutt Street, Bidhannagar 358963
+Billed To:
+
+Shan, Kannan and Grewal
+
+56/140, Gaba Street, Hajipur-014268
+
+GSTIN: TH406556ly7822Z8
+
+Item Description
+Eligendi Soluta dolorum quaerat earum.
+
+Perspiciatis Autem quos maiores ea quod.
+
+Enim Earum necessitatibus esse reprehenderit.
+
+Grand Total: $15860
+
+Rate Quantity Total
+
+$541 2 $1082
+$1278 1 $1278
+$4500 3 $13500

@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-269709
+
+Date: 01/01/2024
+
+Consignor:
+
+Doctor, Kakar and Rama
+
+H.No. 256, Srivastava Nagar Erode 203769
+Consignee:
+
+Char, Sabharwal and Bhatti
+
+45, Batta Ganj, Bhiwani-915004
+
+Vehicle No: XE20EQ4722
+
+GSTIN: vn1392592b339Z6
+
+Item Description
+
+Neque Animi porro debitis.
+
+Aut Consequuntur nobis.
+
+lpsam Dolore blanditiis voluptatibus.
+
+Ratione Temporibus nulla maxime saepe ducimus.
+
+Quantity
+17
+45
+
+46
+
+Value
+
+%31356
+
+227942
+
+47080
+
+%30483

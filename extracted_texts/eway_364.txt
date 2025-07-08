@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-398461
+
+Date: 05/11/2024
+
+Consignor:
+
+Gill LLC
+
+42, Bhavsar Circle, Nandyal 340505
+Consignee:
+
+Sandal Inc
+
+H.No. 88, Cheema Street, Jamnagar-243638
+Vehicle No: fD040G7596
+
+GSTIN: DO553384AG28627
+
+Item Description Quantity
+
+Quaerat Similique suscipit rerum. 22
+
+Value
+
+$18638

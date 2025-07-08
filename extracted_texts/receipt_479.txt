@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-70859
+
+Date: 04/07/2025
+
+From:
+
+Kurian Ltd
+
+H.No. 789 Balan Street Gandhidham 211178
+To:
+
+Sani-Acharya
+
+75/85 Bumb Road Hapur-533396
+
+Amount Paid: ~46077
+
+Payment Mode: UPI

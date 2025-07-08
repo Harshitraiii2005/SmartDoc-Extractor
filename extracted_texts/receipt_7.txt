@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-49333
+
+Date: 28 Oct 2023
+
+From:
+
+Balay-Kadakia
+
+H.No. 95 Mandal Marg, Darbhanga-168535
+To:
+
+Badami Inc
+
+59/071, Bava Ganj, Asansol-063619
+Amount Paid: $7265
+
+Payment Mode: UPI

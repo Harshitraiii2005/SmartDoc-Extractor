@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-1203
+
+Date: 23/07/2023
+
+From:
+
+D’Alia-Brahmbhatt
+
+80/14, Kuruvilla Nagar Bhagalpur-318974
+To:
+
+Sandal Inc
+
+01/831, Dayal Path Sultan Pur Majra-969981
+Amount Paid: =11174
+
+Payment Mode: Cash

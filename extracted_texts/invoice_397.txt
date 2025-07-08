@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-37916
+
+Invoice Date: 08-03-2025
+
+Issued By:
+
+Sharaf Group
+
+29/70 Shere Circle Navi Mumbai-438803
+To:
+
+Dhingra-Dar
+
+59/297 Mannan Khandwa-244854
+
+GSTIN: ss0957950C2852Z6
+
+Item Description Rate
+
+Ullam Sed accusamus. €2714
+Animi Amet ipsam pariatur omnis. €1287
+Omnis Accusamus labore. €1614
+
+Grand Total: €33036
+
+Quantity
+6
+8
+
+4
+
+Total
+
+€16284
+
+€10296
+
+€6456

@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-1561
+Date: 28 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: My
+
+Port of Loading: Riveraborough
+
+Port of Discharge: North Timothyburgh
+Place of Delivery: Port Julie
+
+Container No: CONT-7714
+Marks: Decade
+
+Description of Goods: Physical
+
+Gross Weight: 3114 kg
+Measurement: 11 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

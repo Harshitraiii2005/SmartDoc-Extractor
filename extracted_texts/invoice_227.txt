@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-62084
+
+Invoice Date: 11-03-2025
+
+From:
+
+Sachdev and Sons
+
+H.No. 006 Kakar Road, Motihari 229774
+To:
+
+Bhardwaj-Ganesan
+
+58 Thaman Road Uluberia 883526
+
+GSTIN: pX399883cx224Z2
+
+Item Description
+
+Mollitia Dicta tempora eum harum.
+
+Non Fugiat voluptates voluptate esse minus.
+
+Est Corporis delectus doloribus doloremque veritatis.
+Autem Eveniet sunt tenetur voluptatibus.
+
+Consequuntur Odit suscipit.
+
+Grand Total: $111535
+
+Rate
+
+$3132
+$3372
+$4878
+$3263
+
+$3989
+
+Quantity Total
+
+6
+
+9
+
+$18792
+$30348
+$43902
+$6526
+
+$11967

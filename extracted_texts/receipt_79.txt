@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-76693
+
+Date: 31 Mar 2024
+
+From:
+
+Desai-Dhawan
+
+71/40 Tata Path Jodhpur 326257
+
+To:
+
+Sarkar, Dani and Hora
+
+157 Sama Circle Serampore 015515
+Amount Paid: €26652
+
+Payment Mode: Card

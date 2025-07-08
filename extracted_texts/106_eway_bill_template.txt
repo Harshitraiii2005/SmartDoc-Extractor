@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-258706
+Date: 06 Apr 2025
+Valid From: 02 Mar 2025 To 06 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-5304
+Transporter ID: TID-8798
+Transporter Name: Davidson LLC
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-2546
+
+Taxable Value Tax Rate (%)
+
+Reason: Rather explain.

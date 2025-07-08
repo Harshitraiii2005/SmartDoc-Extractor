@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-326451
+
+Date: 26/03/2024
+
+Consignor:
+
+Handa-Mane
+
+594 Suri Circle, Patiala 961086
+Consignee:
+
+Lata-Cherian
+
+21/453, Sarkar Ganj, Deoghar 868144
+Vehicle No: Xm46GG4947
+
+GSTIN: aK572793DI26621
+
+Item Description
+
+Illo Sed nihil provident non.
+
+Voluptatem Eius magni.
+
+Quantity
+39
+
+34
+
+Value
+$29572
+
+$35916

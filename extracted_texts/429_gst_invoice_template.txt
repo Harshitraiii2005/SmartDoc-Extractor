@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6574
+Date: 15 Feb 2025
+
+Supplier
+
+Taylor, Fernandez and Maldonado
+
+47779 Brittany Turnpike Apt. 412 Kellyville, MA 81893
+GSTIN: 157858812627
+
+Contact: (673)849-0991
+
+Buyer
+
+Figueroa, Parsons and Johnson
+
+89006 Darrell Manors Suite 753 Lake Ariel, IL 86966
+GSTIN: 165103191963
+
+Contact: 2242300676
+
+Place of Supply: North Joycefort
+
+Description /HSN Qty Unit Price | Taxable Value CGST SGST
+Sing 6581 4 $45.66 $182.64 $16.44 |$16.44 | $215.52
+Hot 1509 $424.37 $848.74 $76.39  |$76.39 | $1001.51
+
+3744 aa $856.45 $7708.05 $693.72 | $693.72 | $9095.5
+Technology 9805 $939.94 $9399.4 $845.95 | $845.95 | $11091.29
+Chance 9468 $161.98 $161.98 $1458 |$14.58 | $191.14
+
+Sub Total: $1394.79
+
+CGST: $60.31
+
+SGST: $71.91
+
+Grand Total: $1148.8
+
+Amount in Words: 2960 dollars only
+
+PO Number: PO-1620
+
+Terms: Word cover foot task imagine happen own.
+
+Reverse Charge: No

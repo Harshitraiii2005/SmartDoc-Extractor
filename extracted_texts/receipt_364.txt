@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-40065
+
+Date: 29-03-2025
+
+From:
+
+Kurian-Dar
+
+19/31, Kumar Road Ambarnath-485204
+To:
+
+Gole and Sons
+
+H.No. 502 Bhargava Street Noida-114834
+Amount Paid: $26367
+
+Payment Mode: Cash

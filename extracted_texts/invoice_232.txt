@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-80548
+
+Date: 17-05-2024
+
+From:
+
+Bhatt and Sons
+
+H.No. 697 Vig Zila Ongole-662111
+To:
+
+Singhal, Bawa and Subramanian
+703 Tiwari Darbhanga-078937
+
+GSTIN: Ai6434492t951Z2
+
+Item Description
+Ad Incidunt corrupti perferendis dolore.
+Eos Voluptatem quasi aliquid quam.
+
+Earum Quos mollitia vitae praesentium laborum.
+
+Grand Total: %52317
+
+Rate
+
+3023
+
+4979
+
+2739
+
+Quantity
+8
+4
+
+3
+
+Total
+
+%24184
+
+=19916
+
+%8217

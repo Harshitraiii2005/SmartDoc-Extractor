@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67477
+
+Date: 29 Aug 2023
+
+From:
+
+Bobal Group
+
+12/496 Issac, Korba-280572
+
+To:
+
+Karan Inc
+
+94/573, Upadhyay Circle, Kamarhati 927455
+Amount Paid: ~43419
+
+Payment Mode: Card

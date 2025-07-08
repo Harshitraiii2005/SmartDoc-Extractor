@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-48330
+
+Invoice Date: 03-06-2025
+
+From:
+
+Rege PLC
+
+H.No. 762 Choudhury Path Burhanpur-803315
+Billed To:
+
+Dora-Ghosh
+
+86/966, Gera Path, Udupi 047724
+
+GSTIN: vv922343Ls919Z6
+
+Item Description
+
+Maiores Possimus fuga a quas.
+Magnam Ipsum velit ex.
+
+Ut Voluptatem voluptas.
+Alias Mollitia officia facere aut.
+
+Grand Total: $56614
+
+Rate
+
+$2172
+$3208
+$4520
+
+$4214
+
+Quantity
+6
+
+1
+
+Total
+$13032
+$3208
+$36160
+
+$4214

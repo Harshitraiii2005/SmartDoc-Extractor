@@ -1,0 +1,73 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-61690
+
+Invoice Date: 18 Sep 2023
+
+Issued By:
+
+Bedi, Wagle and Banik
+890 Sodhi, Ichalkaranji-081426
+
+Billed To:
+
+Upadhyay Inc
+
+H.No. 605, Edwin Nagar, Bharatpur-945489
+
+GSTIN: mT608860pt779Z0
+
+Item
+Enim
+
+Hic
+Occaecati
+Amet
+
+Cumque
+
+Description
+
+Magnam enim repudiandae ut incidunt.
+
+Voluptatibus rem enim id.
+Omnis accusamus.
+Asperiores eius.
+
+Mollitia sapiente autem.
+
+Grand Total: =41298
+
+Rate
+
+3769
+
+21889
+
+%3292
+
+21316
+
+21309
+
+Quantity
+1
+
+7
+
+10
+
+Total
+
+%3769
+
+213223
+
+%3292
+
+%13160
+
+7854

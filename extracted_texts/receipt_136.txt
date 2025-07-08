@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-92016
+
+Date: 24/01/2024
+
+From:
+
+Vohra, Dhingra and Bose
+
+H.No. 33 Samra Naihati-325102
+To:
+
+Luthra-Sheth
+
+H.No. 448, Dugar Naihati-092926
+Amount Paid: $17335
+
+Payment Mode: Net Banking

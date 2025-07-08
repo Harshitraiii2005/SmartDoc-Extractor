@@ -1,0 +1,1 @@
+COMMERCIAL INVOICEInvoice No: INV: 3069Date: 24 Jun 2025ExporterTaylor: Floyd124 Michael Rapid Port Jeremy, HI 39057ImporterForbes, Alexander and Phillips5237 David Mountains Sheashire, ME 29576Buyer Ref: 7aead1f9: 934c: 45f9: 90ae: 33caf616c20cOrigin: French GuianaDestination: LuxembourgCurrency: USDIncoterms: CIFEeFreight: $497.19Insurance: $51.86Total Invoice Value: $2826.85

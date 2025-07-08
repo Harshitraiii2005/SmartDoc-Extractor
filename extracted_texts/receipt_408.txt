@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-63534
+
+Date: 16-08-2024
+
+From:
+
+Bhandari-Setty
+
+15/017 Shan Nagar Bilaspur 012600
+To:
+
+Saran-Jaggi
+
+994, Deshpande Zila Sasaram-928078
+Amount Paid: %21035
+
+Payment Mode: Cash

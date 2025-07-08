@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-165904
+
+Date: 21-09-2023
+
+Consignor:
+
+Kaul-Shanker
+
+H.No. 91, Jha Ganj, Panvel-116856
+Consignee:
+
+Tailor-Walla
+
+H.No. 27 Bhargava Path, Meerut 222662
+Vehicle No: 0X91iW0897
+
+GSTIN: Bj830712gN48721
+
+Item Description
+
+Odio Reiciendis eum minus suscipit possimus.
+Ullam Molestias repellendus consequatur.
+
+Illo Repudiandae at perspiciatis inventore.
+
+Temporibus Quis fugit beatae.
+
+Quantity
+6
+
+39
+
+47
+
+29
+
+Value
+$6147
+$18855
+$28262
+
+$29749

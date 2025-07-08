@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-81709
+
+Date: 02/05/2024
+
+From:
+
+Majumdar, Kibe and Subramaniam
+
+97, Chana Ganj, Bardhaman 520541
+
+To:
+
+Behl, Dey and Dugar
+
+H.No. 257, Bhargava Path, Bettiah 184987
+Amount Paid: €28190
+
+Payment Mode: Net Banking

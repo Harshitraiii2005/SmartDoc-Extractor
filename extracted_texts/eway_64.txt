@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-334070
+
+Date: 23-12-2023
+
+Consignor:
+
+Hegde Inc
+
+00/12 Bhavsar Nagar Mangalore 006285
+Consignee:
+
+Badami-Handa
+
+57/24 Mangal Circle Amritsar 732280
+Vehicle No: zi11ZC5500
+
+GSTIN: ys423109Xn429Z5
+
+Item Description
+
+Eveniet At illum.
+
+Exercitationem Placeat aliquid at.
+
+Quantity
+45
+
+34
+
+Value
+
+€10134
+
+€47799

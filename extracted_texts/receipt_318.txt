@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33137
+
+Date: 21-02-2024
+
+From:
+
+Tailor and Sons
+
+50 Dubey Nagar, Jodhpur 859350
+To:
+
+Kaul, Seth and Chaudhary
+
+70/898, Joshi Street, Khora -236345
+Amount Paid: 737546
+
+Payment Mode: Card

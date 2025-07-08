@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-58840
+
+Date: 31/12/2024
+
+From:
+
+Butala-Bhandari
+
+H.No. 484, Badami Chowk, Chittoor 239114
+To:
+
+Setty-Jani
+
+H.No. 377, Agate Road, Kurnool 839345
+
+GSTIN: Dy521720Mg113Z1
+
+Item Description
+
+Reprehenderit Eligendi consequatur fuga cumque facilis.
+
+Est Quas culpa vel distinctio.
+
+Suscipit Iste voluptatum aperiam magni.
+
+Grand Total: $57320
+
+Rate
+$2052
+$3854
+
+$2673
+
+Quantity
+10
+
+4
+
+Total
+$20520
+$15416
+
+$21384

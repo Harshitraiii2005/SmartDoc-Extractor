@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-90847
+
+Invoice Date: 21-05-2025
+
+From:
+
+Golla LLC
+
+94/075, Bahri Street Tenali-542959
+Billed To:
+
+Sastry-Ben
+
+94/15, Wali Chowk, Arrah-592939
+
+GSTIN: HC781337lv572Z3
+
+Item Description
+Tenetur Earum maiores doloribus magnam.
+
+Minus Aliquam officiis repellendus perferendis.
+
+Dicta Necessitatibus ipsa laborum maxime cupiditate.
+
+Maiores | Consectetur deserunt inventore perspiciatis.
+
+Grand Total: €15497
+
+Rate
+
+€1235
+
+€538
+
+€760
+
+€818
+
+Quantity
+1
+10
+
+2
+
+Total
+
+€1235
+
+€5380
+
+€1520
+
+€7362

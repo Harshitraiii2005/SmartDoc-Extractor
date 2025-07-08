@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-57347
+
+Date: 26-10-2024
+
+From:
+
+Dhillon-Karan
+
+83/41, Jani Nagar Gopalpur 957895
+Billed To:
+
+Raman, Zachariah and Sanghvi
+
+H.No. 003 Basu Path, Suryapet-972835
+
+GSTIN: ux974952Fr401Z1
+
+Item Description
+Exercitationem Doloribus laboriosam ullam.
+
+Eius Cupiditate iure quas corporis quo.
+
+Modi Similique aspernatur veritatis tempora modi.
+
+Grand Total: $34805
+
+Rate
+$2247
+$1514
+
+$2919
+
+Quantity
+5
+
+4
+
+Total
+$11235
+$6056
+
+$17514

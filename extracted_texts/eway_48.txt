@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-493212
+
+Date: 30 Oct 2023
+
+Consignor:
+
+Trivedi-Bahl
+
+17/04, Sem Nagar, Mangalore 759079
+Consignee:
+
+Sahota, Konda and Chokshi
+
+220 Taneja Nagar, Katni 684611
+Vehicle No: Py64gu8956
+
+GSTIN: BS391363rJ702Z5
+
+Item Description
+
+Voluptatum Nemo incidunt eum.
+
+Cumque Veniam iure sequi reiciendis.
+
+Quantity
+40
+
+29
+
+Value
+
+249862
+
+29293

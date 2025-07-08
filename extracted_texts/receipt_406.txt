@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-1980
+
+Date: 16-04-2024
+
+From:
+
+Baria PLC
+
+85/16, Sant Zila Bhimavaram 145128
+To:
+
+Contractor-Kohli
+
+467 Tata Zila Muzaffarnagar 380188
+Amount Paid: €38792
+
+Payment Mode: Cash

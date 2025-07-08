@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-99779
+
+Date: 15/01/2024
+
+From:
+
+Bhatnagar Group
+
+50/99 Varty Marg Imphal 444613
+To:
+
+Sanghvi LLC
+
+883, Mahajan Marg Jodhpur 540861
+
+GSTIN: GL784453RJ962Z2
+
+Item Description Rate Quantity Total
+Fugiat Aliquid iure modi qui. 24642 5 %23210
+A Eius ipsa. 24242 5 21210
+Quibusdam Eaque veniam dicta quae. 24593 8 %36744
+Rem Aperiam nemo praesentium optio. %1859 1 =1859
+Veniam Quos est incidunt. 3304 10 %33040
+Enim Error perferendis voluptatibus. 22327 9 20943
+
+Grand Total: ¥137006

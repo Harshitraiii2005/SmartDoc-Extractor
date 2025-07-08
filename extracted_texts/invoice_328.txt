@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-98535
+
+Invoice Date: 16 Nov 2024
+
+Issued By:
+
+Seshadri LLC
+
+25/195 Mahajan Path Gulbarga 930124
+Billed To:
+
+Sharaf-Tata
+
+H.No. 17 Rege Chowk Bulandshahr-217242
+
+GSTIN: yH297714wl814Z1
+
+Item Description Rate
+Odio Doloribus labore. $2158
+Quibusdam Magnam nesciunt ullam saepe. $3360
+
+Grand Total: $47504
+
+Quantity
+8
+
+9
+
+Total
+$17264
+
+$30240

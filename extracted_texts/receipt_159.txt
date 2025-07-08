@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67205
+
+Date: 27 Jul 2023
+
+From:
+
+Mander-Mand
+
+752, Kapoor Street, Barasat 466036
+To:
+
+Anand-Rout
+
+75 Khatri Circle Vijayawada 891239
+Amount Paid: ~12384
+
+Payment Mode: UPI

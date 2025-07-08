@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-8033
+
+Invoice Date: 09 Dec 2023
+
+From:
+
+Chana Ltd
+
+724 Brar Zila Anmedabad 424139
+Billed To:
+
+Sha-Sagar
+
+86, Bhardwaj Circle, Jodhpur 808624
+
+GSTIN: TC675174iw739Z3
+
+Item Description
+
+Exercitationem Optio saepe autem.
+
+Quod Dolor accusamus facere.
+Aliquam A reiciendis deleniti molestias.
+
+Grand Total: $12611
+
+Rate
+$868
+$608
+
+$591
+
+Quantity
+7
+2
+
+9
+
+Total
+$6076
+$1216
+
+$5319

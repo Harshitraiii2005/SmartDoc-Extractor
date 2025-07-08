@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-33943
+
+Invoice Date: 12-02-2025
+
+Issued By:
+
+Garde, Kota and Bedi
+
+76 Rastogi Circle, Phagwara 924868
+Billed To:
+
+Lanka PLC
+
+85 lyengar Path Rohtak 613979
+
+GSTIN: Uu160127wP326Z6
+
+Item Description
+
+Reprehenderit | Accusantium quas earum.
+
+Reiciendis Magni ullam adipisci rerum impedit.
+Laboriosam Consectetur debitis facilis eligendi numquam.
+Error Nihil itaque esse.
+
+Illum lusto vel.
+
+Grand Total: %64323
+
+Rate
+
+%1775
+
+%3260
+
+%4445
+
+%522
+
+%3629
+
+Quantity
+3
+
+7
+
+Total
+
+25325
+
+222820
+
+213335
+
+24698
+
+%18145

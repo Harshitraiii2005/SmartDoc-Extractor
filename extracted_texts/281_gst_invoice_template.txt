@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7220
+Date: 19 May 2025
+
+Supplier
+
+Matthews LLC
+
+47935 Michelle Orchard New Zacharyhaven, KY 10269
+GSTIN: 426626075026
+
+Contact: +1-263-481-2487x64430
+
+Buyer
+
+Carroll LLC
+
+0284 Lauren Row Warrenshire, AZ 84282
+GSTIN: 911205256576
+
+Contact: 938.932.8663x77564
+
+Place of Supply: Nguyenborough
+
+jinvestment ‘| 4645 /3 | $700.13 $2100.39 $189.04 |$189.04 | $2478.46
+/Study ‘| 3615 [7 | $575.91 $4031.37 $362.82 |$362.82 | $4757.02
+
+Sub Total: $624.31
+
+CGST: $93.16
+
+SGST: $134.4
+
+Grand Total: $1208.1
+
+Amount in Words: 3221 dollars only
+
+PO Number: PO-3646
+
+Terms: Power lot sell artist recently for player.
+
+Reverse Charge: Yes

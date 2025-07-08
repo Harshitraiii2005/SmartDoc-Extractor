@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-494166
+
+Date: 09 Jul 2024
+
+Consignor:
+
+Rastogi and Sons
+
+22/60 Bhat Ganj, Firozabad 909688
+Consignee:
+
+Chokshi-Gour
+
+25 Sekhon Marg Sikar-186347
+Vehicle No: ej58md9447
+
+GSTIN: Nw083872Ty966Z2
+
+Item Description
+
+Nihil Quam cum laudantium.
+
+Nulla Incidunt quam tempora natus.
+
+Quantity
+28
+
+38
+
+Value
+$26593
+
+$36334

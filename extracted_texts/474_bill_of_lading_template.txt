@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9492
+Date: 08 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Continue
+
+Port of Loading: Port Donald
+Port of Discharge: Anthonyshire
+Place of Delivery: New Colton
+
+Container No: CONT-9341
+Marks: Professional
+
+Description of Goods: And
+
+Gross Weight: 2159 kg
+Measurement: 20 cbm
+Freight Terms: Collect
+
+BILL OF LADING

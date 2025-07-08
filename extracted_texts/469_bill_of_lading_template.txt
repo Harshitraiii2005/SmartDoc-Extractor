@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9689
+Date: 30 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Painting
+
+Port of Loading: Curtisland
+Port of Discharge: Port Tina
+Place of Delivery: Brownbury
+
+Container No: CONT-8664
+Marks: Choose
+
+Description of Goods: Who
+
+Gross Weight: 3989 kg
+Measurement: 15 cbm
+Freight Terms: Collect
+
+BILL OF LADING

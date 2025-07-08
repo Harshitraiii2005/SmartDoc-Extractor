@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-58958
+
+Date: 28 Nov 2023
+
+From:
+
+Ramakrishnan, Virk and Madan
+514, Bora Circle Mangalore 950161
+To:
+
+Ben, Loyal and Kade
+
+H.No. 62 Bal Ganj, Jabalpur 899387
+Amount Paid: $7661
+
+Payment Mode: UPI

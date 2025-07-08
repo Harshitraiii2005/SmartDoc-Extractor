@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-87573
+
+Date: 17-06-2025
+
+From:
+
+Jhaveri, Bail and Kumer
+
+60/32 Mangat Nagar, Vijayawada 341661
+Billed To:
+
+Solanki, Yogi and Bakshi
+
+74, Vala Marg, Sultan Pur Majra-364455
+
+GSTIN: ru102649nN72521
+
+Item Description
+
+Incidunt Officiis soluta repellat mollitia.
+Nisi Velit laborum commodi optio.
+Modi Accusamus dicta.
+Necessitatibus Saepe possimus voluptas dolor.
+
+Grand Total: =37505
+
+Rate
+
+=1747
+
+%3782
+
+22284
+
+22642
+
+Quantity
+3
+
+1
+
+Total
+
+25241
+
+%3782
+
+20556
+
+7926

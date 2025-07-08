@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5464
+Date: 22 Jun 2025
+
+Exporter
+
+Miller-Glass
+6685 Vasquez Meadow Apt. 966 West Cynthia, IN 38403
+
+Importer
+
+Walker and Sons
+43835 Debra Fall Apt. 042 Juliehaven, WI 17866
+
+Buyer Ref: df96af3d-2ddb-4c54-9f49-44232b2e9811
+Origin: Togo
+Destination: Iceland
+
+Currency: EUR
+Incoterms: CIF
+
+Walk 6963 $359.7 $1697.78
+8900 $117.37 $553.99
+
+Whatever 9440 $108.18 $1276.52
+Car 6387 $304.66 $1078.5
+
+Freight: $304.67
+Insurance: $160.87
+Total Invoice Value: $4369.54

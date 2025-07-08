@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-66001
+
+Date: 17-05-2025
+
+Issued By:
+
+Master LLC
+
+148, Deol Chowk Haldia-749064
+
+To:
+
+Gera-Toor
+
+H.No. 060, Khare Road Nizamabad-389109
+
+GSTIN: gK3711950C31527
+
+Item Description Rate
+Ullam Inventore tempora. 22880
+Magni Ut delectus autem. 21337
+
+Grand Total: =13988
+
+Quantity
+3
+
+4
+
+Total
+
+%8640
+
+25348

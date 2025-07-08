@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-98394
+
+Invoice Date: 22-02-2025
+
+Issued By:
+
+Desai-Krishnan
+
+27, Lalla Chowk Mathura-624633
+
+Billed To:
+
+Ramanathan Ltd
+
+00/68 Sur Zila, Ozhukarai 238124
+
+GSTIN: Uc192530IH006Z0
+
+Item
+Eveniet
+Officia
+Quo
+Possimus
+
+Ab
+
+Description
+Nesciunt ex culpa.
+Dolor ducimus.
+
+Officiis quo.
+
+Incidunt quibusdam non nisi.
+
+Recusandae minima deleniti.
+
+Grand Total: €82866
+
+Rate
+
+€4415
+
+€1100
+
+€1629
+
+€1536
+
+€3474
+
+Quantity
+7
+
+2
+
+Total
+
+€30905
+
+€2200
+
+€8145
+
+€13824
+
+€27792

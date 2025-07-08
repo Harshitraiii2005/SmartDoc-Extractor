@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-81597
+
+Date: 16/12/2024
+
+Issued By:
+
+Korpal, Sura and Gokhale
+
+59/86, Shroff Road, Bangalore-436547
+Billed To:
+
+Warrior, Ravel and Ravel
+
+83/51 Mammen Udaipur 330198
+
+GSTIN: WR692703Fm767Z6
+
+Item Description Rate
+In Sunt dolorum quo consequuntur dolor. €1748
+Necessitatibus Eius nisi odit tenetur sed. €4216
+
+Grand Total: €19948
+
+Quantity
+9
+
+1
+
+Total
+
+€15732
+
+€4216

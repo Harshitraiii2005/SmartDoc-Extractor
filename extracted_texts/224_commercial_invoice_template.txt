@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8733
+Date: 12 Mar 2025
+
+Exporter
+
+Sutton, Ashley and Pena
+106 Whitaker Stravenue Brucechester, WI 49249
+
+Importer
+
+Collins, Ruiz and Ramirez
+0527 Odonnell Haven Suite 573 East Deborahchester, CA 76464
+
+Buyer Ref: 37427fdc-ba19-4104-8039-fc368b804270
+Origin: Ghana
+Destination: Russian Federation
+
+Currency: USD
+Incoterms: EXW
+
+Memory 2527 Bo $888.78 $8390.08
+
+Soldier 3141 $487.03 $5746.95
+Several 7304 6 $595.63 $4217.06
+
+Freight: $253.89
+
+Insurance: $66.83
+
+Total Invoice Value: $3066.6

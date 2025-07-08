@@ -1,0 +1,78 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-34560
+
+Date: 18 May 2024
+
+Issued By:
+Date-Swamy
+
+H.No. 527, Chowdhury Circle Raebareli-912530
+
+To:
+
+Sekhon-Bakshi
+
+078 Chandra Zila, Nagaon-899512
+
+GSTIN: Pf449227ME32824
+
+Item
+Labore
+Nulla
+Perspiciatis
+Ipsa
+
+Quos
+
+Nobis
+
+Description
+Error blanditiis.
+Similique eveniet itaque.
+
+Fuga minima delectus nisi.
+
+Doloribus amet saepe placeat.
+
+Corporis at cumque.
+
+Quod aliquam harum quos.
+
+Grand Total: €99222
+
+Rate
+
+€2996
+
+€3888
+
+€3522
+
+€1182
+
+€2894
+
+€1964
+
+Quantity
+8
+
+3
+
+Total
+
+€23968
+
+€11664
+
+€14088
+
+€10638
+
+€23152
+
+€15712

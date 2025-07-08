@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-36676
+
+Date: 30-11-2023
+
+From:
+
+Mander LLC
+
+H.No. 47 Talwar Nagar Ramagundam-886989
+To:
+
+Chada PLC
+
+H.No. 69 Chowdhury Path Dhanbad-399572
+Amount Paid: €15534
+
+Payment Mode: UPI

@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-9410
+Date: 07 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Join
+
+Port of Loading: Moyerton
+
+Port of Discharge: Lake Tonyhaven
+Place of Delivery: Victoriatown
+
+Container No: CONT-2353
+Marks: Material
+
+Description of Goods: Use
+
+Gross Weight: 3164 kg
+Measurement: 18 cbm
+Freight Terms: Collect
+
+BILL OF LADING

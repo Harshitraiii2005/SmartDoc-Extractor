@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-61760
+
+Invoice Date: 25/07/2023
+
+Issued By:
+
+Saha, Vaidya and Sahota
+
+H.No. 04, Luthra Path Ludhiana 963897
+To:
+
+Chauhan Group
+
+35 Thaker Zila, Rajour Sonarpur-497970
+
+GSTIN: VK748220cF986Z1
+
+Item Description Rate
+Quae A pariatur. €1587
+Qui Voluptatibus ut. €2154
+
+Grand Total: €23580
+
+Quantity
+4
+
+8
+
+Total
+
+€6348
+
+€17232

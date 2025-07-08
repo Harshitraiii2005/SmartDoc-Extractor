@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-535869
+
+Date: 09-03-2024
+
+Consignor:
+
+Bhasin-Talwar
+
+H.No. 71 Kala Chowk Ambala 803365
+Consignee:
+
+Biswas LLC
+
+03/79, lyer Road Pimpri-Chinchwad-220581
+Vehicle No: KO880s2812
+
+GSTIN: FG865740vF674Z24
+
+Item Description
+Fugit Dolor nam sapiente quam.
+Recusandae Quod enim non totam deserunt.
+
+Error Rerum explicabo.
+
+Quantity
+26
+34
+
+6
+
+Value
+$5618
+$45269
+
+$17802

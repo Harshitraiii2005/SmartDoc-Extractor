@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-8101
+Date: 03 Jul 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Newspaper
+
+Port of Loading: Lake Charles
+
+Port of Discharge: Fernandezborough
+Place of Delivery: East Matthew
+
+Container No: CONT-6173
+Marks: Notice
+
+Description of Goods: Thing
+
+Gross Weight: 1264 kg
+Measurement: 10 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

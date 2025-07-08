@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9131
+Date: 01 Jan 2025
+
+Exporter
+
+Henson, Perez and Ford
+126 Smith Land Suite 997 East Reginaside, NC 10929
+
+Importer
+
+Kelly, Harris and Daniels
+52040 Ortiz Island Colemanside, AS 15032
+
+Buyer Ref: 3effc83d-844a-4cf8-8105-26aae43a09ee
+Origin: Paraguay
+Destination: Malaysia
+
+Currency: USD
+Incoterms: FOB
+
+Key 6952 $844.17 $3984.48
+Indicate 7873 Bo $198.54 $1874.22
+
+Activity 2470 Bo $723.04 $6825.5
+Each 1671 $819.0 $6764.94
+Plant 5659 Bo $807.79 $7625.54
+
+Freight: $262.46
+Insurance: $151.57
+
+Total Invoice Value: $1003.54

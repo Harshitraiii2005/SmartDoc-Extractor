@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-52743
+
+Invoice Date: 19/05/2025
+
+Issued By:
+
+Kaur-Bedi
+
+14/19 Bhandari Road Amaravati 281610
+Billed To:
+
+Krishna-Venkatesh
+
+760, Kapadia Marg Adoni-100700
+
+GSTIN: Un933718gq309Z7
+
+Item Description
+
+Esse lpsam itaque sit cum voluptatum.
+Quidem Beatae vel odio.
+
+Et Facere dolor quis.
+
+Itaque Itaque a.
+
+Neque Cumque maiores sed quo ullam.
+
+Grand Total: $63851
+
+Rate
+
+$2885
+$2423
+$3573
+$1215
+
+$1974
+
+Quantity
+5
+
+5
+
+Total
+$14425
+$12115
+$25011
+$2430
+
+$9870

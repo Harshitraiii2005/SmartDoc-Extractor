@@ -1,0 +1,64 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-67255
+
+Date: 21-11-2023
+
+Issued By:
+
+Mangat, Bera and Bhagat
+
+397 Ben Marg Agartala 299401
+
+To:
+
+Agate, Hora and Guha
+
+75 Chokshi Chowk, Dindigul 972337
+
+GSTIN: vf262761eb812Z5
+
+Item Description
+
+Itaque Magnam animi saepe.
+
+Eaque Nostrum quos nihil.
+
+Laboriosam Corrupti beatae dolorem quae.
+Animi Libero velit numquam.
+
+Quae Libero eius quasi ipsum repellendus.
+
+Grand Total: %95826
+
+Rate
+
+21293
+
+24097
+
+%2869
+
+24927
+
+24729
+
+Quantity
+7
+
+9
+
+Total
+
+9051
+
+36873
+
+211476
+
+=14781
+
+223645

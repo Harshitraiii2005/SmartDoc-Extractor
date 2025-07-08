@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-816630
+Date: 09 Apr 2025
+Valid From: 26 Feb 2025 To 15 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-2363
+
+Transporter ID: TID-8904
+
+Transporter Name: Perkins, Moon and Flores
+
+Document Reference
+
+Type: Invoice
+No: DOC-2642
+
+Reason: Power federal travel.
+

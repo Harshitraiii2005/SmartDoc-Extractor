@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5527
+Date: 09 Jan 2025
+
+Supplier
+
+Nichols-Schroeder
+
+089 Simmons Greens Apt. 246 Lake Traviston, GU 67126
+GSTIN: 689443434316
+
+Contact: (251)940-0161x549
+
+Buyer
+
+Jordan, Newman and Phillips
+
+9534 Judy Orchard Suite 689 Port Katrinaport, TX 07679
+GSTIN: 309045116754
+
+Contact: 918-780-641 7x437
+
+Place of Supply: Lake Travisview
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Open 2013 /2 | $954.32 $1908.64 $171.78 | $171.78 | $2252.2
+
+Win 5782 fs | $283.14 $2265.12 $203.86  |$203.86 | $2672.84
+9357 $629.35 $629.35 $56.64 $56.64 $742.63
+
+Sub Total: $581.35
+
+CGST: $105.71
+
+SGST: $157.24
+
+Grand Total: $1961.67
+
+Amount in Words: 3431 dollars only
+PO Number: PO-4282
+
+Terms: Stage increase glass.
+
+Reverse Charge: Yes

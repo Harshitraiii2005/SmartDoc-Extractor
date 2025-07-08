@@ -1,0 +1,25 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-78962
+Date: 23 Apr 2025
+
+From:
+Saini, Halder and Basak
+H.No. 472 Ray Road, Loni 298261
+
+Billed To:
+Bir LLC
+H.No. 94 Sem Marg Siwan 424691
+
+GSTIN: sV811388pf886Z0
+
+Item Description Rate Quantity Total
+
+Dolores Nisi enim quidem. $1749 6 $10494
+Perspiciatis At veniam est aut labore. $2496 9 $22464
+Quod Repellendus dolore eligendi rerum. $2768 6 $16608
+
+Grand Total: $49566

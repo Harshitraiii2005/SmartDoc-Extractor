@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-65372
+
+Invoice Date: 15/10/2023
+
+From:
+
+Dutt, Gala and Hans
+
+242, Mandal Ganj Chapra-944509
+
+Billed To:
+
+Babu-Ratti
+
+70/92 Sangha Circle, Bongaigaon 832799
+
+GSTIN: yw026705wl615Z7
+
+Item Description
+Molestiae In ea recusandae totam adipisci.
+Error Facere rem.
+
+Doloremque Eius aut aperiam nesciunt voluptatibus.
+
+Dolore Fugiat ex perspiciatis illum eius.
+Ullam Aspernatur labore tempora sapiente.
+Magnam Hic consequatur omnis.
+
+Grand Total: $87776
+
+Rate
+
+$2125
+$2240
+$4585
+$4631
+$2120
+
+$627
+
+Quantity
+5
+
+1
+
+Total
+$10625
+$2240
+$36680
+$18524
+$19080
+
+$627

@@ -1,0 +1,52 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-15789
+
+Date: 18-05-2024
+
+Issued By:
+
+Chahal Ltd
+
+H.No. 98, Trivedi Nagar Vellore 651397
+Billed To:
+
+Yogi-Seth
+
+35 Borde Street Darbhanga-562802
+
+GSTIN: vs442243jr392Z2
+
+Item Description
+
+Placeat Dicta libero deserunt temporibus nisi.
+Possimus Quisquam quibusdam.
+
+Magnam Harum pariatur consequatur.
+
+Grand Total: %29029
+
+Rate
+
+2101
+
+%3700
+
+1070
+
+Quantity
+9
+1
+
+6
+
+Total
+
+=18909
+
+3700
+
+%6420

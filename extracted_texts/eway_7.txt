@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-801506
+
+Date: 29/12/2024
+
+Consignor:
+
+Edwin-Deo
+
+15 Basak Ganj, Dindigul 031893
+Consignee:
+
+Savant, Hayer and Korpal
+
+75/77 Gaba Street, Ghaziabad 640474
+Vehicle No: fB0OO0ODn9962
+
+GSTIN: 1j148720nq001Z8
+
+Item Description
+Ilum Veniam facilis ex necessitatibus est.
+Dolore Hic occaecati ad vel tempora.
+
+Ducimus Dignissimos voluptate quibusdam maiores.
+
+Quantity
+23
+5
+
+22
+
+Value
+$45666
+$43908
+
+$10310

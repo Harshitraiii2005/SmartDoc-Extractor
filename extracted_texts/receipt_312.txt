@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-19661
+
+Date: 09/03/2024
+
+From:
+
+Shenoy, Gupta and Grewal
+
+83 Taneja Chowk North Dumdum-951394
+
+To:
+
+Gaba, Joshi and Tripathi
+
+H.No. 40, Ganesan Nagar Aurangabad-402900
+Amount Paid: $39571
+
+Payment Mode: Cash

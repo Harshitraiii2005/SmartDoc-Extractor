@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6477
+Date: 03 May 2025
+
+Supplier
+
+Boyd-Daniels
+
+886 Ross Row Port Patrick, IN 07734
+GSTIN: 792344593734
+
+Contact: 805-372-6589x423
+
+Buyer
+
+Trevino-Powell
+
+8126 Heidi Harbor Suite 769 West James, DE 47840
+GSTIN: 756659072521
+
+Contact: 8235462335
+
+Place of Supply: South Teresamouth
+
+fBox «| 8902 7 | $64.39 $450.73 $40.57 |$40.57 | $531.86
+
+‘Treat =| 3201 18 | $54.19 $433.52 $39.02 | $39.02 | $511.55
+
+Sub Total: $1425.31
+
+CGST: $185.25
+
+SGST: $130.71
+
+Grand Total: $1988.79
+
+Amount in Words: 4501 dollars only
+
+PO Number: PO-5414
+
+Terms: Talk field morning sound ok seven no central.
+
+Reverse Charge: Yes

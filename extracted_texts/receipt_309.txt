@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-92576
+
+Date: 06-07-2024
+
+From:
+
+Shah Ltd
+
+95/656 Aggarwal Marg, Siwan-970928
+To:
+
+Sodhi-Dewan
+
+H.No. 223, Issac Nagar, Kadapa-047752
+Amount Paid: €9914
+
+Payment Mode: Cash

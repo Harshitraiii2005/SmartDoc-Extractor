@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-68565
+
+Invoice Date: 22-07-2023
+
+From:
+
+Sur, Basak and Kakar
+
+35, Hayer Marg Thoothukudi 315548
+Billed To:
+
+Ahuja-Sawhney
+
+18/488, Reddy Circle Gaya 797845
+
+GSTIN: KN905755WP3092Z9
+
+Item Description Rate
+
+Ipsum Ab accusamus labore quasi aut. $4610
+Consequatur Incidunt accusamus quam. $4248
+Dolor Quae beatae nesciunt. $2599
+
+Grand Total: $84472
+
+Quantity
+9
+4
+
+10
+
+Total
+$41490
+$16992
+
+$25990

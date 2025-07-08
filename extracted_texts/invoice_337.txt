@@ -1,0 +1,72 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-16610
+
+Invoice Date: 08-01-2025
+
+From:
+
+Swaminathan Inc
+
+086, Dhingra Circle, Durg-786405
+
+To:
+
+Wable-Upadhyay
+
+H.No. 81, Anand Ganj Dewas-261039
+
+GSTIN: vO710327ut742Z9
+
+Item
+Voluptatum
+Architecto
+Eos
+
+Ex
+
+Alias
+
+Description
+
+Esse placeat voluptatibus.
+
+Delectus quam doloribus ullam beatae.
+
+Saepe maxime pariatur quis id.
+Beatae consequatur tenetur impedit.
+
+Beatae facere dolor dolore.
+
+Grand Total: $52808
+
+Rate
+
+$2572
+$1564
+$4103
+$1222
+
+$505
+
+Quantity
+10
+
+10
+
+2
+
+1
+
+4
+
+Total
+$25720
+$15640
+$8206
+$1222
+
+$2020

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73408
+
+Date: 17-07-2024
+
+From:
+
+D’Alia, Sarkar and Dugar
+
+54/818, Sachdeva Nagar Sirsa 988738
+To:
+
+Krishnamurthy, Balan and Kumar
+
+H.No. 661, Virk Road, Begusarai-146378
+Amount Paid: €48579
+
+Payment Mode: Net Banking

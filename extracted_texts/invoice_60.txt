@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-33664
+
+Invoice Date: 14 May 2024
+
+From:
+
+Bahl-Ravi
+
+88/558, Tiwari, Nagaon-995446
+Billed To:
+
+Dugar-Balakrishnan
+
+27 Gaba Circle Kumbakonam-901190
+
+GSTIN: EH9108470Y875Z27
+
+Item Description
+
+Reprehenderit Blanditiis error nam ipsa.
+
+Quidem Hic distinctio voluptatem sint.
+Deserunt Modi reprehenderit labore temporibus.
+
+Grand Total: €89527
+
+Rate
+
+€4369
+
+€4776
+
+€2796
+
+Quantity
+7
+
+10
+
+Total
+
+€30583
+
+€47760
+
+€11184

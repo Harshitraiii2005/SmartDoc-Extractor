@@ -1,0 +1,82 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No:
+
+INV-46854
+
+Date: 22-03-2025
+
+Issued By:
+
+Chopra-Yohannan
+30/63, Bhatnagar Nagar, Nanded-449875
+
+Billed To:
+
+Rout, Lad and Shroff
+424, Salvi Path Bhusawal-883819
+
+GSTIN: Ae319721V1l423Z5
+
+Item
+Optio
+Error
+Explicabo
+Eum
+Itaque
+
+Ullam
+
+Grand Total
+
+Description
+
+Odit velit veritatis.
+
+Accusantium mollitia soluta amet consequatur.
+
+Incidunt aliquid.
+Quam officia nisi consequatur exercitationem.
+Eligendi enim fuga.
+
+Itaque fugit facere recusandae aliquam.
+
+: 788085
+
+Rate
+
+24637
+
+1803
+
+=1667
+
+%2356
+
+21153
+
+%3854
+
+Quantity
+1
+
+5
+
+10
+
+Total
+
+24637
+
+9015
+
+%6668
+
+%18848
+
+%10377
+
+%38540

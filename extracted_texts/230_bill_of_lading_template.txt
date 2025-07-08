@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-1213
+Date: 29 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Before
+
+Port of Loading: Ramirezmouth
+
+Port of Discharge: Trujillochester
+Place of Delivery: West Michaelburgh
+
+Container No: CONT-5213
+Marks: Opportunity
+
+Description of Goods: Different
+
+Gross Weight: 4710 kg
+Measurement: 12 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-50486
+
+Invoice Date: 25/05/2024
+
+From:
+
+Aurora and Sons
+
+H.No. 410, Suri Circle, Kavali 949261
+Billed To:
+
+Agrawal-Srinivas
+
+11/765, Dass Street Kamarhati-108134
+
+GSTIN: Hr532433wv889Z6
+
+Item Description Rate
+
+Vero Sequi deserunt earum ut. $2494
+Labore Cum nulla. $1791
+Nobis Nihil expedita. $2167
+
+Grand Total: $30240
+
+Quantity
+2
+2
+
+10
+
+Total
+$4988
+$3582
+
+$21670

@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-52683
+
+Date: 05/11/2023
+
+Consignor:
+
+Jayaraman, Aurora and Ratti
+
+62, Sen Nagar Satna 568343
+Consignee:
+
+Kota, Sarraf and Karpe
+
+H.No. 411 Chanda Path Nashik 399574
+Vehicle No: dh95zD1001
+
+GSTIN: iM785003aC54321
+
+Item Description
+
+Dicta Magnam mollitia voluptas.
+
+Molestiae Dignissimos recusandae magnam autem provident.
+
+Quantity
+40
+
+21
+
+Value
+
+%8042
+
+%14953

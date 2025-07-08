@@ -1,0 +1,77 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-32849
+
+Date: 20-04-2024
+
+Issued By:
+
+Biswas, Keer and Vig
+H.No. 71, Goel Ganj Udaipur 839933
+
+Billed To:
+
+Trivedi, Bahri and Kadakia
+H.No. 86, Shanker Circle, Chennai 809030
+
+GSTIN: vf402503Nq51524
+
+Item
+Recusandae
+Fugit
+Aliquid
+
+Vero
+Delectus
+
+lpsam
+
+Description
+
+Cumaque molestias alias aut.
+Neque quidem tempora.
+Voluptatum repudiandae.
+
+Cum dolorum debitis culpa ad.
+
+Sequi incidunt velit exercitationem.
+
+Non aliquam veritatis numquam.
+
+Grand Total: =75374
+
+Rate
+
+21257
+
+%3427
+
+2259
+
+24257
+
+2410
+
+3626
+
+Quantity
+9
+
+5
+
+Total
+
+211313
+
+217135
+
+%11295
+
+24257
+
+=16870
+
+=14504

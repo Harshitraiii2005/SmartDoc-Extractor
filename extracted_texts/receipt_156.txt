@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-71465
+
+Date: 01-10-2024
+
+From:
+
+Brar Ltd
+
+60 Chana Chowk, Raipur 057525
+To:
+
+Sani, Bora and Dalal
+
+887 Johal Zila, Pudukkottai 226067
+Amount Paid: €23709
+
+Payment Mode: Cash

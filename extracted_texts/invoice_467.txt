@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-36376
+
+Date: 21 Nov 2024
+
+From:
+
+Sani-Mand
+
+95, Srinivas Zila Junagadh 429441
+Billed To:
+
+Jain Group
+
+428, Edwin Nagar, Mysore-385643
+
+GSTIN: 1J967258cY010Z7
+
+Item Description Rate
+Modi Porro inventore tenetur. 22993
+Nulla Rerum eligendi nostrum. =1350
+
+Grand Total: 39087
+
+Quantity
+9
+
+9
+
+Total
+
+226937
+
+12150

@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-96061
+
+Date: 25-07-2024
+
+From:
+
+Chawla, Tak and Roy
+
+37/61 Srivastava Circle Shahjahanpur 583193
+To:
+
+Kothari, Sarkar and Bakshi
+
+H.No. 319 Bhatti Nagar, Haldia-205934
+
+GSTIN: Z2q649033Cm424Z6
+
+Item Description Rate
+
+Numquam Quos temporibus temporibus. $2615
+Dolorum Eveniet inventore. $4286
+Excepturi Quod occaecati accusantium quam. $3284
+
+Grand Total: $60835
+
+Quantity
+3
+
+7
+
+Total
+$7845
+$30002
+
+$22988

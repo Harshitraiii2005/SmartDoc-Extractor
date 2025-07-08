@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-626298
+
+Date: 18-01-2024
+
+Consignor:
+
+Sankaran Inc
+
+169 Gole Path, Coimbatore-111033
+
+Consignee:
+
+Bandi-Chander
+
+H.No. 095 Balakrishnan Road Tirunelveli-228987
+Vehicle No: vd230K2291
+
+GSTIN: De115929kA64226
+
+Item Description
+
+Molestias Vero et doloremque.
+
+Ad Excepturi iure quod architecto.
+Mollitia Repellat ratione dolor.
+
+Exercitationem Magni pariatur qui sint.
+
+Quantity
+4
+
+50
+
+37
+
+33
+
+Value
+
+16259
+
+43089
+
+247652
+
+32201

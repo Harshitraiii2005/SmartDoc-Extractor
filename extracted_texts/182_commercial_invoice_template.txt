@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9540
+Date: 09 Jun 2025
+
+Exporter
+
+Adams-Bradley
+PSC 2009, Box 8680 APO AP 69386
+
+Importer
+
+Wilkerson-Cannon
+027 Dawn Lights New Jeremy, AS 58846
+
+Buyer Ref: 698f10c0-a79d-42cf-8936-cbdfaa31b13c
+Origin: Chile
+Destination: Switzerland
+
+Currency: INR
+Incoterms: EXW
+
+Network 7856 Bo $124.08 $1171.32
+Glass 3284 6 $974.28 $6897.9
+
+Freight: $282.33
+
+Insurance: $148.22
+Total Invoice Value: $2500.21

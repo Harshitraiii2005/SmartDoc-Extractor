@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-40368
+
+Date: 29-03-2024
+
+Issued By:
+
+Walia Group
+
+H.No. 681, Saxena Zila Lucknow 849940
+Billed To:
+
+Bala LLC
+
+71/85, Dua Zila, Bhind-538922
+
+GSTIN: Gp998547SD075Z2
+
+Item Description Rate
+Quae Debitis repellendus nobis architecto. 24688
+Vel Optio quia deserunt. %3107
+
+Grand Total: %45189
+
+Quantity
+5
+
+7
+
+Total
+
+%23440
+
+221749

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-54647
+
+Date: 14/06/2025
+
+From:
+
+Kari-Ram
+
+116 Rama, Buxar 097555
+
+To:
+
+Dani, Sura and Tata
+
+42/51 Gill Chowk Meerut-707911
+Amount Paid: $11794
+
+Payment Mode: Card

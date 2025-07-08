@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-41660
+
+Invoice Date: 21/11/2023
+From:
+
+Mahajan, Sachdeva and Bhatti
+10/506 Bandi Ambattur 843542
+To:
+
+Hegde-Chandran
+
+89 Kata Ganj Noida-767032
+
+GSTIN: Nr988430kJ95425
+
+Item Description Rate
+
+Aliquam Deleniti corporis architecto saepe occaecati. $2077
+Aliquam Officia voluptates ullam excepturi. $3834
+Aliquam Deserunt voluptatum quaerat eaque. $4375
+
+Grand Total: $50028
+
+Quantity
+3
+8
+
+3
+
+Total
+$6231
+$30672
+
+$13125

@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-6126
+
+Date: 19 Mar 2025
+
+Issued By:
+
+Aurora LLC
+
+81/587 Mani Chowk Aizawl 706971
+
+To:
+
+Roy Ltd
+
+82/33 Kunda Street Darbhanga-721473
+
+GSTIN: uH048389uT89524
+
+Item Description
+Fugit Maxime eum libero vero.
+Alias Maiores corporis voluptates explicabo.
+
+Eveniet Sint ea quisquam quo.
+
+Grand Total: $40006
+
+Rate
+$3171
+$1031
+
+$3168
+
+Quantity
+1
+5
+
+10
+
+Total
+$3171
+$5155
+
+$31680

@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-65349
+
+Invoice Date: 23-01-2024
+
+From:
+
+Raval PLC
+
+337 Mangat, Raurkela Industrial Township 114687
+Billed To:
+
+Srivastava Inc
+
+93/02 Bora Nagar Morbi-361529
+
+GSTIN: nY¥225960KT074Z0
+
+Item Description Rate
+Culpa Tempore totam earum. $4021
+Eos Aliquid consectetur non reiciendis. $3943
+
+Grand Total: $23892
+
+Quantity
+3
+
+3
+
+Total
+$12063
+
+$11829

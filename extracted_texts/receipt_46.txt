@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-84823
+
+Date: 11 Apr 2025
+
+From:
+
+Keer, Agrawal and Lala
+
+783, Bahl Circle Danapur 589973
+
+To:
+
+Bhat Inc
+
+H.No. 99 Sachar Ganj, Anmednagar-709974
+Amount Paid: $36221
+
+Payment Mode: UPI

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-99843
+
+Date: 08-02-2025
+
+From:
+
+Char-Yogi
+
+18/47 Balan Road Durgapur-815765
+To:
+
+Dass, Chadha and Sanghvi
+
+71/861 Walia Faridabad-123027
+Amount Paid: $7327
+
+Payment Mode: UPI

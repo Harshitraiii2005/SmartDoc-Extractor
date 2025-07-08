@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3403
+Date: 12 Apr 2025
+
+Supplier
+
+Owen-Smith
+
+0245 Carter Village Suite 116 West Whitney, NC 79563
+GSTIN: 822768140987
+
+Contact: +1-317-521-2789
+
+Buyer
+
+Scott Group
+
+14665 Becker Coves Apt. 168 Josephberg, MP 51930
+GSTIN: 254334944371
+
+Contact: 4854297813
+
+Place of Supply: Tonyburgh
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Fund 8244 fo | $254.67 $2292.03 $206.28 | $206.28 | $2704.6
+Usually 4165 $243.55 $487.1 $43.84 |$43.84 | $574.78
+
+Produce 2956 6 | $207.75 $1246.5 $112.19 |$112.19 | $1470.87
+Apply 5493 $199.62 $998.1 $89.83 | $89.83 $1177.76
+White 9906 $907.14 $4535.7 $408.21 | $408.21 | $5352.13
+
+Sub Total: $1428.49
+
+CGST: $111.51
+
+SGST: $98.6
+
+Grand Total: $1530.05
+
+Amount in Words: 4566 dollars only
+PO Number: PO-2801
+
+Terms: Suggest assume so girl.
+
+Reverse Charge: Yes

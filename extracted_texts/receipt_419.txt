@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-71797
+
+Date: 20/05/2025
+
+From:
+
+Hora, Dass and Kulkarni
+
+H.No. 482 Kale Nagar, Bhubaneswar 566902
+To:
+
+Verma and Sons
+
+H.No. 76, Devan Chowk Gulbarga-392746
+Amount Paid: $33926
+
+Payment Mode: UPI

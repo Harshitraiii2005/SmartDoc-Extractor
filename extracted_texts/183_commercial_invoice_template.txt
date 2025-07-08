@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9948
+Date: 04 Feb 2025
+
+Exporter
+
+Berry, Evans and Wilson
+8335 Sheppard Summit Suite 482 Lake Holly, GU 26401
+
+Importer
+
+Butler-Dorsey
+8431 Hill Lodge Farmerchester, GA 03271
+
+Buyer Ref: d131c06f-d639-4194-bf2c-95bcd593b155
+Origin: Kuwait
+Destination: Azerbaijan
+
+Currency: EUR
+Incoterms: EXW
+
+Gun 8932 $720.08 $5947.86
+
+Freight: $499.13
+
+Insurance: $106.88
+Total Invoice Value: $4175.85

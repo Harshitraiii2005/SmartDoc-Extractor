@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-71270
+
+Date: 07 Dec 2024
+
+From:
+
+Kashyap, Dhillon and Kunda
+
+H.No. 701, Lall Path, Mysore-475281
+To:
+
+Jha-Tara
+
+H.No. 38 Chadha Path Shimoga 385063
+Amount Paid: $47642
+
+Payment Mode: UPI

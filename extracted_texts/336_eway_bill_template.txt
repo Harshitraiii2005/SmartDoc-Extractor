@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-887460
+Date: 30 Mar 2025
+Valid From: 28 Jan 2025 To 16 Mar 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-8337
+Transporter ID: TID-6608
+Transporter Name: Evans Inc
+
+Document Reference
+
+Type: Invoice
+No: DOC-3594
+
+Taxable Value Tax Rate (%)
+
+Reason: Another end.
+

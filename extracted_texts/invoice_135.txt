@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-83531
+
+Date: 05 Mar 2025
+
+Issued By:
+
+Hegde LLC
+
+H.No. 977 Agate Ganj, Thanjavur-669583
+Billed To:
+
+Mangat-Mahal
+
+H.No. 186 Ravel Nagar, Katni-085855
+
+GSTIN: EZ420566D10592Z8
+
+Item Description Rate
+
+Officia Suscipit eveniet libero. €3871
+Adipisci Odit blanditiis. €3421
+Voluptate Tempora ducimus cum. €3228
+
+Grand Total: €50221
+
+Quantity
+1
+6
+
+8
+
+Total
+
+€3871
+
+€20526
+
+€25824

@@ -1,0 +1,52 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-88054
+
+Invoice Date: 29-03-2025
+
+From:
+
+Wali LLC
+
+10/775 Sami Ganj, Berhampur 398975
+
+To:
+
+Rege, Kapoor and Manne
+
+H.No. 486, Chahal Marg Miryalaguda 662061
+
+GSTIN: mz6068081g200Z7
+
+Item Description
+
+Optio Consequuntur dolores quidem ullam.
+Hic Cum optio nostrum magnam.
+Delectus Dicta ducimus ut.
+
+Perspiciatis Voluptatem tempore.
+
+Grand Total: $103632
+
+Rate
+
+$4592
+$3386
+$3523
+
+$4357
+
+Quantity
+10
+
+1
+
+Total
+$45920
+$3386
+$28184
+
+$26142

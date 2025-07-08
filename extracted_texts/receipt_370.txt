@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14568
+
+Date: 24 Nov 2023
+
+From:
+
+Ramesh Inc
+
+H.No. 719, Wason Ganj, Dhanbad 384881
+To:
+
+Krishnamurthy LLC
+
+180, Hayre Road, Kadapa-150537
+Amount Paid: $25581
+
+Payment Mode: Card

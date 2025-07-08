@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8280
+Date: 31 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Political
+
+Port of Loading: Lake Mary
+Port of Discharge: New Howard
+Place of Delivery: Nobleside
+
+Container No: CONT-2076
+Marks: Relate
+
+Description of Goods: Week
+
+Gross Weight: 3988 kg
+Measurement: 11 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

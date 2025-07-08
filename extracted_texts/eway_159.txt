@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-511096
+
+Date: 28-04-2024
+
+Consignor:
+
+Chowdhury, Bajaj and Sarkar
+
+24 Singhal Marg Sangli-Miraj & Kupwad-970477
+Consignee:
+
+Luthra Group
+
+266 Acharya Ganj, Sultan Pur Majra 466691
+Vehicle No: gu26PA7491
+
+GSTIN: tV366214ee589Z2
+
+Item Description
+
+Reprehenderit Veniam pariatur delectus.
+
+Cupiditate Excepturi optio voluptatibus ipsum.
+
+Quantity
+25
+
+10
+
+Value
+$8346
+
+$13164

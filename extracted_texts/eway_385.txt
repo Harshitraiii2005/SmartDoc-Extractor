@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-14638
+
+Date: 20 Sep 2023
+
+Consignor:
+
+Shere Inc
+
+56/69, Dixit Chowk Haldia-668780
+Consignee:
+
+Sur Ltd
+
+67, Taneja Nagar, Saharsa-987000
+Vehicle No: TE81Vt6628
+
+GSTIN: rb288873YQ34921
+
+Item Description
+Modi Optio ipsum quod animi.
+Dolorum Occaecati consectetur eius.
+
+Molestias Cupiditate ullam voluptatibus.
+
+Quantity
+9
+
+6
+
+Value
+
+€10945
+
+€17064
+
+€6308

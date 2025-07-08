@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-61406
+
+Date: 18-03-2025
+
+From:
+
+Amble-Konda
+
+H.No. 21, Roy Nagar, Bidar-608576
+To:
+
+Kapoor, Ravi and Chand
+
+H.No. 798 Thaker Mirzapur 802490
+Amount Paid: $16740
+
+Payment Mode: Card

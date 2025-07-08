@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9204
+Date: 02 May 2025
+
+Supplier
+
+Williams, Merritt and Murray
+
+5968 Bauer Port Apt. 673 East Rebeccaside, CA 99916
+GSTIN: 281716055907
+
+Contact: +1-257-390-8330x57669
+
+Buyer
+
+Smith-Scott
+
+504 Robert Camp Apt. 957 Lake Henry, WV 75646
+GSTIN: 324216063602
+
+Contact: (800)855-3699x39481
+
+Place of Supply: North Alexis
+
+ty ss 7676 /1 | $443.95 $443.95 $39.96 |$39.96 | $523.86
+
+Social «| 2388 }10 | $152.22 $1522.2 $137.0 |$137.0 | $1796.2
+
+Sub Total: $1006.8
+
+CGST: $64.32
+
+SGST: $50.54
+
+Grand Total: $1838.96
+
+Amount in Words: 3382 dollars only
+
+PO Number: PO-2258
+
+Terms: None notice throughout condition.
+
+Reverse Charge: No

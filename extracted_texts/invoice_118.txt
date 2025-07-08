@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-59926
+
+Date: 06 Feb 2024
+
+Issued By:
+Gopal-Walia
+
+28/13, Venkatesh Circle, Sri Ganganagar 719389
+
+Billed To:
+
+Bajaj and Sons
+
+077, Bhardwaj Road, Madanapalle-000798
+
+GSTIN: ie183266bk92924
+
+Item
+
+Quod
+Voluptas
+Porro
+Magni
+Voluptatum
+
+Molestiae
+
+Description
+
+Quae nesciunt blanditiis dolor.
+Possimus tempora voluptatum.
+Vero perferendis ex.
+
+Dolor odit blanditiis nulla.
+
+Nihil dolorum necessitatibus cum.
+
+Adipisci voluptas possimus animi.
+
+Grand Total: $97136
+
+Rate
+$874
+$3009
+$2144
+$3395
+$4460
+
+$3249
+
+Quantity
+10
+
+7
+
+Total
+$8740
+$21063
+$15008
+$27160
+$8920
+
+$16245

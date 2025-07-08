@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-27748
+
+Invoice Date: 20/08/2023
+
+Issued By:
+
+Saxena, Kant and Golla
+H.No. 914, Soni Zila Tiruchirappalli-549340
+
+To:
+
+Agrawal, Sagar and Bose
+H.No. 596 Karpe Path, Gorakhpur-738131
+
+GSTIN: rh6109321m524Z7
+
+Item
+
+Delectus
+Exercitationem
+Eligendi
+
+Id
+
+Veritatis
+
+Labore
+
+Grand Total: $86674
+
+Description
+
+Quasi et repudiandae excepturi.
+
+Quibusdam odit.
+
+Ullam laboriosam quia ut enim.
+Pariatur facere dolores.
+
+Sit sunt non cumque.
+
+lure ratione eum.
+
+Rate
+$1864
+$937
+$902
+$3816
+$3769
+
+$2827
+
+Quantity
+5
+
+10
+
+Total
+$9320
+$9370
+$6314
+$34344
+$18845
+
+$8481

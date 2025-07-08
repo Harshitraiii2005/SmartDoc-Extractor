@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-18574
+
+Date: 25-06-2025
+
+From:
+
+Balasubramanian-Dhingra
+
+03, Upadhyay Nagar, Chittoor 492105
+To:
+
+Saxena LLC
+
+H.No. 51 Ray Street, Belgaum-823696
+Amount Paid: %14435
+
+Payment Mode: Card

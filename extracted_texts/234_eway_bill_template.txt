@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-235070
+Date: 04 Feb 2025
+Valid From: 26 Mar 2025 To 03 Jul 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-2020
+Transporter ID: TID-5283
+Transporter Name: Dean-Cowan
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-6018
+
+oles
+
+Reason: Give speech.
+

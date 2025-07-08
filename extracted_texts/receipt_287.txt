@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-16269
+
+Date: 23 Jul 2023
+
+From:
+
+Salvi, Uppal and Khalsa
+
+H.No. 54 Kaul Ganj Bijapur-087278
+To:
+
+Dugar, Bala and Ratta
+
+05/68 Salvi Marg, Pudukkottai 428199
+Amount Paid: €12515
+
+Payment Mode: Card

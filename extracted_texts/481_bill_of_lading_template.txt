@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-8140
+Date: 27 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Parent
+
+Port of Loading: Heidiview
+
+Port of Discharge: Tammyfurt
+Place of Delivery: Lake Gregory
+
+Container No: CONT-1551
+Marks: Second
+
+Description of Goods: Fill
+
+Gross Weight: 1925 kg
+Measurement: 11 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

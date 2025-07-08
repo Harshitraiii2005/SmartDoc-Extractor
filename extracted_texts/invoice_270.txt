@@ -1,0 +1,66 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-56210
+
+Date: 01/09/2023
+
+Issued By:
+
+Goda-Ratti
+
+H.No. 330 Devi Circle, Shahjahanpur-164920
+Billed To:
+
+Goswami-Bath
+
+32, Buch Ganj, Anmedabad-756947
+
+GSTIN: Pj055719xD110Z1
+
+Item Description
+Culpa Tempora quisquam sunt.
+Corporis Nostrum incidunt.
+
+Laudantium — Velit voluptatibus corporis.
+
+Maiores Saepe eius.
+Inventore Hic distinctio enim quasi debitis.
+Ea Magnam dolore voluptatum magni molestias.
+
+Grand Total: €95841
+
+Rate
+
+€4462
+
+€3472
+
+€2872
+
+€2355
+
+€3735
+
+€3709
+
+Quantity
+2
+
+9
+
+Total
+
+€8924
+
+€31248
+
+€11488
+
+€7065
+
+€3735
+
+€33381

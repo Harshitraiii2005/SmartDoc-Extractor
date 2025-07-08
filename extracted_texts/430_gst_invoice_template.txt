@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2361
+Date: 26 Apr 2025
+
+Supplier
+
+Bradshaw PLC
+
+931 John Drives Apt. 461 New Valerie, IN 00573
+GSTIN: 368764283982
+
+Contact: +1-550-611-6375x3592
+
+Buyer
+
+Hernandez Group
+
+58507 Christopher Creek Lake Dennisstad, ID 28159
+GSTIN: 898958417686
+
+Contact: 001-746-484-4958
+
+Place of Supply: Adkinsmouth
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+East 1411 $470.5 $1882.0 $169.38 | $169.38 | $2220.76
+Man 8726 $397.59 $3975.9 $357.83 $357.83 $4691.56
+
+6632 8 | $79.57 $636.56 $57.29 $57.29 $751.14
+Him 7455 $863.31 $1726.62 $155.4 $155.4 $2037.41
+8493 $876.14 $876.14 $78.85 $78.85 $1033.85
+
+Sub Total: $1366.06
+
+CGST: $92.44
+
+SGST: $111.59
+
+Grand Total: $1390.41
+
+Amount in Words: 4439 dollars only
+PO Number: PO-1589
+
+Terms: North issue allow already.
+
+Reverse Charge: Yes

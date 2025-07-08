@@ -1,0 +1,66 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-29037
+
+Date: 09-07-2023
+
+Issued By:
+
+Tara-Kade
+
+092 Master Road, Bally-623468
+Billed To:
+
+Khosla-Bahri
+
+369, Issac Nagar, Tumkur 554004
+
+GSTIN: dN449617RR42224
+
+Item Description
+
+Laborum voluptate dignissimos temporibus
+consequuntur.
+
+Animi
+Deserunt Ab magnam ex optio.
+Quidem — Aliquam quisquam perspiciatis nostrum.
+
+Suscipit lpsam rem magnam.
+
+Eum Cum ducimus pariatur.
+
+Grand Total: 107838
+
+Rate
+
+22672
+
+24978
+
+%724
+
+24613
+
+24794
+
+Quantity
+
+4
+
+10
+
+Total
+
+=10688
+
+4978
+
+2896
+
+246130
+
+243146

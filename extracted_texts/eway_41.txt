@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-819014
+
+Date: 05/12/2024
+
+Consignor:
+
+Halder LLC
+
+47, Kamdar Circle, Anantapur-958722
+Consignee:
+
+Dhillon, Kata and Sen
+
+688 Balay Road Gurgaon-298007
+Vehicle No: hN12sa1653
+
+GSTIN: qX422186vw243Z5
+
+Item Description
+
+Sunt Aliquid impedit sit voluptatum.
+Inventore Sint mollitia aliquam alias.
+Nam Recusandae sed ad.
+
+Quantity
+16
+22
+
+38
+
+Value
+$36218
+$41656
+
+$42247

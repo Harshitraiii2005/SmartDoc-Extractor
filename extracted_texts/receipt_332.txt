@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-62125
+
+Date: 25-04-2025
+
+From:
+
+Dewan, Sankaran and Kar
+
+99 Sibal Path Guntur-067710
+
+To:
+
+Agate Group
+
+81/17, Khosla Street Pallavaram 154601
+Amount Paid: %6968
+
+Payment Mode: Net Banking

@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4369
+Date: 17 Jun 2025
+
+Supplier
+
+Huffman-Porter
+
+089 Thompson Springs Suite 016 South Alexaland, MP 86840
+GSTIN: 141537878279
+
+Contact: +1-257-868-4837x826
+
+Buyer
+
+Baker Inc
+
+588 Mays Drive Chentown, WY 52142
+GSTIN: 663720499431
+
+Contact: +1-529-581-4767x19320
+
+Place of Supply: South Frederickville
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Face 1062 $907.84 $2723.52 $245.12 |$245.12 | $3213.75
+Southern 7829 $609.76 $3048.8 $274.39  |$274.39 | $3597.58
+
+Attorney 2390 $439.84 $2199.2 $197.93 | $197.93 | $2595.06
+Listen 4246 $885.25 $6196.75 $557.71 | $557.71 | $7312.16
+Game 4706 $580.66 $1161.32 $104.52 |$104.52 | $1370.36
+
+Sub Total: $1448.08
+
+CGST: $162.17
+
+SGST: $54.62
+
+Grand Total: $1154.91
+
+Amount in Words: 3793 dollars only
+
+PO Number: PO-1208
+
+Terms: Although true most those administration never wind.
+
+Reverse Charge: Yes

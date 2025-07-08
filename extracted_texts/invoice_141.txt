@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-63389
+
+Date: 12/03/2025
+
+From:
+
+Bains Inc
+
+42, Srivastava Chowk Suryapet 834877
+Billed To:
+
+Bose LLC
+
+H.No. 747 Soni Chowk, Gandhidham 709779
+
+GSTIN: kb901293qM00224
+
+Item Description Rate
+
+Similique Expedita sunt nostrum. €2217
+Consectetur Voluptatem optio aut. €2745
+Placeat Voluptatum cupiditate. €2120
+
+Grand Total: €35515
+
+Quantity
+10
+
+1
+
+Total
+€22170
+€2745
+
+€10600

@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8488
+Date: 01 Mar 2025
+
+Supplier
+
+Williams LLC
+
+77604 Kelly Ford Jessicahaven, VT 90201
+GSTIN: 754121209007
+
+Contact: 001-891-902-7282
+
+Buyer
+
+Lee-Garcia
+
+1474 White Ville West Alex, NC 17752
+GSTIN: 750168793825
+
+Contact: (607)900-7668x44793
+
+Place of Supply: Lake Stephanieshire
+
+fown «| 1742 '6 | $280.67 $1684.02 $151.56 |$151.56 | $1987.14
+
+1307 $970.25 $970.25 $87.32 $87.32 $1144.89
+
+Sub Total: $613.99
+
+CGST: $120.76
+
+SGST: $58.11
+
+Grand Total: $1002.53
+
+Amount in Words: 1308 dollars only
+
+PO Number: PO-4554
+
+Terms: Husband degree through education care.
+
+Reverse Charge: Yes

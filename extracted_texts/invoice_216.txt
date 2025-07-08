@@ -1,0 +1,61 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-55934
+
+Date: 30 Jan 2025
+
+Issued By:
+
+Mandal, Hegde and Mandal
+
+20 Gopal Street Kumbakonam 532531
+Billed To:
+
+Bala LLC
+
+H.No. 982 Walia Marg, Durg-196696
+
+GSTIN: 0C966983Lb96224
+
+Item Description
+
+Omnis Error magnam animi eaque.
+Nostrum Totam enim maxime doloremque.
+Similique Necessitatibus minus dolorum.
+Doloremque Et praesentium nulla.
+
+Autem Perspiciatis facilis architecto.
+
+Grand Total: €69525
+
+Rate
+
+€3152
+
+€3760
+
+€4206
+
+€2717
+
+€4902
+
+Quantity
+9
+
+3
+
+Total
+
+€28368
+
+€11280
+
+€16824
+
+€8151
+
+€4902

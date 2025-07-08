@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-59815
+
+Date: 10-02-2024
+
+From:
+
+Handa Ltd
+
+63, Sethi Nagar Shimla 669340
+To:
+
+Vyas PLC
+
+53 Borde Circle, Belgaum 600470
+Amount Paid: 30302
+
+Payment Mode: Cash

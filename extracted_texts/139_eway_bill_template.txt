@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-977039
+Date: 18 May 2025
+Valid From: 26 Feb 2025 To 27 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-5878
+
+Transporter ID: TID-4152
+
+Transporter Name: Flores, Butler and Hernandez
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-7455
+
+Taxable Value Tax Rate (%)
+
+Reason: Hour even too.
+

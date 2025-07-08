@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-95244
+
+Date: 16/06/2024
+
+From:
+
+Sami PLC
+
+H.No. 05, Lall Chowk Nizamabad-400042
+To:
+
+Goswami, Guha and Kunda
+
+80/671, Hari Road Chandigarh-856548
+Amount Paid: $9556
+
+Payment Mode: Net Banking

@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-375011
+Date: 15/01/2025
+
+Consignor:
+
+Saha-Sen
+
+H.No. 44 Saha Zila, Aizawl 382036
+Consignee:
+
+Jain LLC
+
+H.No. 38, Sandal Belgaum-179182
+Vehicle No: O005rW3841
+
+GSTIN: ff961213rf600Z5
+
+Item Description
+
+Enim Saepe sapiente ipsum.
+
+Aut Voluptatibus qui fugit ipsa.
+
+Quantity
+21
+
+5
+
+Value
+$42182
+
+$8119

@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-854811
+
+Date: 14-12-2023
+
+Consignor:
+
+Viswanathan, Borde and Kothari
+
+88/670 Sagar Road, Phusro-324315
+Consignee:
+
+Sahni-Bera
+
+34/21 Ranganathan Marg, Jalandhar 494593
+Vehicle No: eA88zJ2589
+
+GSTIN: Yg483465mb5062Z2
+
+Item Description
+
+Rem Totam enim error sequi tempora.
+
+Quantity
+
+12
+
+Value
+
+%40847

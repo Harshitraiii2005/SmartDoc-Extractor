@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-396791
+
+Date: 29 Mar 2024
+
+Consignor:
+
+Ray-Rau
+
+97/78, Luthra Road, Ratlam 544896
+Consignee:
+
+Bora Inc
+
+65, Mall, Ichalkaranji 418666
+Vehicle No: fJ76Gb1486
+
+GSTIN: $j199510DI317Z0
+
+Item Description
+Suscipit Libero repudiandae repellendus.
+Laboriosam Dignissimos vitae.
+
+Eligendi Voluptatibus omnis saepe occaecati.
+
+Quantity
+25
+13
+
+5
+
+Value
+$15856
+$36398
+
+$36948

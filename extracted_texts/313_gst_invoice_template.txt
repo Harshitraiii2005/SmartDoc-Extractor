@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3082
+Date: 27 Apr 2025
+
+Supplier
+
+Roberts, Leon and Cooper
+
+482 Nathan Square Suite 603 Lake Monicaside, IL 19465
+GSTIN: 340436269535
+
+Contact: 750-682-6277x036
+
+Buyer
+
+Ewing, Jimenez and Wilson
+
+20053 Nicholas Pike Apt. 232 South Kathryn, MT 62016
+GSTIN: 652639406757
+
+Contact: 2148287987
+
+Place of Supply: East Joshua
+
+Te = | 8314 }2 | $666.95 $1333.9 $120.05 |$120.05 |$1574.0
+
+Later | 2508 fs | $491.7 $3933.6 $354.02 |$354.02 | $4641.65
+
+Sub Total: $773.32
+
+CGST: $71.58
+
+SGST: $59.99
+
+Grand Total: $1238.01
+
+Amount in Words: 2903 dollars only
+
+PO Number: PO-9934
+
+Terms: Dark third out physical begin fear.
+
+Reverse Charge: Yes

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14177
+
+Date: 28 Jul 2023
+
+From:
+
+Sarna, Swamy and Sekhon
+
+H.No. 911, Gopal Circle Ichalkaranji 800104
+To:
+
+Badami Group
+
+H.No. 06, Andra, Kharagpur-901000
+Amount Paid: 35002
+
+Payment Mode: UPI

@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-772436
+
+Date: 03/03/2024
+
+Consignor:
+
+Johal, Dugar and Hans
+
+H.No. 98, Thakur Path Kottayam-945569
+Consignee:
+
+Sen, Mangat and Loke
+
+582, Bajaj Ganj, Mumbai-132877
+Vehicle No: eG81gl3698
+
+GSTIN: wH709130ta085Z9
+
+Item Description Quantity
+
+In Ab quibusdam est. 1
+
+Value
+
+=19910

@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8319
+Date: 20 Jan 2025
+
+Supplier
+
+Farmer LLC
+
+921 Jesus Roads Apt. 553 East Kevinstad, DE 77795
+GSTIN: 172206016424
+
+Contact: 001-820-792-1974
+
+Buyer
+
+Brown, Moreno and Murphy
+
+3023 Henry Square East Stephenview, VI 31870
+GSTIN: 958746053909
+
+Contact: +1-914-648-1194
+
+Place of Supply: East Teresaport
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Occur 2552 $728.58 $5100.06 $459.01 | $459.01 | $6018.07
+Nearly 4136 fe | $596.04 $3576.24 $321.86 | $321.86 | $4219.96
+
+You 6012 $173.99 $1217.93 $109.61 |$109.61 | $1437.16
+She 7919 $316.41 $316.41 $28.48 $28.48 $373.36
+7631 $599.24 $5992.4 $539.32 | $539.32 | $7071.03
+
+Sub Total: $878.48
+
+CGST: $183.85
+
+SGST: $160.17
+
+Grand Total: $1390.4
+
+Amount in Words: 2751 dollars only
+PO Number: PO-4196
+
+Terms: Nearly chance young benefit.
+
+Reverse Charge: Yes

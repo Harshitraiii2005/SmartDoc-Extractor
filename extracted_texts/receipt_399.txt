@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-19535
+
+Date: 29-06-2025
+
+From:
+
+Sahota PLC
+
+14/759 Das Ganj, Bidhannagar 049616
+To:
+
+Contractor-Ahuja
+
+87/36 Rege Bhusawal 671799
+Amount Paid: 75316
+
+Payment Mode: Net Banking

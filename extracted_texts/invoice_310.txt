@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-17739
+
+Invoice Date: 22-03-2024
+
+From:
+
+Dugal, Lata and Raja
+H.No. 871 Virk Circle Hubli-Dharwad 430652
+
+To:
+
+Aggarwal, Zacharia and Mandal
+02 Bedi Road Bijapur-795784
+
+GSTIN: ts937945yc665Z6
+
+Item
+Laborum
+Quibusdam
+Eaque
+Rerum
+
+Itaque
+
+Description
+
+Recusandae laboriosam.
+
+Commodi amet voluptates id.
+
+Tempore dolorum.
+Similique suscipit at officiis.
+
+Optio dolor hic dignissimos.
+
+Grand Total: %84579
+
+Rate
+
+%1843
+
+%1499
+
+24295
+
+1028
+
+%3700
+
+Quantity
+1
+
+8
+
+Total
+
+1843
+
+%11992
+
+%34360
+
+3084
+
+%33300

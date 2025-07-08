@@ -1,0 +1,52 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-153065
+
+Date: 10 Jul 2023
+
+Consignor:
+
+Ratti PLC
+
+H.No. 476 Magar Chowk Anantapuram-847003
+Consignee:
+
+Mangat-Khosla
+
+707 Lala Marg Amroha-409420
+
+Vehicle No: Wy20IS7604
+
+GSTIN: RQ293791fw315Z0
+
+Item Description
+
+Ex Veritatis cum ab qui aperiam.
+
+Maiores Nisi iusto earum.
+
+lure Distinctio voluptas nulla iusto pariatur.
+
+Delectus lure placeat tempora.
+
+Quantity
+44
+
+13
+
+4
+
+28
+
+Value
+
+€10213
+
+€41656
+
+€10350
+
+€8189

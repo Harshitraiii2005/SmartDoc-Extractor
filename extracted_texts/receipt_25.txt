@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-91930
+
+Date: 05 Mar 2024
+
+From:
+
+Suresh Inc
+
+H.No. 460, Jani Path, Mumbai-572536
+To:
+
+Chaudhary-Dhillon
+
+65 Mann Nagar, Muzaffarnagar-689065
+Amount Paid: $3898
+
+Payment Mode: UPI

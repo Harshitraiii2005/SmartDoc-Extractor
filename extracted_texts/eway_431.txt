@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-8363
+
+Date: 11-03-2025
+
+Consignor:
+
+Shere-Ramesh
+
+H.No. 034 Batra Marg, Shivpuri 567142
+Consignee:
+
+Sachar LLC
+
+32/29, Setty Ganj, Singrauli-941793
+Vehicle No: sy38FH6915
+
+GSTIN: fV2132731Q72324
+
+Item Description
+
+Culpa Voluptate explicabo quos.
+
+Adipisci Suscipit quod atque.
+
+Delectus Repudiandae eligendi rerum optio magnam.
+Nisi Iste recusandae laborum.
+
+Quantity
+10
+19
+22
+
+42
+
+Value
+
+34261
+
+%31670
+
+221415
+
+247997

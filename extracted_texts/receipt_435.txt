@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33144
+
+Date: 13/12/2024
+
+From:
+
+Hora-Upadhyay
+
+61/93, Bose Street, Nagercoil 786870
+To:
+
+Hans-Sarna
+
+55 Shan Circle Katni-006723
+Amount Paid: 38697
+
+Payment Mode: Net Banking

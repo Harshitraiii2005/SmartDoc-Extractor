@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27747
+
+Date: 03 Aug 2023
+
+From:
+
+Sha-Sibal
+
+673, Saha Chowk Karawal Nagar-940153
+To:
+
+Lal LLC
+
+H.No. 58, Bumb Ganj Kota-368396
+Amount Paid: $3197
+
+Payment Mode: Card

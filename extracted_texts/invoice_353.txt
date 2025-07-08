@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-70351
+
+Invoice Date: 17-10-2023
+
+Issued By:
+
+Sankar, Choudhury and Agarwal
+
+45 Hegde Street, Udaipur 972655
+
+Billed To:
+
+Badami, Venkatesh and Kaul
+
+H.No. 649 Dhillon Path Lucknow 554445
+
+GSTIN: kA168443WP549Z9
+
+Item Description
+
+Neque Id vel minus nostrum.
+Facilis Tenetur quia eos commodi.
+Perspiciatis A numquam.
+
+Laborum Fuga consequuntur cum id.
+Recusandae Numquam accusantium.
+
+Grand Total: €88423
+
+Rate
+
+€3130
+
+€3160
+
+€2319
+
+€4687
+
+€773
+
+Quantity
+7
+
+9
+
+Total
+
+€21910
+
+€28440
+
+€13914
+
+€18748
+
+€5411

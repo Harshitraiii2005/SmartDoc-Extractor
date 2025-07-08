@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-59499
+
+Invoice Date: 31-05-2024
+
+From:
+
+Talwar-Walia
+
+H.No. 48, Wable Noida-268403
+
+To:
+
+Bhalla-Sridhar
+
+22/40, Dhingra Chowk Eluru-288033
+
+GSTIN: Yy255211yM488Z3
+
+Item Description Rate Quantity Total
+
+Est Quis voluptates tempore. 2381 4 %9524
+Quas Non quidem dolore. %4976 1 %4976
+Ex Omnis adipisci tempora aperiam. 24419 1 24419
+
+Grand Total: 18919

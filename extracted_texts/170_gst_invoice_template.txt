@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1042
+Date: 01 May 2025
+
+Supplier
+
+Cooper Ltd
+
+747 Morgan Islands Apt. 180 Schultzburgh, CA 14249
+GSTIN: 171795198721
+
+Contact: 740-759-7867x008
+
+Buyer
+
+King and Sons
+
+PSC 1088, Box 1264 APO AE 76433
+GSTIN: 667484912589
+
+Contact: (953)593-2906x28191
+
+Place of Supply: East Whitney
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Parent 8658 8 | $767.27 $6138.16 $552.43 $552.43 $7243.03
+7781 $565.42 $2827.1 $254.44 $254.44 $3335.98
+
+Response 3577 $531.65 $1594.95 $143.55 |$143.55 | $1882.04
+Huge 4531 6 | $546.36 $3278.16 $295.03 | $295.03 | $3868.23
+Somebody 6194 $213.85 $641.55 $57.74 | $57.74 ‘| $757.03
+
+Sub Total: $865.64
+
+CGST: $174.05
+
+SGST: $53.56
+
+Grand Total: $1640.08
+
+Amount in Words: 2667 dollars only
+PO Number: PO-3414
+
+Terms: Plant language picture.
+
+Reverse Charge: Yes

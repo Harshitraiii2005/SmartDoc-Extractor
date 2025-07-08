@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-75205
+
+Date: 25 Dec 2024
+
+From:
+
+Kashyap, Gandhi and Tella
+
+H.No. 353, Manda Marg, Pali 398585
+
+To:
+
+Basu, Handa and Chaudry
+
+H.No. 55, Bala Road Sangli-Miraj & Kupwad 455794
+Amount Paid: 32700
+
+Payment Mode: Cash

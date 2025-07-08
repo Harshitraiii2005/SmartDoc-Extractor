@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-237520
+
+Date: 22-03-2024
+
+Consignor:
+
+Barad Inc
+
+48 Chhabra Ganj, Surat-772684
+Consignee:
+
+Sanghvi PLC
+
+H.No. 963 Dixit Marg Vijayawada 190644
+Vehicle No: NN19fz4094
+
+GSTIN: HE177529s1306Z3
+
+Item Description
+Ut Cumque similique dignissimos.
+Beatae Similique nihil magnam.
+
+Esse Pariatur quo.
+
+Quantity
+36
+6
+
+44
+
+Value
+$43306
+$49327
+
+$26210

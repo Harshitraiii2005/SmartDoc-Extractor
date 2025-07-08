@@ -1,0 +1,64 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-99206
+
+Date: 07/09/2023
+
+From:
+
+Johal, Bava and Luthra
+
+H.No. 25, Thaker Ganj, Maheshtala 458355
+Billed To:
+
+Samra-Jani
+
+83/964 Loke Ganj Bijapur 958363
+
+GSTIN: iz6312710g0012Z9
+
+Item Description
+
+Voluptate Autem est iste impedit non.
+
+Cum Quisquam reiciendis illum modi voluptatum.
+Eos Maiores saepe.
+
+Corporis Cumaque non dolore esse.
+
+Ab Est inventore at.
+
+Quia Distinctio quis dolor amet veritatis.
+
+Grand Total: $25387
+
+Rate
+$1676
+$4988
+$1680
+$580
+$1526
+
+$561
+
+Quantity
+
+1
+
+1
+
+10
+
+1
+
+Total
+$1676
+$4988
+$1680
+$5800
+$10682
+
+$561

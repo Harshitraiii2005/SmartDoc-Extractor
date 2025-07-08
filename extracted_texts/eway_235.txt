@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-711029
+Date: 11-10-2024
+
+Consignor:
+
+Dara-Choudhry
+
+707 Dar Marg, Durgapur-753182
+Consignee:
+
+Tailor LLC
+
+992, Sankar Zila Akola 378685
+Vehicle No: pb15AD2875
+
+GSTIN: ud199062Xn291Z0
+
+Item Description
+
+Saepe Accusantium libero repellendus nobis sunt.
+
+Quantity
+
+3
+
+Value
+
+€28362

@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3160
+Date: 07 Jan 2025
+
+Exporter
+
+Stewart-Lewis
+262 Lee Port Suite 856 Johnnyborough, MD 77398
+
+Importer
+
+Townsend-Green
+237 Mendoza Summit Pachecoside, KS 68359
+
+Buyer Ref: 47b8f8c3-f6f0-4e58-8 1 ff-203edd51f036
+Origin: Belize
+Destination: Belize
+
+Currency: EUR
+Incoterms: FOB
+
+Behind 7653 $712.99 $3365.31
+Every 7504 $885.22 $3133.68
+
+Month 3520 $471.78 $3896.9
+Standard 5911 lo | $446.79 $4744.91
+Performance 6427 $426.84 $3525.7
+
+Freight: $419.97
+Insurance: $190.5
+
+Total Invoice Value: $3997.28

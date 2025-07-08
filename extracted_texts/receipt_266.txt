@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-34440
+
+Date: 27 Aug 2023
+
+From:
+
+Sahni Ltd
+
+62, Bhalla Nagar Vijayawada 287671
+To:
+
+Agarwal, Wable and Cheema
+
+86/118, Ganesan Street Kochi 134246
+Amount Paid: 32305
+
+Payment Mode: UPI

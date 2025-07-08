@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14423
+
+Date: 07-10-2024
+
+From:
+
+Chacko PLC
+
+11/76 Sachar Marg, Dibrugarh-880820
+To:
+
+Anne LLC
+
+234 Dixit Nagar, Kanpur-880799
+Amount Paid: €9203
+
+Payment Mode: Cash

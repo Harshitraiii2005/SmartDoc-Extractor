@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-56927
+
+Invoice Date: 05-04-2024
+
+From:
+Dugal PLC
+
+73/570 Badami Nagar Thoothukudi 939449
+
+Billed To:
+
+Keer, Gole and Hayer
+H.No. 28, Lata Marg Mehsana-013598
+
+GSTIN: zr658485YJ305Z3
+
+Item
+Soluta
+Culpa
+
+Ea
+Provident
+
+Corporis
+
+Description
+Mollitia ab rerum.
+Quis minima officia.
+
+Quo nam ipsam unde saepe.
+
+Illum perspiciatis quam eius eos.
+
+Perferendis culpa magni modi.
+
+Grand Total: €69866
+
+Rate
+
+€3752
+
+€2208
+
+€906
+
+€4885
+
+€2669
+
+Quantity
+7
+
+1
+
+Total
+
+€26264
+
+€2208
+
+€2718
+
+€14655
+
+€24021

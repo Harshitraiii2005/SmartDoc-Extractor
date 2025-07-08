@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-50149
+
+Date: 05-07-2025
+
+From:
+
+Garde Inc
+
+34/487 Gour Path Vijayawada-551362
+
+To:
+
+Ghose, Srinivas and Ahluwalia
+
+75/272, Balasubramanian Path, Bettiah-330765
+Amount Paid: €7514
+
+Payment Mode: Card

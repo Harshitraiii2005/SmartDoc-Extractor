@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-56816
+
+Date: 07 Apr 2025
+
+From:
+
+Ramesh, Kala and Khalsa
+
+20/32 Tata Nagar, Danapur 099428
+
+To:
+
+Dixit-Karan
+
+H.No. 666 Lata Street, Karawal Nagar 534284
+Amount Paid: €21807
+
+Payment Mode: Net Banking

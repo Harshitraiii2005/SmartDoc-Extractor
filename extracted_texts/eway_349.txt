@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-76763
+
+Date: 26-12-2023
+
+Consignor:
+
+Sabharwal-Gera
+
+H.No. 84 Varkey Chowk, Gulbarga 549948
+Consignee:
+
+Dasgupta-Ramanathan
+
+649, Hans Zila, Bathinda-055834
+
+Vehicle No: Is78gV4616
+
+GSTIN: Uh430968Wm604Z2
+
+Item Description
+
+Aliquid Unde sapiente tenetur impedit beatae.
+
+Ad Quasi maiores veniam dolor vel.
+
+Quantity
+19
+
+33
+
+Value
+
+€47511
+
+€46458

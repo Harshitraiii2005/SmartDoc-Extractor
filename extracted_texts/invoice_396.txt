@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-17506
+
+Invoice Date: 05 Aug 2024
+
+Issued By:
+
+Chaudry-Sarraf
+
+H.No. 201, Sant Circle Unnao-433176
+
+Billed To:
+
+Choudhry-Bawa
+
+49 Bhandari Zila Vijayanagaram-363763
+
+GSTIN: fR9317011H426Z6
+
+Item
+Voluptates
+Ipsam
+Ipsa
+
+Iste
+
+Description
+Laboriosam alias rerum assumenda.
+Ex in sequi.
+
+Accusamus vel blanditiis.
+
+Nihil molestias dolores pariatur dolorem.
+
+Grand Total: $30839
+
+Rate
+$3560
+$622
+$1201
+
+$4417
+
+Quantity
+3
+
+6
+
+10
+
+1
+
+Total
+$10680
+$3732
+$12010
+
+$4417

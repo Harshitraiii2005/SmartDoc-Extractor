@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-2433
+Date: 18 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Threat
+
+Port of Loading: Lake Shane
+
+Port of Discharge: East Christophershire
+Place of Delivery: Johnsonport
+
+Container No: CONT-8915
+Marks: Clear
+
+Description of Goods: Course
+
+Gross Weight: 3224 kg
+Measurement: 12 cbm
+Freight Terms: Collect
+
+BILL OF LADING

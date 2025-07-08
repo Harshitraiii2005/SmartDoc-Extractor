@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-8232
+
+Date: 06 Jan 2024
+
+Issued By:
+
+Singhal Inc
+
+H.No. 28, Sehgal Road, Morbi 295986
+Billed To:
+
+Chacko, Ganesh and Chandra
+
+79/90, Sridhar Zila, Hosur-284565
+
+GSTIN: ga019533CR033Z3
+
+Item Description Rate
+
+Cum Facilis earum tempore. =1074
+Maxime Consectetur in sequi labore. 24380
+Soluta Earum rem ab. %4350
+
+Grand Total: 57606
+
+Quantity
+9
+3
+
+8
+
+Total
+
+%9666
+
+%13140
+
+%34800

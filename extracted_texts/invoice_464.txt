@@ -1,0 +1,73 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-16692
+
+Invoice Date: 19/01/2024
+
+From:
+
+Choudhary and Sons
+
+52, Rajagopal Chowk Hyderabad 669528
+
+Billed To:
+
+Rege-Kale
+
+H.No. 33, Varma Street, South Dumdum-580087
+
+GSTIN: 1S695526tS16021
+
+Item Description
+
+Quos Placeat sunt neque distinctio.
+Maxime Odio vero aut.
+
+Adipisci Natus hic a vitae nulla.
+Ipsum Est sint corporis occaecati.
+
+Exercitationem Temporibus magnam quisquam aperiam.
+
+Quae Vel fugit voluptatem natus.
+
+Grand Total: 86285
+
+Rate
+
+3651
+
+21813
+
+3026
+
+21483
+
+3576
+
+1284
+
+Quantity
+7
+
+2
+
+10
+
+10
+
+Total
+
+225557
+
+%3626
+
+%30260
+
+%14830
+
+%10728
+
+=1284

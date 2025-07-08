@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-67402
+
+Date: 19/10/2023
+
+Consignor:
+
+Bakshi LLC
+
+67/22 Agrawal Nagar Gopalpur-386199
+Consignee:
+
+D’Alia-Rajagopal
+
+871 Varty Circle Bhopal 470164
+Vehicle No: Af93HE6875
+
+GSTIN: CP896866eD277Z0
+
+Item Description
+
+Quo lusto labore eius tempora dolores.
+Blanditiis Delectus reprehenderit harum.
+Minima Ilum magni libero fuga magnam.
+
+Ex Maxime quae praesentium recusandae.
+
+Quantity
+31
+43
+25
+
+13
+
+Value
+
+€26623
+
+€17202
+
+€43747
+
+€33648

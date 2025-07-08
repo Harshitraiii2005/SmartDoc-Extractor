@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-38131
+
+Date: 25-06-2024
+
+From:
+
+Zacharia, Shankar and Kari
+
+543 Char Circle Bhavnagar-029162
+To:
+
+Bhasin-Hans
+
+085, Jayaraman Ganj, Mathura-577529
+Amount Paid: $45131
+
+Payment Mode: Card

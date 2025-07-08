@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-55261
+
+Date: 15/10/2024
+
+From:
+Wali-Karpe
+
+066, Agarwal Ganj Udupi 734943
+
+Billed To:
+Bhagat LLC
+
+90/604 Goswami Street, Bangalore 417132
+
+GSTIN: GR063093gh968Z2
+
+Item
+Aliquam
+Commodi
+Asperiores
+Quia
+
+Voluptate
+
+Description
+
+Exercitationem neque laudantium dignissimos.
+
+Hic impedit repudiandae culpa hic.
+Suscipit laborum dicta magnam aut.
+Necessitatibus mollitia fugit nemo.
+
+Porro non.
+
+Grand Total: ¥93050
+
+Rate
+
+%3396
+
+=1420
+
+24562
+
+%3888
+
+24504
+
+Quantity
+2
+
+7
+
+Total
+
+26792
+
+9940
+
+%13686
+
+%31104
+
+%31528

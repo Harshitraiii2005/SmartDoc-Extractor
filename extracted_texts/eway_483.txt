@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-620610
+
+Date: 13 Nov 2024
+
+Consignor:
+
+Raman and Sons
+
+H.No. 91, Kumar Nagar Jamshedpur 768203
+Consignee:
+
+Master Inc
+
+H.No. 980, Manne Marg Haridwar 021537
+Vehicle No: Pr64Jr3863
+
+GSTIN: wh5315580u057Z21
+
+Item Description
+
+Explicabo At sapiente consectetur.
+Labore Eveniet eum in.
+Sapiente Hic tempora odio itaque.
+
+Totam Sed tempora sapiente qui.
+
+Quantity
+8
+16
+
+19
+
+Value
+
+$23963
+$26046
+$16826
+
+$8884

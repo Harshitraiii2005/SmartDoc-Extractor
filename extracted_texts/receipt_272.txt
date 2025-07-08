@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73216
+
+Date: 23-05-2025
+
+From:
+
+Ahuja Ltd
+
+67/804 Sarma, Medininagar-440807
+To:
+
+Chandra, Tiwari and Bhargava
+H.No. 857 Gera Circle Kulti 887063
+Amount Paid: €2444
+
+Payment Mode: Card

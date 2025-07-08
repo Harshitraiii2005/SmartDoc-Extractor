@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-20201
+
+Date: 14 Aug 2023
+
+From:
+
+Shanker-Grover
+
+099 Kumar Marg Kolhapur 113396
+To:
+
+Madan, Tank and Badami
+
+67, Vaidya Zila, Karimnagar-070784
+Amount Paid: $6944
+
+Payment Mode: Net Banking

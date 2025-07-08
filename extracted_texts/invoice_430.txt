@@ -1,0 +1,72 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No:
+
+INV-32448
+
+Date: 07 Jan 2025
+
+From:
+
+Randhawa-Dua
+84, Singhal Nagar, Nagercoil 624595
+
+To:
+Tak-Rao
+
+H.No. 240, Maharaj Street Siliguri-468636
+
+GSTIN: cN8031800k879Z5
+
+Item
+Natus
+Ipsum
+Voluptates
+Distinctio
+lusto
+
+Grand Total
+
+Description
+
+Nesciunt reprehenderit culpa consequuntur magni.
+
+Placeat esse repellendus.
+Rerum voluptates blanditiis.
+Consequuntur dolorum quibusdam quibusdam.
+
+Quaerat mollitia dolorem.
+
+: 795986
+
+Rate
+
+R4777
+
+%3090
+
+%3907
+
+%2589
+
+%1027
+
+Quantity
+9
+
+7
+
+Total
+
+242993
+
+21630
+
+211721
+
+215534
+
+24108

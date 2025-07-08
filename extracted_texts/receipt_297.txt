@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-66742
+
+Date: 08 Dec 2023
+
+From:
+
+Rama-Rau
+
+847, Thaker Circle, Bidar 823450
+
+To:
+
+Dua, Bedi and Kade
+
+12, Borde Circle, Pudukkottai-470757
+Amount Paid: €40704
+
+Payment Mode: Card

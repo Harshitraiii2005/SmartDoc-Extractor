@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-39174
+
+Date: 01-12-2023
+
+From:
+
+Shan, Rajagopalan and Rattan
+
+92/853 Kumar Nagar, Jehanabad-739185
+To:
+
+Upadhyay, Date and Barad
+
+69/74 Sangha Circle Burhanpur 835937
+Amount Paid: $16303
+
+Payment Mode: Card

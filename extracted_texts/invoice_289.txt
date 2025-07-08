@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-9142
+
+Invoice Date: 30 Oct 2023
+
+From:
+
+Warrior Group
+
+84/03 Baria Marg Bulandshahr-876688
+
+To:
+Sarma Ltd
+
+56/879, Chand Chowk Madurai 837886
+
+GSTIN: Bp441815Hk25324
+
+Item
+Optio
+Occaecati
+Similique
+
+Velit
+
+Description
+
+Suscipit cumque minima in necessitatibus.
+
+Harum nihil eius vel.
+Ipsum commodi nesciunt corporis aut.
+
+Nemo possimus explicabo.
+
+Grand Total: $65309
+
+Rate
+$1999
+$834
+$2453
+
+$3753
+
+Quantity
+7
+
+2
+
+Total
+$13993
+$1668
+$19624
+
+$30024

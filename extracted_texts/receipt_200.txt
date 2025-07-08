@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-38133
+
+Date: 14/12/2023
+
+From:
+
+Dube-Vohra
+
+97/717, Chakraborty Street Madurai 840513
+To:
+
+Kumar-Keer
+
+H.No. 978 Roy Zila, Deoghar-123691
+Amount Paid: $38506
+
+Payment Mode: UPI

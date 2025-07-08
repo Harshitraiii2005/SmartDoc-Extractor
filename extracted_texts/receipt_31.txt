@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-89884
+
+Date: 11 Apr 2024
+
+From:
+
+Behl-Jani
+
+H.No. 943, Guha Marg, Hyderabad 979951
+To:
+
+Khurana PLC
+
+63/428 Singh Zila Jamalpur 295862
+Amount Paid: €13921
+
+Payment Mode: Card

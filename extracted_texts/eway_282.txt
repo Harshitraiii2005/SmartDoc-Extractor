@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-357722
+Date: 13/11/2024
+
+Consignor:
+
+Ray and Sons
+
+411, Das Zila, Asansol 299179
+Consignee:
+
+Deep Group
+
+H.No. 019 Yadav Zila Kota 916807
+Vehicle No: zL56aZ7803
+
+GSTIN: Ky414824an695Z6
+
+Item Description
+Cumque Tempora sit aut nemo.
+Expedita Exercitationem earum iure autem.
+
+Recusandae Cum ex aperiam.
+
+Quantity
+2
+33
+
+22
+
+Value
+$24764
+$38217
+
+$39290

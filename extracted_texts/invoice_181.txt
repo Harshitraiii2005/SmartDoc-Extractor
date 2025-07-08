@@ -1,0 +1,72 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-5745
+Date: 30 Oct 2023
+
+Issued By:
+Gade LLC
+
+22/75 Gulati Road, Kamarhati 476061
+
+Billed To:
+Hayre Inc
+
+H.No. 07, Swamy Street Nizamabad 529729
+
+GSTIN: cZ4201141C147Z9
+
+Item
+
+Nulla
+
+Omnis
+
+Nostrum
+
+Perferendis
+
+Molestias
+
+Dicta
+
+Grand Total: $83112
+
+Description
+Culpa facere sequi.
+Quas laboriosam ea.
+
+Vero minus nam.
+
+Provident officia deleniti.
+
+Officia aut quo.
+
+Aliquid in.
+
+Rate
+
+$3242
+$4875
+$3769
+$3917
+$1128
+
+$544
+
+Quantity
+6
+
+4
+
+Total
+
+$19452
+$19500
+$15076
+$15668
+$10152
+
+$3264

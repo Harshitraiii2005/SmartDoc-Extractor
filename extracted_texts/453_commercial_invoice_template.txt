@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5992
+Date: 05 Jun 2025
+
+Exporter
+
+Stanley-Allen
+PSC 1725, Box 5737 APO AA 74948
+
+Importer
+
+Anderson, Gaines and Smith
+698 Rodriguez Corner Apt. 574 South Randy, SC 12491
+
+Buyer Ref: b05d5544-4b87-403f-b01b-3999ef111834
+Origin: Cambodia
+Destination: Montserrat
+
+Currency: INR
+Incoterms: FOB
+
+While 4565 9 $282.2 $2996.96
+Staff 6706 $458.94 $1083.1
+
+Freight: $311.81
+
+Insurance: $51.88
+
+Total Invoice Value: $4616.6

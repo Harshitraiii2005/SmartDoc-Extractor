@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-43403
+
+Date: 09-11-2023
+
+From:
+
+Borra PLC
+
+50 Sabharwal Circle, Patiala 301807
+
+To:
+
+Warrior-Chakraborty
+
+52/84 Ramakrishnan Path Thanjavur-477251
+Amount Paid: €35468
+
+Payment Mode: UPI

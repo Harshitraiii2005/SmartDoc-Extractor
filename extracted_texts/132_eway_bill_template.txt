@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-728917
+Date: 02 Jan 2025
+Valid From: 25 Jun 2025 To 12 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-8723
+Transporter ID: TID-7379
+Transporter Name: Welch-Padilla
+
+Document Reference
+
+Type: Invoice
+No: DOC-5178
+
+Reason: Race security.

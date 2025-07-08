@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-5609
+
+Invoice Date: 20 Feb 2024
+
+Issued By:
+
+Bhakta, Rajan and Jani
+
+08/77, Tara Circle Siliguri-424899
+
+To:
+
+Garg-Dave
+
+H.No. 818 Hari Chowk Guwahati 111707
+
+GSTIN: Xn498141Ax103Z7
+
+Item Description Rate
+Sed Ad minus quisquam. €2767
+Sit Vero dolore. €2371
+
+Grand Total: €22923
+
+Quantity
+4
+
+5
+
+Total
+
+€11068
+
+€11855

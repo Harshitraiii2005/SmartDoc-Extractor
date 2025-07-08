@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-2291
+
+Date: 09/09/2023
+
+From:
+
+Basak, Bakshi and Lata
+
+61/63 Saraf Nagar, Mango-074212
+
+To:
+
+Bakshi-Hora
+
+452, Borde Chowk, Kalyan-Dombivli 117984
+Amount Paid: %13985
+
+Payment Mode: UPI

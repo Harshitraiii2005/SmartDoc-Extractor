@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-541701
+Date: 22/07/2024
+
+Consignor:
+
+Choudhury-Bhatia
+
+77/927, Bobal, Bijapur 142454
+Consignee:
+
+Kalita Ltd
+
+143, Divan Nagar, Erode-358354
+Vehicle No: zr06kf5275
+
+GSTIN: mG089231QP510Z3
+
+Item Description
+
+Eos Occaecati iusto sapiente.
+
+Excepturi Quasi assumenda.
+
+Non Nobis consequuntur quisquam alias quam.
+
+Soluta Soluta dolore necessitatibus.
+
+Quantity
+36
+23
+28
+
+42
+
+Value
+
+€21818
+
+€41348
+
+€16576
+
+€27445

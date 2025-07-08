@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-791321
+Date: 28 Mar 2025
+Valid From: 24 Jan 2025 To 06 May 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-2065
+
+Transporter ID: TID-8157
+
+Transporter Name: Wilson, Bishop and Webster
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-4120
+
+Taxable Value Tax Rate (%)
+
+Reason: Bank later conference low.

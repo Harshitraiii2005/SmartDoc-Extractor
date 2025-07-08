@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-1419
+Date: 14 Oct 2024
+
+From:
+Grover, Yohannan and Tripathi
+H.No. 86 Chakraborty Circle, Kirari Suleman Nagar-800611
+
+Billed To:
+Krishnamurthy, Cheema and lyengar
+H.No. 70 Dey Zila Karaikudi 727394
+
+GSTIN: ly274175kB550Z2
+
+Item Description Rate
+Ducimus Voluptatum itaque eos minima. $3996
+Deleniti Officiis sunt eius. $3419
+Ducimus Aliquam repudiandae culpa atque. $669
+
+Grand Total: $44005
+
+Quantity
+4
+
+8
+
+Total
+$15984
+$27352
+
+$669

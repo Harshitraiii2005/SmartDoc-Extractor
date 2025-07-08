@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-1921
+
+Date: 16 Mar 2024
+
+From:
+
+Doshi-Grover
+
+H.No. 93 Dani Asansol-998177
+To:
+
+Arora-Vyas
+
+12, Lanka Chowk Meerut 633755
+Amount Paid: €28630
+
+Payment Mode: Net Banking

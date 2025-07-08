@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73418
+
+Date: 09-06-2024
+
+From:
+
+Gulati Group
+
+38/57, Suri, Bijapur 609202
+
+To:
+
+Mallick-Talwar
+
+42/716, Batta Bhatpara-045780
+Amount Paid: $10103
+
+Payment Mode: Card

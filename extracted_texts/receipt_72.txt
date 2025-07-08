@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-17598
+
+Date: 13-11-2023
+
+From:
+
+Kakar, Talwar and Luthra
+
+H.No. 492 Hayre Path, Raipur 306048
+
+To:
+
+Batra-Shroff
+
+H.No. 53, Srivastava Street, Gorakhpur 155613
+Amount Paid: ~47919
+
+Payment Mode: UPI

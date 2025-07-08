@@ -1,0 +1,76 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No:
+
+INV-38451
+
+Date: 22/11/2024
+
+From:
+
+Sodhi and Sons
+18 Shenoy Path, Bhiwandi 420893
+
+Billed To:
+Sura Ltd
+
+19/475, Dixit Chowk, Vellore-458137
+
+GSTIN: Uh7
+
+Item
+Expedita
+Ratione
+Cupiditate
+Culpa
+
+Eligendi
+
+Grand Total
+
+133790h3072Z6
+
+Description
+Id quaerat repudiandae.
+
+At aspernatur ad.
+
+Consequatur quisquam dicta ipsam doloremque.
+
+Impedit quasi nulla ratione ipsa.
+
+Hic enim aperiam quidem blanditiis.
+
+> 35711
+
+Rate
+
+21180
+
+24140
+
+21766
+
+3752
+
+%3207
+
+Quantity
+4
+
+1
+
+Total
+
+24720
+
+24140
+
+=7064
+
+%3752
+
+16035

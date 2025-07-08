@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-83336
+
+Date: 30-12-2023
+
+From:
+
+Sundaram and Sons
+
+41/749 Sahni Nagar Bidar-898995
+To:
+
+Vyas Ltd
+
+55/505, Wagle Street Hapur-902532
+Amount Paid: €21248
+
+Payment Mode: Cash

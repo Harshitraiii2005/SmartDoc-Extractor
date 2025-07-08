@@ -1,0 +1,66 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-24671
+
+Date: 31-05-2024
+
+Issued By:
+Lad LLC
+
+47/990 Sabharwal Chowk Nanded 995092
+
+Billed To:
+Mandal-Som
+
+H.No. 939 Walla Gangtok 874161
+
+GSTIN: ve640181vK92521
+
+Item
+
+Ea
+
+Rem
+Voluptatum
+
+Dicta
+
+Description
+
+Ullam vero.
+
+Nostrum cumque odit doloribus.
+
+Voluptatem nulla at.
+
+Ab tempore.
+
+Grand Total: €59873
+
+Rate
+
+€1827
+
+€1901
+
+€4073
+
+€3638
+
+Quantity
+4
+
+4
+
+Total
+
+€7308
+
+€7604
+
+€12219
+
+€32742

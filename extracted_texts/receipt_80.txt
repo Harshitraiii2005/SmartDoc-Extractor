@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-96425
+
+Date: 21-07-2023
+
+From:
+
+Loyal-Kohli
+
+58, Andra Chowk Mathura-747722
+To:
+
+Jhaveri Inc
+
+40, Kalita Marg, Ujjain 088893
+Amount Paid: $1548
+
+Payment Mode: Net Banking

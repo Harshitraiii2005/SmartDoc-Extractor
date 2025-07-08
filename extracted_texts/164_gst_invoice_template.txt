@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8426
+Date: 23 Apr 2025
+
+Supplier
+
+Mitchell, Costa and Brown
+
+0009 Lisa Plaza South Destiny, NY 97024
+GSTIN: 564786704666
+
+Contact: 405-398-9272x37360
+
+Buyer
+
+Cross-Clay
+
+USNS Lopez FPO AP 23012
+GSTIN: 132332116642
+Contact: (201)943-5254x520
+
+Place of Supply: West Brandonville
+
+3947 on $141.75 $850.5 $76.55 $76.55 $1003.59
+
+i. 3431 7 | $743.07 $5201.49 $468.13 |$468.13 | $6137.76
+
+Sub Total: $995.1
+
+CGST: $147.54
+
+SGST: $128.51
+
+Grand Total: $1065.58
+
+Amount in Words: 1325 dollars only
+
+PO Number: PO-9212
+
+Terms: Material everything federal kitchen off.
+
+Reverse Charge: Yes

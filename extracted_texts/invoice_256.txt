@@ -1,0 +1,60 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-45971
+
+Invoice Date: 26 Jun 2024
+
+Issued By:
+
+Raj and Sons
+
+H.No. 09, Dara Street Ludhiana 604805
+Billed To:
+
+Lala-Behl
+
+45/039, Sood Circle Berhampore 187970
+
+GSTIN: Mt561658aS874Z3
+
+Item Description
+
+Ab Rem quia qui harum praesentium.
+Minus Hic nam magnam doloremque.
+Nisi Blanditiis qui ratione.
+
+Mollitia Repudiandae perferendis eos iste provident.
+
+Grand Total: €68610
+
+Rate
+
+€2748
+
+€1490
+
+€3395
+
+€4750
+
+Quantity
+10
+
+3
+
+8
+
+2
+
+Total
+
+€27480
+
+€4470
+
+€27160
+
+€9500

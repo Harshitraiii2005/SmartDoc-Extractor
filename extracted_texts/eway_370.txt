@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-578724
+
+Date: 23-03-2024
+
+Consignor:
+
+Solanki-Yohannan
+
+089, Chokshi Path Guna 329605
+Consignee:
+
+Dixit-Balay
+
+17 Choudhary Road Bellary 525730
+Vehicle No: EF57if1697
+
+GSTIN: PW705510Ku6122Z5
+
+Item Description
+
+Numquam Tenetur nulla recusandae necessitatibus.
+Nemo Perferendis velit libero quos.
+
+Quaerat Sint cupiditate quidem.
+
+Quia Veritatis voluptatum ratione.
+
+Quantity
+25
+50
+
+32
+
+Value
+
+$35146
+$38824
+$12857
+
+$37987

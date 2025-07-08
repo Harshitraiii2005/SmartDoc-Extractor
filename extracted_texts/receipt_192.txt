@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-50122
+
+Date: 21-05-2025
+
+From:
+
+Srivastava-Mani
+
+92 Setty Circle Aurangabad-936700
+To:
+
+Trivedi PLC
+
+22/19, Khosla Ganj, Phusro-126375
+Amount Paid: ~4118
+
+Payment Mode: Card

@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4461
+Date: 11 Feb 2025
+
+Exporter
+
+Miller-Sherman
+538 Daniel Field Pamelafurt, ID 84614
+
+Importer
+
+Brooks, Hughes and Pace
+92100 Randolph Brooks Apt. 827 Bruceberg, IL 41308
+
+Buyer Ref: 9cdef01f-990a-4248-9fe7-714622a6012b
+Origin: Turks and Caicos Islands
+Destination: Seychelles
+
+Currency: INR
+Incoterms: EXW
+
+escipion «HSN ay [uneroce [tom
+
+Freight: $403.57
+
+Insurance: $104.45
+Total Invoice Value: $1169.9

@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-594230
+Date: 26-10-2024
+
+Consignor:
+
+Sani, Dey and Talwar
+
+089, Bose Zila Srinagar-134216
+Consignee:
+
+Saran, Deshpande and Sethi
+71, Varughese Zila Katni 539043
+Vehicle No: vg80Kr6484
+
+GSTIN: PF108639Ag85421
+
+Item Description
+
+Nostrum Minima explicabo occaecati commodi odit.
+
+Voluptas Esse ipsa voluptates molestias.
+
+Quantity
+18
+
+40
+
+Value
+$41634
+
+$43967

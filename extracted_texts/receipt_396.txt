@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-80249
+
+Date: 26 Aug 2024
+
+From:
+
+Butala, Baral and Thaker
+
+19/838 Vora Street, Dharmavaram 807874
+To:
+
+Sachdeva Ltd
+
+537 Agrawal Street Sambhal-170031
+Amount Paid: $43130
+
+Payment Mode: Cash

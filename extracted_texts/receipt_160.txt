@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-20832
+
+Date: 25 Oct 2024
+
+From:
+
+Shere-Sidhu
+
+H.No. 23 Sundaram Path Sonipat-447609
+To:
+
+Kumar-Dutt
+
+H.No. 02, Kamdar Nagar, Srikakulam-223371
+Amount Paid: $29032
+
+Payment Mode: UPI

@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7101
+Date: 09 May 2025
+
+Supplier
+
+Flores, Gray and Frank
+
+376 Holloway River Port Stephen, ME 93252
+GSTIN: 862831834382
+
+Contact: +1-308-604-2700x8829
+
+Buyer
+
+Barrera, Blair and Anderson
+
+188 Phillips Union Port Sherrimouth, PR 56043
+GSTIN: 414326235218
+
+Contact: +1-209-930-3455x0115
+
+Place of Supply: Benjaminshire
+
+Description /HSN | Qty [Unit Price Taxable Value CGST SGST Total
+
+Door 8432 $159.14 $477.42 $42.97 $42.97 $563.36
+
+Sub Total: $1316.12
+
+CGST: $178.13
+
+SGST: $157.61
+
+Grand Total: $1386.97
+
+Amount in Words: 4486 dollars only
+PO Number: PO-3563
+
+Terms: Carry suggest decide become.
+
+Reverse Charge: Yes

@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-2822
+Date: 08 Mar 2025
+
+Exporter
+
+Lane Inc
+0936 Mark Court Apt. 617 Lowerychester, AK 18032
+
+Importer
+
+Lee Ltd
+USNS Campbell FPO AA 13646
+
+Buyer Ref: 88b012d4-a823-4cab-8b5c-8d7 11aaa836e
+Origin: Holy See (Vatican City State)
+Destination: United States of America
+
+Currency: USD
+Incoterms: FOB
+
+Ee
+
+Already 4864 $198.26 $1169.73
+
+Freight: $406.05
+
+Insurance: $69.09
+
+Total Invoice Value: $4408.56

@@ -1,0 +1,52 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-41470
+
+Invoice Date: 02/04/2025
+
+Issued By:
+
+Kala-Buch
+
+47/35 Garg Chowk, Muzaffarpur 032415
+Billed To:
+
+Magar, Sule and Balasubramanian
+75/08 Garg Circle Dibrugarh 643196
+
+GSTIN: 2J421444Fd590Z4
+
+Item Description
+
+Laboriosam Facilis eveniet saepe dolorem consequatur.
+
+Aut Deserunt velit velit nesciunt magnam.
+
+Cumque Odio recusandae tempore neque.
+
+Grand Total: €55235
+
+Rate
+
+€4253
+
+€3697
+
+€4522
+
+Quantity
+4
+3
+
+6
+
+Total
+
+€17012
+
+€11091
+
+€27132

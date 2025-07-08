@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-62487
+
+Date: 28 Jan 2025
+
+Issued By:
+
+Kari PLC
+
+23/404, Dua Chowk, Adoni 158395
+
+To:
+
+Dhillon PLC
+
+67/343, Sachar Chowk Kottayam 130644
+
+GSTIN: ic134883bC294Z7
+
+Item Description Rate
+Omnis Vero fugiat numquam earum. $3232
+Vitae Temporibus esse odio blanditiis. $2565
+
+Grand Total: $17391
+
+Quantity
+3
+
+3
+
+Total
+$9696
+
+$7695

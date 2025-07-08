@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-8554
+
+Date: 12-04-2024
+
+From:
+
+Aurora, Devi and Goda
+
+35 Char Zila, Guntur 108359
+
+To:
+
+Hayre, Sahota and Chatterjee
+
+08/71, Seth Chowk, Panchkula 178099
+Amount Paid: €40742
+
+Payment Mode: Net Banking

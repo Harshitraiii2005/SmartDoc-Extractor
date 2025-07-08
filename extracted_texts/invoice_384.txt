@@ -1,0 +1,61 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-89422
+
+Date: 25-11-2024
+
+From:
+
+Kunda Group
+
+H.No. 716 Datta Zila Visaknapatnam-041019
+
+Billed To:
+Doctor-Atwal
+
+43, Kara Street Barasat-453603
+
+GSTIN: Xy387329jB716Z1
+
+Item
+Atque
+Eos
+Neque
+
+Quibusdam
+
+Description
+Culpa et magnam repellat.
+
+Eius dolor.
+
+Voluptatem beatae libero ullam eius.
+
+Architecto impedit.
+
+Grand Total: $85254
+
+Rate
+
+$3705
+$4541
+$4002
+
+$572
+
+Quantity
+5
+5
+
+10
+
+Total
+
+$18525
+$22705
+$40020
+
+$4004

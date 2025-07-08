@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-34187
+
+Date: 18 Jul 2024
+
+From:
+
+Guha-Sabharwal
+
+H.No. 017, Subramanian Marg Aurangabad-078565
+To:
+
+Kari, Seshadri and Hayer
+
+H.No. 887, Kurian Zila Tadepalligudem 265917
+
+GSTIN: 0U928711af47724
+
+Item Description Rate
+Vitae Vitae cupiditate minima. €2219
+Error Cum placeat. €3122
+
+Grand Total: €23996
+
+Quantity
+8
+
+2
+
+Total
+
+€17752
+
+€6244

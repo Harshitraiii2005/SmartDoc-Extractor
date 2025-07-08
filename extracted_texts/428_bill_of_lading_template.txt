@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-3928
+Date: 11 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Experience
+
+Port of Loading: Gregoryville
+Port of Discharge: Hoffmanside
+Place of Delivery: Carrilloburgh
+
+Container No: CONT-8968
+Marks: White
+
+Description of Goods: Treatment
+
+Gross Weight: 3767 kg
+Measurement: 12 cbm
+Freight Terms: Collect
+
+BILL OF LADING

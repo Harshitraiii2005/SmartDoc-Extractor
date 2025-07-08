@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-307047
+Date: 01 Nov 2024
+
+Consignor:
+
+Choudhary-Dada
+
+13 Talwar Path Uluberia-587935
+Consignee:
+
+Bhargava, Saxena and Lad
+
+86 Tank Marg Begusarai 758364
+Vehicle No: Qq85db8868
+
+GSTIN: dH990694HI81021
+
+Item Description
+Ullam Similique accusantium voluptate.
+Enim Sapiente a doloremque.
+
+Dignissimos Voluptate molestiae odit harum.
+
+Quantity
+31
+38
+
+7
+
+Value
+$31357
+$17851
+
+$38739

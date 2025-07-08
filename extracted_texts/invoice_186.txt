@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-4717
+Invoice Date: 21/06/2025
+
+From:
+Vora and Sons
+49, Bhargava Street Bhalswa Jahangir Pur-125386
+
+To:
+Shankar, Varty and Krish
+847, Barad Circle Bangalore 058394
+
+GSTIN: Mf428023jr940Z8
+
+Item Description Rate
+Exercitationem Eveniet non possimus consequatur. $924
+Magnam Culpa deserunt. $1293
+
+Grand Total: $14040
+
+Quantity
+4
+
+8
+
+Total
+$3696
+
+$10344

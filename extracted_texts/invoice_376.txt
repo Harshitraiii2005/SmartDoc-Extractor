@@ -1,0 +1,80 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-92231
+
+Invoice Date: 14 Sep 2023
+
+From:
+
+Agarwal, Desai and Taneja
+06, Dewan Road Junagadh 247046
+
+Billed To:
+
+Mangat-Zacharia
+
+008 Dave Street Sirsa 979205
+
+GSTIN: ek277529RB845Z3
+
+Item
+Aliquam
+Quibusdam
+Quasi
+
+Velit
+
+Neque
+
+Nam
+
+Description
+
+Blanditiis impedit quae totam natus.
+
+Deserunt aliquid.
+Facilis rem.
+
+Ex vero ipsa.
+
+Fugit tempore repellat.
+
+Dolorem dolor vero.
+
+Grand Total: €64869
+
+Rate
+
+€4961
+
+€1650
+
+€3769
+
+€1070
+
+€2238
+
+€1667
+
+Quantity
+9
+
+1
+
+Total
+
+€44649
+
+€1650
+
+€3769
+
+€6420
+
+€6714
+
+€1667

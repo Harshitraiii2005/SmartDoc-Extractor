@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-36299
+
+Date: 03 Sep 2023
+
+Issued By:
+
+Raval, Viswanathan and Deshmukh
+H.No. 29, Bora, Parbhani 136020
+To:
+
+Krish PLC
+
+28/02, Keer Ganj Morena 009327
+
+GSTIN: KW736792De406Z7
+
+Item Description Rate Quantity Total
+Enim Rerum cumque incidunt. 2622 2 21244
+Fugit Quis ipsum quis. %1803 7 212621
+
+Grand Total: =13865

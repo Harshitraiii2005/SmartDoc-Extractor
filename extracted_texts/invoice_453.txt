@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-85220
+
+Date: 28/11/2024
+
+From:
+
+Shukla, Cherian and Mand
+
+27/815 Butala Circle, Deoghar 111722
+To:
+
+Sidhu-Ravel
+
+950, Dalal Marg, Srikakulam 740084
+
+GSTIN: ab503850MN773Z8
+
+Item Description Rate
+Odio Iste nostrum. €4467
+Voluptas Autem quibusdam. €3492
+
+Grand Total: €67164
+
+Quantity
+8
+
+9
+
+Total
+
+€35736
+
+€31428

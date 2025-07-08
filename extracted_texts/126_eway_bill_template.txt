@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-428091
+Date: 27 Jan 2025
+Valid From: 24 Mar 2025 To 09 May 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-3481
+Transporter ID: TID-4594
+Transporter Name: Mathews-Kelly
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-1340
+
+Description HSN| Qty Unit | Taxable Value Tax Rate (%)
+
+Reason: Difficult serious four.
+

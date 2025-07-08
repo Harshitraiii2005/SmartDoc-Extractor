@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-70381
+
+Invoice Date: 17 Mar 2024
+
+Issued By:
+
+Toor, Kar and Mammen
+818, Dewan Zila Durgapur-798089
+
+To:
+Ray Group
+
+21 Mand Circle Phagwara-876113
+
+GSTIN: 0J555966Za15124
+
+Item
+Dignissimos
+Eius
+
+Facilis
+
+Quia
+
+Nesciunt
+
+Description
+
+Nihil similique placeat fuga laudantium.
+
+Exercitationem deserunt asperiores neque maiores.
+
+Cupiditate architecto nihil molestias.
+In ex ea.
+
+In impedit animi maiores.
+
+Grand Total: $96277
+
+Rate
+$947
+$1613
+$3683
+$2831
+
+$4601
+
+Quantity Total
+
+7
+
+8
+
+$6629
+
+$12904
+$25781
+$14155
+
+$36808

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33162
+
+Date: 18-10-2023
+
+From:
+
+Sule-Bhatti
+
+99, Choudhury Chowk, Maheshtala-684594
+To:
+
+Rama-Yadav
+
+456, Korpal Zila, Jaunpur-462249
+
+Amount Paid: =2366
+
+Payment Mode: Card

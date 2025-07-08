@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-178975
+
+Date: 12/03/2024
+
+Consignor:
+
+Saha-Krishnan
+
+35/831, Sahota Chowk, Thane 997096
+Consignee:
+
+Dave Ltd
+
+72/676, Samra Zila Jamalpur 346455
+Vehicle No: ma98ic8486
+
+GSTIN: VO267928b03072Z9
+
+Item Description
+
+Accusantium Dolorum sequi.
+
+Hic Reiciendis impedit consequatur.
+
+Quantity
+29
+
+46
+
+Value
+
+€25304
+
+€39600

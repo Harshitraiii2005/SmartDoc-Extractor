@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8137
+Date: 27 Apr 2025
+
+Supplier
+
+Mcdonald Group
+
+036 Owens Plains Apt. 332 Waltonborough, RI 59646
+GSTIN: 670126849922
+
+Contact: 628-431-6992x88961
+
+Buyer
+
+Anderson-Petty
+
+63610 Andre Forge Apt. 181 Christopherville, NM 97951
+GSTIN: 180274176781
+
+Contact: +1-324-266-7100x009
+
+Place of Supply: Sydneyland
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Experience 4784 fo | $858.51 $7726.59 $695.39 | $695.39 | $9117.38
+
+For 5500 $962.49 $4812.45 $433.12 |$433.12 | $5678.69
+2856 $929.85 $6508.95 $585.81 |$585.81 | $7680.56
+Everybody 2309 $972.78 $9727.8 $875.5 $875.5 $11478.8
+
+Sub Total: $615.38
+
+CGST: $54.91
+
+SGST: $180.21
+
+Grand Total: $1569.02
+
+Amount in Words: 2828 dollars only
+PO Number: PO-4955
+
+Terms: Son yet field read sister main.
+
+Reverse Charge: Yes

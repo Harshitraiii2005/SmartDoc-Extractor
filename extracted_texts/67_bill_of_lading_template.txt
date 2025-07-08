@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-7564
+Date: 12 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: We
+
+Port of Loading: East Cassandra
+Port of Discharge: Brentmouth
+Place of Delivery: New Maryview
+
+Container No: CONT-7598
+Marks: Defense
+
+Description of Goods: Certainly
+
+Gross Weight: 1014 kg
+Measurement: 6 cbm
+Freight Terms: Collect
+
+BILL OF LADING

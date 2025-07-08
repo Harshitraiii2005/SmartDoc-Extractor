@@ -1,0 +1,80 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-84844
+
+Date: 02/08/2024
+
+From:
+Ratta PLC
+
+85, Krishna Road Dharmavaram-937200
+
+To:
+
+Hari-Mander
+
+77 Choudhury Street Guwahati-466107
+
+GSTIN: KK637088sD238Z1
+
+Item
+
+In
+Excepturi
+Facere
+Deleniti
+Laborum
+
+Non
+
+Description
+
+Adipisci inventore.
+
+Fuga minima exercitationem soluta.
+
+Quia modi dicta reiciendis.
+Consectetur illum.
+Velit error enim molestiae.
+
+Quasi fuga.
+
+Grand Total: €136478
+
+Rate
+
+€4723
+
+€4712
+
+€4995
+
+€3805
+
+€2474
+
+€4694
+
+Quantity
+1
+
+7
+
+10
+
+Total
+
+€4723
+
+€32984
+
+€14985
+
+€38050
+
+€22266
+
+€23470

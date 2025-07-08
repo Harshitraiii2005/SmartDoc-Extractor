@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4954
+Date: 06 Feb 2025
+
+Exporter
+
+Clark-Vasquez
+9668 Taylor Brook Apt. 938 Herreramouth, VA 25745
+
+Importer
+
+Brown Ltd
+Unit 5987 Box 2242 DPO AP 48861
+
+Buyer Ref: 4ef23220-f435-41ab-aa48-1435a4e2a01c
+Origin: Saint Barthelemy
+Destination: Costa Rica
+
+Currency: INR
+Incoterms: FOB
+
+9878 $603.37 $7119.77
+
+Freight: $400.4
+Insurance: $192.95
+Total Invoice Value: $3482.72

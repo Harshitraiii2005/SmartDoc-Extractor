@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-79479
+
+Date: 14/12/2023
+
+From:
+
+Bora and Sons
+
+08, Shankar Path, Durgapur-472948
+To:
+
+Krish-Ganguly
+
+76/93 Chaudhuri Zila, Tiruppur 720136
+Amount Paid: 728060
+
+Payment Mode: Card

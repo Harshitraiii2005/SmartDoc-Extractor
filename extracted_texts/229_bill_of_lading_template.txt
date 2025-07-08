@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-5380
+Date: 04 Jul 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Window
+
+Port of Loading: Parksfurt
+
+Port of Discharge: Joshuamouth
+Place of Delivery: Castillomouth
+
+Container No: CONT-1656
+Marks: Choose
+
+Description of Goods: Listen
+
+Gross Weight: 1650 kg
+Measurement: 19 cbm
+Freight Terms: Collect
+
+BILL OF LADING

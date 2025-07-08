@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-57156
+
+Date: 07 Apr 2024
+
+From:
+
+Mammen Ltd
+
+409, Mander Marg Saharsa-371727
+To:
+
+Borde, Trivedi and Rau
+
+52/978 Bhat Nagar, Sasaram 364326
+Amount Paid: $28274
+
+Payment Mode: Card

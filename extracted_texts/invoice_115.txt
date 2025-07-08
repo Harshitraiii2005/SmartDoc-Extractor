@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-99284
+
+Invoice Date: 25-04-2025
+
+Issued By:
+
+Dayal-Rajagopal
+
+03/58, Subramaniam Buxar 922501
+To:
+
+Savant, Rout and Magar
+
+H.No. 51, Basu, Mau 302504
+
+GSTIN: ix416095da984Z1
+
+Item Description Rate
+Reprehenderit Dicta delectus dolorum velit. $3941
+Aliquam Non accusamus repudiandae soluta. $642
+
+Grand Total: $15675
+
+Quantity
+3
+
+6
+
+Total
+$11823
+
+$3852

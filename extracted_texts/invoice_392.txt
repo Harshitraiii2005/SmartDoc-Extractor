@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-2598
+
+Date: 23/11/2023
+
+From:
+
+Bal, Shanker and Taneja
+
+H.No. 620 Sangha Chowk, North Dumdum 876046
+Billed To:
+
+Borra, Sastry and Chowdhury
+
+H.No. 69, Bhavsar Bally 033176
+
+GSTIN: 0e557088Ls708Z0
+
+Item Description
+Ea Deleniti repellendus aliquam quisquam iure.
+Placeat Hic illum enim.
+
+Blanditiis | Adipisci adipisci dolores modi architecto.
+
+Hic Optio consequatur laboriosam nobis laboriosam.
+
+Veritatis Nemo ipsum corporis.
+
+Grand Total: $109569
+
+Rate
+$2361
+$810
+$4754
+$4230
+
+$1040
+
+Quantity
+9
+6
+
+10
+
+Total
+$21249
+$4860
+$47540
+$33840
+
+$2080

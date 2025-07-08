@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-92347
+
+Invoice Date: 01/04/2025
+
+Issued By:
+
+Goel and Sons
+
+H.No. 12, Kibe Street, Singrauli 330180
+To:
+
+Lad, Mahal and Subramanian
+
+943, Raj Ganj, Pali 846880
+
+GSTIN: Sz825094az007Z2
+
+Item Description Rate
+Ab Commodi explicabo tempora fuga. $2627
+Fuga Tempore ipsum dignissimos. $1632
+
+Grand Total: $42590
+
+Quantity
+10
+
+10
+
+Total
+$26270
+
+$16320

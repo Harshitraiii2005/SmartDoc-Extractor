@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-15
+
+Invoice Date: 13-08-2024
+
+Issued By:
+
+Bali-Talwar
+
+727, Comar Circle, Ozhukarai 799849
+To:
+
+Chaudhary-Khanna
+
+51/93 Kanda, Shimoga 167249
+
+GSTIN: cz615583F y674Z7
+
+Item Description
+
+Reprehenderit Cumaue perspiciatis architecto quae aut.
+
+Ullam Molestias quae cum iste perferendis.
+
+Grand Total: =45036
+
+Rate
+
+24473
+
+%1542
+
+Quantity
+8
+
+6
+
+Total
+
+%35784
+
+29252

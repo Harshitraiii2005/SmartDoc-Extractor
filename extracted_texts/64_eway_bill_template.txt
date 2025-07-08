@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-891039
+Date: 15 May 2025
+Valid From: 22 Feb 2025 To 24 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-7737
+
+Transporter ID: TID-5274
+
+Transporter Name: Garcia, Smith and Perkins
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-8899
+
+Taxable Value Tax Rate (%)
+
+Reason: Less information team.

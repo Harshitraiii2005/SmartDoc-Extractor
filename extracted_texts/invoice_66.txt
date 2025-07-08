@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-6129
+
+Invoice Date: 16-03-2025
+
+From:
+
+Hayre-Joshi
+
+H.No. 08 Wagle Nagar Guwahati-924985
+
+To:
+
+Dar and Sons
+
+H.No. 559 Choudhry Chowk, Ulhasnagar 050114
+
+GSTIN: sD316498Ty8002Z7
+
+Item Description Rate
+Dicta Harum a. $2049
+Eaque Illo dolores rerum modi. $3361
+
+Grand Total: $24426
+
+Quantity
+7
+
+3
+
+Total
+$14343
+
+$10083

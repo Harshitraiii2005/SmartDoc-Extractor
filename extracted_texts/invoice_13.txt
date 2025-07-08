@@ -1,0 +1,59 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-1757
+
+Date: 28-11-2024
+
+From:
+
+Cherian, Apte and Batra
+
+864, Chada Street, Durg-520578
+
+Billed To:
+
+Banerjee LLC
+
+54/944, Barad Circle, Pimpri-Chinchwad-853973
+
+GSTIN: DY191305GM177Z0
+
+Item Description
+
+Provident Fugit exercitationem officia.
+
+Molestiae Non deserunt repudiandae quas.
+Animi Dolore dolores distinctio ullam.
+Consequatur Facere laudantium reprehenderit enim.
+
+Grand Total: €14618
+
+Rate
+
+€1410
+
+€4910
+
+€509
+
+€665
+
+Quantity
+2
+1
+7
+
+5
+
+Total
+
+€2820
+
+€4910
+
+€3563
+
+€3325

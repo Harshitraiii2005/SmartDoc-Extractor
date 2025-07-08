@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-33447
+
+Invoice Date: 05 Apr 2025
+
+Issued By:
+
+Kulkarni, Shan and Din
+
+94/84 Singh Nagar Bidhannagar-362722
+Billed To:
+
+Mahajan-Hegde
+
+H.No. 19 Agarwal Nagar Amravati 313351
+
+GSTIN: Vc987756ji8542Z9
+
+Item Description
+Voluptas _—_ Ut iste velit itaque minima.
+
+Nisi Neque iste aliquid.
+
+Ut Nostrum laborum animi beatae exercitationem.
+
+Grand Total: $24893
+
+Rate
+$836
+$1278
+
+$3381
+
+Quantity
+10
+5
+
+3
+
+Total
+$8360
+$6390
+
+$10143

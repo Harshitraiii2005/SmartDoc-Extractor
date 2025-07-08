@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1749
+Date: 28 May 2025
+
+Exporter
+
+Burnett and Sons
+39417 Gilbert Harbor South Joetown, AR 28369
+
+Importer
+
+Flynn PLC
+87392 Brandon Lodge Apt. 708 Bakershire, MP 80962
+
+Buyer Ref: 5c591969-bd60-4cd7-ba94-02b82d620dc2
+Origin: Djibouti
+Destination: Eritrea
+
+Currency: INR
+Incoterms: FOB
+
+Woman 7452 Bo $392.54 $3705.58
+
+Measure 4242 $151.04 $178.23
+Charge 5565 $574.85 $2713.29
+
+Freight: $348.57
+
+Insurance: $112.89
+
+Total Invoice Value: $1578.47

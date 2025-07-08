@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-37958
+
+Date: 01 Jul 2024
+
+Issued By:
+
+Tiwari Group
+
+33/473 Kara Road Dewas-130939
+
+Billed To:
+
+Dubey-Sahota
+
+32/593, Khosla Chowk, Khandwa 901802
+
+GSTIN: Cc096679zh508Z3
+
+Item Description Rate
+Voluptates Possimus sapiente sint voluptas. €4137
+Natus Commodi autem deleniti et alias. €3388
+
+Grand Total: €14301
+
+Quantity
+1
+
+3
+
+Total
+
+€4137
+
+€10164

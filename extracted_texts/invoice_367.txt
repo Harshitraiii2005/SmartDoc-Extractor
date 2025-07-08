@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-8655
+
+Invoice Date: 25-04-2025
+
+Issued By:
+
+Mani, Chahal and Shetty
+
+88/68, Bose Road, Mathura-722695
+Billed To:
+
+Ben, Borra and Bajaj
+
+93/601 Upadhyay Circle Silchar-983972
+
+GSTIN: hq189476bt918Z8
+
+Item Description Rate
+Reiciendis Ratione quia. €4151
+Officia Ipsum necessitatibus occaecati incidunt. €1220
+
+Grand Total: €29295
+
+Quantity
+5
+
+7
+
+Total
+
+€20755
+
+€8540

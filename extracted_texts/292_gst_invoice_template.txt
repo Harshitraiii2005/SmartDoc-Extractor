@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1802
+Date: 17 May 2025
+
+Supplier
+
+Martinez, Moore and Davis
+
+058 Robertson Village Apt. 476 Port Darin, MP 05318
+GSTIN: 798413693115
+
+Contact: (628)608-9099x55033
+
+Buyer
+
+Huerta, Welch and Lucas
+
+972 James Mission New Benjaminborough, VA 06418
+GSTIN: 382127817706
+
+Contact: 348.743.0293
+
+Place of Supply: Murphyborough
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Traditional 4611 [4 | $283.77 $1135.08 $102.16 |$102.16 | $1339.39
+
+Not 6360 8 | $286.29 $2290.32 $206.13 |$206.13 | $2702.58
+9348 fo | $12.72 $114.48 $10.3 $10.3 $135.09
+6576 $526.83 $526.83 $47.41 $47.41 $621.66
+
+Sub Total: $1201.49
+
+CGST: $125.09
+
+SGST: $121.34
+
+Grand Total: $1841.69
+
+Amount in Words: 3898 dollars only
+PO Number: PO-6435
+
+Terms: Measure kitchen guess and.
+
+Reverse Charge: Yes

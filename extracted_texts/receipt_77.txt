@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-93215
+
+Date: 25-01-2025
+
+From:
+
+Mahajan Ltd
+
+71, Madan Path, Chinsurah 718351
+To:
+
+Vig, Jha and Kapur
+
+41 Batra Road, Nanded-649835
+Amount Paid: $46770
+
+Payment Mode: UPI

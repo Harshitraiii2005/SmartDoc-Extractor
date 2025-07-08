@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-64591
+
+Date: 17-04-2025
+
+From:
+
+Tak-Gole
+
+112 Sagar Path Guna-648483
+
+Billed To:
+
+Gulati, Sampath and Dugar
+
+H.No. 444, Khare Nagar, Moradabad-732967
+
+GSTIN: wD5791850L170Z0
+
+Item Description Rate Quantity Total
+Dolor Ab beatae quae. $1290 1 $1290
+Porro Recusandae nulla excepturi. $1379 7 $9653
+Perspiciatis Dolore dolorum maxime corrupti. $2754 10 $27540
+Quidem Corrupti et corrupti officiis. $3359 5 $16795
+In Fugit officiis facilis unde. $828 10 $8280
+
+Grand Total: $63558

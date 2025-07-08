@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-3791
+Date: 28 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Prepare
+
+Port of Loading: Garciaville
+
+Port of Discharge: Port Michellemouth
+Place of Delivery: South Joseph
+
+Container No: CONT-6447
+Marks: There
+
+Description of Goods: Blue
+
+Gross Weight: 3042 kg
+Measurement: 6 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

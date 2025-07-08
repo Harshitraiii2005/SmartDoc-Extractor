@@ -1,0 +1,78 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-31497
+
+Invoice Date: 08/06/2025
+
+Issued By:
+Sur-Jhaveri
+
+996, Krishnan Marg Chandigarh 039125
+
+To:
+
+Kale-Acharya
+
+590 Char Street Pudukkottai 989009
+
+GSTIN: AS088415Yy561Z5
+
+Item
+Expedita
+Magnam
+
+Id
+Perspiciatis
+Quidem
+
+Molestiae
+
+Description
+
+Necessitatibus quam ea quis.
+Accusamus id corporis minus.
+Facilis fugiat nisi atque.
+
+Occaecati ut facilis.
+
+Ipsum vitae sint laborum facere.
+
+Ad reprehenderit officia.
+
+Grand Total: §105122
+
+Rate
+
+%1371
+
+24082
+
+24446
+
+24344
+
+24149
+
+24962
+
+Quantity
+9
+
+1
+
+Total
+
+212339
+
+24082
+
+%31122
+
+%8688
+
+29043
+
+%19848

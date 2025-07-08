@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-9249
+Date: 05 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Stand
+
+Port of Loading: Williefurt
+
+Port of Discharge: South Derekbury
+Place of Delivery: Lawrenceville
+
+Container No: CONT-1299
+Marks: Central
+
+Description of Goods: Research
+
+Gross Weight: 3794 kg
+Measurement: 8 cbm
+Freight Terms: Collect
+
+BILL OF LADING

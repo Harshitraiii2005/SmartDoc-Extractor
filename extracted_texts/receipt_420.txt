@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-74918
+
+Date: 15-03-2025
+
+From:
+
+Choudhury Inc
+
+007 Master Path, Shivpuri 280722
+
+To:
+
+Verma, Vyas and Sachdeva
+
+H.No. 235, Uppal Nagar Madhyamgram-877568
+Amount Paid: %13445
+
+Payment Mode: Net Banking

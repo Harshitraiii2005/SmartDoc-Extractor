@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-7127
+
+Date: 11/11/2024
+
+From:
+
+Bajwa-Andra
+
+66/695 Choudhry Street Baranagar 940658
+To:
+
+Hari-Wali
+
+24/61 Krishnan Marg Srinagar-093058
+
+GSTIN: Ko765846Q108321
+
+Item Description
+
+Repudiandae Excepturi quo quibusdam.
+Animi Vero vero recusandae maxime.
+Odio Excepturi enim beatae eaque.
+Fugiat Culpa delectus quae sapiente.
+
+Grand Total: %52458
+
+Rate
+
+%3207
+
+%1724
+
+%1087
+
+%2184
+
+Quantity
+9
+
+8
+
+Total
+
+28863
+
+13792
+
+5435
+
+24368

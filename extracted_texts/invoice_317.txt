@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-46225
+
+Date: 17-09-2023
+
+Issued By:
+
+Bath Ltd
+
+98/82 Guha Zila Gurgaon 743653
+Billed To:
+
+Bhasin, Sabharwal and Balan
+539 Ram Street, Shivpuri 552691
+
+GSTIN: wm957312lm924Z9
+
+Item Description
+
+Similique Ipsam nihil quisquam.
+
+Amet Suscipit aspernatur commodi repellendus placeat.
+Ullam Molestiae aliquam.
+
+Minima Deserunt assumenda doloribus quia architecto.
+
+Reiciendis Sit atque placeat.
+
+Grand Total: $93809
+
+Rate
+
+$3388
+$2207
+$2648
+$4288
+
+$4073
+
+Quantity Total
+
+6
+
+8
+
+$20328
+$17656
+$10592
+$8576
+
+$36657

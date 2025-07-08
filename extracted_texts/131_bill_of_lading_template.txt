@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-7502
+Date: 29 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Language
+
+Port of Loading: Gonzalezberg
+
+Port of Discharge: New Matthewmouth
+Place of Delivery: Port Jennifer
+
+Container No: CONT-2952
+Marks: Indeed
+
+Description of Goods: Service
+
+Gross Weight: 2083 kg
+Measurement: 5 cbm
+Freight Terms: Collect
+
+BILL OF LADING

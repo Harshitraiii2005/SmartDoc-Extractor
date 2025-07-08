@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-999400
+
+Date: 08/04/2025
+
+Consignor:
+
+Rattan-Lata
+
+44/726 Bandi Street, Jamshedpur-314381
+Consignee:
+
+Shetty-Uppal
+
+549, Sani Nagar Nanded 609996
+Vehicle No: Sw18KK2945
+
+GSTIN: 1A411505tU4972Z6
+
+Item Description
+
+Perferendis Ipsam voluptate commodi.
+
+Minima Ut animi praesentium.
+
+Quantity
+2
+
+20
+
+Value
+$34546
+
+$22983

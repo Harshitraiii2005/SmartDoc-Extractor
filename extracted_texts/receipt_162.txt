@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65150
+
+Date: 15/10/2024
+
+From:
+
+Bhattacharyya, Gade and Reddy
+
+92/69 Sachdeva Ganj Machilipatnam 306650
+To:
+
+Yogi-Sibal
+
+00/26, Chawla Chowk Etawah-409675
+Amount Paid: %21879
+
+Payment Mode: Net Banking

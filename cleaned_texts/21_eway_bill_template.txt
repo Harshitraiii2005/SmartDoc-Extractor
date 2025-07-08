@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 585945Date: 09 Apr 2025Valid From: 28 Feb 2025 To 12 May 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 8986Transporter ID: TID: 4525Transporter Name: Massey LtdDocument ReferenceType: Delivery ChallanNo: DOC: 3578Reason: Dark last each.Qty junit | Taxable Value Tax Rate (%)2 foo |

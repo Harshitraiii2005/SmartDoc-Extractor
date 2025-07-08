@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-95521
+
+Date: 30 Sep 2024
+
+From:
+
+Krishna-Dugal
+
+52 Sathe Marg Ramgarh 225225
+To:
+
+Garg, Ramaswamy and Taneja
+52 Hayer Circle Buxar 052691
+Amount Paid: $37709
+
+Payment Mode: Net Banking

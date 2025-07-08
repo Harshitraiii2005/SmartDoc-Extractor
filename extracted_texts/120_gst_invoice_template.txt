@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5131
+Date: 12 Apr 2025
+
+Supplier
+
+Villegas-Davis
+
+PSC 0517, Box 8422 APO AP 75564
+GSTIN: 665293787554
+
+Contact: (454)620-2169
+
+Buyer
+
+Coleman, Thomas and Salazar
+
+163 Greene Gateway Suite 195 Johnmouth, FM 37630
+GSTIN: 373586763635
+
+Contact: +1-413-565-6958x60317
+
+Place of Supply: South Denise
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Small 5328 |8 — | $957.34 $7658.72 $689.28 | $689.28 | $9037.29
+Growth 3389 8 | $23.42 $187.36 $16.86 $16.86 $221.08
+
+Participant 4098 $384.57 $1538.28 $138.45 | $138.45 | $1815.17
+Attorney 2353 6 | $135.89 $815.34 $73.38 | $73.38 ~—«*|s $962.1
+Car 5976 $905.77 $6340.39 $570.64 |$570.64 | $7481.66
+
+Sub Total: $687.74
+
+CGST: $50.9
+
+SGST: $186.22
+
+Grand Total: $950.75
+
+Amount in Words: 3603 dollars only
+PO Number: PO-2765
+
+Terms: Compare sort single brother.
+
+Reverse Charge: Yes

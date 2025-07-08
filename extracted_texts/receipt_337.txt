@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-48757
+
+Date: 07-07-2023
+
+From:
+
+Barman Ltd
+
+H.No. 442, Ghose Circle Chapra 534491
+To:
+
+Hari, Aurora and Guha
+
+663 Tata Road Chennai-331355
+Amount Paid: $8276
+
+Payment Mode: UPI

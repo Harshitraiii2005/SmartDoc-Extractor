@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-17161
+
+Date: 18-11-2023
+
+From:
+
+Ramaswamy Inc
+
+03, Wali Marg Berhampur 053587
+
+To:
+
+Dasgupta-Srinivasan
+
+43/054, Banerjee Road, Chennai-294925
+Amount Paid: 743832
+
+Payment Mode: Net Banking

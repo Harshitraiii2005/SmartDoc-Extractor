@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-38846
+
+Date: 25-05-2025
+
+From:
+
+Keer-D’Alia
+
+H.No. 99 Gaba Ganj Satara-370072
+
+To:
+
+Butala-Rattan
+
+H.No. 022, Jhaveri Nagar, Dnanbad 097463
+Amount Paid: €31775
+
+Payment Mode: Net Banking

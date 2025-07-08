@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-72538
+
+Date: 02 Jun 2024
+
+From:
+
+Brahmbhatt-De
+
+61/688 Wable Nagar, Bhatpara 339232
+To:
+
+Ravi, Banik and Sur
+
+71, Datta Zila Nizamabad-813002
+
+GSTIN: ir629602Yj1492Z6
+
+Item Description
+
+Ipsum Id repellendus repellendus veritatis.
+Magni Voluptas dicta.
+
+Culpa Ex placeat sequi sit deleniti.
+
+Eius Quasi asperiores modi doloribus.
+Repellendus Est occaecati dignissimos blanditiis.
+
+Grand Total: %57326
+
+Rate
+
+=1989
+
+700
+
+3130
+
+%3516
+
+22515
+
+Quantity
+1
+
+9
+
+Total
+
+1989
+
+6300
+
+21910
+
+224612
+
+2515

@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4054
+Date: 21 May 2025
+
+Exporter
+
+Robertson and Sons
+31715 Golden Inlet East Jill, IA 47053
+
+Importer
+
+Mercado LLC
+9374 Morgan Squares Apt. 253 Lake Sarahborough, PA 81696
+
+Buyer Ref: 8cafb956-3329-4 186-a2d5-40503b09dd67
+Origin: Ecuador
+Destination: Central African Republic
+
+Currency: EUR
+Incoterms: CIF
+
+Really 2011 $507.22 $2394.08
+
+Already 4559 $286.4 $1013.86
+
+Freight: $312.49
+
+Insurance: $51.55
+
+Total Invoice Value: $1256.34

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-68002
+
+Date: 07/02/2024
+
+From:
+
+Lad, Doshi and Kashyap
+
+258 Jayaraman Marg, Amritsar 182738
+To:
+
+Wali PLC
+
+14/65 Sathe Circle, Bettiah-375347
+Amount Paid: =26471
+
+Payment Mode: Net Banking

@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3542
+Date: 14 Apr 2025
+
+Supplier
+
+Thomas, Oconnell and Blankenship
+
+219 Alice Overpass Suite 387 North James, NH 42101
+GSTIN: 348464438476
+
+Contact: (727)549-3087
+
+Buyer
+
+Wilson-Jones
+
+44463 Grimes Underpass Suite 519 New Donnaborough, OR 47772
+GSTIN: 273474372644
+
+Contact: +1-850-464-1002x72419
+
+Place of Supply: Danielton
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Become 1243 $85.68 $599.76 $53.98  |$53.98 | $707.72
+
+Whether 8848 $961.61 $3846.44 $346.18 |$346.18 | $4538.8
+Condition 1510 $891.31 $1782.62 $160.44 |$160.44 | $2103.49
+Assume 6571 $383.15 $766.3 $68.97 $68.97 $904.23
+
+Sub Total: $842.99
+
+CGST: $190.18
+
+SGST: $106.21
+
+Grand Total: $1645.23
+
+Amount in Words: 1757 dollars only
+
+PO Number: PO-6586
+
+Terms: Town trouble while power administration.
+
+Reverse Charge: Yes

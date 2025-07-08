@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-62825
+
+Date: 14 Mar 2025
+
+Issued By:
+
+Hayre-Aurora
+
+01/38, Ganguly Gandhinagar 400339
+
+To:
+
+Sridhar-Kapadia
+
+30/117, Bhattacharyya Zila, Sikar-825212
+
+GSTIN: nJ144815jD92227
+
+Item Description
+
+Nemo Corrupti velit atque.
+
+Similique Odio asperiores exercitationem.
+Earum Consectetur veniam consequatur vero.
+Deserunt Non maiores dolore placeat.
+
+Grand Total: €64917
+
+Rate
+
+€2844
+
+€1117
+
+€4194
+
+€549
+
+Quantity
+3
+9
+
+10
+
+Total
+
+€8532
+
+€10053
+
+€41940
+
+€4392

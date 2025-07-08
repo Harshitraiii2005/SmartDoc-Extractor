@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-77933
+
+Date: 21-11-2023
+
+From:
+
+Deo-Shroff
+
+58/951, Bhardwaj Path Panvel-447616
+To:
+
+Tank Inc
+
+H.No. 86, Comar Circle Khandwa-723506
+Amount Paid: $5416
+
+Payment Mode: UPI

@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No:
+
+INV-63311
+
+Invoice Date: 07 Mar 2024
+
+Issued By:
+Varkey-Sen
+
+77 Chakrabarti Path, Firozabad-121084
+
+To:
+
+Mannan, Ramaswamy and Shankar
+97/66 Din, Rohtak 312333
+
+GSTIN: nj0o
+
+Item
+Esse
+Nesciunt
+Repellat
+
+Eos
+
+Grand Total
+
+1481cc065Z6
+
+Description
+
+Praesentium deserunt ipsum maiores.
+
+Magni inventore beatae nihil quo.
+Atque ducimus nobis.
+
+Quas occaecati sed soluta itaque.
+
+: §37364
+
+Rate
+
+1020
+
+22773
+
+24645
+
+24102
+
+Quantity
+6
+
+2
+
+Total
+
+26120
+
+25546
+
+9290
+
+=16408

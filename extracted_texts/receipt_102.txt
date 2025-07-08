@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-7466
+
+Date: 18-04-2025
+
+From:
+
+Mand-Dey
+
+417 Solanki Circle Tumkur-391974
+
+To:
+
+Mangal, Sandal and Agarwal
+
+H.No. 068, Sibal Ganj Rajahmundry 301582
+Amount Paid: €10165
+
+Payment Mode: Net Banking

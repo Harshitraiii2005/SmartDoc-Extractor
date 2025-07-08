@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-97680
+
+Date: 15/11/2024
+
+From:
+
+Saran, Varma and Bhalla
+
+46/85 Karnik Path Agartala-570991
+To:
+
+Kohli-Dutta
+
+H.No. 87 Bhatti Marg, Madurai 791025
+Amount Paid: $22886
+
+Payment Mode: UPI

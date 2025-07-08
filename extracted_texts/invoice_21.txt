@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-45406
+
+Invoice Date: 05 Mar 2025
+
+Issued By:
+
+Deep-Rout
+
+36 Kota Path Jhansi-178674
+
+Billed To:
+
+Bala, Varma and Trivedi
+
+H.No. 09, Sankaran Road Saharsa-766065
+
+GSTIN: Pc278150FX370Z9
+
+Item Description Rate
+Tenetur Est sunt a reprehenderit. 33174
+Ex Similique natus officia culpa. 7620
+Ducimus Tenetur expedita. 22354
+
+Grand Total: 23478
+
+Quantity
+4
+6
+
+3
+
+Total
+
+12696
+
+3720
+
+7062

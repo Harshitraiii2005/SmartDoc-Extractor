@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-375874
+Date: 15-06-2024
+
+Consignor:
+
+Lata and Sons
+
+H.No. 023 Dutt Path, Akola-021191
+Consignee:
+
+Sarkar-Karnik
+
+08 Keer, Tiruppur 292011
+
+Vehicle No: qZ77gZ5699
+
+GSTIN: XZ0068590e81224
+
+Item Description
+
+A Aut perspiciatis facere voluptatibus.
+
+Quantity
+
+5
+
+Value
+
+€6565

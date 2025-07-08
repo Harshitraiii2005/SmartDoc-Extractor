@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-153896
+Date: 13 Mar 2025
+Valid From: 12 Apr 2025 To 12 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-4405
+Transporter ID: TID-2304
+Transporter Name: Forbes Group
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-4319
+
+Taxable Value Tax Rate (%)
+
+Reason: Who difference whose.
+

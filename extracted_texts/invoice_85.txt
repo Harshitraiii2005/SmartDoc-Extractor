@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-57455
+
+Date: 02-04-2024
+
+Issued By:
+
+Khatri-Chaudhry
+
+38/028 Gaba Zila, Korba-671507
+Billed To:
+
+Subramaniam and Sons
+
+45, Dey Road, Ratlam 210940
+
+GSTIN: gh0456341G92521
+
+Item Description
+
+Veniam | Beatae reprehenderit nostrum atque quibusdam.
+
+Veniam | Deserunt quos error minus blanditiis.
+
+Porro Veniam nemo et quae deleniti.
+
+Grand Total: %43636
+
+Rate Quantity Total
+
+%650 2 1300
+21202 7 %8414
+24846 7 %33922

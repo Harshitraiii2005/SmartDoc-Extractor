@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-51304
+
+Date: 26-11-2024
+
+From:
+
+Chokshi-Mand
+
+H.No. 031, Dave Kurnool 985266
+
+To:
+
+Choudhry, Ramachandran and Aggarwal
+926, Bera Marg Ambattur-389892
+
+GSTIN: gG127855ty304Z6
+
+Item Description
+
+Eum Error nesciunt nesciunt iusto.
+
+Ad Cupiditate sed.
+
+Enim Consequatur eum delectus et et.
+
+Doloremque Similique laborum tempore voluptatum.
+
+Eos Distinctio dolorum distinctio accusamus.
+
+Grand Total: €85899
+
+Rate
+
+€965
+
+€3897
+
+€4723
+
+€1350
+
+€3287
+
+Quantity
+10
+1
+
+10
+
+Total
+
+€9650
+
+€3897
+
+€47230
+
+€5400
+
+€19722

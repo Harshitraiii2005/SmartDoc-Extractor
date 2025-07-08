@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-89326
+
+Invoice Date: 20 Jun 2024
+
+From:
+
+Jhaveri PLC
+
+H.No. 971 Sahota Street Khora -415093
+To:
+
+Ramanathan-Borah
+
+H.No. 36, Gola Chowk Ujjain-377699
+
+GSTIN: Fq464773SP94221
+
+Item Description
+
+Libero Harum rerum at aliquid repudiandae.
+Beatae Quos quam in.
+
+Ab Commodi iusto commodi ut.
+Dolorem Mollitia sit ea.
+
+Neque Autem quasi Officiis nobis ea.
+
+Grand Total: €103707
+
+Rate
+
+€1679
+
+€3287
+
+€4361
+
+€4968
+
+€4624
+
+Quantity
+3
+
+2
+
+Total
+
+€5037
+
+€6574
+
+€34888
+
+€24840
+
+€32368

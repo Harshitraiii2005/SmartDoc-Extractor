@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9546
+Date: 16 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Start
+
+Port of Loading: West Victor
+Port of Discharge: New Adamfurt
+Place of Delivery: Heatherbury
+
+Container No: CONT-9888
+Marks: Himself
+
+Description of Goods: Reality
+
+Gross Weight: 4778 kg
+Measurement: 16 cbm
+Freight Terms: Collect
+
+BILL OF LADING

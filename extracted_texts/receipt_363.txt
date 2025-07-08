@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-83989
+
+Date: 27-10-2024
+
+From:
+
+Mangal PLC
+
+74 Bora Zila, Bangalore-739913
+To:
+
+Tank-Mangal
+
+78, lyer Marg, Delhi 328871
+Amount Paid: 75499
+
+Payment Mode: Net Banking

@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3269
+Date: 05 Feb 2025
+
+Supplier
+
+Lopez, Gray and Doyle
+
+227 Carroll Parkway New Jennyborough, MA 47933
+GSTIN: 318988497179
+
+Contact: (386)327-6816x873
+
+Buyer
+
+Long-White
+
+3423 Morgan Roads North Diana, AZ 24887
+GSTIN: 408093995812
+
+Contact: 267-688-4203x53495
+
+Place of Supply: South Lisaland
+
+[Number ‘| 1086 }4 | $540.7 $2162.8 $194.65 |$194.65 | $2552.1
+
+9588 $535.65 $535.65 $48.21 $48.21 $632.07
+
+Sub Total: $1285.85
+
+CGST: $133.7
+
+SGST: $189.94
+
+Grand Total: $1905.42
+
+Amount in Words: 3238 dollars only
+
+PO Number: PO-4920
+
+Terms: Less she us community month become.
+
+Reverse Charge: No

@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-2655
+Date: 05 Apr 2025
+
+Exporter
+
+Taylor, Juarez and Miller
+2959 Odonnell Circles Suite 094 Wrightfort, CO 99805
+
+Importer
+
+Griffin Group
+12795 Clark Tunnel Port Victoria, RI 37980
+
+Buyer Ref: e3a2c468-98c7-4626-a2c5-e5bd 11fc7dff
+Origin: Nepal
+Destination: Tonga
+
+Currency: USD
+Incoterms: FOB
+
+escinion «HSN ay [unwroce [tom
+
+Happy 8922 fs | $152.74 $1441.87
+
+Freight: $400.28
+
+Insurance: $87.99
+
+Total Invoice Value: $2441.81

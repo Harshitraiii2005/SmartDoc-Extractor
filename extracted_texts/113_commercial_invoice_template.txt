@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5667
+Date: 14 Apr 2025
+
+Exporter
+
+Walters-Sanford
+4163 Michael Heights Suite 047 Strongshire, FL 19807
+
+Importer
+
+Hernandez, Bartlett and Brown
+03826 Joy Fort Margaretshire, GA 20844
+
+Buyer Ref: 7e8ecb3d-2e31-4367-b380-9a3bb75d5589
+Origin: Gambia
+Destination: Suriname
+
+Currency: EUR
+Incoterms: EXW
+
+Ee
+
+Freight: $207.96
+
+Insurance: $169.25
+Total Invoice Value: $3756.36

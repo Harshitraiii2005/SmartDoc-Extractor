@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-11485
+
+Date: 22-12-2024
+
+From:
+
+Lad, Vora and Lanka
+
+97 Amble Zila Jalandhar 737914
+
+To:
+
+Sathe, Goswami and Sachar
+
+54/10 Mandal Marg Yamunanagar 484030
+Amount Paid: $19086
+
+Payment Mode: UPI

@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-41070
+
+Invoice Date: 16/03/2025
+
+From:
+
+Taneja PLC
+
+H.No. 802, Lala Circle, Kottayam-039329
+Billed To:
+
+Trivedi Group
+
+H.No. 73 Tailor Nagar Bijapur 631643
+
+GSTIN: Pm1222061z370Z4
+
+Item Description Rate
+
+Ipsum Veritatis earum ea quo. $3559
+Esse Soluta autem facilis reprehenderit. $1025
+Officiis Dignissimos quasi earum voluptatem. $4718
+
+Grand Total: $75384
+
+Quantity
+10
+
+2
+
+Total
+$35590
+$2050
+
+$37744

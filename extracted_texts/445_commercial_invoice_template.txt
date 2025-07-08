@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3720
+Date: 06 Mar 2025
+
+Exporter
+
+Montoya LLC
+84656 Morgan Extension Suite 067 Waynemouth, AK 28103
+
+Importer
+
+Cox, Burns and Larson
+103 Autumn Common Timothyside, MO 15394
+
+Buyer Ref: 4a0fa/aa-39fe-48d7-9a1d-29ced306f20f
+Origin: Czech Republic
+Destination: Congo
+
+Currency: USD
+Incoterms: FOB
+
+Drop 2655 Bo $675.77 $6379.27
+
+However 9121 $761.33 $2695.11
+Practice 9855 $912.14 $3228.98
+
+Freight: $286.61
+
+Insurance: $143.05
+Total Invoice Value: $2939.1

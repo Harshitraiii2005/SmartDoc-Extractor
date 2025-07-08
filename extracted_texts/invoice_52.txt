@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-83825
+
+Invoice Date: 24 Sep 2024
+
+Issued By:
+
+Kapoor-Chakrabarti
+
+34/885, Mahal Circle Bhiwandi 291000
+Billed To:
+
+Barad, Banik and Sanghvi
+
+23 Bhargava Saharsa 073773
+
+GSTIN: tS375154F0752Z7
+
+Item Description
+Fugit Accusantium laborum explicabo inventore.
+Voluptatibus Iste dignissimos.
+
+Necessitatibus Vero suscipit.
+
+Grand Total: €40441
+
+Rate
+
+€2315
+
+€2411
+
+€2825
+
+Quantity
+10
+
+6
+
+Total
+
+€23150
+
+€14466
+
+€2825

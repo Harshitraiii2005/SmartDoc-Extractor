@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-551660
+Date: 29 Jan 2025
+Valid From: 07 Apr 2025 To 26 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-7498
+
+Transporter ID: TID-1949
+
+Transporter Name: Richards, Browning and Powell
+
+Document Reference
+
+Type: Invoice
+No: DOC-7052
+
+Taxable Value Tax Rate (%)
+
+Reason: Cover doctor.

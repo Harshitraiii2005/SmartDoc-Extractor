@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-67589
+Date: 30-01-2025
+
+Issued By:
+Sekhon Group
+H.No. 520, Bakshi Path, Rajahmundry 250075
+
+Billed To:
+Chakraborty Inc
+104, Bava Zila, Navi Mumbai-724052
+
+GSTIN: xM512832ig356Z3
+
+Item Description
+
+Modi Facere quidem impedit odio sit.
+Nostrum Possimus veritatis.
+
+Modi Quo vitae.
+
+Soluta Sunt quae.
+
+Grand Total: $36215
+
+Rate
+$560
+$1200
+$2889
+
+$1695
+
+Quantity
+10
+
+5
+
+Total
+$5600
+$6000
+$14445
+
+$10170

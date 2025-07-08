@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-73195
+
+Invoice Date: 14-01-2025
+
+From:
+
+Boase, Sant and Kibe
+
+41/24 lyer Pudukkottai 418236
+
+Billed To:
+
+Rao-Ganesh
+
+H.No. 69 Ramakrishnan, Durgapur 551419
+
+GSTIN: nf087957Yc340Z9
+
+Item Description
+
+Praesentium Perspiciatis inventore similique doloremque.
+
+In Unde necessitatibus rerum qui.
+
+Magni Totam aut.
+
+Grand Total: $45871
+
+Rate
+$3586
+$1881
+
+$4013
+
+Quantity
+3
+
+8
+
+Total
+$10758
+$15048
+
+$20065

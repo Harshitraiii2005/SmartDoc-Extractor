@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-23693
+
+Date: 02 Jan 2025
+
+Issued By:
+
+Lalla Group
+
+90/92 Seth Nagar Deoghar-460104
+Billed To:
+
+Sem Ltd
+
+166 Hayre Street, Madanapalle 272914
+
+GSTIN: qs635619pc298Z3
+
+Item Description
+Laudantium Saepe nulla unde consequuntur.
+Amet Ratione libero.
+
+Assumenda Blanditiis deleniti consequuntur.
+
+Sit Natus iure molestias.
+
+Repudiandae Consectetur atque dolorem inventore excepturi.
+
+Grand Total: $53807
+
+Rate
+$2817
+$956
+$2026
+$1022
+
+$4378
+
+Quantity Total
+
+5
+
+8
+
+$14085
+$7648
+$4052
+$6132
+
+$21890

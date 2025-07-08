@@ -1,0 +1,1 @@
+COMMERCIAL INVOICEInvoice No: INV: 3117Date: 24 Jun 2025ExporterLloyd: Lewis53194 Taylor Divide New Connie, AL 01853ImporterDavis: Clark896 Ferguson Mount Apt. 156 Vincentberg, MA 47326Buyer Ref: 7ed3ded5: 1b25: 4064: 90d9: a55a2e1cb8b9Origin: KuwaitDestination: KenyaCurrency: EURIncoterms: FOBa CCFreight: $234.75Insurance: $77.77Total Invoice Value: $4415.46

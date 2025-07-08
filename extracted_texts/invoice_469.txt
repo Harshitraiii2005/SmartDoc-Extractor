@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-14375
+
+Invoice Date: 11 Aug 2023
+
+Issued By:
+
+Guha-Garg
+
+09/433 Brar Circle Dewas-743489
+Billed To:
+
+Kohli and Sons
+
+H.No. 97, Upadhyay Zila, Bidar-749786
+
+GSTIN: CH376019GH549Z2
+
+Item Description Rate
+Explicabo Ut magnam culpa error. €880
+Amet Repellendus fugit et. €2166
+Ipsa Mollitia ullam cum. €1969
+
+Grand Total: €31758
+
+Quantity
+7
+
+10
+
+Total
+
+€6160
+
+€21660
+
+€3938

@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-95202
+
+Invoice Date: 24-11-2023
+
+Issued By:
+
+Madan, Saran and Bala
+H.No. 58, Sen Path, Moradabad 891491
+
+Billed To:
+
+Keer, Verma and Atwal
+197 Gopal Ganj Nagercoil-242228
+
+GSTIN: 1f147262Zs493Z2
+
+Item
+Molestias
+Illum
+
+At
+
+Rerum
+Magni
+
+Deserunt
+
+Description
+
+Sunt commodi saepe id.
+Laboriosam fugiat.
+Minima sunt magni et.
+
+Nesciunt beatae.
+
+Officiis natus vero iure neque.
+
+Ullam explicabo eum.
+
+Grand Total: $117814
+
+Rate
+$3829
+$2083
+$3073
+$3328
+$949
+
+$4439
+
+Quantity
+5
+
+2
+
+10
+
+Total
+$19145
+$4166
+$18438
+$26624
+$9490
+
+$39951

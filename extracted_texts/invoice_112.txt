@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-14421
+
+Invoice Date: 23 May 2025
+
+From:
+
+Bora-Sinha
+
+292 Rau Marg Chandrapur-256234
+Billed To:
+
+Shukla Group
+
+96, Vasa Path Karnal 643213
+
+GSTIN: wN202928gm103Z7
+
+Item Description
+
+Laborum Odio blanditiis quibusdam.
+
+Sapiente Delectus dolore laboriosam quo suscipit.
+
+Quidem Alias quae perspiciatis.
+
+Grand Total: $17917
+
+Rate
+$1514
+$1805
+
+$1963
+
+Quantity
+1
+8
+
+1
+
+Total
+$1514
+$14440
+
+$1963

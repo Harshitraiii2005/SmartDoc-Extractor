@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5582
+Date: 27 Feb 2025
+
+Exporter
+
+King, Jackson and Lewis
+4616 Cole Drives Suite 683 West Julie, SC 10755
+
+Importer
+
+Schroeder, Moore and Thomas
+761 Hall Locks Danielchester, GA 92628
+
+Buyer Ref: 34bb1d29-ae22-47e5-b46a-b454fce230ef
+Origin: Saint Pierre and Miquelon
+Destination: Cameroon
+
+Currency: EUR
+Incoterms: FOB
+
+Same 6046 Bo $806.29 $7611.38
+
+Freight: $381.82
+
+Insurance: $191.52
+
+Total Invoice Value: $4185.98

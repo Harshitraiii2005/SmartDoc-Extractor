@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 954405Date: 18 Apr 2025Valid From: 21 Jun 2025 To 04 Jun 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: AirVehicle No: VEH: 5466Transporter ID: TID: 3843Transporter Name: Foley PLCDocument ReferenceType: Delivery ChallanNo: DOC: 9563Taxable Value Tax Rate (%)Reason: Class.

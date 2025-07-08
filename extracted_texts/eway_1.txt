@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-363220
+Date: 28 May 2024
+
+Consignor:
+
+Taneja, Kalita and Kumer
+
+25/817 Kala Zila, Gulbarga-211230
+Consignee:
+
+Ganguly, Wason and Arora
+
+07 Ravi Zila, Loni-344087
+
+Vehicle No: yH40nJ3793
+
+GSTIN: us275181sm617Z7
+
+Item Description
+
+Odio Neque distinctio ipsum temporibus.
+Aliquid Ad omnis perferendis facilis.
+
+Fugit Eum iure.
+
+Sapiente Cupiditate perspiciatis.
+
+Quantity
+23
+22
+37
+
+48
+
+Value
+
+€6337
+
+€33674
+
+€48983
+
+€44993

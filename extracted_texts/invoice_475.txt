@@ -1,0 +1,60 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-14534
+
+Invoice Date: 08 Sep 2023
+
+From:
+
+Agrawal LLC
+
+44/732 Shetty Ganj Hindupur-019361
+Billed To:
+
+Chand LLC
+
+684 Varghese Zila, Kolkata 529790
+
+GSTIN: 1r212263GT159Z9
+
+Item Description
+
+Provident Soluta tempora tempore tempora recusandae.
+Cum Quam porro porro.
+
+Nihil Ipsa vel aliquid odit.
+
+Recusandae Veritatis quaerat.
+
+Necessitatibus | Voluptatibus quidem quae.
+
+Tenetur Voluptate architecto voluptatum eius saepe.
+
+Grand Total: $115098
+
+Rate
+
+$4335
+$4710
+$3786
+$3778
+$1252
+
+$1505
+
+Quantity Total
+
+8
+
+6
+
+$34680
+$28260
+$26502
+$18890
+$3756
+
+$3010

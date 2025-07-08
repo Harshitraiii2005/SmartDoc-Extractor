@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-16999
+
+Date: 15/01/2025
+
+From:
+
+Kari Group
+
+52 Subramaniam Path Gandhidham 579288
+To:
+
+Sastry-Khatri
+
+45, Bajwa Ballia 744271
+
+Amount Paid: €44019
+
+Payment Mode: UPI

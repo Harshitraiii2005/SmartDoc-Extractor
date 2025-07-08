@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9832
+Date: 12 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Able
+
+Port of Loading: West Justin
+Port of Discharge: West Thomas
+Place of Delivery: Dianeburgh
+
+Container No: CONT-9709
+Marks: Always
+
+Description of Goods: Care
+
+Gross Weight: 4424 kg
+Measurement: 20 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

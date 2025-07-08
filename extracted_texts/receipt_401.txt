@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-96459
+
+Date: 13 Jun 2025
+
+From:
+
+De, Madan and Krishna
+
+H.No. 911, Banerjee Marg, Bardhaman-790783
+To:
+
+Issac PLC
+
+30, Sastry Nagar Raipur 657323
+
+Amount Paid: $15416
+
+Payment Mode: UPI

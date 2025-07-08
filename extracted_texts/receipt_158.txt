@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-3322
+
+Date: 23/06/2024
+
+From:
+
+Toor-Dhar
+
+450 Vohra Circle Kozhikode 314391
+To:
+
+Chakraborty-Boase
+
+01/31, Lata Road, Kota-247531
+Amount Paid: $21467
+
+Payment Mode: UPI

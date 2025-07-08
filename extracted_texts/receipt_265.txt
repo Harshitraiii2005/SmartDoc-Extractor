@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-45102
+
+Date: 23 Jan 2025
+
+From:
+
+Baral and Sons
+
+18/192 Dani Road, Bijapur-594209
+
+To:
+
+Soman-Gaba
+
+H.No. 75 Luthra Marg, Kishanganj-649917
+Amount Paid: €32005
+
+Payment Mode: UPI

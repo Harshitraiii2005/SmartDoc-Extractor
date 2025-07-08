@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-469969
+
+Date: 30 Jul 2024
+
+Consignor:
+
+Mallick, Wadhwa and Badal
+
+05/02 Chand Path, Kharagpur-686107
+Consignee:
+
+Shroff Ltd
+
+05 Sethi Road Dibrugarh 749877
+Vehicle No: Fv29be9912
+
+GSTIN: vL947021gF590Z9
+
+Item Description
+
+Nam Praesentium suscipit commodi beatae consectetur.
+Neque Beatae placeat laudantium.
+
+In Mollitia itaque.
+
+Explicabo Voluptatibus officia quidem.
+
+Quantity
+21
+
+11
+
+5
+
+23
+
+Value
+
+%38824
+
+25646
+
+%28659
+
+%35811

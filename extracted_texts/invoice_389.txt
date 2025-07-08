@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-87865
+
+Date: 11 Oct 2024
+
+From:
+
+Khosla Inc
+
+679 Borra, Kozhikode 817460
+
+To:
+
+Aurora Inc
+
+H.No. 153 Viswanathan Nagar Hapur 018759
+
+GSTIN: aC420064WL612Z9
+
+Item Description
+
+Fuga Excepturi iste.
+
+Exercitationem Doloribus cumque doloremque.
+Hic Placeat quod ullam saepe.
+Ratione Perferendis in nostrum rerum.
+
+Grand Total: €50082
+
+Rate Quantity
+
+€815 5
+€1749 3
+€4247 8
+€1696 4
+
+Total
+
+€4075
+
+€5247
+
+€33976
+
+€6784

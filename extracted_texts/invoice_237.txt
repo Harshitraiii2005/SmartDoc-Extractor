@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-10671
+
+Invoice Date: 31-08-2024
+
+Issued By:
+
+Dutt Ltd
+
+280, Chad Circle, Bettiah 883035
+Billed To:
+
+Singh and Sons
+
+H.No. 391, Garde Zila Kulti 315550
+
+GSTIN: 1j900654dB05226
+
+Item Description Rate
+
+Sint Facilis praesentium occaecati maxime. €1794
+Amet Molestias nesciunt repellendus nulla. €4500
+Aliquid Nesciunt non eius consequuntur. €3482
+
+Grand Total: €60556
+
+Quantity
+9
+
+6
+
+Total
+
+€16146
+
+€27000
+
+€17410

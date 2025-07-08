@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+B/L No: BL-5839
+Date: 30 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Fast
+
+Port of Loading: Lake Melissa
+
+Port of Discharge: Acostafurt
+
+Place of Delivery: South Danielleview
+
+Container No: CONT-6175
+Marks: You
+
+Description of Goods: Treat
+
+Gross Weight: 2945 kg
+Measurement: 11 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

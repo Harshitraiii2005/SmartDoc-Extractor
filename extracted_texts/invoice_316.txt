@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-90731
+
+Invoice Date: 25/02/2024
+
+Issued By:
+
+Kunda Inc
+
+86, Ramakrishnan Ganj Bidhannagar-632396
+To:
+
+Dhaliwal PLC
+
+406 Kara Road Nagercoil 935980
+
+GSTIN: pP374251nG235Z3
+
+Item Description
+
+Fugit Exercitationem voluptas.
+Repellendus Harum eos totam.
+
+Culpa Eius aperiam quos eum excepturi.
+Vitae Dolorem perferendis soluta.
+
+Eius Nostrum eos.
+
+Amet Modi fugit veniam molestiae cum.
+
+Grand Total: €128298
+
+Rate
+
+€4173
+
+€4552
+
+€2589
+
+€3670
+
+€4939
+
+€1820
+
+Quantity
+3
+
+10
+
+Total
+
+€12519
+
+€45520
+
+€20712
+
+€18350
+
+€14817
+
+€16380

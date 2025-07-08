@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-93119
+
+Invoice Date: 08/07/2023
+
+From:
+Venkatesh Inc
+
+90/077, Sharma Chowk Chapra-162051
+
+To:
+
+Rama, Chad and Loyal
+41, Chatterjee Giridih 895151
+
+GSTIN: RX952813MV716Z2
+
+Item
+Consequuntur
+Illo
+
+Dolorem
+Adipisci
+
+Ab
+
+Description
+
+Facilis consequatur animi.
+
+Quibusdam praesentium dignissimos.
+
+Maiores voluptatibus.
+Nemo voluptatum autem.
+
+Deleniti ut dolores cum vel.
+
+Grand Total: %63515
+
+Rate
+
+=1737
+
+2882
+
+3870
+
+2259
+
+=1642
+
+Quantity
+1
+
+3
+
+Total
+
+21737
+
+8646
+
+%30960
+
+9036
+
+213136

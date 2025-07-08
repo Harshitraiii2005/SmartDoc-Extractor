@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-30831
+
+Invoice Date: 29 Apr 2025
+
+From:
+
+Ratti Inc
+
+10 Shankar Chowk Bardhaman-210655
+To:
+
+Tella-Garg
+
+95/671, Yohannan Solapur-947191
+
+GSTIN: GS754800Pv775Z6
+
+Item Description
+
+Illum Consequuntur voluptates dolorum.
+Animi Aut exercitationem.
+
+At lllum perferendis id totam.
+Repellendus Porro aut.
+
+Voluptatum Id adipisci.
+
+Mollitia Ad reiciendis excepturi aliquid harum.
+
+Grand Total: €101266
+
+Rate
+
+€623
+
+€2542
+
+€4804
+
+€3366
+
+€4781
+
+€752
+
+Quantity
+6
+
+9
+
+Total
+
+€3738
+
+€22878
+
+€19216
+
+€30294
+
+€19124
+
+€6016

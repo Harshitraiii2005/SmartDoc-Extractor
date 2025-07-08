@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27275
+
+Date: 12 Jul 2023
+
+From:
+
+Kari-Bhavsar
+
+082, Bora Sikar 188160
+
+To:
+
+Barad-Bora
+
+H.No. 04, Behl Nagar, Nagercoil 249249
+Amount Paid: $42666
+
+Payment Mode: Card

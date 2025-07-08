@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-36065
+
+Date: 11-12-2023
+
+From:
+
+Rastogi, Sathe and Garg
+
+411, Malhotra Circle, Mahbubnagar-539133
+To:
+
+Kumar Inc
+
+55/078 Bajaj Chowk Jabalpur 044829
+Amount Paid: 79643
+
+Payment Mode: Cash

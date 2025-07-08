@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1500
+Date: 29 May 2025
+
+Exporter
+
+Nolan-Morrow
+5352 David Burgs Gaymouth, CA 70888
+
+Importer
+
+Moody, Bruce and Larson
+105 James Trace Suite 220 West Amandaland, MI 21567
+
+Buyer Ref: cf16fb81-f9bb-4dcc-aece-fa849146ce81
+Origin: Cyprus
+Destination: Burkina Faso
+
+Currency: USD
+Incoterms: FOB
+
+Inside 5015 $489.69 $5778.34
+Manage 6590 $27.08 $63.91
+
+Freight: $483.77
+
+Insurance: $187.17
+
+Total Invoice Value: $3917.97

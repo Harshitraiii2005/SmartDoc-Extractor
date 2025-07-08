@@ -1,0 +1,60 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-71355
+
+Invoice Date: 23 Oct 2024
+
+From:
+
+Cherian, Guha and Mandal
+20/278 Kulkarni Marg Purnia 166000
+
+Billed To:
+
+Divan, Choudhry and Badami
+37, Bahri Marg, Panchkula 641328
+
+GSTIN: jY914331Tn438Z7
+
+Item
+Eveniet
+Nisi
+Fuga
+
+Magnam
+
+Description
+
+Facere ad tempore minima non.
+
+Sed iste totam similique.
+Optio repellendus voluptates.
+
+Error odit ipsam inventore.
+
+Grand Total: $67769
+
+Rate
+
+$1987
+$1030
+$2711
+
+$2435
+
+Quantity
+9
+9
+6
+
+10
+
+Total
+$17883
+$9270
+$16266
+
+$24350

@@ -1,0 +1,67 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-58523
+
+Invoice Date: 23 Jul 2023
+
+Issued By:
+
+Kata-Uppal
+
+H.No. 733, Randhawa, Avadi-161493
+
+To:
+
+Babu, Mani and Karan
+
+66/928, Tara Street, Bhalswa Jahangir Pur 243892
+
+GSTIN: dv837961R042524
+
+Item Description
+
+Facilis Cumque fuga fuga veniam.
+
+Animi Provident itaque.
+
+Dolore Doloribus praesentium.
+
+lpsam Neque iusto.
+
+Dolorem Ratione vitae unde ea odio.
+
+Odio Voluptatem laboriosam sequi magnam.
+
+Grand Total: $121979
+
+Rate
+
+$1480
+$2609
+$4220
+$2755
+$3520
+
+$1737
+
+Quantity
+8
+
+10
+
+3
+
+10
+
+Total
+
+$11840
+$26090
+$12660
+$27550
+$31680
+
+$12159

@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6400
+Date: 21 Jun 2025
+
+Supplier
+
+Brown Group
+
+821 Brittney Roads Davishaven, FM 78704
+GSTIN: 494291995547
+
+Contact: 270-589-4798x55103
+
+Buyer
+
+Moore Inc
+
+1390 Johnson Island Apt. 287 Rogersstad, NV 89641
+GSTIN: 112154779698
+
+Contact: 001-357-291-8042x49156
+
+Place of Supply: Melissafort
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Few 3505 $353.91 $1061.73 $95.56 $95.56 $1252.84
+Choice 7227 $244.73 $2447.3 $220.26 | $220.26 | $2887.81
+
+Spring 6312 /6 | $704.91 $4229.46 $380.65 | $380.65 | $4990.76
+North 4108 fo | $913.03 $8217.27 $739.55  |$739.55 | $9696.38
+
+Sub Total: $722.12
+
+fTeam ‘| 4830 }8 | $585.45 $4683.6 $421.52 | $421.52 | $5526.65
+
+CGST: $169.83
+
+SGST: $197.11
+
+Grand Total: $1909.7
+
+Amount in Words: 2556 dollars only
+PO Number: PO-7941
+
+Terms: Wind month what fill short blood.
+
+Reverse Charge: No

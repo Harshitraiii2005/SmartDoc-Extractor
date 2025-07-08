@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-73104
+
+Date: 10 Jun 2025
+
+Issued By:
+Vohra PLC
+
+60 Dubey Ganj Sagar 306540
+
+To:
+
+Apte, Bora and Hora
+53/395, Rajan Ganj Guna-014617
+
+GSTIN: qp810863CG750Z0
+
+Item
+Aspernatur
+Ut
+
+Alias
+
+Odio
+
+Amet
+
+Tenetur
+
+Description
+Eius placeat.
+Earum reiciendis magni eligendi veritatis.
+Tenetur quia.
+
+Provident ipsam libero.
+
+Voluptate tempore sint explicabo veritatis.
+
+Vero quia velit quibusdam optio.
+
+Grand Total: $92211
+
+Rate
+
+$2665
+$3981
+$1387
+$1969
+$4117
+
+$4162
+
+Quantity
+9
+
+10
+
+Total
+$23985
+$39810
+$4161
+$11814
+$4117
+
+$8324

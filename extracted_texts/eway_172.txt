@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-53584
+
+Date: 03-08-2023
+
+Consignor:
+
+Loyal LLC
+
+887, Tak, Srikakulam-455962
+Consignee:
+
+Zachariah, Vora and Ramakrishnan
+87/99, Barad Nagar Amroha 340499
+Vehicle No: SK61qK8253
+
+GSTIN: PF786482ta328Z9
+
+Item Description
+
+Quae Alias facere ea sit.
+
+Occaecati Recusandae aliquam.
+
+Sed Dignissimos debitis ducimus error.
+
+Alias Hic rerum perspiciatis.
+
+Quantity
+44
+11
+42
+
+37
+
+Value
+$9757
+$46770
+$48212
+
+$38210

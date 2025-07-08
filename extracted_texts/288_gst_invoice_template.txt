@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2893
+Date: 24 Jan 2025
+
+Supplier
+
+Rodriguez-Brown
+
+124 Wong Mills Rogersfurt, PR 08649
+GSTIN: 600188406103
+
+Contact: 815-923-9553x10383
+
+Buyer
+
+Gilbert Group
+
+Unit 4448 Box 8963 DPO AP 84018
+GSTIN: 487605959170
+
+Contact: +1-955-835-9168
+
+Place of Supply: East Lisaview
+
+Travel | 3030 [7 | $461.27 $3228.89 $290.6 | $290.6 | $3810.09
+
+[Create «| 3826 /3 | $369.96 $1109.88 $99.89 |$99.89 | $1309.66
+
+Sub Total: $629.27
+
+CGST: $97.26
+
+SGST: $77.06
+
+Grand Total: $1854.75
+
+Amount in Words: 3110 dollars only
+
+PO Number: PO-2719
+
+Terms: Around edge person method under choice risk.
+
+Reverse Charge: Yes

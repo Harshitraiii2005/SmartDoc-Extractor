@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-7853
+Date: 04 Jun 2025
+
+Exporter
+
+Duran-Parker
+6131 Carol Corners Lake Dawnville, NJ 27791
+
+Importer
+
+Baker LLC
+840 Wallace Hill Timothymouth, AS 33314
+
+Buyer Ref: 8fcOeb01-3bc7-475b-a484-44586078a3f5
+Origin: Nepal
+Destination: Kuwait
+
+Currency: EUR
+Incoterms: EXW
+
+Cut 7897 6 $126.39 $894.84
+
+Freight: $295.66
+
+Insurance: $125.76
+Total Invoice Value: $3964.33

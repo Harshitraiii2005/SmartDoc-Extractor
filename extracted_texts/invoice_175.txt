@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-31276
+
+Invoice Date: 30/03/2024
+
+From:
+
+Soni-Malhotra
+
+H.No. 795, Srinivasan Chowk Srikakulam 938412
+To:
+
+Virk and Sons
+
+H.No. 53, Bose Path, Chennai 763530
+
+GSTIN: iv132440kI766Z8
+
+Item Description Rate
+
+Excepturi Neque cupiditate sed recusandae. €2888
+Saepe Soluta culpa. €3675
+Aliquid Cumaque aut dolores totam. €1408
+
+Grand Total: €47133
+
+Quantity
+4
+7
+
+7
+
+Total
+
+€11552
+
+€25725
+
+€9856

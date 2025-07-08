@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2351
+Date: 09 Feb 2025
+
+Supplier
+
+Evans-Phillips
+
+PSC 0371, Box 5389 APO AA 59234
+GSTIN: 972777848405
+
+Contact: (779)500-6161x19884
+
+Buyer
+
+Norris-Ortega
+
+32709 Collins Stravenue Woodshire, GU 63497
+GSTIN: 767082110797
+
+Contact: (865)283-3187
+
+Place of Supply: New Samanthaborough
+
+Itself 1862 [7 | $16.34 $114.38 $10.29 |$10.29 | $134.97
+
+At | 8688 /3 | $340.39 $1021.17 $91.91 |$91.91 | $1204.98
+
+Sub Total: $1087.14
+
+CGST: $117.08
+
+SGST: $74.76
+
+Grand Total: $1666.33
+
+Amount in Words: 4581 dollars only
+
+PO Number: PO-1139
+
+Terms: Assume station everybody keep seem necessary.
+
+Reverse Charge: Yes

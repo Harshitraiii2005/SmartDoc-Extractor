@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-21504
+
+Date: 04-07-2024
+
+From:
+
+Walla-Chauhan
+
+38/587, Tripathi Street Pallavaram-838676
+To:
+
+Kala-Chhabra
+
+37/936 Kadakia Road Firozabad-342772
+Amount Paid: €22993
+
+Payment Mode: Cash

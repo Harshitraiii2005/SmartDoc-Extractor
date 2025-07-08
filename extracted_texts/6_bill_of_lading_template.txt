@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+B/L No: BL-2343
+Date: 21 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Interest
+
+Port of Loading: Cookfurt
+
+Port of Discharge: Amberview
+
+Place of Delivery: West Desireemouth
+
+Container No: CONT-7730
+Marks: Necessary
+
+Description of Goods: Like
+
+Gross Weight: 3886 kg
+Measurement: 13 cbm
+Freight Terms: Collect
+
+BILL OF LADING

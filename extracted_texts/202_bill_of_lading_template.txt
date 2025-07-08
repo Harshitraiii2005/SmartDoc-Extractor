@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8935
+Date: 24 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Hospital
+
+Port of Loading: East Nicole
+Port of Discharge: Walshville
+Place of Delivery: New Robert
+
+Container No: CONT-5811
+Marks: Usually
+
+Description of Goods: Simple
+
+Gross Weight: 2323 kg
+Measurement: 7 cbm
+Freight Terms: Collect
+
+BILL OF LADING

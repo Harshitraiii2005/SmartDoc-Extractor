@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-77503
+
+Date: 11-06-2024
+
+Issued By:
+
+Kumer-Varma
+
+145 Dugar Chowk Akola 003508
+
+To:
+
+Devi, Kar and Das
+
+H.No. 67 Dara Road Sultan Pur Majra-634250
+
+GSTIN: Gi293013FR910Z0
+
+Item Description Rate
+
+Minus Placeat in impedit sint. €3774
+Quae Nihil laudantium. €3223
+Quo Maxime fugiat earum. €1006
+
+Grand Total: €9009
+
+Quantity
+1
+
+1
+
+Total
+
+€3774
+
+€3223
+
+€2012

@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5463
+Date: 14 Jan 2025
+
+Supplier
+
+Garcia Ltd
+
+983 Mary Causeway Suite 371 Michaelstad, OK 23044
+GSTIN: 973679814064
+
+Contact: 5245007323
+
+Buyer
+
+Young LLC
+
+5206 Day Springs Terriside, ID 22123
+GSTIN: 983626852757
+
+Contact: 489.902.5181x3931
+
+Place of Supply: Tuckerhaven
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Where 6452 6 | $38.32 $229.92 $20.69 $20.69 $271.31
+
+Rock 6474 fe | $905.34 $5432.04 $488.88 |$488.88 | $6409.81
+Government 8401 $362.61 $3626.1 $326.35 | $326.35 | $4278.8
+Every 2596 fo $138.51 $1246.59 $112.19 |$112.19 | $1470.98
+
+Sub Total: $1189.86
+
+CGST: $82.64
+
+SGST: $163.43
+
+Grand Total: $1961.81
+
+Amount in Words: 3091 dollars only
+
+PO Number: PO-3269
+
+Terms: Mission how smile set usually Republican.
+
+Reverse Charge: Yes

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-35001
+
+Date: 13 Oct 2024
+
+From:
+
+Luthra-Walia
+
+15/52 Bhandari Path, Anmednagar-879797
+To:
+
+Sarkar-Ahluwalia
+
+705, Sood Nagar, Darbhanga 430711
+Amount Paid: €31349
+
+Payment Mode: Card

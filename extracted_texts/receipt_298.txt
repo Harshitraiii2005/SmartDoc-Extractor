@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-78127
+
+Date: 09-05-2024
+
+From:
+
+Sankar Inc
+
+142, Acharya Road Kota-615883
+
+To:
+
+Ravi, Bal and Swaminathan
+
+H.No. 77, Venkataraman Circle Thane 218673
+Amount Paid: €43256
+
+Payment Mode: Card

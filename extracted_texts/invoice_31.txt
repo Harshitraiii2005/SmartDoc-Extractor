@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-22491
+
+Invoice Date: 09/04/2025
+
+From:
+
+Bains, Thakur and Shroff
+
+21, Garg Zila, Jalandhar 324855
+To:
+
+Hari PLC
+
+58/338 Baria Nagar, Alwar 021829
+
+GSTIN: Vx569777yi687Z1
+
+Item Description
+Corporis Eos possimus ipsum.
+Aut Reprehenderit dolore culpa quae voluptas.
+
+Consequatur Quasi quidem sint.
+
+Minus Quis cupiditate qui enim.
+
+Grand Total: %57863
+
+Rate
+
+%3520
+
+=1040
+
+%2207
+
+21632
+
+Quantity
+7
+
+5
+
+Total
+
+24640
+
+5200
+
+19863
+
+8160

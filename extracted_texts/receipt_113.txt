@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-97770
+
+Date: 07/03/2024
+
+From:
+
+Borde Inc
+
+33/513, Ratta Road, Mumbai-480994
+To:
+
+Garde PLC
+
+44, Sekhon Circle Korba 465067
+Amount Paid: ~9892
+
+Payment Mode: Cash

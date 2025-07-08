@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1051
+Date: 13 Jan 2025
+
+Exporter
+
+Parrish Inc
+4046 Walker Court Suite 397 Thomasfurt, OK 03089
+
+Importer
+
+Davis, Davis and Martin
+568 Wu Mount North Heather, WA 94651
+
+Buyer Ref: 8110bfbe-bec3-4283-84ab-db06989319da
+Origin: Antigua and Barbuda
+Destination: Lebanon
+
+Currency: USD
+Incoterms: EXW
+
+escinion «(HSN ay [uneroce [tow
+
+Freight: $382.1
+
+Insurance: $137.11
+
+Total Invoice Value: $1131.24

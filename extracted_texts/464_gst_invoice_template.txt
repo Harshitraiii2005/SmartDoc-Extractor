@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2606
+Date: 07 Mar 2025
+
+Supplier
+
+Thompson Group
+
+5376 Davis Forks Brownberg, MT 93501
+GSTIN: 761367867104
+
+Contact: (558)815-8716x805
+
+Buyer
+
+Callahan-Terrell
+
+4852 Matthew Union Gregoryshire, PA 42700
+GSTIN: 333463665453
+
+Contact: +1-933-480-8026
+
+Place of Supply: Erikmouth
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Team soos |3 | $930.1 $2790.3 $251.13 | $251.13 | $3292.55
+
+Small 1385 $592.6 $1185.2 $106.67 |$106.67 | $1398.54
+End 2885 $950.32 $2850.96 $256.59 |$256.59 | $3364.13
+2648 $10.76 $43.04 $3.87 $3.87 $50.79
+
+Sub Total: $1264.95
+
+CGST: $190.79
+
+SGST: $93.82
+
+Grand Total: $1370.1
+
+Amount in Words: 2528 dollars only
+PO Number: PO-1572
+
+Terms: Season which alone while.
+
+Reverse Charge: No

@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-80822
+
+Date: 19-10-2024
+
+From:
+
+Tella and Sons
+
+64/82 Lanka Zila, Raipur 744344
+Billed To:
+
+Sridhar Group
+
+H.No. 04 Date Chowk, Rampur-589937
+
+GSTIN: gq610239Vj89324
+
+Item Description
+
+Assumenda Quisquam molestiae ducimus iusto repellat.
+
+Eaque Enim ipsa.
+
+Distinctio Iste dolorem soluta saepe.
+
+Grand Total: $92792
+
+Rate
+$3719
+$2684
+
+$4962
+
+Quantity
+8
+5
+
+10
+
+Total
+$29752
+$13420
+
+$49620

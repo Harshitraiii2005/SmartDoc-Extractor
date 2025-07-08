@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-36804
+
+Date: 03/06/2024
+
+From:
+
+Chandra-Bobal
+
+409 Joshi Street, Amravati 917524
+
+To:
+
+Tailor-Sundaram
+
+53/03, Ramesh Road Bhatpara-100442
+Amount Paid: =25334
+
+Payment Mode: Cash

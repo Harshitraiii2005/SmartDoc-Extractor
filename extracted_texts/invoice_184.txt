@@ -1,0 +1,64 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-78198
+
+Invoice Date: 15/10/2023
+
+Issued By:
+
+Koshy, Bose and Balasubramanian
+H.No. 26, Saini Street, Gwalior 290035
+Billed To:
+
+Ahuja, Chana and Sama
+
+149 Gill Zila, Uluberia-987313
+
+GSTIN: xV267600QB839Z5
+
+Item Description
+
+Commodi Ilum cum nam.
+
+Ex Vero expedita consequatur.
+
+Sequi Nobis voluptatibus praesentium autem.
+Praesentium Ex praesentium.
+
+Architecto Eaque nisi et quos a.
+
+Grand Total: =89701
+
+Rate
+
+3694
+
+24213
+
+3827
+
+21323
+
+1152
+
+Quantity
+2
+
+8
+
+10
+
+Total
+
+7388
+
+%33704
+
+%34443
+
+2646
+
+%11520

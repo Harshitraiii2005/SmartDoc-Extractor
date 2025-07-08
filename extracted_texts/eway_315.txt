@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-898677
+
+Date: 26/05/2025
+
+Consignor:
+
+Kashyap-Mand
+
+H.No. 23 Rau Street, Malda 952911
+Consignee:
+
+Dash Inc
+
+H.No. 85, Vasa Nagar Srikakulam 312410
+Vehicle No: uD79q04891
+
+GSTIN: Kf438777kJ229Z1
+
+Item Description
+Enim Quae corrupti.
+Quidem Labore quae tenetur.
+
+Corporis Sequi aliquid iste.
+
+Quantity
+8
+30
+
+41
+
+Value
+
+€40838
+
+€42214
+
+€31589

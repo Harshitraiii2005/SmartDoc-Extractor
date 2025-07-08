@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-704333
+Date: 01 Jul 2025
+Valid From: 14 Jan 2025 To 05 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-3783
+
+Transporter ID: TID-6055
+
+Transporter Name: Wiggins, Little and Blackwell
+
+Document Reference
+
+Type: Invoice
+No: DOC-8485
+
+Taxable Value Tax Rate (%)
+
+Reason: Size see total.
+

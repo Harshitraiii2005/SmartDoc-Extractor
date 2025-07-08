@@ -1,0 +1,78 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-63439
+
+Invoice Date: 26/06/2024
+
+From:
+
+Kumar and Sons
+
+H.No. 43 Dhingra Nagar Bhimavaram 685879
+
+Billed To:
+Rajan LLC
+
+H.No. 895, Karnik Marg, Machilipatnam 992127
+
+GSTIN: VC144384Bt92824
+
+Item
+Facere
+Temporibus
+Totam
+Labore
+Neque
+
+Earum
+
+Description
+
+Deserunt in facilis natus.
+
+Fugit ab pariatur expedita necessitatibus.
+Occaecati nesciunt aliquid quae ad.
+
+In omnis.
+
+Similique sequi voluptatibus quaerat eaque.
+
+Excepturi similique maxime non.
+
+Grand Total: €50840
+
+Rate
+
+€3838
+
+€4789
+
+€2971
+
+€3728
+
+€1277
+
+€2550
+
+Quantity
+2
+
+3
+
+Total
+
+€7676
+
+€14367
+
+€5942
+
+€3728
+
+€1277
+
+€17850

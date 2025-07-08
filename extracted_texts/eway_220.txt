@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-744338
+Date: 18 Sep 2023
+Consignor:
+
+Srinivasan PLC
+
+51/58, Ratti Zila Panvel 735075
+Consignee:
+
+Wali Ltd
+
+669 Kari Marg Nagaon 798211
+Vehicle No: jZ56yB4833
+
+GSTIN: sg931586Va200Z3
+
+Item Description
+
+Velit Unde quod laborum.
+
+Unde Suscipit iure praesentium.
+Sit Eveniet quasi repellat nulla.
+Recusandae Esse nihil.
+
+Quantity
+5
+
+26
+
+5
+
+27
+
+Value
+$15611
+$5879
+$36279
+
+$11422

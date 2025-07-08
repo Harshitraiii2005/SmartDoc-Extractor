@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-66451
+
+Date: 24/04/2024
+
+From:
+
+Wali Inc
+
+H.No. 445, Sethi Path, Korba 235156
+To:
+
+Vyas, Shankar and Ghose
+
+H.No. 676 Ram, Bhavnagar-119417
+Amount Paid: €19876
+
+Payment Mode: Net Banking

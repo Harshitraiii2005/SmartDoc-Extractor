@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-95981
+
+Date: 11-12-2024
+
+From:
+
+Guha-Banik
+
+199, Shan Road, Ambala 571401
+
+Billed To:
+
+Bhatnagar-Roy
+
+H.No. 707 Anne Chowk, Ghaziabad-949177
+
+GSTIN: Uz190612at857Z0
+
+Item Description
+
+Laboriosam Unde dolore laborum dicta numquam.
+Excepturi Labore facilis consequatur autem.
+Enim Itaque nam quis.
+
+lure Molestiae earum dignissimos.
+
+Grand Total: %67188
+
+Rate
+
+23745
+
+2747
+
+2615
+
+21853
+
+Quantity
+7
+
+7
+
+Total
+
+226215
+
+5229
+
+20920
+
+%14824

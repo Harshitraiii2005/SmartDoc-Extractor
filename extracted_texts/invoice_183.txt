@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-5204
+
+Date: 04-03-2024
+
+Issued By:
+
+Mand, Bhavsar and Anand
+
+749, Chaudhari Zila Bokaro 751979
+To:
+
+Khanna PLC
+
+105 Bawa Street, Amroha-658658
+
+GSTIN: Qa210375Wb993Z2
+
+Item Description
+Illo Officiis reprehenderit eos voluptatem fugit.
+Ex Quis consectetur suscipit.
+
+Repellendus Quae tenetur autem.
+
+Veniam Inventore perspiciatis.
+
+Grand Total: 64705
+
+Rate
+
+3601
+
+%1244
+
+23513
+
+24524
+
+Quantity
+2
+
+1
+
+Total
+
+7202
+
+=1244
+
+%24591
+
+%31668

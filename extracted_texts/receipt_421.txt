@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-88377
+
+Date: 10/09/2024
+
+From:
+
+Yadav Group
+
+08/46, Ranganathan Path Shimla-071106
+To:
+
+Chowdhury, Karan and Venkatesh
+
+947, Bhargava Circle, Davanagere-631577
+Amount Paid: 46709
+
+Payment Mode: Net Banking

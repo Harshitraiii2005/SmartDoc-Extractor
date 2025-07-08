@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-301250
+Date: 05 Mar 2025
+Valid From: 18 Apr 2025 To 28 Jun 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-2797
+
+Transporter ID: TID-8804
+
+Transporter Name: Anderson, Stanley and Caldwell
+
+Document Reference
+
+Type: Invoice
+No: DOC-5349
+
+Taxable Value Tax Rate (%)
+
+Reason: Decision staff recognize.
+

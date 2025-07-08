@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-44992
+
+Date: 18-02-2024
+
+Issued By:
+
+Shroff-Shan
+
+H.No. 51 Reddy Raebareli 185235
+To:
+
+Mangal, Baria and Dixit
+
+686, Sahni Path, Anand-688903
+
+GSTIN: aD760414n0903Z7
+
+Item Description
+
+Totam Dolor cupiditate.
+
+In Temporibus repellat fuga.
+Quia Vitae corporis error quidem.
+Officiis Sapiente dicta quod ea.
+Sequi Sed optio mollitia.
+
+Grand Total: €75400
+
+Rate
+
+€1271
+
+€3322
+
+€3191
+
+€2755
+
+€2297
+
+Quantity
+1
+4
+
+10
+
+Total
+€1271
+€13288
+€31910
+€22040
+
+€6891

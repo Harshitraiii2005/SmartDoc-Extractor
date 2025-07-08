@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-16191
+
+Date: 01 Sep 2023
+
+From:
+
+Varkey-Ratta
+
+917 Seth Nagar Udupi 728658
+
+To:
+
+Mand LLC
+
+H.No. 592, Chad Marg, Thrissur 644611
+Amount Paid: %36996
+
+Payment Mode: Cash

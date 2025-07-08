@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-39397
+
+Date: 26-08-2024
+
+From:
+
+Sawhney, Kothari and Boase
+
+47/347, Chana Chowk, Ballia 737415
+Billed To:
+
+Sheth Inc
+
+731, Dara Marg, Bally 719718
+
+GSTIN: yA226279EP31421
+
+Item Description Rate
+Possimus Quis unde nobis vel. €1791
+Suscipit Suscipit quisquam iusto ipsum quis. €524
+Aliquid Deleniti cupiditate perspiciatis sit. €3405
+
+Grand Total: €29343
+
+Quantity
+6
+3
+
+5
+
+Total
+
+€10746
+
+€1572
+
+€17025

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-95647
+
+Date: 23/08/2024
+
+From:
+
+Sood-Kapur
+
+H.No. 74, Zacharia Nagar, Pune-398341
+To:
+
+Sathe, Choudhury and Jayaraman
+
+H.No. 72, Wadhwa Nagar Jaunpur 834031
+Amount Paid: $22642
+
+Payment Mode: Net Banking

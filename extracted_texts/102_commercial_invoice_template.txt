@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4469
+Date: 21 Apr 2025
+
+Exporter
+
+Brown LLC
+5050 Preston Tunnel North Brent, NC 03181
+
+Importer
+
+Graham-Douglas
+65291 William Cape South Gabriel, AR 15829
+
+Buyer Ref: b81a152b-056e-4f67-8e57-500eccOfdccO
+Origin: Mauritius
+Destination: Northern Mariana Islands
+
+Currency: USD
+Incoterms: EXW
+
+escipion «HSN ay [unwroce [tom
+
+Freight: $396.96
+
+Insurance: $197.26
+Total Invoice Value: $2793.83

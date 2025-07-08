@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-13260
+
+Date: 02 Mar 2025
+
+From:
+
+Srivastava-Butala
+
+203 Bora Street, Pali-236881
+
+To:
+
+Ratti-Ramaswamy
+
+04 Balay Road, Aurangabad 607136
+Amount Paid: ~49498
+
+Payment Mode: Card

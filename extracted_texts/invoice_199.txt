@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-86945
+
+Date: 11 Jun 2025
+
+Issued By:
+
+Chacko, Garde and Subramanian
+
+57 Bhatnagar Street, Tezpur 303681
+To:
+
+Bumb and Sons
+
+923, Vaidya Street Gudivada 008235
+
+GSTIN: uW757212dh16421
+
+Item Description Rate
+Doloremque Suscipit repellendus. 32877
+Molestiae Tenetur ea. %3326
+
+Grand Total: =18160
+
+Quantity
+4
+
+2
+
+Total
+
+11508
+
+26652

@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-4806
+Invoice Date: 09-05-2024
+
+From:
+Rege-Wable
+H.No. 42, Dasgupta Marg, Bettiah 965350
+
+Billed To:
+Lalla, Vora and Contractor
+H.No. 328 Choudhry Zila, Malda-634485
+
+GSTIN: xa083663uX007Z9
+
+Item Description Rate
+Sapiente Quos est itaque veritatis. %1255
+Autem Vero nemo. 24953
+
+Grand Total: ¥44644
+
+Quantity
+4
+
+8
+
+Total
+
+5020
+
+%39624

@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-6594
+Date: 02 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Pattern
+
+Port of Loading: Johnfort
+
+Port of Discharge: Kleinshire
+Place of Delivery: Lake Ericahaven
+
+Container No: CONT-6675
+Marks: House
+
+Description of Goods: Remain
+
+Gross Weight: 4008 kg
+Measurement: 16 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

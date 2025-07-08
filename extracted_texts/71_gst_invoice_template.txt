@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2207
+Date: 16 Apr 2025
+
+Supplier
+
+Dixon, Owen and Phillips
+
+8135 Cooper Lakes Apt. 192 Lake Helen, GU 76279
+GSTIN: 403031071767
+
+Contact: 001-801-564-3201x9498
+
+Buyer
+
+Pena, Barrera and Boyd
+
+23241 Emily Walk Lake Catherineshire, NE 47290
+GSTIN: 815807724679
+
+Contact: +1-785-744-1308x2035
+
+Place of Supply: Fosterborough
+
+Quality 3801 $176.57 $1765.7 $158.91 $158.91 $2083.53
+
+6071 $574.79 $5747.9 $517.31 |$517.31 | $6782.52
+
+Sub Total: $1275.37
+
+CGST: $131.88
+
+SGST: $108.67
+
+Grand Total: $907.22
+
+Amount in Words: 2687 dollars only
+
+PO Number: PO-1019
+
+Terms: Market successful house suffer second.
+
+Reverse Charge: No

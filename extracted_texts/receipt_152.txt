@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-10307
+
+Date: 18/12/2024
+
+From:
+
+Batta Ltd
+
+H.No. 73 Shankar Road Tiruvottiyur 342620
+To:
+
+Kapoor and Sons
+
+422 Agarwal Nagar, Ambattur-784429
+Amount Paid: €45645
+
+Payment Mode: UPI

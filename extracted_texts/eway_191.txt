@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-163173
+Date: 18/07/2023
+
+Consignor:
+
+Mane Group
+
+64/069, Gera Ganj, Jaipur 887038
+Consignee:
+
+Shenoy and Sons
+
+927 Butala Nagar, Chennai 966271
+Vehicle No: bY23mF 1006
+
+GSTIN: KU114313nE021Z0
+
+Item Description
+
+Quas Quos in exercitationem vel repudiandae.
+
+Ut Voluptatem cupiditate voluptas.
+
+Quantity
+4
+
+27
+
+Value
+$47727
+
+$33978

@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-801960
+
+Date: 19 Jan 2024
+
+Consignor:
+
+Sharaf LLC
+
+36 Sant Road, Eluru-398021
+Consignee:
+
+Sabharwal Inc
+
+73/142 Sami Nagar, Bangalore 248354
+Vehicle No: Fk14Da0369
+
+GSTIN: Qs216727KM337Z0
+
+Item Description
+Quae Ex ex ipsum facere.
+Laboriosam Recusandae vero amet corporis.
+
+Ipsa Beatae nihil adipisci.
+
+Quantity
+28
+47
+
+36
+
+Value
+$43111
+$6036
+
+$42224

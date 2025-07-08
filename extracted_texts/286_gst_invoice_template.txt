@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2324
+Date: 03 May 2025
+
+Supplier
+
+George Ltd
+
+Unit 0974 Box 2169 DPO AA 23968
+GSTIN: 378009503357
+
+Contact: 001-616-586-9549x2662
+
+Buyer
+
+Adams Ltd
+
+27027 Stanley Streets Jessicaview, VA 06908
+GSTIN: 439206099012
+
+Contact: +1-207-589-1472
+
+Place of Supply: West Adamshire
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Property 2417 $805.26 $805.26 $72.47 $72.47 $950.21
+
+Stop 5455 $338.37 $3383.7 $304.53  |$304.53 | $3992.77
+Air 8052 $990.87 $4954.35 $445.89 |$445.89 | $5846.13
+3729 $185.61 $1299.27 $116.93 |$116.93 | $1533.14
+
+Sub Total: $687.37
+
+CGST: $66.95
+
+SGST: $193.24
+
+Grand Total: $1879.53
+
+Amount in Words: 3611 dollars only
+
+PO Number: PO-7495
+
+Terms: Seven financial about against large rule social.
+
+Reverse Charge: No

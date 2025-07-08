@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8115
+Date: 26 May 2025
+
+Exporter
+
+Huffman-Miller
+USNS Patterson FPO AA 73845
+
+Importer
+
+Gutierrez-Wright
+1543 Williams Gateway Lake Robertside, UT 71803
+
+Buyer Ref: e6ddd5a1-1250-4b6c-8758-da43d6d9df9F
+Origin: Bermuda
+Destination: San Marino
+
+Currency: USD
+Incoterms: CIF
+
+Ee
+
+Freight: $396.39
+
+Insurance: $82.8
+
+Total Invoice Value: $1719.84

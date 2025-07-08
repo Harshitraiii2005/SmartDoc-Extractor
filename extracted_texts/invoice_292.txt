@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-52284
+
+Invoice Date: 10 Aug 2024
+
+Issued By:
+
+Srivastava, Sodhi and Sandhu
+68/164, Zacharia Ambattur 136800
+To:
+
+Ray, Lanka and Gara
+
+04/04 Chand Street, Tumkur-246669
+
+GSTIN: FY979882Hz456Z8
+
+Item Description Rate
+
+Sunt Quae molestiae repellat. %1528
+Voluptate Reiciendis sunt doloribus id facilis. 24380
+Nihil Deleniti modi sit accusantium. %3766
+
+Grand Total: 67104
+
+Quantity
+7
+
+6
+
+Total
+
+10696
+
+%26280
+
+30128

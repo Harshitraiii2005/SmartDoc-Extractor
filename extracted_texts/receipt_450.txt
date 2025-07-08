@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-3551
+
+Date: 22/04/2025
+
+From:
+
+Aurora, Sachdeva and Rajan
+
+99/18 Tata Road, Khandwa-916650
+To:
+
+Thaman, Seth and Dhar
+
+25, Dewan Marg, Ozhukarai 228927
+Amount Paid: $20704
+
+Payment Mode: Cash

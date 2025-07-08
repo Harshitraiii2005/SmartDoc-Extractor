@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-981877
+
+Date: 20 Mar 2025
+
+Consignor:
+
+Sankaran-Jayaraman
+
+98/310, Shere Street Karnal-038954
+Consignee:
+
+Thakkar, Bath and Babu
+
+74 Gole Chowk Madhyamgram 203145
+Vehicle No: Pt13JS0090
+
+GSTIN: Tj501619MV346Z2
+
+Item Description
+Accusantium Ea excepturi vitae.
+Nostrum Deleniti laborum.
+
+Mollitia Accusantium ratione asperiores iste.
+
+Quantity
+10
+23
+
+47
+
+Value
+$48344
+$27631
+
+$21226

@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-46817
+
+Invoice Date: 15 Mar 2024
+
+Issued By:
+
+Saini Group
+
+535 Gera Street, Sikar-692067
+
+To:
+
+Luthra, Ratta and Ahluwalia
+
+H.No. 940 Suri Road, Chandigarh-617635
+
+GSTIN: 0m019464Ym8212Z7
+
+Item Description Rate
+Velit Voluptates dolore atque. %2666
+Iste Doloribus delectus nesciunt. 22227
+
+Grand Total: =37795
+
+Quantity
+10
+
+5
+
+Total
+
+%26660
+
+11135

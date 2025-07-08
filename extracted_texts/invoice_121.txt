@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-73427
+
+Invoice Date: 24-05-2025
+
+From:
+
+Anand-Swamy
+
+047 Chada Zila, Parbhani 117463
+
+To:
+
+Venkataraman-Comar
+H.No. 04, Vig Nagar Korba 853757
+
+GSTIN: LX137521gK4352Z8
+
+Item
+Reiciendis
+Eveniet
+Error
+Aliquid
+Facere
+
+Dolorum
+
+Description
+
+Animi cupiditate aliquid laboriosam nemo.
+
+Quo laboriosam vel enim.
+
+In alias.
+
+Eveniet dolore illum.
+
+Cupiditate voluptatem sint consequatur.
+
+Fugit dolorum tempore non excepturi.
+
+Grand Total: $100202
+
+Rate
+$3859
+$608
+$1391
+$3979
+$4624
+
+$1371
+
+Quantity
+9
+
+5
+
+Total
+$34731
+$3040
+$4173
+$19895
+$36992
+
+$1371

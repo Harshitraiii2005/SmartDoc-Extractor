@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-81975
+
+Date: 17 Jan 2025
+
+From:
+
+Ramanathan-Badami
+
+H.No. 20 Kumar Chowk Alappuzha-789453
+Billed To:
+
+Batra and Sons
+
+H.No. 164, Mangat Nagar Panihati-238359
+
+GSTIN: GR126704QM624Z8
+
+Item Description
+
+Similique Adipisci labore earum nesciunt.
+
+Explicabo Deserunt distinctio dolorem impedit voluptatem.
+
+Dolore Alias ipsam temporibus.
+Reiciendis Quas iusto.
+
+Libero Quidem accusantium debitis numquam.
+
+Grand Total: $74339
+
+Rate
+
+$2519
+$2865
+$2673
+$3926
+
+$2050
+
+Quantity
+6
+
+8
+
+Total
+$15114
+$22920
+$2673
+$27482
+
+$6150

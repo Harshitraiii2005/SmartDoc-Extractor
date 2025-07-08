@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-96502
+
+Date: 16/11/2023
+
+From:
+
+Manda-Subramaniam
+
+69/32, Sule Road Suryapet 997216
+To:
+
+Brahmbhatt-De
+
+58/44 Kapur Zila, Kochi 500565
+Amount Paid: €41794
+
+Payment Mode: Card

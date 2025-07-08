@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4656
+Date: 10 May 2025
+
+Supplier
+
+Hunter-Jarvis
+
+251 Rivera Crest Suite 190 East Annmouth, TX 69724
+GSTIN: 292914295421
+
+Contact: +1-481-514-9691x306
+
+Buyer
+
+Jones Group
+
+Unit 0136 Box 7911 DPO AA 21526
+GSTIN: 987738482842
+
+Contact: +1-831-528-3131x472
+
+Place of Supply: South Michaelbury
+
+|Model =| 1445 '1 | $157.06 $157.06 $14.14 $14.14 $185.33
+
+Employee 6633 8 | $680.85 $5446.8 $490.21 $490.21 $6427.22
+
+Sub Total: $817.7
+
+CGST: $105.97
+
+SGST: $121.65
+
+Grand Total: $1374.17
+
+Amount in Words: 4368 dollars only
+
+PO Number: PO-7780
+
+Terms: That low popular full me investment interesting.
+
+Reverse Charge: No

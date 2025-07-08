@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-61472
+
+Date: 13 Nov 2024
+
+From:
+
+Ganesh and Sons
+
+H.No. 457 Mandal Nagar Bokaro 082624
+To:
+
+Grewal-Sathe
+
+75/979, Wali Road, Malegaon 428845
+Amount Paid: €21203
+
+Payment Mode: Cash

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-30590
+
+Date: 20-11-2023
+
+From:
+
+Gour-Wason
+
+72/25 Suri Ganj, Lucknow-499745
+To:
+
+Basu, Lall and Rama
+
+04, Dora Street, Aizawl-153659
+Amount Paid: €7411
+
+Payment Mode: Card

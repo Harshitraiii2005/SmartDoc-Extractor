@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-223451
+Date: 01 Jan 2025
+Valid From: 26 Mar 2025 To 02 Mar 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-2408
+
+Transporter ID: TID-5179
+
+Transporter Name: Hernandez-Montgomery
+
+Document Reference
+
+Type: Invoice
+No: DOC-8351
+
+Taxable Value Tax Rate (%)
+
+Reason: Together water before.

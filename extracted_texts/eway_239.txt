@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-551466
+
+Date: 26 Jun 2025
+
+Consignor:
+
+Rastogi-Sarma
+
+865, Shukla Street, Karimnagar-143156
+Consignee:
+
+Johal PLC
+
+878 Setty Road Madurai 500625
+Vehicle No: Xe07qy6744
+
+GSTIN: MK503256cM387Z0
+
+Item Description
+
+Ipsam Quia nobis atque dolor deserunt.
+
+Quantity
+
+4
+
+Value
+
+=10701

@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9498
+Date: 09 Jun 2025
+
+Supplier
+
+Deleon-Miller
+
+45544 Simmons Locks East Robin, OK 91244
+GSTIN: 327217069020
+
+Contact: 884.895.6279
+
+Buyer
+
+Huerta Ltd
+
+51244 Becky Locks Suite 051 Madisonfurt, IL 14941
+GSTIN: 189727872795
+
+Contact: (387)333-0201
+
+Place of Supply: Thompsonborough
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Bad 1189 $64.98 $324.9 $29.24 $29.24 $383.38
+8094 $338.1 $1014.3 $91.29 $91.29 $1196.87
+
+5155 2 | $796.02 $1592.04 $143.28 |$143.28 | $1878.61
+8792 2 | $436.3 $872.6 $78.53 $78.53 $1029.67
+7778 6 | $956.19 $5737.14 $516.34 | $516.34 | $6769.83
+
+Sub Total: $1227.69
+
+CGST: $89.09
+
+SGST: $175.37
+
+Grand Total: $838.31
+
+Amount in Words: 1735 dollars only
+
+PO Number: PO-8012
+
+Terms: Sort reveal voice tend word home garden.
+
+Reverse Charge: No

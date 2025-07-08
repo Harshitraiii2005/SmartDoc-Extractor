@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9895
+Date: 06 Mar 2025
+
+Supplier
+
+Duncan, Lucas and Howard
+
+776 Anthony Bridge Suite 877 North Jean, LA 51059
+GSTIN: 916403706044
+
+Contact: 559.621.6852x61784
+
+Buyer
+
+Greene Inc
+
+220 John Station Port Stephaniechester, PR 52295
+GSTIN: 758269255468
+
+Contact: 3478407346
+
+Place of Supply: Lemouth
+
+[Deal 3828 $880.24 $5281.44 $475.33 |$475.33 | $6232.1
+
+Sub Total: $1383.82
+
+CGST: $65.86
+
+SGST: $102.2
+
+Grand Total: $1002.7
+
+Amount in Words: 4271 dollars only
+
+PO Number: PO-7750
+
+Terms: Idea cup little season change trip reach agreement.
+
+Reverse Charge: Yes

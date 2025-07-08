@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-45970
+
+Invoice Date: 18-08-2023
+
+Issued By:
+
+Kakar, Vohra and Rout
+
+H.No. 396 Borde Ambattur 328766
+To:
+
+Issac-Boase
+
+57/026 Sood Street Panipat 024565
+
+GSTIN: Sf594871F09672Z7
+
+Item Description
+
+Maxime Nesciunt velit accusamus.
+Deleniti Molestias eum minus officiis.
+Odio Veritatis molestiae.
+
+Quidem Culpa porro consequatur suscipit.
+Recusandae lusto deleniti mollitia.
+
+Grand Total: $118453
+
+Rate
+
+$4736
+$1425
+$3407
+$1909
+
+$3255
+
+Quantity
+6
+8
+
+10
+
+Total
+
+$28416
+$11400
+$34070
+$15272
+
+$29295

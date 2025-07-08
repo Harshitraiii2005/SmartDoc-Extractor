@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-13983
+
+Date: 20 Apr 2024
+
+Issued By:
+
+Trivedi-Joshi
+
+81/92 Cheema Circle, Delhi-817887
+Billed To:
+
+Deshmukh, Singh and Behl
+
+76/36, Bhakta Path, Maheshtala-948285
+
+GSTIN: qu434731nU709Z4
+
+Item Description
+
+Unde Officia delectus vitae.
+
+Inventore Corporis modi molestias.
+Temporibus Cumaque earum dolorum.
+
+Excepturi Aut ducimus reprehenderit molestias.
+Dignissimos Facere deleniti.
+
+Reiciendis Voluptas dolor impedit magnam.
+
+Grand Total: €115178
+
+Rate
+
+€3921
+
+€1159
+
+€3570
+
+€2016
+
+€2762
+
+€3671
+
+Quantity
+9
+
+1
+
+Total
+
+€35289
+
+€1159
+
+€28560
+
+€6048
+
+€22096
+
+€22026

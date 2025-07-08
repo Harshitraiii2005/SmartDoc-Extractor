@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+Tax Invoice
+Invoice No: INV-27799
+Invoice Date: 24/11/2024
+
+From:
+Mannan Group
+
+76/117 Bora Nagar, Sultan Pur Majra 057215
+
+Billed To:
+Babu-Bose
+77/109 Seth Ganj, Bettiah 933892
+
+GSTIN: YY227955p091624
+
+Item Description
+
+Explicabo Magni ipsam.
+
+Sequi Reprehenderit nisi cum.
+Omnis Aspernatur aperiam.
+
+Grand Total: =39732
+
+Rate
+
+%2294
+
+21236
+
+2978
+
+Quantity
+5
+6
+
+7
+
+Total
+
+211470
+
+%7416
+
+20846

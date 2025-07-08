@@ -1,0 +1,72 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-58596
+
+Date: 18/02/2024
+
+Issued By:
+
+Kashyap PLC
+
+82 Rout Path Ludhiana-841632
+
+To:
+
+Gara Group
+
+50/892, Khanna Road, Maheshtala 354776
+
+GSTIN: Ac7500861H374Z3
+
+Item
+Beatae
+Id
+
+Eum
+Soluta
+Placeat
+
+Quisquam
+
+Description
+
+Harum magni.
+
+Aliquid omnis.
+
+Quisquam ratione ratione et nobis.
+
+Tenetur pariatur.
+
+Facilis reprehenderit praesentium aut.
+
+Dolore fugiat animi dolores.
+
+Grand Total: $85190
+
+Rate
+
+$2577
+$2643
+$3542
+$2318
+$1204
+
+$4721
+
+Quantity
+6
+
+9
+
+Total
+$15462
+$23787
+$14168
+$11590
+$6020
+
+$14163

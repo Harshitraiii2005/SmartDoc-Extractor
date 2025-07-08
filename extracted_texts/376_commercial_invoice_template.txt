@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-6293
+Date: 07 Apr 2025
+
+Exporter
+
+Richard-Small
+3550 Rodriguez Route Lake Natalieshire, ID 11741
+
+Importer
+
+Kennedy-Floyd
+89488 Short Creek Nathanchester, MP 03074
+
+Buyer Ref: d2b22b3a-09cf-44a0-b00d-1f4c796dd0b4
+Origin: Haiti
+Destination: Jersey
+
+Currency: EUR
+Incoterms: FOB
+
+Day 3945 $955.64 $7893.59
+
+Cell 8615 is | $311.99 $2945.19
+Opportunity 9392 $314.36 $370.94
+
+Freight: $405.02
+
+Insurance: $111.78
+
+Total Invoice Value: $1147.36

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-85518
+
+Date: 15 Oct 2024
+
+From:
+
+Shan Group
+
+H.No. 12, Loyal Circle Tirupati-963464
+To:
+
+Sethi-Dyal
+
+68/03 Dyal Marg, Buxar 885576
+Amount Paid: $40612
+
+Payment Mode: Card

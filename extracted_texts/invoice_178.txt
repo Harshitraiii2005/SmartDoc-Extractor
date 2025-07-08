@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-87872
+
+Invoice Date: 21-09-2023
+
+Issued By:
+Virk-Chopra
+
+06/503, Saini Zila Gopalpur 051165
+
+Billed To:
+
+Ratta-Manda
+
+47/120, Bhatti, Rampur-567578
+
+GSTIN: pG631100Yr748Z2
+
+Item
+Tempore
+Nesciunt
+Quia
+Omnis
+Asperiores
+
+Commodi
+
+Description
+Tempore enim ullam.
+
+Nihil ipsam.
+
+Fugit inventore placeat rerum accusantium.
+
+Officiis cumque natus facere nobis.
+Necessitatibus commodi.
+
+Doloremque dolores sed dolorum ea.
+
+Grand Total: $62414
+
+Rate
+$1183
+$2641
+$3034
+$1834
+$801
+
+$1595
+
+Quantity
+3
+5
+4
+
+10
+
+Total
+$3549
+$13205
+$12136
+$18340
+$7209
+
+$7975

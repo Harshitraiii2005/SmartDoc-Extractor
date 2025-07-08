@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-72148
+
+Invoice Date: 25-09-2023
+
+From:
+
+Sundaram PLC
+
+74/515, Dara Circle Anantapur 732451
+To:
+
+Seshadri-Manda
+
+89 Divan Ganj, Salem-922739
+
+GSTIN: kT680442Rt380Z4
+
+Item Description
+Asperiores Modi earum occaecati fuga quidem.
+Non Molestias omnis exercitationem laudantium.
+
+Reprehenderit | Suscipit minima soluta consectetur dolorem.
+
+Grand Total: %38705
+
+Rate
+
+23379
+
+23387
+
+1496
+
+Quantity
+6
+
+5
+
+Total
+
+220274
+
+%16935
+
+%1496

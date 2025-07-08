@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-84064
+
+Date: 28-01-2024
+
+Issued By:
+
+Karan Ltd
+
+H.No. 80 Korpal Zila, Guwahati 798360
+
+Billed To:
+
+Raja PLC
+
+H.No. 85, Goswami Path, Rajpur Sonarpur-337223
+
+GSTIN: wC731867yg206Z0
+
+Item Description Rate
+Unde Aliquam cupiditate ipsam eius. $3998
+Placeat Necessitatibus eveniet. $859
+Libero Incidunt amet iusto voluptatibus. $4803
+Eligendi Consequatur odit repellat veniam. $533
+Harum Temporibus occaecati deleniti. $3896
+
+Grand Total: $75004
+
+Quantity
+9
+
+3
+
+Total
+$35982
+$2577
+$28818
+$3731
+
+$3896

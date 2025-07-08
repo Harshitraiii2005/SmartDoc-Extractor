@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-31382
+
+Invoice Date: 14 Jun 2025
+
+Issued By:
+
+Srivastava Inc
+
+H.No. 446 Dugar Zila, Nizamabad-686290
+Billed To:
+
+Balan, Jayaraman and Bobal
+
+00/32, Bal Circle Gwalior-082857
+
+GSTIN: wl5573161t887Z5
+
+Item Description Rate
+Voluptatibus In perspiciatis deleniti laboriosam. %2804
+Pariatur Ratione eos vero quaerat. %927
+Ullam Harum facilis. =1367
+Quasi Asperiores nulla officia. =1620
+
+Grand Total: =34731
+
+Quantity
+7
+
+1
+
+Total
+
+%19628
+
+%927
+
+%10936
+
+%3240

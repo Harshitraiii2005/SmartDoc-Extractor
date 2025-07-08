@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-61829
+
+Invoice Date: 25 Oct 2023
+
+From:
+
+Master-Khanna
+
+H.No. 291 Sangha Path, Dewas-848507
+
+Billed To:
+
+Buch-Sridhar
+
+H.No. 713, Choudhary Circle, Chinsurah-953413
+
+GSTIN: zv386056YD92927
+
+Item Description Rate Quantity
+Quo Sunt ullam excepturi. €2895 8
+Accusamus Explicabo voluptatibus aut. €3827 1
+Consectetur Sit earum. €4815 10
+
+Magni Nobis occaecati nostrum. €1208 6
+
+Grand Total: €82385
+
+Total
+€23160
+€3827
+€48150
+
+€7248

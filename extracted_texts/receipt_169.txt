@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14111
+
+Date: 17-06-2024
+
+From:
+
+Shanker-Andra
+
+38, Dalal Zila, Sultan Pur Majra-462078
+
+To:
+
+Samra, Keer and Sastry
+
+H.No. 658, Vyas Marg Karawal Nagar-222767
+Amount Paid: $37844
+
+Payment Mode: UPI

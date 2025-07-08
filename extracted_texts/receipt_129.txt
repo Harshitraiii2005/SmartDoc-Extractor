@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-29460
+
+Date: 21/07/2024
+
+From:
+
+Ramanathan and Sons
+
+482, Walla Marg Berhampore 269333
+To:
+
+Sankar-Hegde
+
+25/625 Gara Road Tinsukia-904728
+Amount Paid: €7543
+
+Payment Mode: Net Banking

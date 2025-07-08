@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-63490
+
+Invoice Date: 28-01-2024
+
+From:
+
+Datta-Bhardwaj
+
+44/982 Edwin Street, Nadiad-275979
+To:
+
+Sani, Goyal and Ahluwalia
+
+H.No. 02 Sami Street, Amravati-077311
+
+GSTIN: VW055748Vf633Z2
+
+Item Description Rate
+Sunt Sapiente eum est. $4005
+Ex Consequatur corrupti. $1252
+Autem Adipisci molestiae temporibus quam. $519
+Unde Veritatis dolorum. $1330
+
+Grand Total: $54616
+
+Quantity
+8
+
+10
+
+4
+
+6
+
+Total
+$32040
+$12520
+$2076
+
+$7980

@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9077
+Date: 12 Jan 2025
+
+Exporter
+
+Herring-French
+PSC 3128, Box 1315 APO AA 16323
+
+Importer
+
+Haas-White
+59045 Smith Path East Rodneytown, IA 81899
+
+Buyer Ref: bf043b68-65df-4f5b-a5a8-ec2d1 bfbb823
+Origin: Solomon Islands
+Destination: Palau
+
+Currency: INR
+Incoterms: EXW
+
+Writer 9114 Bo $903.82 $8532.06
+
+Freight: $142.96
+
+Insurance: $142.5
+
+Total Invoice Value: $2922.17

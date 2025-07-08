@@ -1,0 +1,78 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-11271
+
+Invoice Date: 31 Dec 2023
+
+From:
+Dhar-Ray
+
+H.No. 63, Som Chowk Kavali-454524
+
+Billed To:
+
+Apte, Soni and Das
+49 Subramaniam Nagar Rampur-764538
+
+GSTIN: pM494045wm284Z8
+
+Item
+Magnam
+Maiores
+Amet
+Pariatur
+Excepturi
+
+Incidunt
+
+Grand Total
+
+Description
+
+Voluptatibus animi vel nemo necessitatibus.
+
+Corporis odio repellendus temporibus.
+Eius nemo laboriosam vitae quia.
+Amet optio debitis.
+
+Non ut eum.
+
+Eveniet maiores nihil ex.
+
+: 49043
+
+Rate
+
+1300
+
+%1229
+
+%3094
+
+%4449
+
+2188
+
+2713
+
+Quantity
+7
+
+5
+
+Total
+
+9100
+
+26145
+
+3094
+
+13347
+
+10940
+
+26417

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-950685
+Date: 13-07-2024
+
+Consignor:
+
+Kota, Ganesan and Gola
+
+76, Sami Ganj, Kozhikode 885047
+Consignee:
+
+Krish, Desai and Chhabra
+
+H.No. 93 Tella, Siliguri 122269
+Vehicle No: JIO80A9634
+
+GSTIN: xU501425ka327Z6
+
+Item Description
+
+Aperiam Omnis consectetur adipisci error.
+
+Dicta Consectetur enim quia.
+
+Quantity
+2
+
+6
+
+Value
+
+249766
+
+241848

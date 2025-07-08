@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-97940
+
+Date: 16 Aug 2023
+
+From:
+
+Sha Group
+
+H.No. 63 Sridhar Path, Madhyamgram 646944
+To:
+
+Issac-Dugal
+
+87 Kapoor Madurai-574680
+
+Amount Paid: %2926
+
+Payment Mode: Cash

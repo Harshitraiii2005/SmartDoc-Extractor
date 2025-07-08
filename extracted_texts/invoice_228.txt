@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-46740
+
+Date: 25-08-2024
+
+From:
+
+Kapoor-Chand
+
+180 Sood Road, Davanagere 758436
+Billed To:
+
+Sengupta Ltd
+
+83, Andra Street Jabalpur 048318
+
+GSTIN: 1q2440560V386Z4
+
+Item Description Rate
+Et Vero odit voluptates. €3306
+Ducimus Esse rerum vero. €2638
+
+Grand Total: €16496
+
+Quantity
+1
+
+5
+
+Total
+
+€3306
+
+€13190

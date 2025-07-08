@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-16049
+
+Invoice Date: 15-03-2025
+
+Issued By:
+
+Dave, Upadhyay and Borde
+
+88/35 Jani Zila, Secunderabad 432944
+Billed To:
+
+Seth, Venkataraman and Chauhan
+032, Ramesh, Bhubaneswar-356184
+
+GSTIN: Kd715062qn84024
+
+Item Description Rate
+
+Asperiores Ipsum consectetur saepe blanditiis. $1972
+Explicabo lure illum. $3385
+Eaque Sed ullam nemo. $4621
+
+Grand Total: $78234
+
+Quantity
+10
+5
+
+9
+
+Total
+$19720
+$16925
+
+$41589

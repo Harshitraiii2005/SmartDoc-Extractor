@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-31495
+
+Invoice Date: 14/08/2024
+
+From:
+
+Mane LLC
+
+84/549, Madan Zila Hosur-448469
+Billed To:
+
+Wadhwa-Gole
+
+H.No. 073, Gour Chowk, Hosur 261902
+
+GSTIN: fE383408dt313Z9
+
+Item Description
+
+Vero Possimus consectetur numquam itaque.
+
+Perspiciatis | Voluptate consequuntur suscipit reprehenderit.
+
+Grand Total: %9295
+
+Rate
+
+24399
+
+%1224
+
+Quantity
+1
+
+4
+
+Total
+
+24399
+
+24896

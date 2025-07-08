@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8936
+Date: 10 May 2025
+
+Exporter
+
+Chapman-Hurst
+5841 Nixon Burgs North Sallybury, ME 72904
+
+Importer
+
+Ramirez-Matthews
+83285 Destiny Locks Apt. 395 South Christopherstad, IL 18387
+
+Buyer Ref: ec064506-f6bf-4 74 1-92f8-2638cb887cb6
+Origin: Hong Kong
+Destination: New Zealand
+
+Currency: INR
+Incoterms: EXW
+
+Claim 3005 $687.88 $4058.49
+Decide 9354 $735.74 $2604.52
+
+Worry 3491 $830.04 $3917.79
+System 7943 $849.56 $1002.48
+Color 3180 $365.32 $1293.23
+
+Freight: $301.11
+Insurance: $176.77
+Total Invoice Value: $4898.62

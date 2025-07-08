@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 223451Date: 01 Jan 2025Valid From: 26 Mar 2025 To 02 Mar 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: RailVehicle No: VEH: 2408Transporter ID: TID: 5179Transporter Name: Hernandez: MontgomeryDocument ReferenceType: InvoiceNo: DOC: 8351Taxable Value Tax Rate (%)Reason: Together water before.

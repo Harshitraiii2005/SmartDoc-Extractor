@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-439421
+
+Date: 14 Jul 2024
+
+Consignor:
+
+Borah-Kaul
+
+H.No. 70, Sidhu Circle Patiala-564308
+Consignee:
+
+Cheema-Trivedi
+
+H.No. 17, Sarna Road, Ramgarh-902312
+Vehicle No: vN18jP2321
+
+GSTIN: Qy434575yZ3482Z1
+
+Item Description
+
+Reiciendis Omnis optio veniam odio.
+
+Dolor Odit quibusdam magnam.
+
+Amet Animi tempore accusantium dolores.
+
+Velit Temporibus doloribus sint dignissimos.
+
+Quantity
+24
+4
+
+13
+
+Value
+
+€16758
+
+€35836
+
+€30363
+
+€15813

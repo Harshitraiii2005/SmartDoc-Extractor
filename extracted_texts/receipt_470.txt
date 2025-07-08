@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-64229
+
+Date: 09/11/2023
+
+From:
+
+Hegde-Mane
+
+35 Dugar, Motihari 328388
+
+To:
+
+Chopra, Issac and Borah
+
+33, Sankar Road, Ambarnath 498554
+Amount Paid: 745520
+
+Payment Mode: Cash

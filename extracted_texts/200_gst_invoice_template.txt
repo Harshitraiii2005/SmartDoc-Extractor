@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4853
+Date: 30 Jan 2025
+
+Supplier
+
+Kim and Sons
+
+3237 Lori Haven Apt. 426 Masonville, ND 62637
+GSTIN: 105307500326
+
+Contact: +1-616-557-6070x0947
+
+Buyer
+
+Boone, Torres and May
+USS Perkins FPO AE 93209
+GSTIN: 507120813361
+Contact: 7424763874
+
+Place of Supply: Johnsonchester
+
+Middle 4914 $57.33 $401.31 $36.12 $36.12 $473.55
+
+FRock «| 6952 [5 | $733.99 $3669.95 $330.3 |$330.3 | $4330.54
+
+Sub Total: $1252.58
+
+CGST: $91.92
+
+SGST: $54.76
+
+Grand Total: $891.4
+
+Amount in Words: 3521 dollars only
+PO Number: PO-4091
+
+Terms: At happen work.
+
+Reverse Charge: Yes

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-45850
+
+Invoice Date: 28 Oct 2023
+
+Issued By:
+
+Sani-Char
+
+H.No. 61, Raval Zila, Knandwa-829482
+Billed To:
+
+Biswas, Agarwal and Badami
+
+91/15, Date Nagar Raiganj-153963
+
+GSTIN: 1g197644jw870Z6
+
+Item Description Rate
+Corrupti Corporis tempora harum blanditiis. 22128
+Cupiditate Ea libero porro est temporibus. %3165
+
+Grand Total: =48674
+
+Quantity
+8
+
+10
+
+Total
+
+217024
+
+%31650

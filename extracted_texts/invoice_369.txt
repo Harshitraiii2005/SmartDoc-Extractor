@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-30650
+
+Date: 27-06-2024
+
+From:
+
+Balasubramanian Inc
+
+H.No. 776 Lall Circle, Jalna-975191
+To:
+
+Shukla-Kaul
+
+30/032, Badami Pondicherry-402955
+
+GSTIN: iN293311v0344Z9
+
+Item Description Rate
+Vitae Sapiente repellendus voluptas. $1475
+Dicta Omnis qui nulla asperiores. $594
+Hic Porro tempore quas. $2711
+Placeat Sequi ducimus sed. $4650
+
+Grand Total: $59270
+
+Quantity
+6
+
+4
+
+Total
+$8850
+$2376
+$10844
+
+$37200

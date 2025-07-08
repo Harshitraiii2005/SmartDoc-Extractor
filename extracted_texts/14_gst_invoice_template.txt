@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7145
+Date: 22 Apr 2025
+
+Supplier
+
+Ortiz LLC
+
+11364 Keller Ridge North Dennisshire, TN 25320
+GSTIN: 307154615833
+
+Contact: 001-720-282-5744x4516
+
+Buyer
+
+Payne-Rogers
+
+802 Tabitha Loaf Port Robertmouth, NM 14905
+GSTIN: 543420504277
+
+Contact: 001-385-406-5589
+
+Place of Supply: Rodriguezburgh
+
+‘Threat ‘| 2706 /3 | $715.67 $2147.01 $193.23 |$193.23 | $2533.47
+
+7979 fo | $462.35 $4161.15 $374.5 $374.5 $4910.16
+
+Sub Total: $1195.63
+
+CGST: $192.4
+
+SGST: $160.97
+
+Grand Total: $1945.36
+
+Amount in Words: 3966 dollars only
+PO Number: PO-2123
+
+Terms: Offer policy win operation.
+
+Reverse Charge: Yes

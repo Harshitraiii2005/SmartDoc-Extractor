@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-466923
+
+Date: 25-09-2023
+
+Consignor:
+
+Jhaveri-Kapur
+
+11/54, Suri Marg Ghaziabad-932857
+Consignee:
+
+Mandal, Kata and Karpe
+
+88, Manne Street Ghaziabad-959469
+Vehicle No: sG841k2551
+
+GSTIN: PR818224rU827Z3
+
+Item Description
+
+Ullam Minima nulla dolorem dolorem vel.
+
+Voluptatum Laudantium enim quasi quo.
+
+Quantity
+4
+
+5
+
+Value
+$48947
+
+$31048

@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5228
+Date: 19 Feb 2025
+
+Exporter
+
+Williams, Sims and Henry
+USS Barker FPO AP 17072
+
+Importer
+
+Burnett-Erickson
+573 Sandra Keys Suite 987 New Kathrynton, MP 67721
+
+Buyer Ref: 3aedc4a0-8d95-4785-91d7-f0fdb7ce8f53
+Origin: Colombia
+Destination: Kazakhstan
+
+Currency: EUR
+Incoterms: FOB
+
+escinion «(HSN ay [unwroce [tom
+
+Freight: $369.72
+
+Insurance: $119.81
+
+Total Invoice Value: $3509.74

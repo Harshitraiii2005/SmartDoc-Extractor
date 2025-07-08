@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-1729
+
+Date: 09-06-2025
+
+From:
+
+Gopal, Kapur and Bail
+
+010 Mand Ganj Jhansi-157928
+
+To:
+
+Dewan and Sons
+
+19 Choudhury Ganj, Gopalpur-011100
+Amount Paid: €12576
+
+Payment Mode: Cash

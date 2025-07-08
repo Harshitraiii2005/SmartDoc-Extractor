@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33189
+
+Date: 16-01-2025
+
+From:
+
+Balan, Johal and Kaul
+
+84/837, Guha Road, Ahmednagar 258177
+To:
+
+Deshpande LLC
+
+63, Bir Zila, Sultan Pur Majra 041323
+Amount Paid: €36528
+
+Payment Mode: Card

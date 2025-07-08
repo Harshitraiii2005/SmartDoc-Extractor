@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-21589
+
+Date: 23 Oct 2024
+
+From:
+
+Ram, Arora and Madan
+
+21, Vig Path, Bhind 215872
+
+To:
+
+Hans LLC
+
+H.No. 63 Kant Zila, Vijayanagaram 344796
+Amount Paid: $12251
+
+Payment Mode: Card

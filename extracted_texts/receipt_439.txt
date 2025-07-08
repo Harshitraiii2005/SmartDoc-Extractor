@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-43913
+
+Date: 18/07/2023
+
+From:
+
+Lad-Varkey
+
+70 lyer Chowk, Chandigarh-065672
+
+To:
+
+Swamy LLC
+
+391, Sengupta Ganj Sangli-Miraj & Kupwad 944457
+Amount Paid: $27193
+
+Payment Mode: UPI

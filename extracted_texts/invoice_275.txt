@@ -1,0 +1,64 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-20163
+
+Invoice Date: 14/10/2023
+
+From:
+
+Sodhi Inc
+
+85/519, Balan Street Kalyan-Dombivli-401566
+To:
+
+Chanda LLC
+
+H.No. 02, Dara Nagar, Howrah 708478
+
+GSTIN: jx275393DU298Z8
+
+Item Description
+
+Deleniti Doloribus nihil voluptatibus ratione.
+
+Error Molestiae accusamus odit ducimus.
+
+Quo Quia nam omnis.
+
+Illum Similique at perferendis veritatis voluptatem.
+
+Aperiam Recusandae ipsa.
+
+Grand Total: €107634
+
+Rate
+
+€682
+
+€3599
+
+€4366
+
+€4673
+
+€3264
+
+Quantity
+8
+
+10
+
+Total
+
+€5456
+
+€35990
+
+€21830
+
+€28038
+
+€16320

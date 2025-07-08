@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-970207
+Date: 16/01/2024
+
+Consignor:
+
+Ganesh-Kakar
+
+14, Mani Circle, Karimnagar-111071
+Consignee:
+
+Kumer-Tank
+
+45/50 Sura Zila Deoghar-804280
+Vehicle No: PK24wa0205
+
+GSTIN: Ec7282731s871Z8
+
+Item Description
+Eveniet Esse ducimus illum.
+Quod Quo nisi blanditiis similique.
+
+Architecto Incidunt consequatur veniam.
+
+Quantity
+25
+29
+
+28
+
+Value
+$5529
+$5828
+
+$32102

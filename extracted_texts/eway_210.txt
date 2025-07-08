@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-884959
+Date: 11-11-2024
+
+Consignor:
+
+Koshy PLC
+
+13/584 Jain Ganj, Surat-497352
+Consignee:
+
+Agrawal-Garg
+
+31 Kashyap, Bharatpur 693028
+Vehicle No: eb57YW6394
+
+GSTIN: ws312256IL667Z5
+
+Item Description
+
+Totam Cum quidem vitae minus.
+
+Ab Nobis ipsam rem.
+
+Quantity
+47
+
+13
+
+Value
+$23195
+
+$30420

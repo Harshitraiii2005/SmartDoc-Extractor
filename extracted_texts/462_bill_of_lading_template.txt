@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-1655
+Date: 12 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Performance
+
+Port of Loading: Lake William
+Port of Discharge: West Kurtfurt
+Place of Delivery: Comptonmouth
+
+Container No: CONT-5044
+Marks: Amount
+
+Description of Goods: Forward
+
+Gross Weight: 4613 kg
+Measurement: 10 cbm
+Freight Terms: Collect
+
+BILL OF LADING

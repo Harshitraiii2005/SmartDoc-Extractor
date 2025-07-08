@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-51470
+Date: 16/05/2024
+
+Issued By:
+Bahri, Balan and Halder
+127, Saran Street, Gandhidham 964370
+
+To:
+Garde, Tank and Ramesh
+150, Suresh Road, Sambhal-028809
+
+GSTIN: sN723322QI0592Z4
+
+Item Description Rate Quantity Total
+
+Minima Quia qui. $2129 7 $14903
+Illo Voluptates odit officia impedit. $3026 10 $30260
+Aspernatur Velit unde ipsum libero molestias. $1532 8 $12256
+Rerum Itaque accusamus ut repellendus. $1602 7 $11214
+Ad Quidem consequatur. $1136 10 $11360
+
+Grand Total: $79993

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-88284
+
+Date: 08/11/2023
+
+From:
+
+Venkataraman-Bains
+
+H.No. 09 Sheth Path Aurangabad-573336
+To:
+
+Chokshi PLC
+
+99/619, Bhavsar Nagar, Tinsukia-205776
+
+GSTIN: fE946240RA854Z3
+
+Item Description Rate
+Exercitationem Eveniet quidem nisi magni. €2040
+Omnis Ullam molestias magnam omnis. €4803
+
+Grand Total: €19083
+
+Quantity
+7
+
+1
+
+Total
+
+€14280
+
+€4803

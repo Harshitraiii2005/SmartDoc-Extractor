@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-46220
+
+Date: 12 Jul 2024
+
+From:
+
+Thaker, Sampath and Dasgupta
+
+09/588, Vaidya Road Durgapur-529337
+
+To:
+
+Krish Inc
+
+51/702 Venkatesh Zila Gandhinagar 956460
+Amount Paid: €23692
+
+Payment Mode: UPI

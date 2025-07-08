@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9207
+Date: 05 Jun 2025
+
+Exporter
+
+Jones Group
+247 Deleon Summit Port Vanessastad, KS 92926
+
+Importer
+
+Williams, Nichols and Simmons
+5020 Evans Junction Suite 549 West Nicole, AR 78330
+
+Buyer Ref: 09ef7540-228e-4 1a2-b858-64ffb00d5c05
+Origin: Lao People's Democratic Republic
+Destination: Bhutan
+
+Currency: INR
+Incoterms: EXW
+
+escipion «HSN ay [uneroce [Tom
+
+Freight: $204.58
+
+Insurance: $153.24
+Total Invoice Value: $2320.77

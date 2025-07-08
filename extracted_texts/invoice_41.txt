@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-4180
+
+Invoice Date: 10-03-2025
+
+From:
+
+Jha, Hora and Vaidya
+
+H.No. 036, Balan Marg Bidar 573387
+
+To:
+
+Sani and Sons
+
+24/142 Viswanathan Nagar Rajpur Sonarpur-793866
+
+GSTIN: DV763390GX350Z8
+
+Item Description
+
+Quo Delectus nesciunt perspiciatis doloremque.
+Rerum Mollitia fuga dignissimos voluptatibus illum.
+Dolorem Maiores nesciunt enim quam deserunt.
+
+At Animi et totam similique illo.
+
+Accusantium Eum pariatur neque vero.
+
+Eligendi Ab laudantium perspiciatis voluptatibus.
+
+Grand Total: $104249
+
+Rate
+$1358
+$551
+$2486
+$1458
+$4599
+
+$2260
+
+Quantity
+10
+9
+
+10
+
+10
+
+Total
+$13580
+$4959
+$24860
+$1458
+$36792
+
+$22600

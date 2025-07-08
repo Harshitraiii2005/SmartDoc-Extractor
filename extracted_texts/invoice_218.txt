@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-21846
+
+Date: 13 Nov 2023
+
+From:
+
+Manne, Dora and Kant
+
+H.No. 907 Venkataraman Road Arrah-753924
+Billed To:
+
+Sundaram, Sarin and Gaba
+
+06/467, Badal Nagar, Kurnool 716602
+
+GSTIN: Jh282535uX93924
+
+Item Description
+Sed lpsa sed nisi.
+Dicta Praesentium eum voluptatem eligendi.
+
+Inventore Consequuntur similique sequi mollitia quidem.
+
+Pariatur Dolorem eligendi.
+Quae Eligendi enim illum velit.
+Itaque Impedit nostrum.
+
+Grand Total: $74933
+
+Rate
+
+$2250
+$1349
+$2658
+$4223
+$1512
+
+$3211
+
+Quantity
+5
+
+6
+
+Total
+$11250
+$8094
+$18606
+$21115
+$3024
+
+$12844

@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-89050
+
+Invoice Date: 11-08-2024
+
+From:
+
+Salvi and Sons
+
+65/80 Bhavsar Road Saharanpur-078628
+To:
+
+Mahajan-Suresh
+
+08, Karpe Street Pudukkottai 891234
+
+GSTIN: Je651326CB989Z2
+
+Item Description Rate
+Quaerat Explicabo eum veniam. =1705
+Sunt Natus labore. 22634
+Non Minus ipsum accusamus. =702
+Quibusdam Inventore odio adipisci harum. %2401
+
+Grand Total: %51702
+
+Quantity
+10
+
+10
+
+Total
+
+17050
+
+26340
+
+%3510
+
+24802

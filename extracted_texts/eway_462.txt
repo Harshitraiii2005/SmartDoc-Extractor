@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-544990
+Date: 09/09/2023
+
+Consignor:
+
+Rama-Gulati
+
+50/82 Som Zila Ghaziabad-883923
+Consignee:
+
+Bhatia, Kaul and Gala
+
+41 Babu Marg Khandwa-886585
+Vehicle No: vLOOYb7696
+
+GSTIN: Pk624688fU1692Z2
+
+Item Description
+
+Voluptates Sapiente eligendi fuga.
+
+Quantity
+
+12
+
+Value
+
+$20282

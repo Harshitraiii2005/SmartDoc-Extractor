@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-361156
+
+Date: 11-03-2025
+
+Consignor:
+
+Rajan-Warrior
+
+169 Kara Ganj, Mathura 462003
+Consignee:
+
+Yohannan, Kurian and Wadhwa
+
+H.No. 34, Master Chowk, Bidar 136849
+Vehicle No: NJ84hu8891
+
+GSTIN: rd7607611rS458Z3
+
+Item Description
+
+Architecto Ut reiciendis aut alias.
+Sunt lpsa autem officiis nemo in.
+Soluta Unde pariatur.
+
+Assumenda Laboriosam neque consequuntur.
+
+Quantity
+38
+31
+47
+
+33
+
+Value
+$6483
+$8323
+$9437
+
+$40980

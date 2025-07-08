@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-6832
+Date: 26 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Wait
+
+Port of Loading: North Jenniferview
+Port of Discharge: Rebekahhaven
+Place of Delivery: North Vanessa
+
+Container No: CONT-5182
+Marks: Those
+
+Description of Goods: One
+
+Gross Weight: 1139 kg
+Measurement: 10 cbm
+Freight Terms: Collect
+
+BILL OF LADING

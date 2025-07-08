@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-97537
+
+Date: 26-01-2025
+
+From:
+
+Dhingra-Bobal
+
+77/18 Thakur Street Mathura 487052
+To:
+
+Mahajan, Dutt and Saxena
+
+117, Mahajan Circle, Khora 673755
+
+GSTIN: Bx540730SS81321
+
+Item Description Rate
+Labore Harum eligendi minima. 24669
+Deleniti Corrupti provident incidunt deserunt. 24197
+
+Grand Total: %48527
+
+Quantity
+5
+
+6
+
+Total
+
+%23345
+
+225182

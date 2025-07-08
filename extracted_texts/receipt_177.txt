@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-82518
+
+Date: 20-06-2024
+
+From:
+
+Singhal Ltd
+
+H.No. 842, Krish, Kanpur-891256
+To:
+
+Dara-Bahri
+
+52/922 Borah Bhusawal 362226
+Amount Paid: €19378
+
+Payment Mode: Card

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-86047
+
+Date: 02 May 2024
+
+From:
+
+Badami, Dani and Shenoy
+
+667, Hayer Marg Bhind 215193
+
+To:
+
+Sidhu-Bajwa
+
+H.No. 22, Kaul Road Ramagundam-268932
+
+GSTIN: Uq663372kY670Z0
+
+Item Description Rate
+Quasi Unde qui. $3398
+Deserunt Ipsa libero asperiores dolorem totam. $1757
+
+Grand Total: $27648
+
+Quantity
+4
+
+8
+
+Total
+$13592
+
+$14056

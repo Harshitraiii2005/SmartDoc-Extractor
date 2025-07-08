@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-4244
+
+Date: 04-12-2024
+
+Issued By:
+
+Sabharwal, Samra and Shroff
+40/19 Dara Ganj Morena 097588
+To:
+
+Shere-lyer
+
+23, Mandal, Satna 452603
+
+GSTIN: kx352932aX563Z2
+
+Item Description Rate
+Provident Beatae fugiat iusto corrupti doloremque. €2320
+Ullam Sunt tempora esse. €1657
+Impedit Soluta fuga veritatis laboriosam possimus. €749
+
+Grand Total: €18254
+
+Quantity
+1
+6
+
+8
+
+Total
+
+€2320
+
+€9942
+
+€5992

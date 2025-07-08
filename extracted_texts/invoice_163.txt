@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-19853
+
+Date: 05 Jun 2024
+
+Issued By:
+
+Hayre Group
+
+H.No. 44, Ramaswamy, Raebareli 499668
+To:
+
+Date PLC
+
+H.No. 79 Kapoor Road, Pudukkottai-265752
+
+GSTIN: Jq657117DE551Z0
+
+Item Description
+Magni Perferendis placeat optio impedit.
+Unde Cumaque occaecati.
+
+Consectetur Ab perspiciatis beatae aliquam.
+
+Ilum Consectetur cum quaerat possimus iste.
+
+Saepe Perferendis optio laborum aliquid.
+
+Grand Total: 39110
+
+Rate
+
+1880
+
+2364
+
+2296
+
+24153
+
+2564
+
+Quantity
+6
+
+1
+
+Total
+
+=11280
+
+22364
+
+%13776
+
+%8306
+
+23384

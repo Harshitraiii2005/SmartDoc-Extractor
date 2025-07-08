@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9929
+Date: 16 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Ok
+
+Port of Loading: Adriantown
+Port of Discharge: Elaineberg
+Place of Delivery: Barrborough
+
+Container No: CONT-2138
+Marks: Cut
+
+Description of Goods: Produce
+
+Gross Weight: 3534 kg
+Measurement: 12 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

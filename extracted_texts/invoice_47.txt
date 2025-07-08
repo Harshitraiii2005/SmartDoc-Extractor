@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-44987
+
+Date: 18/12/2023
+
+Issued By:
+
+Yohannan-Sarraf
+
+278, Manne Nagar, Amroha-372139
+Billed To:
+
+Aggarwal Group
+
+00/30 Devi Circle Ambarnath-563883
+
+GSTIN: TH955415cS40926
+
+Item Description
+
+Eius Labore itaque harum.
+
+Incidunt Sequi officia dignissimos quidem reiciendis.
+
+Libero Error dolores commodi.
+
+Cum Culpa odio iure.
+
+Grand Total: €61357
+
+Rate
+
+€1642
+
+€1146
+
+€3854
+
+€2651
+
+Quantity
+6
+
+9
+
+10
+
+1
+
+Total
+
+€9852
+
+€10314
+
+€38540
+
+€2651

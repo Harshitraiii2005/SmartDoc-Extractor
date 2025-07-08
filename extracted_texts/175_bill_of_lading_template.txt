@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8323
+Date: 09 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Reduce
+
+Port of Loading: Port Brettmouth
+Port of Discharge: Edwardview
+Place of Delivery: East Stacey
+
+Container No: CONT-1651
+Marks: Nearly
+
+Description of Goods: Effect
+
+Gross Weight: 2305 kg
+Measurement: 15 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

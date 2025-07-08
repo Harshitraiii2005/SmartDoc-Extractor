@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-97268
+
+Invoice Date: 10 Oct 2024
+
+From:
+
+Subramaniam, Tella and Keer
+
+H.No. 04 Mallick Chowk Raichur-329875
+Billed To:
+
+Bala, Bava and Dyal
+
+79 Sen Nagar, Nadiad 188095
+
+GSTIN: uR990271Vm371Z2
+
+Item Description Rate
+
+Officia Nobis enim facere. €3678
+Ipsam Sequi a. €3084
+Eligendi Facere laborum suscipit dolores. €4979
+
+Grand Total: €66880
+
+Quantity
+4
+4
+
+8
+
+Total
+
+€14712
+
+€12336
+
+€39832

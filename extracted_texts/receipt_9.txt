@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-35428
+
+Date: 18 Nov 2023
+
+From:
+
+Mandal PLC
+
+98 Dyal Path Mehsana-737553
+To:
+
+Shankar LLC
+
+63, Sheth Street Vellore 459198
+Amount Paid: €42704
+
+Payment Mode: Card

@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-712620
+Date: 28 Dec 2023
+
+Consignor:
+
+Verma, Gulati and Kothari
+
+127, Cherian Street Raipur 137776
+Consignee:
+
+Mammen-Chanda
+
+19/83 Bir Zila, Rampur 926199
+Vehicle No: sj37UZ3499
+
+GSTIN: hd373670yY758Z5
+
+Item Description
+
+Dolorem Quidem doloremque a.
+
+Quantity
+
+15
+
+Value
+
+€39957

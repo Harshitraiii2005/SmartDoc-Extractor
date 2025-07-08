@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-67977
+
+Date: 07 Apr 2025
+
+From:
+
+Rau-Krishna
+
+29/90 Doctor Marg, Farrukhabad-720275
+Billed To:
+
+Gara and Sons
+
+H.No. 907 Biswas Circle, Vijayawada-763846
+
+GSTIN: AH844306pV96624
+
+Item Description Rate
+Repellendus Ex maxime magnam fugit eius. $3111
+Reiciendis Odio recusandae libero. $3895
+
+Grand Total: $36598
+
+Quantity
+3
+
+7
+
+Total
+$9333
+
+$27265

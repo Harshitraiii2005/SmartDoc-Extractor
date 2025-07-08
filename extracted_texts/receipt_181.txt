@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-68036
+
+Date: 11-03-2025
+
+From:
+
+Dutta, Dey and Buch
+
+H.No. 28, Hans Street, Maheshtala 929426
+To:
+
+Ray-Ganesh
+
+284 Brar Marg, Dehri-141406
+
+Amount Paid: %22663
+
+Payment Mode: Net Banking

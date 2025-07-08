@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-35275
+
+Invoice Date: 04-08-2023
+
+Issued By:
+
+Lata, Char and Sur
+
+17/010, Tak Zila Baranagar-815445
+
+To:
+Khatri, Sabharwal and Ramakrishnan
+97/446 Varughese Circle Sultan Pur Majra-914810
+
+GSTIN: MO1607352k649Z0
+
+Item Description
+Similique Ipsum debitis consequuntur.
+Libero Aut possimus.
+
+Perferendis Magnam sequi laudantium deserunt suscipit.
+
+Sapiente Ducimus totam minus optio libero.
+
+Grand Total: 46659
+
+Rate
+
+%2488
+
+R757
+
+%2830
+
+%3034
+
+Quantity
+10
+
+9
+
+Total
+
+%24880
+
+%6813
+
+%2830
+
+212136

@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8164
+Date: 30 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Everybody
+
+Port of Loading: Port Erica
+Port of Discharge: Craigburgh
+Place of Delivery: Meyerton
+
+Container No: CONT-1114
+Marks: Possible
+
+Description of Goods: Thing
+
+Gross Weight: 1020 kg
+Measurement: 14 cbm
+Freight Terms: Collect
+
+BILL OF LADING

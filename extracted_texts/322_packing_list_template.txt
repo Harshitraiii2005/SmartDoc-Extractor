@@ -1,0 +1,25 @@
+
+
+---- Page 1 ----
+PACKING LIST
+
+PL No: PL-1875
+Date: 15 Jan 2025
+
+Exporter
+Chase Ltd
+Importer
+
+Berry Inc
+Invoice Reference: INVREF-1001
+
+No. of Packages: 3
+Type: Pallets
+
+Contents: Argue what spring.
+Net Weight: 1946 kg
+
+Gross Weight: 1361 kg
+Dimensions: 60x181x123 cm
+
+Marks: Less

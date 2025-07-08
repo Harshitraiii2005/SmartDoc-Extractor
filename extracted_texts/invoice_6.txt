@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-74726
+
+Date: 21/11/2024
+
+From:
+
+Toor-Loke
+
+38/16 Swamy Zila Rewa-412429
+
+Billed To:
+
+Gade-Dhar
+
+H.No. 994, Venkataraman Zila Gudivada 584044
+
+GSTIN: $j291322mZ69024
+
+Item Description Rate
+Ab Natus enim accusantium. $4677
+lusto Dolores cumque. $3443
+
+Grand Total: $67169
+
+Quantity
+7
+
+10
+
+Total
+$32739
+
+$34430

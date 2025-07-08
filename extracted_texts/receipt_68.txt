@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-8460
+
+Date: 16/09/2024
+
+From:
+
+Ghose-Aggarwal
+
+057, D’Alia Zila, Kavali-565685
+
+To:
+
+Raja-Mann
+
+H.No. 72, Mahajan, Madurai-410114
+Amount Paid: €13162
+
+Payment Mode: UPI

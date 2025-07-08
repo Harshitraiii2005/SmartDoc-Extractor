@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-369435
+Date: 12/09/2024
+
+Consignor:
+
+Dhillon and Sons
+
+62/02, Uppal Zila, Gulbarga 147571
+Consignee:
+
+Sabharwal PLC
+
+00 Tata Marg, Arrah-671165
+Vehicle No: VZ25gH6154
+
+GSTIN: iy186475za412Z3
+
+Item Description
+
+Dignissimos Quasi eveniet repellat dolores.
+
+Quantity
+
+50
+
+Value
+
+€9025

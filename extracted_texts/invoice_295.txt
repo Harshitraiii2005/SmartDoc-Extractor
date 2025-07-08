@@ -1,0 +1,72 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-20072
+
+Invoice Date: 23/07/2023
+
+From:
+
+Rama-Wali
+
+H.No. 53 Saraf Road, Bangalore-620074
+
+Billed To:
+
+Dhingra, Kannan and Ray
+51/77 Chopra Path Bongaigaon-700139
+
+GSTIN: Ks365350Uq214Z9
+
+Item
+Delectus
+Ad
+
+Aut
+
+Nisi
+
+Fuga
+
+Description
+
+Esse eaque doloribus.
+
+Sint officiis quo corrupti voluptates.
+
+Blanditiis fuga.
+Adipisci deleniti molestias.
+
+Praesentium sapiente incidunt.
+
+Grand Total: €93364
+
+Rate
+
+€4322
+€4728
+€2388
+€2770
+
+€2507
+
+Quantity
+4
+
+4
+
+10
+
+Total
+
+€17288
+
+€18912
+
+€7164
+
+€24930
+
+€25070

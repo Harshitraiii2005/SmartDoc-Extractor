@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 740152Date: 20 Jan 2025Valid From: 06 Jan 2025 To 01 Mar 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 8103Transporter ID: TID: 2195Transporter Name: Powell: HarrisDocument ReferenceType: InvoiceNo: DOC: 9283Taxable Value Tax Rate (%)$1484.48$681.21$1619.16$213.21$200.68Reason: Technology paper me.

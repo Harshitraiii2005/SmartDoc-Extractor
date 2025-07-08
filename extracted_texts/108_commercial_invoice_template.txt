@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-6547
+Date: 26 Jan 2025
+
+Exporter
+
+Daniels, Davis and Walker
+11907 Arthur Groves North Blaketown, OH 63072
+
+Importer
+
+Daniels-Lopez
+23961 Vaughn Crossing East Joshua, AL 37084
+
+Buyer Ref: dbb4055a-dcbe-43c8-9d62-9747e8b85639
+Origin: Cape Verde
+Destination: Peru
+
+Currency: USD
+Incoterms: CIF
+
+City 2279 $128.63 $151.78
+
+Freight: $156.3
+
+Insurance: $56.94
+
+Total Invoice Value: $1914.83

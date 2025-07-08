@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-97584
+
+Date: 27-11-2023
+
+Issued By:
+
+Kibe, Shetty and Mall
+
+H.No. 09, Joshi Path Imphal-940516
+To:
+
+Contractor Inc
+
+H.No. 360, Bath Marg, Erode-795210
+
+GSTIN: Cb826852Mz183Z7
+
+Item Description Rate
+Odio Eaque ipsam. $2168
+Voluptates Ullam sint quaerat. $4223
+Tempora Voluptate libero nam. $878
+Animi Nobis adipisci beatae vitae. $2642
+
+Grand Total: $75946
+
+Quantity
+5
+
+10
+
+Total
+$10840
+$42230
+$7024
+
+$15852

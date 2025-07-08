@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-85563
+
+Invoice Date: 31 Mar 2025
+
+Issued By:
+
+Buch, Guha and Saini
+
+H.No. 38, Gade Marg, Gangtok-792056
+Billed To:
+
+Setty LLC
+
+H.No. 15 Khatri Road Kochi 854158
+
+GSTIN: qr065918f1354Z0
+
+Item Description Rate
+Beatae Consequatur facilis culpa exercitationem nostrum. €927
+Provident Excepturi doloremque fuga quidem quis. €3256
+Placeat Voluptatem saepe. €2140
+
+Grand Total: €51603
+
+Quantity
+9
+
+10
+
+Total
+
+€8343
+
+€32560
+
+€10700

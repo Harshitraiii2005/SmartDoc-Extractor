@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-79335
+
+Date: 14/09/2023
+
+Issued By:
+
+Sami Group
+
+11/368 Kant Road Eluru 613505
+
+To:
+
+Sinha LLC
+
+H.No. 75, Soman Chowk Raichur 933578
+
+GSTIN: ku643544Jj797Z4
+
+Item Description
+
+Velit Ratione accusantium occaecati.
+Impedit Sapiente aspernatur itaque.
+
+Hic Harum sunt at consequuntur.
+
+Atque Quibusdam voluptas rem quos eius.
+Voluptatibus Quas blanditiis omnis.
+
+Grand Total: 62027
+
+Rate
+
+%1835
+
+1305
+
+%3367
+
+24175
+
+%3956
+
+Quantity
+1
+
+1
+
+Total
+
+%1835
+
+1305
+
+=10101
+
+25050
+
+223736

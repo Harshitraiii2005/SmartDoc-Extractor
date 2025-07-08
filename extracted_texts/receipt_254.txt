@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-43620
+
+Date: 05-12-2024
+
+From:
+
+Chowdhury and Sons
+
+H.No. 884, Tata Road Shivpuri 566518
+To:
+
+Bajwa, Khare and Kurian
+
+93/488 Tak Ganj Bhind-221898
+Amount Paid: €31937
+
+Payment Mode: UPI

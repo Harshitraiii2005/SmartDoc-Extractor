@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9911
+Date: 24 Jan 2025
+
+Exporter
+
+Hill-Dunn
+USS Hunt FPO AE 00755
+
+Importer
+
+Anderson-Swanson
+2349 Aaron Grove East Steven, HI 78531
+
+Buyer Ref: bb14e9df-9263-4806-9f45-4538dce5b91d
+Origin: Grenada
+Destination: Central African Republic
+
+Currency: INR
+Incoterms: CIF
+
+Still
+
+Freight: $397.42
+
+Insurance: $152.42
+Total Invoice Value: $3802.95

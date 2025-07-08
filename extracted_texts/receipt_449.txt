@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65326
+
+Date: 15/07/2024
+
+From:
+
+Kulkarni Group
+
+335, Talwar Road Faridabad 178902
+To:
+
+Rajan-Acharya
+
+668, Borde Circle, Bidar-644244
+Amount Paid: =43673
+
+Payment Mode: Cash

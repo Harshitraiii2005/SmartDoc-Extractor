@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-9166
+Date: 23 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Detail
+
+Port of Loading: Lonnieland
+
+Port of Discharge: Chelseaport
+Place of Delivery: Port Samuelton
+
+Container No: CONT-9190
+Marks: Worry
+
+Description of Goods: Finish
+
+Gross Weight: 2091 kg
+Measurement: 20 cbm
+Freight Terms: Collect
+
+BILL OF LADING

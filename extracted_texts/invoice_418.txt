@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-51411
+
+Invoice Date: 23-05-2025
+
+From:
+
+Kanda-Sethi
+
+H.No. 84, Agarwal Chowk, Thrissur-769528
+Billed To:
+
+Ganesan-Chhabra
+
+26/771 Bhatt Marg, Bokaro 521426
+
+GSTIN: Ya816312vk623Z3
+
+Item Description Rate
+
+Officia In itaque placeat. %2179
+Fuga Cupiditate maiores. =1013
+Reprehenderit Sint esse. %2368
+
+Grand Total: 21673
+
+Quantity
+7
+4
+
+1
+
+Total
+
+215253
+
+24052
+
+22368

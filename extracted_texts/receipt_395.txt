@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-41941
+
+Date: 09/08/2024
+
+From:
+
+Wadhwa Inc
+
+H.No. 344 Chaudhari Path Rajpur Sonarpur-693366
+To:
+
+Sundaram, Chatterjee and Kumer
+
+H.No. 21 Atwal Panvel-374317
+
+Amount Paid: %26144
+
+Payment Mode: Card

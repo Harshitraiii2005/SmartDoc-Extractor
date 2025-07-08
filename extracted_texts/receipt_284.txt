@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-88535
+
+Date: 13/11/2024
+
+From:
+
+Mannan Ltd
+
+H.No. 22 Chand Zila, North Dumdum 215726
+To:
+
+Sane and Sons
+
+197, Seshadri Street Sri Ganganagar 793490
+Amount Paid: 20420
+
+Payment Mode: Card

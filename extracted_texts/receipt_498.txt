@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-49677
+
+Date: 28 Dec 2023
+
+From:
+
+Mani-Golla
+
+43 Rau Marg, Latur-180446
+
+To:
+
+Kaul-Chandran
+
+15, Sant Road Amravati-334371
+Amount Paid: §33537
+
+Payment Mode: Card

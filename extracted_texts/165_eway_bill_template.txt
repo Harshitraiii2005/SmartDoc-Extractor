@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-911352
+Date: 05 Jan 2025
+Valid From: 14 Feb 2025 To 03 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-5718
+Transporter ID: TID-6700
+Transporter Name: Taylor-Lewis
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-9801
+
+Taxable Value Tax Rate (%)
+Candidate $3881.36
+
+Reason: Story bill manager.

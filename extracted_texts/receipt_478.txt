@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-75765
+
+Date: 26-08-2023
+
+From:
+
+Bains-Singh
+
+205 Krishnan Mumbai-292980
+
+To:
+
+Borde, Raj and Dhillon
+
+03/33, Viswanathan Chowk Baranagar-281083
+Amount Paid: €7115
+
+Payment Mode: Cash

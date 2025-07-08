@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-847798
+Date: 05 Jun 2025
+Valid From: 26 Apr 2025 To 23 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-4673
+
+Transporter ID: TID-6843
+
+Transporter Name: Gonzales, Michael and Patel
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-6455
+
+Taxable Value Tax Rate (%)
+N
+
+Skill 8610
+
+Reason: Reflect instead reveal.
+
+fey [one |

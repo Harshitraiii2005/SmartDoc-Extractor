@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-652246
+
+Date: 30-05-2024
+
+Consignor:
+
+Jhaveri, Sahota and Chaudhry
+
+H.No. 137, Bumb Marg, Kota-310324
+Consignee:
+
+Sarin, Mahajan and Karan
+
+H.No. 61 Khare Chowk, Bilaspur-458592
+Vehicle No: Cn05xX2545
+
+GSTIN: UZ975309Bg534Z8
+
+Item Description
+
+Quam Fugit ducimus nemo.
+
+Deserunt Quo maxime consectetur beatae sunt.
+
+Quantity
+36
+
+28
+
+Value
+$34322
+
+$21833

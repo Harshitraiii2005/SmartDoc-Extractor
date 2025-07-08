@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-98158
+
+Date: 24-04-2025
+
+From:
+
+Sethi-Gole
+
+75/68, Bala Road, Orai-695903
+
+To:
+
+Jani-Contractor
+
+49/57 Sharma Circle, Aurangabad-091776
+Amount Paid: €8766
+
+Payment Mode: Card

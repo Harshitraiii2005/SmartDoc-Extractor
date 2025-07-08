@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-80684
+
+Date: 27/01/2025
+
+From:
+
+Thakur-Bhat
+
+91/21, Suri Zila Giridih-782063
+To:
+
+Chanda, Rajagopalan and Konda
+68/548, Kanda, Sirsa-893133
+
+GSTIN: SA943032ic147Z4
+
+Item Description
+
+Reprehenderit Provident reprehenderit facere aut officiis.
+
+Mollitia lusto ipsa necessitatibus.
+
+Grand Total: €2467
+
+Rate
+
+€1684
+
+€783
+
+Quantity
+1
+
+1
+
+Total
+
+€1684
+
+€783

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-85481
+
+Date: 21 Mar 2025
+
+From:
+
+Rout, Madan and Badami
+
+H.No. 932 Das Road, Delhi-102918
+
+To:
+
+Tara-Shah
+
+50 Sharma Nagar Gandhinagar-060998
+Amount Paid: $28009
+
+Payment Mode: Card

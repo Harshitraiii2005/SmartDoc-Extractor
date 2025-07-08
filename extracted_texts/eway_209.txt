@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-890742
+
+Date: 25-03-2024
+
+Consignor:
+
+Viswanathan-Sanghvi
+
+99/119, Rajagopal Bhalswa Jahangir Pur-440208
+Consignee:
+
+Arya-Gokhale
+
+18, Sampath Ganj Bhubaneswar 933216
+Vehicle No: SQ28sX1219
+
+GSTIN: kY5133340D994Z0
+
+Item Description Quantity
+Sed Quae maiores aperiam minus. 45
+Illum Odio voluptas a dolorem. 41
+
+Esse Saepe cupiditate sapiente. 29
+
+Value
+$17611
+$28141
+
+$20289

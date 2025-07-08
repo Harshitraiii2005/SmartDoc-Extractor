@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-75842
+
+Date: 01-04-2025
+
+From:
+
+Raj, Buch and Sem
+
+H.No. 31, Kala Marg, Rajahmundry-363328
+To:
+
+Barad-Sachar
+
+H.No. 99, Bhardwaj Ganj, Jalna-471645
+Amount Paid: €20692
+
+Payment Mode: Cash

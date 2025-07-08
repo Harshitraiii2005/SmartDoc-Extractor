@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67424
+
+Date: 13 Feb 2024
+
+From:
+
+Mani-Keer
+
+H.No. 69, Gala Chowk Muzaffarpur-870162
+
+To:
+
+Deol, Banerjee and Chakraborty
+
+58/95, Sawhney Chowk Visakhapatnam 940593
+Amount Paid: 22821
+
+Payment Mode: Net Banking

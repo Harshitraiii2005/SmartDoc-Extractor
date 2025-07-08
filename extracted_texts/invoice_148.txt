@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-42028
+
+Invoice Date: 16-02-2025
+
+Issued By:
+
+Kapoor and Sons
+
+79/659 Ravel Chowk Kottayam 040733
+To:
+
+Kadakia, Borah and Sanghvi
+
+H.No. 55, Bahl Path, Raiganj 174944
+
+GSTIN: 0J657325sb963Z3
+
+Item Description
+Porro Soluta praesentium.
+Similique Quidem distinctio reiciendis fugit.
+
+Quod Possimus eius.
+
+Repellat Ipsum aliquam accusamus doloremque eveniet.
+
+Cupiditate | Quae quam nisi reprehenderit.
+
+Grand Total: $107499
+
+Rate
+
+$4953
+$4774
+$1226
+$2450
+
+$1770
+
+Quantity
+5
+
+10
+
+Total
+$24765
+$47740
+$11034
+$9800
+
+$14160

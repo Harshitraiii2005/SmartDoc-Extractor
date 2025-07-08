@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4933
+Date: 11 May 2025
+
+Exporter
+
+Mclaughlin, Campbell and Blankenship
+58655 Lopez Island Ayalaburgh, MH 73504
+
+Importer
+
+Mclean, Robinson and Patel
+6570 Michele Union Benitezshire, DE 64147
+
+Buyer Ref: fc162d78-3203-4391-b59e-1cbd14c20f89
+Origin: Albania
+Destination: Falkland Islands (Malvinas)
+
+Currency: INR
+Incoterms: EXW
+
+Drive 3348 $300.13 $1770.77
+
+Freight: $395.79
+
+Insurance: $157.75
+Total Invoice Value: $2555.01

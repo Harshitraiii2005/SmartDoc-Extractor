@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-37401
+
+Invoice Date: 20-08-2023
+
+From:
+
+Zachariah Ltd
+
+506, Hans Marg Guntur-750413
+
+Billed To:
+
+Vasa-Tella
+
+H.No. 70 Hans Ganj Pondicherry-452755
+
+GSTIN: NJ031037nW694Z6
+
+Item Description Rate Quantity Total
+Doloremque Beatae non quam. 22069 10 %20690
+Similique Velit et ullam. 22144 7 =15008
+Perspiciatis Minima odio iusto. 21115 10 =11150
+Esse Veritatis quae perspiciatis omnis. %2142 1 %2142
+Nostrum Consequuntur molestias aspernatur. 33751 6 222506
+
+Grand Total: =71496

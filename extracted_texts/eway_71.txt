@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-670763
+
+Date: 27/12/2023
+
+Consignor:
+
+Balan-Bhargava
+
+265, Dugar, Bhagalpur 454606
+Consignee:
+
+Comar-Bora
+
+31 Deshmukh Road Barasat-702536
+Vehicle No: JI890e8769
+
+GSTIN: cG133263rQ079Z5
+
+Item Description
+
+Omnis Exercitationem temporibus maiores.
+
+Quantity
+
+29
+
+Value
+
+$14249

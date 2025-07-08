@@ -1,0 +1,61 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-3617
+
+Date: 26/09/2024
+
+From:
+
+Chatterjee Group
+
+89/99 Dass Zila, Bokaro-945489
+
+Billed To:
+
+Agate-Raman
+
+H.No. 979, Khalsa Zila, Nangloi Jat-875507
+
+GSTIN: bL7901342d815Z2
+
+Item Description
+Itaque Deleniti atque.
+Rerum Esse temporibus repudiandae in.
+
+Praesentium Dolorem aliquam blanditiis earum facilis.
+
+Dolore Dicta maxime.
+
+Grand Total: €69275
+
+Rate
+
+€3519
+
+€3911
+
+€4025
+
+€1501
+
+Quantity
+2
+
+10
+
+5
+
+2
+
+Total
+
+€7038
+
+€39110
+
+€20125
+
+€3002

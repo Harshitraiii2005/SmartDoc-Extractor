@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-76131
+
+Date: 28-03-2024
+
+Issued By:
+
+Dhawan-Dash
+
+H.No. 94 Kala Chowk Raebareli-326739
+Billed To:
+
+Zachariah, Kala and Doctor
+
+H.No. 385, Bains, Kurnool 669380
+
+GSTIN: Lk688300jZ702Z0
+
+Item Description Rate
+lusto In doloribus magni. $4537
+Aliquam Quos eligendi. $4635
+
+Grand Total: $45958
+
+Quantity
+4
+
+6
+
+Total
+$18148
+
+$27810

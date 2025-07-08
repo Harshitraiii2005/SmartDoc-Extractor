@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-2572
+Date: 29 Mar 2025
+
+Exporter
+
+Sharp, Hicks and Carter
+752 Tracy Station Suite 032 Davilaton, AR 46313
+
+Importer
+
+Moore, House and Hughes
+62846 Castaneda Orchard North Christopherstad, MA 73202
+
+Buyer Ref: 36bed6ba-6132-40fd-8533-b07 1c02a26c3
+Origin: Nicaragua
+Destination: Cyprus
+
+Currency: EUR
+Incoterms: FOB
+
+Description HSN| Qty
+
+rc
+
+8230 $580.0 $4790.8
+
+Freight: $148.57
+Insurance: $171.74
+
+Total Invoice Value: $2496.94

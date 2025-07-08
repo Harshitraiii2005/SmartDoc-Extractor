@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-7190
+Date: 15 Jun 2025
+
+Exporter
+
+Wade-Smith
+8796 Jennifer Road Apt. 412 South Jamesbury, MP 96454
+
+Importer
+
+Mendoza-Kelley
+76961 Richard Island Suite 711 Port Paige, LA 20341
+
+Buyer Ref: 8c1bfd72-2286-4f82-a338-0870689fbf47
+Origin: Guyana
+Destination: Armenia
+
+Currency: USD
+Incoterms: FOB
+
+Really 4682 $972.78 $3443.64
+Where 2162 $993.37 $5860.88
+
+Seem 8966 is | $796.22 $7516.32
+Know 9709 9 $376.57 $3999.17
+Effort 9211 6 $259.05 $1834.07
+
+Freight: $486.57
+Insurance: $184.11
+
+Total Invoice Value: $4510.17

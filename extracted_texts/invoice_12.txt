@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-66088
+
+Invoice Date: 25/03/2024
+
+From:
+
+Raval-Saraf
+
+838 Garde Ganj, Satara-574623
+To:
+
+Sur PLC
+
+32/86, Bail Nagar, Raiganj-553988
+
+GSTIN: 0H6362672c192Z5
+
+Item Description Rate
+Recusandae Harum itaque deserunt. $3471
+Impedit A quod in ratione nostrum. $4448
+
+Grand Total: $46537
+
+Quantity
+7
+
+5
+
+Total
+$24297
+
+$22240

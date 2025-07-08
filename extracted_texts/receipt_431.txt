@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65209
+
+Date: 24/06/2024
+
+From:
+
+Kakar and Sons
+
+368, Ganesan, Karawal Nagar-897508
+To:
+
+Cheema, Tiwari and Chokshi
+
+684 Subramanian Street, Nashik-587253
+Amount Paid: €35640
+
+Payment Mode: UPI

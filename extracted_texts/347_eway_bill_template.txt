@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-589720
+Date: 07 Jan 2025
+Valid From: 15 May 2025 To 14 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-5648
+Transporter ID: TID-6846
+Transporter Name: Johnson Ltd
+
+Document Reference
+
+Type: Invoice
+No: DOC-4960
+
+[Unit Taxable Value Tax Rate (%)
+
+Reason: Can investment never.

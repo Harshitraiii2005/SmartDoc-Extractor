@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-15692
+
+Date: 27 Feb 2024
+
+From:
+
+Bhardwaj Inc
+
+59/07, Bose Nagar Bhusawal 175867
+
+To:
+
+Bawa, Kapur and Rastogi
+
+H.No. 91, D’Alia Nagar, Srikakulam 070391
+Amount Paid: %39046
+
+Payment Mode: Net Banking

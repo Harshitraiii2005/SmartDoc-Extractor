@@ -1,0 +1,72 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-18016
+
+Invoice Date: 01 Apr 2025
+
+Issued By:
+
+Chauhan-Dube
+
+673, Kashyap Marg Parbhani-302851
+
+Billed To:
+
+Kuruvilla-Khanna
+081 Tank Silchar-461579
+
+GSTIN: hN751411WR663Z4
+
+Item
+Perspiciatis
+Fugit
+Quod
+Fugiat
+
+Laborum
+
+Description
+
+Aperiam animi facilis.
+
+Vel qui adipisci.
+
+Soluta vitae exercitationem a.
+
+Laudantium modi impedit.
+
+Inventore aperiam provident provident quae.
+
+Grand Total: €48266
+
+Rate
+
+€699
+
+€765
+
+€2262
+
+€3491
+
+€4558
+
+Quantity
+9
+
+1
+
+Total
+
+€6291
+
+€765
+
+€13572
+
+€13964
+
+€13674

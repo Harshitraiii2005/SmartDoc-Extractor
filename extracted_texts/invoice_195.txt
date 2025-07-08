@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-11341
+
+Invoice Date: 26/12/2023
+
+From:
+Thaker Inc
+
+H.No. 377 Lala Road, Tirunelveli-285340
+
+Billed To:
+Sama LLC
+
+H.No. 259, Ramaswamy Circle Nagaon-586388
+
+GSTIN: Ab407884kI652Z6
+
+Item
+Perferendis
+Ipsum
+Accusamus
+Molestias
+
+Deserunt
+
+Description
+
+Reiciendis perferendis laboriosam recusandae.
+
+Officia dolorem mollitia voluptate.
+Debitis voluptate quia.
+Officia laborum minima.
+
+Porro earum facilis adipisci tempora.
+
+Grand Total: €82248
+
+Rate
+
+€4919
+
+€3900
+
+€3116
+
+€3601
+
+€2114
+
+Quantity
+2
+
+6
+
+Total
+
+€9838
+
+€23400
+
+€15580
+
+€14404
+
+€19026

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-83999
+
+Date: 15/06/2025
+
+From:
+
+Malhotra, Som and Ganesan
+
+H.No. 40 Ghosh Circle South Dumdum-095859
+To:
+
+Dutta-Datta
+
+58 Chanda Street, Raebareli-379818
+
+Amount Paid: €1877
+
+Payment Mode: UPI

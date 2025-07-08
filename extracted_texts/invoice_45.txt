@@ -1,0 +1,67 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-18843
+
+Date: 17/07/2023
+
+Issued By:
+
+Sule LLC
+
+H.No. 04, Chaudhary Raipur 364963
+
+To:
+
+Varghese Group
+87/755 Raj Zila Patna 243657
+
+GSTIN: iP014066qH686Z9
+
+Item
+Nobis
+Aperiam
+Quos
+Rerum
+Doloribus
+
+Labore
+
+Description
+
+Unde atque aut quam id.
+
+Voluptate aliquam provident expedita.
+
+Culpa illum.
+Error itaque molestias.
+Nulla minus dolore.
+
+Labore et.
+
+Grand Total: 48607
+
+Rate Quantity
+
+2677 6
+945 10
+21253 2
+3239 2
+21111 3
+3254 7
+
+Total
+
+24062
+
+9450
+
+2506
+
+%6478
+
+23333
+
+222778

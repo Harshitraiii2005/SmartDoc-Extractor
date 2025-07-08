@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-52362
+
+Date: 23 May 2024
+
+From:
+
+Balakrishnan LLC
+
+352 Sahni Marg, Muzaffarnagar 502500
+To:
+
+Sachdeva-Mani
+
+H.No. 888 Sundaram Chowk, Alwar-695781
+
+GSTIN: IC084973hM19724
+
+Item Description
+Repudiandae Mollitia reprehenderit qui beatae enim.
+lusto Fuga rerum rerum soluta excepturi.
+
+Reprehenderit Dolorem at minima.
+
+Grand Total: %58952
+
+Rate
+
+3808
+
+21369
+
+2980
+
+Quantity
+7
+
+4
+
+Total
+
+%26656
+
+25476
+
+26820

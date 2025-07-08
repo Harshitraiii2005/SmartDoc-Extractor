@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-78274
+
+Date: 03-06-2025
+
+Issued By:
+
+Ramakrishnan Ltd
+
+H.No. 397 Sule Nagar, Khammam-873430
+To:
+
+Sastry Group
+
+H.No. 96, Babu Nagar Farrukhabad 984096
+
+GSTIN: mQ968917jB69724
+
+Item Description Rate
+Ullam Nulla sint laudantium facilis. €3703
+Perspiciatis Quidem ipsa placeat. €1228
+
+Grand Total: €30814
+
+Quantity
+6
+
+7
+
+Total
+
+€22218
+
+€8596

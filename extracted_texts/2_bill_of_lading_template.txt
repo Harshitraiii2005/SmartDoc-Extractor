@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8218
+Date: 01 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Result
+
+Port of Loading: East Nathanstad
+Port of Discharge: North Jennifer
+Place of Delivery: Carmenport
+
+Container No: CONT-9186
+Marks: Dark
+
+Description of Goods: System
+
+Gross Weight: 2609 kg
+Measurement: 10 cbm
+Freight Terms: Collect
+
+BILL OF LADING

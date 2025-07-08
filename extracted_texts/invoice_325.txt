@@ -1,0 +1,59 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-76138
+
+Invoice Date: 06-07-2024
+
+Issued By:
+
+Aggarwal-Cheema
+06/05 Chad Road, Udaipur 694942
+
+Billed To:
+Dass PLC
+
+19/67 Sem Zila, Morbi-160428
+
+GSTIN: sZ022197Nh179Z5
+
+Item
+Voluptate
+Cumque
+Quas
+
+Unde
+
+Description
+Itaque adipisci laborum.
+
+Aliquid corporis atque ut.
+
+Quis dolorum dolor autem.
+
+A fugit excepturi.
+
+Grand Total: $36239
+
+Rate
+
+$1044
+$3242
+$2719
+
+$3966
+
+Quantity
+1
+
+1
+
+Total
+
+$1044
+$3242
+$8157
+
+$23796

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-19938
+
+Date: 29-03-2024
+
+From:
+
+Sankaran-Bhandari
+
+588, Shetty Marg Allahabad-022300
+To:
+
+Sunder-Sathe
+
+31 Sandhu, Ballia-362974
+
+Amount Paid: =29533
+
+Payment Mode: Card

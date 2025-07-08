@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-61780
+
+Date: 10-08-2023
+
+From:
+
+Krishna-Toor
+
+28/68 Bera Marg Guna 415660
+
+To:
+
+Chawla PLC
+
+H.No. 165 Sani Road, Tadipatri-740048
+Amount Paid: €48973
+
+Payment Mode: Net Banking

@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-51269
+
+Date: 11/10/2023
+
+From:
+
+Bhakta-Tak
+
+58 Bandi Marg, Bathinda 962531
+
+To:
+
+Upadhyay Group
+
+10/866 Balakrishnan Path Hubli-Dharwad 797859
+
+GSTIN: cQ537439fj74527
+
+Item Description Rate
+Ab Quidem voluptas consequuntur. $3880
+Provident Fugit veniam. $3320
+Voluptate Assumenda minus autem. $4760
+Temporibus Officiis doloribus laboriosam similique. $953
+
+Grand Total: $70471
+
+Quantity
+8
+
+7
+
+Total
+$31040
+$23240
+$9520
+
+$6671

@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-879279
+
+Date: 08-06-2025
+
+Consignor:
+
+Viswanathan LLC
+
+H.No. 840 Rattan Path, Coimbatore-574266
+Consignee:
+
+Dutta and Sons
+
+H.No. 381, Khurana Chowk Madanapalle-792372
+Vehicle No: so71KE6134
+
+GSTIN: KK0033050d19024
+
+Item Description
+
+Soluta Dolorem quae repudiandae consequuntur.
+
+Voluptas Adipisci debitis neque.
+
+Tempore Nesciunt ratione.
+
+Quantity
+7
+44
+
+50
+
+Value
+
+%38820
+
+249361
+
+=10681

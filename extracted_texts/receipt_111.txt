@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-70257
+
+Date: 17 Aug 2023
+
+From:
+
+Lala-Thaker
+
+26/928 Wadhwa, Sonipat 502942
+
+To:
+
+Bahri, Bandi and Sura
+
+25/517, Rout Street, Shimoga-053065
+Amount Paid: €16366
+
+Payment Mode: Net Banking

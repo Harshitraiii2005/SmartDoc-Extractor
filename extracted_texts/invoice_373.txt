@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-21539
+
+Invoice Date: 01 Apr 2025
+
+Issued By:
+
+Solanki-Manne
+
+22, Rege Zila, Bhilwara-979843
+
+Billed To:
+
+Shukla, Sarkar and Joshi
+
+24/68 Jayaraman Marg Guntakal-345954
+
+GSTIN: Ps906455kB915Z9
+
+Item Description Rate
+Et At iure ad. $2454
+Sequi Esse ducimus vero. $4306
+Dolores Est cumque id. $934
+
+Grand Total: $21816
+
+Quantity
+5
+2
+
+1
+
+Total
+$12270
+$8612
+
+$934

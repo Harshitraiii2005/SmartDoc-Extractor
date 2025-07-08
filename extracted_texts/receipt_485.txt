@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33161
+
+Date: 13-09-2023
+
+From:
+
+Ghosh Inc
+
+H.No. 717 Bose Circle Jalgaon 564770
+To:
+
+Lad, Kothari and Ramaswamy
+
+27/520, Dhillon Circle Bharatpur-310110
+Amount Paid: $35917
+
+Payment Mode: Cash

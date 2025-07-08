@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-7678
+
+Date: 07 Apr 2025
+
+From:
+
+Mani Ltd
+
+H.No. 41 Ghosh Ganj, Orai-591602
+To:
+
+Wason-Sawhney
+
+402 Baral Ganj Tenali-955237
+
+GSTIN: Um762251L0378Z3
+
+Item Description
+
+Occaecati Eius commodi.
+
+Atque Quis saepe dolorem.
+
+Veniam Molestias commodi accusamus totam numquam.
+Commodi Rerum maiores quo iste.
+
+Non Voluptas sed id rem.
+
+Consequatur Nesciunt enim exercitationem.
+
+Grand Total: €59693
+
+Rate
+
+€1675
+
+€1102
+
+€2764
+
+€2652
+
+€906
+
+€2777
+
+Quantity Total
+
+3
+
+5
+
+€5025
+
+€5510
+
+€5528
+
+€13260
+
+€8154
+
+€22216

@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-38117
+
+Date: 20-01-2025
+
+Issued By:
+
+Wadhwa-Kohli
+H.No. 214 Bajwa Path Guwahati 893323
+
+Billed To:
+
+Ganesan, Warrior and Chowdhury
+H.No. 065 Krishnan, Ambattur 754016
+
+GSTIN: TB680894eu100Z8
+
+Item
+Sunt
+Ab
+Ullam
+
+Quos
+
+Description
+Consectetur soluta praesentium.
+Itaque nulla aliquid possimus.
+
+Totam quisquam fugiat quo.
+
+Accusamus omnis nam minima quod.
+
+Grand Total: %57978
+
+Rate
+
+24011
+
+21316
+
+4049
+
+21538
+
+Quantity
+7
+
+5
+
+Total
+
+%28077
+
+%6580
+
+220245
+
+%3076

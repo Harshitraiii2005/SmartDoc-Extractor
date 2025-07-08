@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33095
+
+Date: 18 Dec 2023
+
+From:
+
+Sidhu, Dass and Chaudhari
+
+638 Bakshi Nagercoil 341499
+
+To:
+
+Rau-Bhatti
+
+H.No. 537, Chhabra Zila Proddatur-243957
+Amount Paid: 29855
+
+Payment Mode: UPI

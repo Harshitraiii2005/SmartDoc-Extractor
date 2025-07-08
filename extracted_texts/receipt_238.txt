@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-31952
+
+Date: 21-12-2023
+
+From:
+
+Kari, Bobal and Thaker
+
+744, Tandon Marg, Bhiwandi-885002
+To:
+
+Swaminathan, Sundaram and Deo
+H.No. 271 Loyal, Morbi-682623
+Amount Paid: $34819
+
+Payment Mode: Net Banking

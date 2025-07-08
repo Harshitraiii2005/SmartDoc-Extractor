@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-12741
+
+Date: 22/12/2024
+
+From:
+
+Shan Ltd
+
+35/868 Gandhi Marg, Siwan 226257
+To:
+
+Bains-Sule
+
+17 Srinivas Path Bally 583773
+Amount Paid: $7633
+
+Payment Mode: UPI

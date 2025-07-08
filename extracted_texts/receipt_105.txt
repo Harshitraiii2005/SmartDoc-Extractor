@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-12948
+
+Date: 04-12-2023
+
+From:
+
+Dey LLC
+
+77, Sastry Chowk Bhagalpur-569386
+To:
+
+Dhar Group
+
+08/78, Ghose Marg, Ratlam-597724
+Amount Paid: =20491
+
+Payment Mode: Card

@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-85005
+
+Invoice Date: 18/12/2023
+
+Issued By:
+
+Tata, Bhagat and Rama
+
+H.No. 378 Bhattacharyya Hapur-538981
+Billed To:
+
+Ganesan, Dewan and Agarwal
+
+79/01, Varughese Path, Aurangabad 651265
+
+GSTIN: xI353191dG142Z1
+
+Item Description Rate
+Voluptates Tempore temporibus quisquam veniam cum. $4860
+Modi Eveniet quos. $3624
+
+Grand Total: $30228
+
+Quantity
+1
+
+7
+
+Total
+$4860
+
+$25368

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-46488
+
+Date: 27-07-2024
+
+From:
+
+Sekhon, Varma and Lad
+
+H.No. 643 Mahal Marg, Thiruvananthapuram 878328
+To:
+
+Viswanathan, Shah and Badami
+
+00, Jha Street, Tiruvottiyur-177045
+
+Amount Paid: €36082
+
+Payment Mode: Net Banking

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-63111
+
+Date: 24 Mar 2024
+
+From:
+
+Goswami, Grover and Tella
+
+68/808 Suresh Nagar Noida 165437
+To:
+
+Kulkarni LLC
+
+33 Chana Street, Shahjahanpur 879757
+Amount Paid: €44494
+
+Payment Mode: Net Banking

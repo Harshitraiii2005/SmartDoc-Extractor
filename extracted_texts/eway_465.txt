@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-669129
+Date: 26/02/2024
+
+Consignor:
+
+Banik, Gopal and Mall
+
+20, Shroff Nagar Morbi 546765
+Consignee:
+
+Agrawal-Raman
+
+H.No. 89 Gera, Kulti-195825
+Vehicle No: ON89JS9054
+
+GSTIN: f0119157wk499Z3
+
+Item Description
+
+Provident Omnis ipsa.
+
+Blanditiis Iste nemo rem officia.
+
+Odit Optio a distinctio similique.
+
+Iste Dolorem omnis numquam quas.
+
+Quantity
+47
+25
+17
+
+27
+
+Value
+
+$12681
+$40335
+$23519
+
+$10063

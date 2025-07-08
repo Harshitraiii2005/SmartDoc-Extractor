@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-764177
+
+Date: 08-06-2024
+
+Consignor:
+
+Chana, Divan and Keer
+
+55/75, Choudhury Chowk, Durgapur 661010
+Consignee:
+
+Rastogi, Khare and Khurana
+
+H.No. 69 Dalal Circle, Gwalior 081508
+Vehicle No: uc75uv9311
+
+GSTIN: YO614631va957Z0
+
+Item Description
+
+Animi Ipsam porro odit exercitationem.
+Voluptate Quod facere vitae minima.
+
+Itaque Accusantium vero totam debitis sequi.
+
+Enim Nemo earum fuga.
+
+Quantity
+17
+
+1
+
+12
+
+40
+
+Value
+
+223673
+
+228365
+
+=17162
+
+26742

@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-57284
+
+Date: 22 Mar 2024
+
+From:
+
+Tak-Jha
+
+58, Sangha Road Haldia-016490
+
+To:
+
+Dayal-Venkataraman
+
+51/783 Zachariah Circle, Barasat 090147
+
+GSTIN: qO291693eF 33327
+
+Item Description
+Perferendis Nesciunt mollitia veniam.
+Molestiae lusto aliquid magni modi dignissimos.
+
+Repudiandae Quam omnis numquam commodi.
+
+Commodi Quisquam perspiciatis nemo facilis eos.
+
+Reiciendis Ullam qui totam.
+
+Grand Total: %101172
+
+Rate
+
+=1010
+
+%3074
+
+%2784
+
+24567
+
+%3369
+
+Quantity
+7
+
+4
+
+Total
+
+7070
+
+12296
+
+25056
+
+36536
+
+20214

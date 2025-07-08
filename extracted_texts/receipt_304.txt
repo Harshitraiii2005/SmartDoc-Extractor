@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-86576
+
+Date: 04 Feb 2025
+
+From:
+
+Kant, Manda and Aggarwal
+
+96/639 Dhar Road, Jammu 605404
+To:
+
+Datta-Chowdhury
+
+22/43 Tak Ganj, Rajkot-983572
+Amount Paid: €21699
+
+Payment Mode: Net Banking

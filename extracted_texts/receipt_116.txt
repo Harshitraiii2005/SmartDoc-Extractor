@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-90672
+
+Date: 29-07-2024
+
+From:
+
+Chaudry-Srinivas
+
+54/15, Arya Road, Bally 020250
+
+To:
+
+Bhatti, Deep and Gour
+
+H.No. 572 Kala Circle Aurangabad-952400
+Amount Paid: $45513
+
+Payment Mode: Card

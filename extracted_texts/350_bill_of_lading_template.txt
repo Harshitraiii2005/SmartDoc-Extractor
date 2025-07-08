@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-2493
+Date: 03 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Fund
+
+Port of Loading: Royside
+
+Port of Discharge: Garciafurt
+Place of Delivery: New Wendy
+
+Container No: CONT-4122
+Marks: Shoulder
+
+Description of Goods: Among
+
+Gross Weight: 4966 kg
+Measurement: 7 cbm
+Freight Terms: Collect
+
+BILL OF LADING

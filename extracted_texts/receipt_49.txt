@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-53303
+
+Date: 05-11-2023
+
+From:
+
+Randhawa Ltd
+
+83/439 Bandi Sagar-505872
+
+To:
+
+Saran Ltd
+
+H.No. 37 Goda Ganj, Srinagar 645771
+Amount Paid: €36126
+
+Payment Mode: Net Banking

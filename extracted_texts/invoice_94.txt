@@ -1,0 +1,59 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-70798
+
+Date: 13/02/2024
+
+Issued By:
+
+Khanna, Anand and Krishnamurthy
+84 Buch Chowk Vijayawada-230822
+To:
+
+Ratti Inc
+
+63, Soni Ganj, Yamunanagar 248137
+
+GSTIN: 0v934276sk090Z9
+
+Item Description
+
+Eius Et nam eligendi maiores.
+
+At Consectetur laboriosam esse.
+Sequi Neque veritatis.
+
+Tempore Porro aliquid repudiandae minima temporibus.
+
+Nemo A eius aut.
+
+Deserunt = Adipisci ab quaerat.
+
+Grand Total: $37210
+
+Rate
+$1358
+$2555
+$2138
+$947
+$1584
+
+$4037
+
+Quantity
+5
+
+2
+
+Total
+
+$6790
+$5110
+$6414
+$8523
+$6336
+
+$4037

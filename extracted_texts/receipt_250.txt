@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-97013
+
+Date: 10/07/2023
+
+From:
+
+Bansal PLC
+
+95/201 Ghose Marg Jalna-191709
+
+To:
+
+Sanghvi-Magar
+
+86/188 Venkatesh Street, Suryapet 973320
+Amount Paid: $23783
+
+Payment Mode: Net Banking

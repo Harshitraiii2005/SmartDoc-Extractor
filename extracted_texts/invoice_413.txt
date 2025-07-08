@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-2968
+
+Invoice Date: 13/11/2023
+
+Issued By:
+
+Basak-Jayaraman
+
+H.No. 43 Kant Ganj Belgaum 370650
+
+Billed To:
+Dora-Swaminathan
+H.No. 367 Sundaram Chowk, Munger-627653
+
+GSTIN: Cl302010ZN661Z6
+
+Item Description
+
+Atque Assumenda maxime maiores.
+Natus Doloribus qui enim vitae.
+Incidunt Corrupti totam.
+
+Voluptate Praesentium ratione quas nostrum nostrum.
+
+Grand Total: %53085
+
+Rate
+
+24881
+
+%1374
+
+%3527
+
+%3285
+
+Quantity
+5
+
+6
+
+Total
+
+224405
+
+%8244
+
+%10581
+
+9855

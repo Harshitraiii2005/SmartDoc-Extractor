@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14816
+
+Date: 07/09/2023
+
+From:
+
+Hora-Dey
+
+H.No. 94, Venkataraman Path, Morena-672253
+To:
+
+Rana LLC
+
+H.No. 089 Luthra Path, Meerut-167396
+Amount Paid: 21805
+
+Payment Mode: Cash

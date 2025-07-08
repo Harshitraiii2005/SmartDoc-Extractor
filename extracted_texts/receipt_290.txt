@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-91772
+
+Date: 10 Oct 2024
+
+From:
+
+Thaman LLC
+
+69/672 Barad Chowk, Kakinada 296959
+To:
+
+Dhar Ltd
+
+H.No. 774, Karpe Gandhinagar 990212
+Amount Paid: €45271
+
+Payment Mode: Card

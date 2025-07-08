@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-83821
+
+Date: 17-03-2024
+
+From:
+
+Badami, Gokhale and Choudhury
+078 Saraf Gangtok 508246
+
+To:
+
+Sule, Bal and Rout
+
+H.No. 54 Sarin Marg Kollam-417410
+Amount Paid: $34520
+
+Payment Mode: UPI

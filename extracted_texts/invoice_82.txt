@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-13910
+
+Date: 29 Apr 2024
+
+Issued By:
+
+Tank and Sons
+
+77/14 Date Nagar Surendranagar Dudhrej 332930
+
+To:
+Uppal Ltd
+
+82 Jhaveri Zila, Ulhasnagar 840087
+
+GSTIN: vy289861FS316Z2
+
+Item
+
+Rem
+
+Velit
+Quisquam
+lure
+Quisquam
+
+Harum
+
+Description
+
+Accusantium totam.
+Repudiandae ad iste quo quasi.
+Et aliquam eius.
+
+Suscipit at distinctio est distinctio.
+
+Ratione quas laudantium tenetur libero.
+
+Reiciendis sit repellat voluptatum.
+
+Grand Total: $76942
+
+Rate
+$812
+$4884
+$1520
+$3614
+$1937
+
+$2787
+
+Quantity
+8
+
+7
+
+Total
+$6496
+$34188
+$4560
+$7228
+$7748
+
+$16722

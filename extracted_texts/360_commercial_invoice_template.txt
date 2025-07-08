@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-6395
+Date: 30 Mar 2025
+
+Exporter
+
+Smith Group
+342 Corey Brooks Hayesville, DC 07571
+
+Importer
+
+Gillespie-Williams
+685 Gonzalez Track Port Bryan, SC 83027
+
+Buyer Ref: 630cab26-9965-43d3-a5b4-3b838edb2e5c
+Origin: United States Virgin Islands
+Destination: Mali
+
+Currency: EUR
+Incoterms: FOB
+
+Major 9400 $316.63 $1868.12
+
+Sea 7611 $500.68 $4135.62
+
+Freight: $471.31
+
+Insurance: $184.02
+Total Invoice Value: $3801.92

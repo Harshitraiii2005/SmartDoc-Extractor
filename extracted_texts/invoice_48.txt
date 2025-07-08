@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-45609
+
+Date: 16-11-2024
+
+From:
+
+Bail-Setty
+
+340 Gour Marg, Chandrapur 461651
+Billed To:
+
+Mandal Group
+
+49 Sharaf Road Coimbatore 038567
+
+GSTIN: LV9431240C377Z2
+
+Item Description Rate
+
+Sapiente Incidunt odit unde assumenda. $3399
+Nihil Quod officiis maxime. $3156
+Non Neque illum possimus. $4963
+
+Grand Total: $78763
+
+Quantity
+3
+6
+
+10
+
+Total
+$10197
+$18936
+
+$49630

@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-3886
+Date: 18 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Field
+
+Port of Loading: Hendersonchester
+Port of Discharge: Pooletown
+Place of Delivery: Markville
+
+Container No: CONT-8348
+Marks: Official
+
+Description of Goods: Daughter
+
+Gross Weight: 4608 kg
+Measurement: 8 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

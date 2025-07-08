@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-3514
+Date: 03 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Assume
+
+Port of Loading: Lake Christopher
+Port of Discharge: Davilashire
+Place of Delivery: New Leslieport
+
+Container No: CONT-3700
+Marks: They
+
+Description of Goods: Industry
+
+Gross Weight: 4435 kg
+Measurement: 9 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

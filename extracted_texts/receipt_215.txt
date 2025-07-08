@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-51174
+
+Date: 14/12/2023
+
+From:
+
+Balan-Vala
+
+H.No. 22 Sur Street, Eluru 877982
+
+To:
+
+Mahajan Inc
+
+H.No. 82 Sekhon Road, Muzaffarpur 895177
+Amount Paid: $3398
+
+Payment Mode: Cash

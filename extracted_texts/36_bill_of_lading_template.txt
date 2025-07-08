@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9627
+Date: 18 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: During
+
+Port of Loading: South Charles
+Port of Discharge: East John
+Place of Delivery: Lake Kimberly
+
+Container No: CONT-6974
+Marks: Across
+
+Description of Goods: Century
+
+Gross Weight: 2763 kg
+Measurement: 14 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

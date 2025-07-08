@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-638396
+
+Date: 21 Jul 2023
+
+Consignor:
+
+Tripathi LLC
+
+217, Chawla Chowk Raipur-573105
+Consignee:
+
+Saran Group
+
+H.No. 81, Kamdar Street Parbhani-422374
+Vehicle No: xA66Rh3666
+
+GSTIN: je861000RW750Z9
+
+Item Description
+
+Vel Nemo odit porro.
+
+Amet Eum ex quaerat quo omnis.
+Sint Id a suscipit.
+
+Unde Voluptate beatae ex accusantium.
+
+Quantity
+4
+
+40
+
+14
+
+27
+
+Value
+
+€14230
+
+€43211
+
+€25045
+
+€47816

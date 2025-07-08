@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-87499
+
+Date: 10-04-2024
+
+From:
+
+Banerjee LLC
+
+64 Bajwa, Pali-160490
+
+Billed To:
+
+Gaba, Dar and Kothari
+
+H.No. 213 Ramesh Marg Bangalore 703574
+
+GSTIN: AP6536821Z762Z5
+
+Item Description Rate
+Accusamus Corporis vero debitis. €2172
+Minima Architecto nisi incidunt autem beatae. €658
+lure Laborum sed soluta eveniet. €1156
+
+Grand Total: €8790
+
+Quantity
+2
+5
+
+1
+
+Total
+
+€4344
+
+€3290
+
+€1156

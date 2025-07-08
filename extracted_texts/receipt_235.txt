@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27134
+
+Date: 16 Dec 2024
+
+From:
+
+Tripathi, Divan and Chanda
+
+H.No. 067 Sundaram Street, Delhi-112490
+To:
+
+Dua, Bora and Bansal
+
+H.No. 804, Sem Bokaro-889549
+
+Amount Paid: $45395
+
+Payment Mode: Net Banking

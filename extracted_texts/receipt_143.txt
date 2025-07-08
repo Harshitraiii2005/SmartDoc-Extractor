@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-25407
+
+Date: 19-10-2024
+
+From:
+
+Dyal and Sons
+
+H.No. 94 Goyal Chowk, Jalna 102514
+To:
+
+Chakraborty Group
+
+24 Talwar Path, Panvel-517735
+Amount Paid: $18866
+
+Payment Mode: Cash

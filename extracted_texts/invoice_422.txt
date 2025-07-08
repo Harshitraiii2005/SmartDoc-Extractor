@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-91450
+
+Date: 21/10/2023
+
+Issued By:
+
+Sagar, Halder and Sankar
+29/81, Kannan Marg Jammu 684901
+
+Billed To:
+
+Raman, Karpe and Banik
+87/29 Bhatt Road, Serampore-873446
+
+GSTIN: CF949029L0463Z5
+
+Item
+
+Harum
+
+Libero
+
+Nemo
+
+lure
+
+Doloribus
+
+Dolores
+
+Description
+
+Exercitationem velit.
+
+Alias soluta consequatur aut ad.
+Eaque earum recusandae qui.
+Occaecati quisquam.
+
+Facere occaecati.
+
+Numquam nam neque repellendus.
+
+Grand Total: $90847
+
+Rate
+$3510
+$4078
+$1366
+$1437
+$684
+
+$901
+
+Quantity
+6
+
+9
+
+Total
+$21060
+$36702
+$10928
+$11496
+$6156
+
+$4505

@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3943
+Date: 22 Jan 2025
+
+Exporter
+
+Brown-Collier
+62831 Kaitlin Landing Suite 101 East Angela, GA 97673
+
+Importer
+
+Thompson, Bender and Scott
+00831 Jessica Coves East Taylorfort, KY 51578
+
+Buyer Ref: 502ebe3c-1433-4350-93df-b32beb977d35
+Origin: Vietnam
+Destination: Bangladesh
+
+Currency: INR
+Incoterms: CIF
+
+Save 2859 $296.55 $1399.72
+Staff 5012 Bo $967.5 $9133.2
+
+Freight: $409.76
+
+Insurance: $75.19
+
+Total Invoice Value: $3795.02

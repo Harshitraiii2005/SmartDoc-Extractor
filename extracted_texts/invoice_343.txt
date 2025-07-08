@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-41468
+
+Invoice Date: 02-02-2025
+
+Issued By:
+
+Desai, Bali and Thaker
+
+H.No. 46 Lanka Marg, Pali 910591
+Billed To:
+
+Rege Group
+
+335, Shukla Marg Udupi 885214
+
+GSTIN: yY467219LC0322Z6
+
+Item Description
+
+Amet Repudiandae id dolore.
+Eaque Ipsam ipsam nam eos debitis.
+Recusandae Veniam iste explicabo.
+Perferendis Suscipit quos voluptas.
+
+Grand Total: $55316
+
+Rate
+$775
+$2173
+$4513
+
+$2403
+
+Quantity
+5
+
+9
+
+Total
+$3875
+$19557
+$27078
+
+$4806

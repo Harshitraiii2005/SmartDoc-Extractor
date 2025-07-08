@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-28168
+
+Date: 17 Jul 2024
+
+From:
+
+Uppal Ltd
+
+694, Agrawal Zila, Fatehpur-963144
+
+To:
+
+Shenoy-Ben
+
+H.No. 70, Wali Path Hubli-Dharwad-366234
+Amount Paid: 749123
+
+Payment Mode: Net Banking

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-42834
+
+Date: 06 Dec 2024
+
+From:
+
+Dua Inc
+
+795, Malhotra Ganj, Ballia 927687
+
+To:
+
+Dyal-Buch
+
+04/35, Krishnan Nagar Kolhapur 219593
+Amount Paid: €32592
+
+Payment Mode: UPI

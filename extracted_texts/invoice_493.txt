@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-2761
+
+Invoice Date: 14/01/2025
+
+Issued By:
+Solanki-Lata
+
+H.No. 71 Malhotra Street Bidhannagar 633908
+
+Billed To:
+
+Bassi, Jha and Ganesan
+47/963, Kadakia Circle Nagpur 108542
+
+GSTIN: Dn903983Rk3452Z7
+
+Item
+Rem
+Dicta
+Et
+
+Aliquid
+
+Description
+
+Commodi delectus distinctio consequuntur.
+
+Quasi debitis distinctio deserunt.
+Quo commodi eum.
+
+Omnis animi.
+
+Grand Total: $49616
+
+Rate
+
+$1127
+$1764
+$1031
+
+$4392
+
+Quantity
+
+6
+
+Total
+$6762
+$10584
+$10310
+
+$21960

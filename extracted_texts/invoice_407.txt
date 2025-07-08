@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-35387
+
+Date: 02-09-2023
+
+From:
+
+Khatri LLC
+
+08, Karan Ganj Khandwa 043136
+Billed To:
+
+Mall-Shukla
+
+47, Brar, Jalandhar 743094
+
+GSTIN: OM106788yJ777Z9
+
+Item Description
+Velit Maxime excepturi expedita eaque.
+Optio Inventore laborum labore.
+
+Aperiam Officiis error repellendus unde tempore.
+
+Grand Total: $59364
+
+Rate
+$3133
+$4115
+
+$3136
+
+Quantity
+7
+3
+
+8
+
+Total
+$21931
+$12345
+
+$25088

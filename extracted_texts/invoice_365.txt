@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-71586
+
+Date: 13/04/2024
+
+Issued By:
+
+Gera Ltd
+
+H.No. 195, Kala Street Mira-Bhayandar-744771
+To:
+
+Mander LLC
+
+26/94 Swaminathan Circle, Motihari 021281
+
+GSTIN: TE917667JN046Z2
+
+Item Description
+
+Dignissimos | Repellendus mollitia distinctio laboriosam facere.
+
+Minus Vitae harum recusandae doloribus.
+Possimus Doloribus laudantium.
+
+Doloremque Occaecati et illo.
+
+Grand Total: =30537
+
+Rate
+
+2059
+
+2621
+
+22972
+
+3275
+
+Quantity
+9
+
+4
+
+Total
+
+18531
+
+%2484
+
+22972
+
+%6550

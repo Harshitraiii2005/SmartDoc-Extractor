@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1040
+Date: 31 May 2025
+
+Supplier
+
+Davis, Thompson and Martin
+
+2545 Abigail Mission Smithborough, GU 06171
+GSTIN: 497064490705
+
+Contact: 750-288-7740
+
+Buyer
+
+Barnett Ltd
+
+5385 Butler Street Apt. 942 Kimberlyton, DE 45355
+GSTIN: 665461734208
+
+Contact: 001-645-436-2864x562
+
+Place of Supply: Catherineberg
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Either 9533 $350.3 $700.6 $63.05 $63.05 $826.71
+
+Pressure 8522 $617.26 $3086.3 $277.77 $277.77 $3641.83
+Want 5326 $596.22 $596.22 $53.66 $53.66 $703.54
+
+Sub Total: $1175.33
+
+CGST: $81.36
+
+SGST: $199.44
+
+Grand Total: $1528.61
+
+Amount in Words: 2883 dollars only
+
+PO Number: PO-5240
+
+Terms: Certain amount north professional team.
+
+Reverse Charge: Yes

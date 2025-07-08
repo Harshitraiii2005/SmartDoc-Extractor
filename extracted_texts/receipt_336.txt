@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-76188
+
+Date: 07 Apr 2025
+
+From:
+
+Dora-Balakrishnan
+
+97, Shetty Chowk Durg-479195
+
+To:
+
+Shukla Inc
+
+H.No. 19, Dewan Circle Sultan Pur Majra-774986
+Amount Paid: €17216
+
+Payment Mode: Net Banking

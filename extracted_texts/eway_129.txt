@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-930347
+
+Date: 15-02-2024
+
+Consignor:
+
+Dara, Raval and Gole
+
+H.No. 893, Mander Ganj Mango 274256
+Consignee:
+
+Salvi, Rana and Srivastava
+
+H.No. 53, Date Ganj, Pali-047492
+Vehicle No: |s58le3298
+
+GSTIN: Uh910743pq998Z3
+
+Item Description
+Laborum Ipsum mollitia rem sapiente porro.
+Dolore Possimus fugiat quod quaerat.
+
+Ea Doloremque accusantium.
+
+Quantity
+21
+46
+
+47
+
+Value
+
+212827
+
+37387
+
+28627

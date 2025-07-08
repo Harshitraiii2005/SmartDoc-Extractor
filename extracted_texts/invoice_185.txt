@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-78580
+
+Invoice Date: 26/07/2024
+
+From:
+Johal Ltd
+
+23/50, Bhandari Road Dehradun 800111
+
+Billed To:
+
+Doshi, Ravi and Venkatesh
+60 Mann Chowk Bokaro 987535
+
+GSTIN: vu945416Jf51024
+
+Item
+Neque
+Reiciendis
+Quis
+Perspiciatis
+Nam
+
+Rem
+
+Description
+
+Saepe possimus aliquam architecto.
+
+Occaecati illo rerum.
+
+IIlum provident.
+
+lure Cumque error omnis laborum.
+Labore asperiores fugit.
+
+Expedita ab debitis nihil alias.
+
+Grand Total: $122650
+
+Rate
+
+$2921
+$1645
+$4653
+$3982
+$3739
+
+$4828
+
+Quantity
+8
+
+5
+
+Total
+$23368
+$8225
+$13959
+$27874
+$29912
+
+$19312

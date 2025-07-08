@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-46752
+
+Date: 02/12/2023
+
+Issued By:
+
+Chandra, Bhagat and Datta
+
+312 Gupta Marg, Guntakal-972811
+
+To:
+
+Dutta LLC
+
+H.No. 625, Rattan Zila Hazaribagh 616841
+
+GSTIN: Qg831824Q022525
+
+Item Description
+Qui Voluptates officiis soluta.
+Consectetur Praesentium quo assumenda commodi.
+
+Grand Total: =9578
+
+Rate
+
+3209
+
+21580
+
+Quantity
+2
+
+2
+
+Total
+
+26418
+
+3160

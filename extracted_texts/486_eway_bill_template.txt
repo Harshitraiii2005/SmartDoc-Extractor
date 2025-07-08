@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-295599
+Date: 09 Mar 2025
+Valid From: 16 May 2025 To 03 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-7247
+
+Transporter ID: TID-7534
+Transporter Name: Golden and Sons
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-4988
+
+Taxable Value Tax Rate (%)
+
+Reflect
+
+Reason: Coach large even.
+

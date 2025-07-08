@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-57788
+
+Invoice Date: 25/05/2025
+
+From:
+
+Roy, Saini and Bali
+
+H.No. 61 Khosla Circle, Saharanpur-405884
+To:
+
+Roy Inc
+
+519, Kale Circle Dehri-803630
+
+GSTIN: EH413442rd933Z3
+
+Item Description
+
+Rerum Soluta qui omnis.
+
+Occaecati Repellat delectus quam neque amet.
+Minus Ratione fugiat vel.
+
+Amet Aspernatur quod.
+
+Vero Eum nihil ratione.
+
+Consequatur Nobis provident.
+
+Grand Total: 154765
+
+Rate
+
+3001
+
+2014
+
+22647
+
+4810
+
+3276
+
+4940
+
+Quantity
+2
+
+3
+
+Total
+
+6002
+
+26042
+
+223823
+
+243290
+
+26208
+
+%49400

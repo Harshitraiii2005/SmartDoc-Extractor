@@ -1,0 +1,67 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-27686
+
+Date: 30 Jun 2025
+
+Issued By:
+
+Dave, Lala and Saha
+
+92 Koshy Ganj Anantapur 972797
+
+To:
+
+Dugar Ltd
+
+04/02, Sankaran Road, Moradabad 755480
+
+GSTIN: bK371774pg195Z9
+
+Item Description
+
+Impedit Unde beatae saepe rem.
+Praesentium Porro accusamus alias.
+
+Nihil Corrupti ea nesciunt quas error.
+Harum Quas quasi praesentium incidunt.
+Tenetur Aliquam ullam facilis nisi.
+Consequuntur lpsam dicta rerum.
+
+Grand Total: €104777
+
+Rate
+
+€3504
+
+€3717
+
+€1825
+
+€3406
+
+€1274
+
+€4740
+
+Quantity
+4
+
+8
+
+Total
+
+€14016
+
+€29736
+
+€9125
+
+€13624
+
+€5096
+
+€33180

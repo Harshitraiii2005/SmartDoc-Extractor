@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-48456
+
+Date: 18-01-2024
+
+Issued By:
+
+Kamdar-Sani
+
+H.No. 483 Lal Path Bidar-606053
+
+To:
+
+Gala and Sons
+
+72/11, Suresh Marg, Tadipatri-302222
+
+GSTIN: NM459735iJ045Z3
+
+Item Description
+
+Architecto Voluptate tempora porro quas.
+At Unde maiores reprehenderit.
+Suscipit Magni harum voluptatibus nobis.
+Quam Rem laborum a natus itaque.
+
+Grand Total: €36572
+
+Rate
+
+€4685
+€1022
+€3423
+
+€2310
+
+Quantity
+2
+
+2
+
+Total
+
+€9370
+
+€2044
+
+€20538
+
+€4620

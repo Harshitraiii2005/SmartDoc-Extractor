@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-802440
+
+Date: 22 Jun 2024
+
+Consignor:
+
+Deshmukh, Sarraf and Ramakrishnan
+22 Saraf Marg Pune 658746
+Consignee:
+
+Chandran-Sankar
+
+192 Bath Nagar, Mangalore 715229
+Vehicle No: cW44tx6935
+
+GSTIN: sZ318115wt797Z3
+
+Item Description
+
+Cumque Facere unde voluptatum odit vitae.
+
+Nulla Ex fuga cum.
+
+Quantity
+31
+
+29
+
+Value
+$41544
+
+$41556

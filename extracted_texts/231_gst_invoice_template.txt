@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9290
+Date: 19 May 2025
+
+Supplier
+
+Fisher, Marshall and Rodriguez
+
+10261 Clarke Lodge Marystad, WV 47394
+GSTIN: 500468028636
+
+Contact: 001-895-204-0457x3268
+
+Buyer
+
+Thomas, Atkins and Reyes
+
+0211 Martin Isle Yangmouth, NH 40214
+GSTIN: 666127238677
+
+Contact: 001-358-702-6821x896
+
+Place of Supply: Mooretown
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Now 6957 $252.7 $1010.8 $90.97 $90.97 $1192.74
+
+3510 $529.83 $1589.49 $143.05 |$143.05 |$1875.6
+2155 8 | $802.9 $6423.2 $578.09 | $578.09 | $7579.38
+Lot 2253 $15.02 $105.14 $9.46 $9.46 $124.07
+
+Sub Total: $1073.66
+
+CGST: $109.33
+
+SGST: $144.29
+
+Grand Total: $1721.3
+
+Amount in Words: 3584 dollars only
+
+PO Number: PO-6869
+
+Terms: Green her view cover debate night remember.
+
+Reverse Charge: Yes

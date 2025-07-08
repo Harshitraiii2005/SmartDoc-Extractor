@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-63138
+
+Date: 05-11-2023
+
+From:
+
+Bhattacharyya-Dash
+
+71 Deep Marg, Malda 576130
+
+To:
+
+Kale Inc
+
+463 Bhatia Marg, Bhiwandi 468541
+Amount Paid: 740126
+
+Payment Mode: Net Banking

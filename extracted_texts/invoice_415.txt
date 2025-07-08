@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-62650
+
+Date: 23-02-2024
+
+Issued By:
+
+Dhar Group
+
+16/68, Mani Nagar, Giridih-848668
+
+Billed To:
+Issac-Zacharia
+
+H.No. 253 lyer Circle, Visakhapatnam 545364
+
+GSTIN: Su356339qw422Z7
+
+Item Description
+
+Magnam Voluptate vero odio.
+Commodi Sed perspiciatis officiis.
+Ad Dolorem corporis.
+
+Odio Autem iusto.
+
+Quam Impedit eveniet.
+
+Grand Total: $82506
+
+Rate
+
+$3589
+$4408
+$1863
+$1760
+
+$4160
+
+Quantity
+1
+
+6
+
+10
+
+Total
+$3589
+$26448
+$5589
+$5280
+
+$41600

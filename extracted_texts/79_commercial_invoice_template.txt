@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5157
+Date: 09 Feb 2025
+
+Exporter
+
+Lopez, Hansen and Silva
+3056 Hutchinson Field Apt. 013 Garciatown, AK 86449
+
+Importer
+
+Norman PLC
+264 Victoria Springs Apt. 639 North Staceyview, SD 35338
+
+Buyer Ref: 050d75fc-822b-478f-a3ad-54b79f82a061
+Origin: Qatar
+Destination: Tonga
+
+Currency: EUR
+Incoterms: FOB
+
+Description HSN| Qty
+
+Cr
+
+American 8200 $632.95 $3734.4
+
+Freight: $404.76
+Insurance: $101.71
+
+Total Invoice Value: $1607.03

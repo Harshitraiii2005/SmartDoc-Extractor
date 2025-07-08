@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8406
+Date: 02 Jan 2025
+
+Exporter
+
+Sheppard LLC
+2312 Robertson Turnpike Suite 820 West Crystal, VA 87092
+
+Importer
+
+Ramirez-Smith
+13282 Grant Isle Ericksonborough, ME 28353
+
+Buyer Ref: 775a95d6-0105-4ea7-a96b-0c04d087a94e
+Origin: Kiribati
+Destination: Georgia
+
+Currency: EUR
+Incoterms: CIF
+
+Subject 9040 Bo $483.55 $4564.71
+
+Wait 7556 $741.12 $4372.61
+Nor 1343 $608.2 $3588.38
+
+Freight: $224.71
+
+Insurance: $115.93
+
+Total Invoice Value: $3813.94

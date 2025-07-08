@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-95238
+
+Date: 28 Nov 2023
+
+From:
+
+Maharaj, Aurora and Ahluwalia
+10 Dass Marg Barasat-974699
+To:
+
+Thaman, Bobal and Ratti
+
+713 Wagle Street Hosur-497633
+Amount Paid: %28352
+
+Payment Mode: Cash

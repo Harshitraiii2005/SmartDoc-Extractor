@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65000
+
+Date: 09 Nov 2023
+
+From:
+
+Raja-Bhagat
+
+72/255 Trivedi Zila, Gulbarga-383869
+To:
+
+Ghose Inc
+
+811 Bera Street, Jalandhar-382862
+Amount Paid: €21728
+
+Payment Mode: UPI

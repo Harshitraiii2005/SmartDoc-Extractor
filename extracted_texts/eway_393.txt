@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-802181
+
+Date: 02-04-2024
+
+Consignor:
+
+Bansal-Mandal
+
+43 Kothari Marg, Raipur-259895
+Consignee:
+
+Randhawa Ltd
+
+64/687, Devi Circle, Kollam-279072
+Vehicle No: fD13kZ3790
+
+GSTIN: hZ428009Sm930Z2
+
+Item Description
+
+Facere Fugiat fugit fuga suscipit.
+lusto Qui sunt quibusdam expedita.
+Excepturi Consectetur adipisci.
+
+Dolores Tenetur fugiat voluptatibus officia.
+
+Quantity
+16
+32
+50
+
+17
+
+Value
+
+30215
+
+247356
+
+22511
+
+34389

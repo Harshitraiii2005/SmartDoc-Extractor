@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-25527
+
+Date: 10/05/2024
+
+From:
+
+Swaminathan, Solanki and Barad
+
+63/528, Gour Marg, Gorakhpur-075301
+
+Billed To:
+
+Bhalla-Gupta
+
+H.No. 987 Chana Road, Kalyan-Dombivli-905512
+
+GSTIN: ZP609365SZ02426
+
+Item Description Rate Quantity Total
+Ipsum Voluptates ipsum sed cumque. $872 8 $6976
+Saepe Quas aliquid quam accusantium. $2247 6 $13482
+
+Grand Total: $20458

@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-60883
+
+Date: 09/02/2024
+
+From:
+
+Srinivasan-Roy
+H.No. 956 Karnik Circle, Maheshtala 655325
+
+To:
+Verma-Sibal
+
+77/96, Ramanathan Chowk Gwalior 829251
+
+GSTIN: hG315007qz112Z5
+
+Item
+Voluptatem
+Fugit
+Numquam
+
+Vel
+
+Grand Total: $69970
+
+Description
+
+Illum quas repellendus.
+
+Modi at.
+Dolores cumque.
+
+Eius voluptatem id ad.
+
+Rate Quantity
+$575 10
+$3536 7
+
+$2241 8
+
+$4308 5
+
+Total
+$5750
+$24752
+$17928
+
+$21540

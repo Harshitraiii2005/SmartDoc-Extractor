@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1453
+Date: 05 Mar 2025
+
+Supplier
+
+Robinson-Reynolds
+
+296 Michelle Glen Suite 272 Tomberg, CA 54049
+GSTIN: 270547363610
+
+Contact: 232.377.7744x632
+
+Buyer
+
+Johnson Ltd
+
+062 Diaz Circle East Antonio, UT 17135
+GSTIN: 801284779994
+
+Contact: (217)373-6238x7377
+
+Place of Supply: Arnoldstad
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Fast 7245 |6 | $113.16 $678.96 $61.11 $61.11 $801.17
+
+Drop 7799 $487.24 $3410.68 $306.96 | $306.96 | $4024.6
+Group 9893 6 | $827.97 $4967.82 $447.1 $447.1 $5862.03
+Day 2744 $554.98 $5549.8 $499.48 | $499.48 | $6548.76
+
+Sub Total: $1316.25
+
+CGST: $160.7
+
+SGST: $130.17
+
+Grand Total: $1042.71
+
+Amount in Words: 4434 dollars only
+
+PO Number: PO-1889
+
+Terms: Attack management gas million kid.
+
+Reverse Charge: No

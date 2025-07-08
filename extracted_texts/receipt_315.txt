@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-86142
+
+Date: 17-11-2023
+
+From:
+
+Zacharia Inc
+
+24/47 Gour Road, Madurai-189628
+
+To:
+
+Bath, Chakrabarti and Hans
+
+H.No. 01, Gaba Path, Ozhukarai-149139
+Amount Paid: 34346
+
+Payment Mode: UPI

@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5278
+Date: 20 Feb 2025
+
+Supplier
+
+Martin Ltd
+
+291 Middleton Avenue Derrickmouth, NH 58951
+GSTIN: 431198246175
+
+Contact: (316)997-1266
+
+Buyer
+
+Meyers-Peterson
+
+37459 Natalie Cape Apt. 117 Murphyport, OK 14613
+GSTIN: 758588483645
+
+Contact: 001-698-461-6297x528
+
+Place of Supply: Port Rachelborough
+
+[Fear ‘| 4688 10 | $774.31 $7743.1 $696.88 |$696.88 | $9136.86
+
+8338 8 | $180.01 $1440.08 $129.61 $129.61 $1699.29
+
+Sub Total: $1175.41
+
+CGST: $146.4
+
+SGST: $162.25
+
+Grand Total: $1013.43
+
+Amount in Words: 4322 dollars only
+
+PO Number: PO-9415
+
+Terms: Himself human safe tree different doctor from.
+
+Reverse Charge: No

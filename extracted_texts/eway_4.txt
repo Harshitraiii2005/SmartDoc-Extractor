@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-694500
+
+Date: 26 Feb 2025
+
+Consignor:
+
+Vora, Agrawal and Sehgal
+
+80/848, Kibe Circle, Thoothukudi 245717
+Consignee:
+
+Subramanian and Sons
+
+287, Sampath Udaipur 068992
+
+Vehicle No: Hu55gN1387
+
+GSTIN: Db297675qL348Z3
+
+Item Description
+Perferendis Non ducimus voluptatem aliquid.
+Impedit Sit error ullam.
+
+Amet Nisi nemo corrupti consequuntur unde.
+
+Quantity
+12
+14
+
+47
+
+Value
+
+234453
+
+217635
+
+247128

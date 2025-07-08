@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-89262
+
+Invoice Date: 28 May 2025
+
+From:
+
+Rao-Jaggi
+
+99, Sahota Street Ichalkaranji 247238
+To:
+
+Sankaran-Mahajan
+
+05/115 Mand Road, Burhanpur 806612
+
+GSTIN: tl798167cb181Z0
+
+Item Description Rate
+Esse lusto consectetur. $546
+Nemo Tenetur repellat illo temporibus. $2969
+
+Grand Total: $31328
+
+Quantity
+3
+
+10
+
+Total
+$1638
+
+$29690

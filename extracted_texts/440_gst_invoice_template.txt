@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4113
+Date: 08 Jan 2025
+
+Supplier
+
+Arias, Ortiz and Rhodes
+
+731 Melissa Manors Lake Travis, NH 27768
+GSTIN: 512166313477
+
+Contact: 001-623-544-6684x953
+
+Buyer
+
+Hensley-Ray
+
+0158 Dawn Pines Apt. 509 South Sarah, CT 82168
+GSTIN: 649119729811
+
+Contact: (594)674-7705x29762
+
+Place of Supply: Rodneyshire
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+School 6950 8 | $634.9 $5079.2 $457.13 $457.13 $5993.46
+
+Sub Total: $1247.38
+
+CGST: $118.16
+
+SGST: $99.37
+
+Grand Total: $1764.2
+
+Amount in Words: 3770 dollars only
+PO Number: PO-4131
+
+Terms: Always benefit fast foot change.
+
+Reverse Charge: Yes

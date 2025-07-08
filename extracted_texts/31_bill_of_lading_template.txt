@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-5049
+Date: 16 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Say
+
+Port of Loading: Daviston
+
+Port of Discharge: New Scottview
+Place of Delivery: West Johnshire
+
+Container No: CONT-7546
+Marks: Stay
+
+Description of Goods: Suggest
+
+Gross Weight: 2074 kg
+Measurement: 5 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

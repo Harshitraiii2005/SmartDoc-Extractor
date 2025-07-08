@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-29011
+
+Date: 01-02-2025
+
+From:
+
+Dash, Bains and Gade
+H.No. 767 Kapoor Street Noida 255965
+
+Billed To:
+
+Khatri-Vala
+
+627, Kara Chowk, Sikar 337076
+
+GSTIN: Kt389323JV627Z7
+
+Item
+Aperiam
+Ipsa
+Dolorem
+Ratione
+
+Nobis
+
+Description
+
+Sint eveniet expedita expedita.
+
+Veritatis ullam id veniam incidunt.
+
+Occaecati inventore.
+Quasi fuga aut.
+
+Illo enim impedit.
+
+Grand Total: €81224
+
+Rate
+
+€900
+
+€1826
+
+€2030
+
+€4578
+
+€4087
+
+Quantity
+8
+
+6
+
+Total
+
+€7200
+
+€10956
+
+€18270
+
+€36624
+
+€8174

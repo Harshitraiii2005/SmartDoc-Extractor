@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-38714
+
+Date: 04/09/2024
+
+From:
+
+Yadav, Mander and Gopal
+
+H.No. 211, Dani Ganj Farrukhabad 295735
+To:
+
+De, Gera and Kapadia
+
+86/714, Gour Marg, Kulti-372903
+
+Amount Paid: €13863
+
+Payment Mode: UPI

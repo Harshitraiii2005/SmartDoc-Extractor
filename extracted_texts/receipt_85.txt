@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-29543
+
+Date: 12 May 2024
+
+From:
+
+Bali, Vora and Dugal
+
+01/11 Suri Path, Jalgaon 475487
+
+To:
+
+Sarna Ltd
+
+H.No. 129, Jnaveri Chowk Nagercoil 147793
+Amount Paid: $23926
+
+Payment Mode: UPI

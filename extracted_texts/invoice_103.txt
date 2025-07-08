@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-16987
+
+Date: 11 Nov 2023
+
+Issued By:
+
+Garg, Sha and Gera
+
+H.No. 347, Gulati Chowk, Agra-333688
+Billed To:
+
+Chandra Group
+
+20/87, Viswanathan Street, Amravati-838028
+
+GSTIN: mA039131jn966Z5
+
+Item Description Rate Quantity Total
+Cumque Consequuntur libero voluptatibus. %3197 10 %31970
+Perspiciatis Quia excepturi. %818 9 27362
+Harum Sint assumenda ipsam. 22527 9 222743
+Nostrum Saepe eveniet. =1673 4 26692
+Perferendis Adipisci nisi alias ratione voluptate. 979 5 24895
+Aut Aliquid velit officia. %3478 4 %13912
+
+Grand Total: %87574

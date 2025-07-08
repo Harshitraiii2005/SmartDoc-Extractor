@@ -1,0 +1,60 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-77926
+
+Invoice Date: 22 Jul 2024
+
+From:
+
+Ahluwalia-Ganesan
+
+22 Sarkar Marg Kulti-883615
+
+To:
+
+Lala PLC
+
+95/13, Rout Circle, Surendranagar Dudhrej 795178
+
+GSTIN: im630341uC207Z7
+
+Item Description
+Soluta Aliquid cum quod quidem.
+Dolores Totam esse qui est.
+
+Recusandae Quae praesentium totam.
+
+Quam Ratione dolores blanditiis.
+Fugit Dolorem fugiat sunt accusantium dolores.
+Voluptates Saepe aspernatur saepe iste aspernatur.
+
+Grand Total: $51127
+
+Rate
+
+$2253
+$2417
+$3244
+$2029
+$3990
+
+$1302
+
+Quantity
+1
+
+3
+
+10
+
+Total
+$2253
+$7251
+$6488
+$10145
+$11970
+
+$13020

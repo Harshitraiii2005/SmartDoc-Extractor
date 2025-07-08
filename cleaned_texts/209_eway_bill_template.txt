@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 296767Date: 25 Jan 2025Valid From: 16 Mar 2025 To 31 Mar 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 9780Transporter ID: TID: 5735Transporter Name: Jacobs: SmithDocument ReferenceType: Delivery ChallanNo: DOC: 1625Taxable Value Tax Rate (%)$6016.32$2175.1Reason: Score rate.

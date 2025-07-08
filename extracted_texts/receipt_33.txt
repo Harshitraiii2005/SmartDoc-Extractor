@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-8888
+
+Date: 13 Mar 2025
+
+From:
+
+Guha, Mahal and Banerjee
+
+H.No. 90, Das Street, Madurai 498359
+To:
+
+Vasa Group
+
+52/03, Soni, Hospet 470202
+
+Amount Paid: $11329
+
+Payment Mode: UPI

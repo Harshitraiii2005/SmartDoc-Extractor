@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-495906
+
+Date: 30/05/2024
+
+Consignor:
+
+Kannan-Arya
+
+38 Sule Chowk Nanded-091254
+
+Consignee:
+
+Sodhi Ltd
+
+H.No. 39, Bhattacharyya Nagar Surendranagar Dudhrej-094181
+Vehicle No: gU31Lr3092
+
+GSTIN: yp545685AI59425
+
+Item Description Quantity
+Laborum Modi praesentium mollitia illum. 19
+Aliquid Omnis atque quis hic debitis. 10
+Aliquid Natus culpa distinctio ipsam delectus. 8
+
+Vel Totam dolor laudantium assumenda vitae. 23
+
+Value
+$33856
+$8421
+$49449
+
+$49190

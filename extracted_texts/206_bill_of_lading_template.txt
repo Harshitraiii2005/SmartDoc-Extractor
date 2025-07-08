@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-2016
+Date: 07 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Yes
+
+Port of Loading: Riverachester
+Port of Discharge: Mccarthyberg
+Place of Delivery: Aguilarstad
+
+Container No: CONT-6882
+Marks: Large
+
+Description of Goods: Take
+
+Gross Weight: 4702 kg
+Measurement: 6 cbm
+Freight Terms: Collect
+
+BILL OF LADING

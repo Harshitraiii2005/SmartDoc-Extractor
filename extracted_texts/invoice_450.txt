@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-66033
+
+Invoice Date: 25 Apr 2024
+
+Issued By:
+
+Tak-Lad
+
+724 Shanker Marg, Salem 262865
+Billed To:
+
+Ramaswamy PLC
+
+59/505, Chandran, Meerut-333188
+
+GSTIN: ES422736Zk152Z0
+
+Item Description Rate
+
+Odit Laudantium nostrum quia ab. €1199
+Iste Blanditiis blanditiis ipsum. €3904
+Aut Placeat distinctio aliquid esse. €4499
+
+Grand Total: €72020
+
+Quantity
+4
+8
+
+8
+
+Total
+
+€4796
+
+€31232
+
+€35992

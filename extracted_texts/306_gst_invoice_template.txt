@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7618
+Date: 06 Jan 2025
+
+Supplier
+
+Lopez-Davis
+
+38512 Hayes Divide New Brittanyberg, MT 27015
+GSTIN: 898955788711
+
+Contact: (846)392-6502
+
+Buyer
+
+Stephens, Lee and King
+
+28392 Matthew Stream Suite 117 Cortezburgh, PA 58578
+GSTIN: 113259163775
+
+Contact: 647.423.0075x828
+
+Place of Supply: West Gloria
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Star 4277 $70.68 $494.76 $44.53 |$44.53 | $583.82
+
+Material 4573 4 | $733.3 $2933.2 $263.99 |$263.99 | $3461.18
+Case 7940 4 | $656.21 $2624.84 $236.24 |$236.24 | $3097.31
+
+Sub Total: $668.73
+
+CGST: $159.33
+
+SGST: $90.28
+
+Grand Total: $1734.89
+
+Amount in Words: 4578 dollars only
+
+PO Number: PO-2934
+
+Terms: Election environment return customer know small.
+
+Reverse Charge: Yes

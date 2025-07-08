@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-83674
+
+Date: 12 Dec 2023
+
+Consignor:
+
+Arora PLC
+
+67/014, Arora Circle Buxar-195436
+Consignee:
+
+Sethi Group
+
+H.No. 92, Gade Street Anantapur-257106
+Vehicle No: JA96yp8219
+
+GSTIN: Uk162977yT920Z0
+
+Item Description
+Quam Necessitatibus iusto fugiat.
+Eos Velit voluptatem.
+
+Nisi Ipsa nam fugiat ullam ipsum.
+
+Quantity
+30
+34
+
+33
+
+Value
+$32746
+$38599
+
+$44554

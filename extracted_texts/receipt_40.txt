@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-93685
+
+Date: 19/04/2025
+
+From:
+
+Anne, Mall and Sharaf
+
+H.No. 54, Ramesh Zila, Kalyan-Dombivli-601420
+To:
+
+Ganesan-Shah
+
+627, Jani, Berhampore-270890
+
+Amount Paid: €43194
+
+Payment Mode: Net Banking

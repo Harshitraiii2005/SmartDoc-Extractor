@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 653050Date: 05 Apr 2025Valid From: 04 Jan 2025 To 20 May 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 7500Transporter ID: TID: 5726Transporter Name: Compton, York and FloresDocument ReferenceType: Delivery ChallanNo: DOC: 6969Taxable Value Tax Rate (%)Reason: Level design.

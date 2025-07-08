@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-4315
+Date: 21 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Party
+
+Port of Loading: East Samantha
+Port of Discharge: North Jocelyn
+Place of Delivery: Joseville
+
+Container No: CONT-2362
+Marks: Sit
+
+Description of Goods: Give
+
+Gross Weight: 3850 kg
+Measurement: 20 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

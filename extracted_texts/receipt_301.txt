@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27751
+
+Date: 02/02/2024
+
+From:
+
+Ramachandran, Dar and Goel
+
+82/934, Edwin Path, Kakinada 824888
+To:
+
+Goyal Inc
+
+00 Gala Circle, Tinsukia-754802
+Amount Paid: $25460
+
+Payment Mode: Net Banking

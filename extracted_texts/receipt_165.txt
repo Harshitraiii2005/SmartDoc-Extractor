@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-1343
+
+Date: 07 Oct 2023
+
+From:
+
+Doctor Group
+
+H.No. 14, Ghose Nagar Satna 805029
+To:
+
+Gola, Gole and Sandal
+
+H.No. 64 Tripathi Path Panihati 485193
+Amount Paid: $25216
+
+Payment Mode: UPI

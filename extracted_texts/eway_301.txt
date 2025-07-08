@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-919518
+
+Date: 28-05-2025
+
+Consignor:
+
+Reddy PLC
+
+93/982, Kumar Ganj Vijayanagaram 445754
+Consignee:
+
+Bhatt Group
+
+H.No. 49 Lalla, Kota 337650
+
+Vehicle No: ag81uL8855
+
+GSTIN: mr729998wF558Z0
+
+Item Description
+
+Aliquid Voluptatum beatae quaerat pariatur sapiente.
+Adipisci Esse rem fugiat iste atque.
+
+Soluta Perspiciatis eaque pariatur ab.
+
+Quam Eaque quas occaecati.
+
+Quantity
+12
+45
+32
+
+44
+
+Value
+
+€48901
+
+€48103
+
+€45885
+
+€14362

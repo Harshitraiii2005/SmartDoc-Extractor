@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-807
+
+Date: 10/09/2024
+
+From:
+
+Madan, Goyal and Bera
+
+59/722, Khurana Ganj, Jalna 494841
+To:
+
+Amble, Dara and Khatri
+
+H.No. 85, Date, Vasai-Virar-900629
+Amount Paid: $47294
+
+Payment Mode: UPI

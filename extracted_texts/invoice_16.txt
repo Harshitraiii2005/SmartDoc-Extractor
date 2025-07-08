@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-3315
+
+Date: 01 Oct 2024
+
+Issued By:
+
+Ranganathan, Lanka and Sekhon
+18/35, Handa Chowk, Gwalior-099947
+To:
+
+Date and Sons
+
+59/11 Dugal Chowk Ozhukarai 898421
+
+GSTIN: 0S744313Qa038Z5
+
+Item Description Rate
+
+Alias lure nam excepturi. $2250
+Dolor Inventore unde tempore ratione. $1602
+Voluptates A voluptatibus harum. $2485
+
+Grand Total: $35950
+
+Quantity
+8
+
+5
+
+Total
+$18000
+$8010
+
+$9940

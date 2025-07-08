@@ -1,0 +1,78 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-8914
+
+Date: 01 May 2024
+
+Issued By:
+
+Wason, Sarkar and Brar
+747 Tak Chowk, Pallavaram-215925
+
+To:
+
+Desai, Choudhry and Zacharia
+86/199 Bajaj Road Pondicherry 954300
+
+GSTIN: eh038254dL546Z7
+
+Item
+Qui
+Libero
+Ex
+Sunt
+Libero
+
+Officia
+
+Description
+
+Similique ducimus vero aperiam aspernatur.
+
+Sit quaerat unde sapiente alias.
+Nam quaerat ex minima at.
+Sint atque sit.
+
+Libero quos pariatur.
+
+Non harum doloremque.
+
+Grand Total: €142267
+
+Rate
+
+€3122
+
+€1923
+
+€3829
+
+€2765
+
+€3323
+
+€3657
+
+Quantity
+9
+
+8
+
+10
+
+Total
+
+€28098
+
+€15384
+
+€26803
+
+€22120
+
+€13292
+
+€36570

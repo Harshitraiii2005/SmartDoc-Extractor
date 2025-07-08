@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-983559
+
+Date: 12-06-2024
+
+Consignor:
+
+Dayal, Edwin and Rama
+634, Hari Circle Mira-Bhayandar 163826
+
+Consignee:
+
+Das, Vasa and Wali
+
+H.No. 251, Kulkarni Circle Surendranagar Dudhrej-603051
+
+Vehicle No: ge22nz6480
+
+GSTIN: HC216639Ja286Z9
+
+Item
+Eligendi
+Nemo
+Officiis
+
+Deleniti
+
+Description
+
+Accusantium eaque delectus quis quidem.
+Soluta exercitationem quo.
+
+Reprehenderit pariatur explicabo.
+
+Dolorum magnam.
+
+Quantity
+20
+
+19
+
+4
+
+33
+
+Value
+$41423
+$20528
+$17111
+
+$14180

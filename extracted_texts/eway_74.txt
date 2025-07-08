@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-23518
+
+Date: 02/11/2023
+
+Consignor:
+
+Dewan-Kashyap
+
+53 Chad Path Bihar Sharif-616770
+Consignee:
+
+De-Borde
+
+72, Das Path, Avadi-286203
+Vehicle No: zB74fT6676
+
+GSTIN: yb189353Xa976Z9
+
+Item Description
+
+Voluptatum Ullam temporibus reprehenderit reiciendis quo.
+Eos Et veniam placeat.
+
+Labore Nisi occaecati.
+
+Sit Perferendis officia reiciendis consequatur.
+
+Quantity
+21
+
+19
+
+2
+
+33
+
+Value
+
+%23879
+
+228774
+
+%34880
+
+241751

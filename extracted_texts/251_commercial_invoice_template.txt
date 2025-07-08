@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1580
+Date: 01 Feb 2025
+
+Exporter
+
+Hardy, Byrd and Garcia
+0340 Gates Estate Apt. 516 Anthonyside, VA 73907
+
+Importer
+
+Greer, Sutton and Davis
+463 Hampton Lake Suite 366 Port Samuelmouth, KS 34877
+
+Buyer Ref: ef9baa9a-5f6f-4318-be16-a09332d4af6e
+Origin: Swaziland
+Destination: Oman
+
+Currency: INR
+Incoterms: EXW
+
+Description HSN| Qty
+
+a
+
+Doctor 3738 fo | $81.74 $868.08
+
+Freight: $421.69
+Insurance: $146.93
+Total Invoice Value: $3965.36

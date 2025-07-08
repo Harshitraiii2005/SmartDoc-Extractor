@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-980598
+
+Date: 03 Jul 2025
+
+Consignor:
+
+Khalsa and Sons
+
+72, Subramaniam Ganj, Mehsana-724853
+Consignee:
+
+Wable-Madan
+
+55, Handa Ganj Bally-006994
+
+Vehicle No: fo95bW5503
+
+GSTIN: {2989219ei956Z7
+
+Item Description
+
+A Expedita nemo harum illum.
+
+Eaque Culpa alias voluptatem quas.
+
+Quantity
+40
+
+38
+
+Value
+$37663
+
+$30730

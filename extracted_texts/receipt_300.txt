@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-6480
+
+Date: 07/11/2023
+
+From:
+
+Rout-Sharaf
+
+96/02, Lata Kakinada 974669
+
+To:
+
+Kaur-Hayre
+
+H.No. 45, Dhillon Nagar Bidhannagar-7 12562
+Amount Paid: $7463
+
+Payment Mode: Cash

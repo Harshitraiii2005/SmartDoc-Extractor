@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-99482
+
+Date: 18/09/2023
+
+From:
+
+Barad LLC
+
+69 Sarkar Street Bhopal-143480
+
+To:
+
+Rajagopal LLC
+
+91/220 Saini Circle, Burhanpur-517056
+Amount Paid: $23824
+
+Payment Mode: Cash

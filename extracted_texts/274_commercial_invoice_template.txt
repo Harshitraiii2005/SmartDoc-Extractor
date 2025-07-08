@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3117
+Date: 24 Jun 2025
+
+Exporter
+
+Lloyd-Lewis
+53194 Taylor Divide New Connie, AL 01853
+
+Importer
+
+Davis-Clark
+896 Ferguson Mount Apt. 156 Vincentberg, MA 47326
+
+Buyer Ref: 7ed3ded5-1b25-4064-90d9-a55a2e1cb8b9
+Origin: Kuwait
+Destination: Kenya
+
+Currency: EUR
+Incoterms: FOB
+
+a CC
+
+Freight: $234.75
+
+Insurance: $77.77
+
+Total Invoice Value: $4415.46

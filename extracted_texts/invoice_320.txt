@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-15881
+
+Invoice Date: 17 Dec 2024
+
+From:
+
+Thakur, Shukla and Goswami
+H.No. 021, Chauhan Circle, Baranagar 996571
+
+To:
+
+Dasgupta, Rastogi and Borah
+H.No. 097 Sengupta Naihati-988833
+
+GSTIN: 0j895796el806Z4
+
+Item
+Explicabo
+Eveniet
+Explicabo
+Aliquam
+
+Quos
+
+Description
+
+Occaecati minus delectus.
+
+Voluptatem est suscipit asperiores ea.
+
+Cum cupiditate nobis pariatur.
+Reiciendis quaerat quia.
+
+Cumaque explicabo sunt rerum.
+
+Grand Total: %43954
+
+Rate
+
+22864
+
+3086
+
+550
+
+24428
+
+24343
+
+Quantity
+1
+
+1
+
+Total
+
+22864
+
+3086
+
+2750
+
+%26568
+
+%8686

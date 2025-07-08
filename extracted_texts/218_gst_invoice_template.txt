@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1222
+Date: 10 Jan 2025
+
+Supplier
+
+Jones, Taylor and Bender
+
+1779 Meza Terrace Apt. 982 Nancyview, MA 88366
+GSTIN: 878510849411
+
+Contact: (923)913-1535
+
+Buyer
+
+Rodgers-Leonard
+
+0055 Alexis Stravenue Jenningsburgh, SC 86388
+GSTIN: 517068586055
+
+Contact: 799.799.4825x21883
+
+Place of Supply: New Ronald
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Quite 4397 |6 | $610.56 $3663.36 $329.7 |$329.7 | $4322.76
+
+Cost 6802 $438.65 $3070.55 $276.35 |$276.35 | $3623.25
+Less 8336 /9 | $473.02 $4257.18 $383.15  |$383.15 | $5023.47
+
+Sub Total: $923.09
+
+CGST: $138.69
+
+SGST: $102.66
+
+Grand Total: $1735.84
+
+Amount in Words: 4959 dollars only
+
+PO Number: PO-5755
+
+Terms: State card security early century group represent.
+
+Reverse Charge: Yes

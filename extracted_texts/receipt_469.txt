@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-86814
+
+Date: 06-07-2023
+
+From:
+
+Zachariah-Bhavsar
+
+H.No. 88 Choudhary Chowk, Ambattur 124719
+To:
+
+Mangal PLC
+
+H.No. 65, Kapur, Tezpur-245647
+
+Amount Paid: $38211
+
+Payment Mode: Net Banking

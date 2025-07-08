@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-77388
+
+Invoice Date: 08 Apr 2024
+
+From:
+
+Bhavsar-Thakkar
+
+H.No. 302, Anand Road Motihari-051459
+
+Billed To:
+
+Wadhwa-Dutta
+
+H.No. 86 Tripathi Road, Sangli-Miraj & Kupwad 776733
+
+GSTIN: pC794246Pn155Z5
+
+Item Description
+Fugit Vero dolores placeat eligendi.
+Itaque Saepe ducimus voluptatibus.
+
+Ex lure ut excepturi.
+
+Et Pariatur in cupiditate commodi dignissimos.
+
+Atque Accusamus maiores.
+
+Grand Total: €73606
+
+Rate
+
+€3803
+
+€3922
+
+€4312
+
+€3478
+
+€1492
+
+Quantity
+6
+
+2
+
+Total
+
+€22818
+
+€7844
+
+€34496
+
+€6956
+
+€1492

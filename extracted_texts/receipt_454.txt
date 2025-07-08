@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-81256
+
+Date: 03/07/2025
+
+From:
+
+Lad, Shere and Kumer
+
+H.No. 944 Singh Path, Rajpur Sonarpur 445191
+To:
+
+Doshi, Verma and Kata
+
+H.No. 79 Anand Chowk Agra-163560
+
+Amount Paid: €21548
+
+Payment Mode: Cash

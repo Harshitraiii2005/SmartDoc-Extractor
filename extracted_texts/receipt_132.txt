@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-26119
+
+Date: 11 Mar 2025
+
+From:
+
+Chaudhuri Inc
+
+H.No. 02 Chada Street Saharsa-674203
+To:
+
+Raj, Badal and Manda
+
+49, Cheema Circle Ghaziabad 344811
+Amount Paid: =2019
+
+Payment Mode: Cash

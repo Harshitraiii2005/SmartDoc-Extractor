@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-2210
+Date: 15 Jan 2025
+
+Exporter
+
+Patel-Huffman
+9011 Megan Vista North Nicolechester, FL 61125
+
+Importer
+
+Reynolds Inc
+092 Cheryl Camp Apt. 529 Marytown, PW 76394
+
+Buyer Ref: 6b5fcfe0-8db8-4fb7-855e-7e452e39dc49
+Origin: Gibraltar
+Destination: Germany
+
+Currency: EUR
+Incoterms: EXW
+
+escinion «(HSN [unwroce [Tom
+
+Freight: $485.48
+
+Insurance: $123.26
+Total Invoice Value: $3552.16

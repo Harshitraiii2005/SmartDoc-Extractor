@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3723
+Date: 18 Mar 2025
+
+Exporter
+
+Woods, Steele and Hughes
+999 Shaw Villages Williamstown, IL 19877
+
+Importer
+
+Flores, Harris and Lee
+819 William Heights West Ashleyland, MN 63263
+
+Buyer Ref: 42d58bc8-efb4-4d33-9572-920c780b0ba4
+Origin: Mexico
+Destination: Malta
+
+Currency: INR
+Incoterms: CIF
+
+Staff 1423 $894.46 $1055.46
+Child 6117 $939.13 $11081.73
+
+Freight: $429.33
+
+Insurance: $171.95
+
+Total Invoice Value: $2997.63

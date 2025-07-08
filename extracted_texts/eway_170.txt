@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-454280
+
+Date: 01-11-2023
+
+Consignor:
+
+Dani-Mandal
+
+39/812, Kale Chowk, Thoothukudi-782437
+Consignee:
+
+Mannan-Sibal
+
+18/701 Dua Unnao 358859
+
+Vehicle No: ur04rB1726
+
+GSTIN: Yj505682Px150Z1
+
+Item Description
+
+Libero Asperiores repudiandae quas.
+
+Quantity
+
+32
+
+Value
+
+$16377

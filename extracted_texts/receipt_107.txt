@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-70414
+
+Date: 02-12-2023
+
+From:
+
+Dube, Shetty and Bhatt
+
+96/931 Shetty Path Nashik 318910
+
+To:
+
+Yohannan-Subramanian
+
+H.No. 169 Boase Zila Bhalswa Jahangir Pur-180300
+Amount Paid: €21640
+
+Payment Mode: Card

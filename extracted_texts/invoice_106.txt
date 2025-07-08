@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-29647
+
+Invoice Date: 29/12/2024
+
+From:
+
+Krishna, Bhakta and Srinivasan
+05/090, Uppal Road Khandwa 021769
+
+Billed To:
+
+Bose, Khosla and Barad
+937 Loyal Nagar Ambarnath 560727
+
+GSTIN: dp547134tq696Z2
+
+Item
+Reiciendis
+Dolorum
+Temporibus
+Voluptates
+
+Quae
+
+Description
+Voluptas sapiente illum.
+
+Magni eius.
+
+Suscipit eos voluptas soluta inventore.
+
+Vel ipsam porro.
+
+lusto quam ab labore.
+
+Grand Total: €80435
+
+Rate
+
+€2751
+
+€2953
+
+€2409
+
+€1785
+
+€3766
+
+Quantity
+9
+
+3
+
+Total
+
+€24759
+
+€8859
+
+€2409
+
+€14280
+
+€30128

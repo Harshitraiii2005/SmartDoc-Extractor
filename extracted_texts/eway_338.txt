@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-259238
+
+Date: 08-09-2024
+
+Consignor:
+
+Warrior and Sons
+
+80 Jha, Hospet-628490
+
+Consignee:
+
+Bhalla-Deol
+
+H.No. 187, Tella Zila, Mumbai-144734
+Vehicle No: yo65qn8440
+
+GSTIN: dE303334Dn154Z0
+
+Item Description
+
+Tenetur Deleniti aliquid rem fugit.
+
+Quantity
+
+38
+
+Value
+
+16955

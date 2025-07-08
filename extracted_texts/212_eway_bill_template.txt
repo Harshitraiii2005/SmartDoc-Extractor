@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-279216
+Date: 30 Apr 2025
+Valid From: 01 Jan 2025 To 24 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-1039
+Transporter ID: TID-3751
+Transporter Name: Larson Inc
+
+Document Reference
+
+Type: Invoice
+No: DOC-5708
+
+Taxable Value Tax Rate (%)
+$7763.31
+
+Reason: Play contain daughter.

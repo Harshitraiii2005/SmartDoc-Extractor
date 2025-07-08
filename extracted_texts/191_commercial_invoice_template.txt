@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5841
+Date: 09 Jan 2025
+
+Exporter
+
+Robles-Reeves
+7226 Perry Streets Stephanieberg, MD 58367
+
+Importer
+
+Wilson-Jenkins
+306 Alexa Valley East Kimberly, FL 70776
+
+Buyer Ref: 08f1312c-9b6e-4b9a-b13a-2127bc40df56
+Origin: Russian Federation
+Destination: Nicaragua
+
+Currency: EUR
+Incoterms: CIF
+
+escinion «HON ay [uneroce [Tom
+
+Freight: $488.59
+
+Insurance: $115.04
+
+Total Invoice Value: $4385.04

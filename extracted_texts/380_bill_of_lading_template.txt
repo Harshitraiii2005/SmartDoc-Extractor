@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-3784
+Date: 02 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Next
+
+Port of Loading: South Robertshire
+Port of Discharge: East Williamchester
+Place of Delivery: Lake Tiffanyborough
+
+Container No: CONT-5341
+Marks: Over
+
+Description of Goods: Such
+
+Gross Weight: 3122 kg
+Measurement: 9 cbm
+Freight Terms: Collect
+
+BILL OF LADING

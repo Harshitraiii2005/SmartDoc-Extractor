@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-72225
+
+Date: 16/02/2024
+
+Issued By:
+
+Deol and Sons
+
+H.No. 46 Dass Ganj Ajmer-052082
+Billed To:
+
+Ramanathan, Rau and Sankar
+91/33, Arora Path, Dhnule-982142
+
+GSTIN: vx520407jT640Z7
+
+Item Description
+
+Neque Dolor tempora nobis magnam.
+Consequatur Aperiam quibusdam suscipit.
+Veritatis Temporibus qui vel distinctio.
+Hic Dicta ipsa qui occaecati.
+
+Grand Total: $82779
+
+Rate
+
+$2573
+$3318
+$3321
+
+$4772
+
+Quantity
+10
+
+7
+
+Total
+$25730
+$23226
+$9963
+
+$23860

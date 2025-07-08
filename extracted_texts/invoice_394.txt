@@ -1,0 +1,77 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-32376
+
+Invoice Date: 12/12/2024
+
+Issued By:
+Sem Group
+
+66/871, Dass Road Jamalpur-155214
+
+Billed To:
+
+Sankar, Sehgal and Balasubramanian
+33/14 Srinivasan Street Sonipat 757573
+
+GSTIN: 0a642715QX185Z6
+
+Item
+Autem
+Commodi
+Nemo
+
+Id
+Corrupti
+
+Tempora
+
+Description
+
+Eaque dignissimos doloremque ipsam.
+
+Voluptates rerum quae.
+Provident aliquid.
+
+lpsam nemo id odit.
+Quidem omnis optio itaque.
+
+Eum dolore.
+
+Grand Total: €103041
+
+Rate
+
+€2967
+
+€2782
+
+€4966
+
+€4933
+
+€1169
+
+€755
+
+Quantity
+3
+
+8
+
+Total
+
+€8901
+
+€22256
+
+€19864
+
+€44397
+
+€2338
+
+€5285

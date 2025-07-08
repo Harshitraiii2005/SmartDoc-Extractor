@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-96431
+
+Date: 17-02-2025
+
+From:
+
+Kadakia PLC
+
+H.No. 01, Khurana, Machilipatnam-014238
+To:
+
+De LLC
+
+18/505 Chokshi Chowk Bhilwara 420907
+Amount Paid: $9451
+
+Payment Mode: Net Banking

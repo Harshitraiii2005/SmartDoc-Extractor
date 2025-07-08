@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1435
+Date: 27 May 2025
+
+Supplier
+
+Howard-Lucas
+
+183 William Vista Andremouth, NV 53527
+GSTIN: 612087647478
+
+Contact: 690-792-5295
+
+Buyer
+
+Pierce-Marquez
+
+USNV Haney FPO AA 35895
+GSTIN: 227874195843
+
+Contact: 001-843-910-0361x056
+
+Place of Supply: Paultown
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Note 5613 $960.08 $960.08 $86.41 $86.41 $1132.89
+
+Mind 4110 }1 | $466.39 $466.39 $41.98  |$41.98 | $550.34
+Easy 8643 [7 | $159.56 $1116.92 $100.52 |$100.52 | $1317.97
+
+Sub Total: $512.2
+
+CGST: $91.74
+
+SGST: $190.03
+
+Grand Total: $965.86
+
+Amount in Words: 1147 dollars only
+
+PO Number: PO-7016
+
+Terms: Forward place go exist direction rate middle.
+
+Reverse Charge: Yes

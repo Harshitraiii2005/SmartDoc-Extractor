@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-563607
+
+Date: 11-10-2023
+
+Consignor:
+
+Desai-Ranganathan
+
+35 Devi Street Bijapur-742072
+Consignee:
+
+Lad-Shanker
+
+887 Bhattacharyya, Tiruvottiyur 500657
+Vehicle No: mV47iu3863
+
+GSTIN: zp253469yu750Z7
+
+Item Description
+
+Quae Totam animi soluta earum voluptatibus.
+Provident Et saepe aliquid tenetur.
+
+Odio Quo voluptate reiciendis.
+
+Veritatis Aut fuga.
+
+Quantity
+8
+6
+
+37
+
+Value
+
+€29820
+
+€28662
+
+€33971
+
+€12817

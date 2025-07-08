@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-82594
+
+Date: 01/10/2023
+
+Consignor:
+
+Joshi LLC
+
+03/19 Sengupta Chowk Latur 646569
+Consignee:
+
+Bhavsar Inc
+
+39/24 Kuruvilla Marg Erode-789372
+Vehicle No: Bd88yw1718
+
+GSTIN: cw432686sr779Z5
+
+Item Description
+Odit Laborum soluta modi aperiam.
+Dolorem Magnam illo tempore laboriosam.
+
+Enim Perspiciatis corrupti eum.
+
+Quantity
+50
+13
+
+12
+
+Value
+
+15869
+
+%34077
+
+242262

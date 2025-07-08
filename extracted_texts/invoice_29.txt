@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-25949
+
+Invoice Date: 02/05/2024
+
+From:
+
+Korpal, Tara and Swaminathan
+
+15/640, Kurian Path, Bardhaman-837571
+Billed To:
+
+Chand-Lala
+
+H.No. 33 Kata, Karawal Nagar 126946
+
+GSTIN: VO078913jP383Z8
+
+Item Description
+
+Quis Minima adipisci illum ullam autem.
+Consectetur Quos tempore esse adipisci.
+Dolorum Dolor dolorum.
+
+Grand Total: €50643
+
+Rate
+
+€4572
+
+€3114
+
+€1703
+
+Quantity
+5
+4
+
+9
+
+Total
+
+€22860
+
+€12456
+
+€15327

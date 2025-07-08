@@ -1,0 +1,64 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-4839
+
+Date: 19 Apr 2025
+
+From:
+
+Solanki Ltd
+
+H.No. 915, Sodhi Street, Belgaum-588792
+To:
+
+Suresh Ltd
+
+H.No. 570, Vohra Nagar Rohtak 966094
+
+GSTIN: ch361171Kt354Z8
+
+Item Description
+Vitae Atque modi.
+Rerum Ullam pariatur.
+
+Reprehenderit Eos libero totam.
+
+Sint Perferendis adipisci tenetur repellat inventore.
+
+Minima Nesciunt quos perspiciatis quasi.
+
+Grand Total: €63755
+
+Rate
+
+€2808
+
+€1589
+
+€3319
+
+€1863
+
+€3183
+
+Quantity
+2
+
+3
+
+10
+
+Total
+
+€5616
+
+€4767
+
+€6638
+
+€14904
+
+€31830

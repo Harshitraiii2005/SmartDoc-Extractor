@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-20248
+
+Date: 10/04/2025
+
+Issued By:
+
+Dhaliwal Ltd
+
+32/61 Bhakta Ganj, Akola 104659
+
+Billed To:
+
+Bedi, Bal and Rajan
+
+H.No. 48, Majumdar Marg, Ambala-848149
+
+GSTIN: xA818526Hh946Z1
+
+Item Description Rate
+Rerum Dignissimos aut voluptates magni. $522
+Perspiciatis Velit odio ratione numquam illo. $1264
+Ad Voluptates perferendis. $3810
+
+Grand Total: $43486
+
+Quantity
+8
+
+10
+
+Total
+$4176
+$12640
+
+$26670

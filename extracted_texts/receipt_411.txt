@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-75409
+
+Date: 30 Jul 2023
+
+From:
+
+Suri, De and Deshpande
+
+H.No. 65 Balay Road, Ramagundam 665517
+To:
+
+Kumer-Desai
+
+H.No. 378, Saha Road Gandhinagar 521058
+Amount Paid: 29698
+
+Payment Mode: Cash

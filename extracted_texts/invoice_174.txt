@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-64957
+
+Invoice Date: 20 Nov 2024
+
+From:
+
+Johal-Bahl
+
+860 Dara Circle, Bhilai-O72067
+
+Billed To:
+
+Wason LLC
+
+52/12, Dhaliwal Chowk Saharsa-626726
+
+GSTIN: NQ241330wb593Z6
+
+Item Description Rate
+
+Consectetur Vel modi ducimus qui. %3655
+Odio Accusamus animi est harum. 24208
+Eum Doloremque atque minus. 21859
+
+Grand Total: =45708
+
+Quantity
+6
+3
+
+6
+
+Total
+
+%21930
+
+%12624
+
+=11154

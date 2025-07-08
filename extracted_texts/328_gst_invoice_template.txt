@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9298
+Date: 03 Apr 2025
+
+Supplier
+
+Atkinson, Alexander and Morgan
+
+7621 Dawn Mall Apt. 040 Jessicaview, FL 12725
+GSTIN: 540631085783
+
+Contact: (354)234-1920x7866
+
+Buyer
+
+Richardson-Williams
+
+681 Connie Stream Castillotown, IL 34402
+GSTIN: 242404410528
+
+Contact: 001-424-262-3946x418
+
+Place of Supply: Phillipsstad
+
+Patten ‘| 1584 [5 | $229.62 $1148.1 $103.33 |$103.33 | $1354.76
+
+Quickly 2878 fo | $181.88 $1636.92 $147.32 $147.32 $1931.57
+
+Sub Total: $1284.28
+
+CGST: $165.36
+
+SGST: $132.17
+
+Grand Total: $1238.16
+
+Amount in Words: 1316 dollars only
+
+PO Number: PO-6388
+
+Terms: Point economic window music answer.
+
+Reverse Charge: Yes

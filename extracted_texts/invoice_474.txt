@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-33598
+
+Invoice Date: 25-08-2023
+
+From:
+
+Bawa, Bose and Walla
+
+41/712 Aurora Path, Latur-018756
+To:
+
+Chander-Mand
+
+33/12 Master Path, New Delhi 032113
+
+GSTIN: Qm711708Vt745Z0
+
+Item Description Rate
+Esse Quas modi fuga nam. €1968
+Nemo Blanditiis alias quod delenit. €3830
+
+Grand Total: €40586
+
+Quantity
+7
+
+7
+
+Total
+
+€13776
+
+€26810

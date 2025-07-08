@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-42092
+
+Date: 17/06/2024
+
+Issued By:
+
+Garde, Thakkar and Kapur
+
+66/357 Arora Chowk, Jhansi 821104
+To:
+
+Garde, Rana and Comar
+
+92 Kumer Ganj Barasat-238578
+
+GSTIN: LA702587De063Z4
+
+Item Description Rate
+Tempore Sint laudantium. €1163
+Doloribus Accusamus minima assumenda. €2070
+Repellat Similique voluptatem aperiam aut. €711
+
+Grand Total: €18623
+
+Quantity
+1
+5
+
+10
+
+Total
+
+€1163
+
+€10350
+
+€7110

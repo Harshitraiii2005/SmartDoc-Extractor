@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-68736
+
+Date: 01/12/2024
+
+From:
+
+Singhal, Jayaraman and Kakar
+
+00 Halder Circle, Bidar 428041
+
+To:
+
+Ghose Group
+
+41/72, Sundaram Nagar, Dibrugarh 316939
+Amount Paid: $17167
+
+Payment Mode: Net Banking

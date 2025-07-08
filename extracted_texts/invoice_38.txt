@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-44303
+
+Invoice Date: 12-02-2024
+
+Issued By:
+
+Dora-Kamdar
+
+05, Sachdev Chowk, Patna 391446
+To:
+
+Kar-Warrior
+
+260 Badami Nagar Latur-012917
+
+GSTIN: qT657993z2J442Z0
+
+Item Description
+
+Consectetur Impedit natus expedita illum.
+Ex Consequatur tenetur magni.
+Optio Error tempore quae tenetur.
+Eius Nisi aspernatur facilis ducimus.
+
+Grand Total: =18923
+
+Rate Quantity
+639 3
+2735 9
+22571 1
+3910 2
+
+Total
+
+1917
+
+26615
+
+22571
+
+7820

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-526779
+Date: 27/10/2024
+
+Consignor:
+
+Kadakia Ltd
+
+59 Talwar Chowk, Solapur 214930
+Consignee:
+
+Savant Ltd
+
+38 Dash Nagar, Bathinda 947291
+Vehicle No: Ub93vQ1429
+
+GSTIN: PE257010yy190Z5
+
+Item Description
+
+Autem Pariatur atque occaecati.
+
+Dignissimos Dolore sunt incidunt.
+
+Quantity
+40
+
+46
+
+Value
+
+232118
+
+5515

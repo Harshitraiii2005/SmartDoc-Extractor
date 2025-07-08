@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-24487
+
+Date: 16-04-2025
+
+From:
+
+Thaker Ltd
+
+74 Kala Zila, Panchkula 160308
+
+To:
+
+Talwar Group
+
+687 Subramanian Circle Firozabad-083373
+Amount Paid: =1126
+
+Payment Mode: UPI

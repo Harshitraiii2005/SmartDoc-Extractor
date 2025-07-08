@@ -1,0 +1,64 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-99852
+
+Date: 10 Dec 2024
+
+Issued By:
+
+Yogi Ltd
+
+737, Devi Street, Malda-393789
+
+To:
+
+Rao, Sampath and Tara
+36/76, Mammen Street Durgapur 448692
+
+GSTIN: 0q750800XZ559Z9
+
+Item
+Dolor
+Explicabo
+Incidunt
+
+Sed
+
+Description
+
+Vero voluptatem accusantium nemo.
+
+Excepturi ea sit nulla atque.
+Et explicabo corporis delectus.
+
+Non debitis repellat.
+
+Grand Total: =41286
+
+Rate
+
+22413
+
+21366
+
+=1891
+
+%2248
+
+Quantity
+7
+
+6
+
+Total
+
+=16891
+
+%8196
+
+29455
+
+26744

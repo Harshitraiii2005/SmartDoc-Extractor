@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-48160
+
+Date: 13/06/2024
+
+Consignor:
+
+Kanda-Tank
+
+H.No. 830, Arya Path Kakinada 732011
+Consignee:
+
+Acharya-Johal
+
+99/733 Anand Circle, Sikar-499205
+Vehicle No: Ff80jT1500
+
+GSTIN: gw634929D0478Z0
+
+Item Description
+
+Expedita Veritatis labore quam voluptas.
+
+Ex Aspernatur eaque inventore nam in.
+Dolore Accusamus minus aperiam reprehenderit.
+
+Nesciunt Sequi odit excepturi suscipit.
+
+Quantity
+27
+
+1
+
+43
+
+22
+
+Value
+
+€9266
+
+€35987
+
+€40423
+
+€30776

@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-26359
+
+Date: 06/07/2023
+
+From:
+
+Cheema, Sathe and Kapoor
+82/456 Kohli, Thrissur-769384
+
+Billed To:
+Talwar LLC
+
+518 Vala Ganj, Tirupati 731016
+
+GSTIN: Rp175352JJ025Z7
+
+Item
+
+Eos
+Temporibus
+Nobis
+
+Non
+
+Repellat
+
+Description
+Dolores voluptas.
+Distinctio et rem non.
+
+Soluta incidunt a aspernatur.
+
+Voluptatem ipsam voluptatem nostrum vel.
+
+Expedita molestiae iusto.
+
+Grand Total: %117310
+
+Rate
+
+23175
+
+2789
+
+3240
+
+2259
+
+24508
+
+Quantity
+8
+
+9
+
+Total
+
+25400
+
+25101
+
+=19440
+
+215813
+
+31556

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-15880
+
+Date: 30 Jun 2025
+
+From:
+
+Deep and Sons
+
+37/870, Chadha Ganj Alappuzha-310547
+To:
+
+Char Ltd
+
+80 Acharya Road, Malda-391201
+Amount Paid: 745625
+
+Payment Mode: Net Banking

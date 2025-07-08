@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-5799
+
+Date: 22-05-2025
+
+From:
+
+Bir, Raju and Borah
+
+84 Bajwa Path Madurai-941198
+
+Billed To:
+
+Chaudhari Inc
+
+71/41 Handa Path, Khammam-182823
+
+GSTIN: li540008Nc880Z6
+
+Item Description
+
+Sunt Corrupti excepturi praesentium.
+Amet Nostrum saepe officiis natus.
+Quam Quis quia.
+
+Nulla Maxime amet officia.
+
+Grand Total: 52607
+
+Rate
+
+%3507
+
+=1140
+
+1920
+
+24705
+
+Quantity
+1
+
+5
+
+Total
+
+%3507
+
+%5700
+
+5760
+
+%37640

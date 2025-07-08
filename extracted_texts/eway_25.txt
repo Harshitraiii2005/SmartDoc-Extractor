@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-123053
+
+Date: 15-05-2025
+
+Consignor:
+
+Chandra-Saran
+
+18/00 Loyal Nagar Kharagpur-289405
+Consignee:
+
+Bajaj Inc
+
+46/71 Varty Ganj Amravati-985456
+Vehicle No: iW54fa2666
+
+GSTIN: Ah9629180B389Z0
+
+Item Description
+
+Itaque Quaerat dolores sint facilis reprehenderit.
+
+Ipsum Dignissimos libero exercitationem odio perspiciatis.
+
+Odit Numquam corrupti sunt.
+
+Quantity
+47
+9
+
+26
+
+Value
+
+247469
+
+%32988
+
+13505

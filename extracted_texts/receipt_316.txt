@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-82334
+
+Date: 13-09-2023
+
+From:
+
+Sachdev, Soman and Mane
+
+H.No. 02 Dhillon Circle, Thiruvananthapuram 067289
+To:
+
+Kaul, Dhar and Bains
+
+03/55 Choudhry Path Patiala 497120
+
+Amount Paid: ~16826
+
+Payment Mode: Card

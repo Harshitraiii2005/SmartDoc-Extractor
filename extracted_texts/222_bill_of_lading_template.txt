@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-1420
+Date: 28 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Until
+
+Port of Loading: Lake Susanview
+
+Port of Discharge: West Thomasmouth
+Place of Delivery: North Stephanie
+
+Container No: CONT-6592
+Marks: Physical
+
+Description of Goods: Important
+
+Gross Weight: 3587 kg
+Measurement: 9 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

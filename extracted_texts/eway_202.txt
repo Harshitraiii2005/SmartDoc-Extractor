@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-639939
+Date: 24/03/2024
+
+Consignor:
+
+Kadakia LLC
+
+889 Saraf Zila, Panipat 778426
+Consignee:
+
+Seshadri-Krish
+
+88 Kamdar Allahabad-755115
+Vehicle No: up08aD7527
+
+GSTIN: fM805156jG6502Z6
+
+Item Description
+
+Dolorem Corrupti reprehenderit laborum aliquam.
+Quo Tempora placeat vel magnam.
+
+Ea Nam assumenda quaerat.
+
+Tempore Officia harum.
+
+Quantity
+31
+26
+47
+
+44
+
+Value
+
+235545
+
+221278
+
+%10231
+
+20101

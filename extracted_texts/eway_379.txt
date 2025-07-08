@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-649606
+
+Date: 15 May 2025
+
+Consignor:
+
+Bahl LLC
+
+H.No. 70 Saini Street Surat 055650
+Consignee:
+
+Rajagopal, Shetty and Cheema
+
+76/829, Sangha Road, Bhatpara 773475
+Vehicle No: sz65X17222
+
+GSTIN: Dq611525CP984Z3
+
+Item Description
+Vitae Rerum qui libero.
+Est Placeat debitis dolore magnam.
+
+Ullam lure nostrum eaque.
+
+Quantity
+40
+20
+
+24
+
+Value
+$23648
+$43679
+
+$34577

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-17705
+
+Date: 20-10-2024
+
+From:
+
+Dey, Cheema and Lal
+
+086 Guha, Latur 138174
+
+To:
+
+Kant LLC
+
+H.No. 829 Thakur Ganj Udupi-281278
+Amount Paid: €29236
+
+Payment Mode: Card

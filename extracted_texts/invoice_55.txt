@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-53378
+
+Invoice Date: 19 Jun 2025
+
+From:
+
+Dhawan, Shukla and Shan
+H.No. 99, Gole Nagar Dhule-128482
+
+Billed To:
+Sood-Chopra
+
+77/03 Sridhar Ganj, Khora 088715
+
+GSTIN: Pv624423ri901Z8
+
+Item
+Reprehenderit
+Atque
+Blanditiis
+Nobis
+
+Impedit
+
+Enim
+
+Grand Total: $41498
+
+Description
+
+Iste earum placeat numquam amet.
+
+Assumenda maxime.
+
+Amet facilis velit.
+
+Rerum quos mollitia ut magni.
+Accusamus officia temporibus.
+
+Modi ea dicta sint.
+
+Rate
+
+$1612
+$4637
+$1928
+$1374
+$4188
+
+$2026
+
+Quantity
+1
+
+2
+
+Total
+$1612
+$9274
+$7712
+$4122
+$16752
+
+$2026

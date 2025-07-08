@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-20344
+
+Date: 29 Oct 2024
+
+From:
+
+Badami-Vyas
+
+422, Tiwari Street, Kamarhati-912423
+To:
+
+Ravi Ltd
+
+907 Sundaram Chowk Ballia 514248
+Amount Paid: $28814
+
+Payment Mode: Cash

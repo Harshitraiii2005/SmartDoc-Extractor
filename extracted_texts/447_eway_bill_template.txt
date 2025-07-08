@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-300898
+Date: 06 Jan 2025
+Valid From: 15 Jan 2025 To 08 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-5230
+Transporter ID: TID-3435
+Transporter Name: Gray Group
+
+Document Reference
+
+Type: Invoice
+No: DOC-5325
+
+Taxable Value Tax Rate (%)
+
+Reason: World either.

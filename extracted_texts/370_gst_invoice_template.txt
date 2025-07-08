@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9149
+Date: 19 Jan 2025
+
+Supplier
+
+Case, Burgess and Reid
+
+066 Kimberly Highway West Janet, NV 33819
+GSTIN: 616158966568
+
+Contact: 425-242-0307
+
+Buyer
+
+Cook-Hansen
+
+008 Shane Valley Suite 515 Port David, SC 77802
+GSTIN: 622744936101
+
+Contact: +1-673-215-6267x5855
+
+Place of Supply: Schwartzton
+
+fLong = «| 8446 }8 | $516.45 $4131.6 $371.84 |$371.84 | $4875.29
+
+|Much | 1989 }8 | $673.85 $5390.8 $485.17 |$485.17 | $6361.14
+
+Sub Total: $1325.05
+
+CGST: $80.11
+
+SGST: $177.62
+
+Grand Total: $1323.45
+
+Amount in Words: 3710 dollars only
+PO Number: PO-9869
+
+Terms: Take artist pull stop.
+
+Reverse Charge: Yes

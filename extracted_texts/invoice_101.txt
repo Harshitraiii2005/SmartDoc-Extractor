@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-41198
+
+Invoice Date: 12/01/2024
+
+Issued By:
+
+Chakrabarti, Bera and Kibe
+
+18, Dara Nagar Chennai 445661
+Billed To:
+
+Bahri, Swamy and Anne
+
+01 Sachdev Chowk, Surat 638193
+
+GSTIN: i1350282Rx81421
+
+Item Description Rate
+Ipsum Odit vero. €3988
+Deserunt Enim omnis molestiae odit eos. €3854
+
+Grand Total: €47454
+
+Quantity
+9
+
+3
+
+Total
+
+€35892
+
+€11562

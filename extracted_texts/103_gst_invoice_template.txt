@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5586
+Date: 02 Feb 2025
+
+Supplier
+
+Mclaughlin, Brown and Castro
+
+370 Walker Ferry Taylortown, MH 62575
+GSTIN: 479157314066
+
+Contact: 911.628.5613x750
+
+Buyer
+
+Maldonado Ltd
+
+46577 Rachel Walks Kelleyburgh, SC 92358
+GSTIN: 463958611502
+
+Contact: (817)444-0599x9660
+
+Place of Supply: Tammyton
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Discuss 3304 (9 | $813.44 $7320.96 $658.89 | $658.89 | $8638.73
+
+Pay 2270 }8 | $910.95 $7287.6 $655.88 | $655.88 | $8599.37
+[Name ‘| 2622 /3 | $513.38 $1540.14 $138.61 |$138.61 | $1817.37
+
+Sub Total: $1432.78
+
+CGST: $147.85
+
+SGST: $99.31
+
+Grand Total: $1133.75
+
+Amount in Words: 1870 dollars only
+
+PO Number: PO-6295
+
+Terms: Democrat speech store player society.
+
+Reverse Charge: Yes

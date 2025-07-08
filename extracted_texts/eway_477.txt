@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-999419
+
+Date: 22/05/2025
+
+Consignor:
+
+Dube, Bhatti and Randhawa
+
+H.No. 18, Solanki Ganj, Barasat 152432
+Consignee:
+
+Dora-Loyal
+
+H.No. 99 Bhatnagar Path Firozabad 542053
+Vehicle No: IV86Pw1129
+
+GSTIN: vH352491mu870Z8
+
+Item Description
+
+Eius Corrupti velit alias eaque.
+
+Sequi Ea doloribus commodi repellat.
+
+Quantity
+29
+
+6
+
+Value
+$38885
+
+$23100

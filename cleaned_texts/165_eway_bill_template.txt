@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 911352Date: 05 Jan 2025Valid From: 14 Feb 2025 To 03 Feb 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: RailVehicle No: VEH: 5718Transporter ID: TID: 6700Transporter Name: Taylor: LewisDocument ReferenceType: Delivery ChallanNo: DOC: 9801Taxable Value Tax Rate (%)Candidate $3881.36Reason: Story bill manager.

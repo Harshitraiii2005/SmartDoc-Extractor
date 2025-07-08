@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-28658
+
+Invoice Date: 20-02-2024
+Issued By:
+
+Kar, Kamdar and Chaudhary
+
+35 Sandhu Marg, Thane 309697
+Billed To:
+
+Wagle, Hayre and Viswanathan
+48/67 Golla Road Jaipur 285229
+
+GSTIN: Kp330915Jj061Z5
+
+Item Description
+Facere Placeat cupiditate quia minus nostrum.
+
+Nostrum | Dolorum perspiciatis at pariatur.
+
+Et Temporibus delectus commodi quibusdam dolorum.
+
+Veritatis | Eius dignissimos laudantium rem.
+
+Grand Total: %59776
+
+Rate
+
+3322
+
+1150
+
+3856
+
+24140
+
+Quantity
+4
+
+10
+
+Total
+
+13288
+
+11500
+
+%30848
+
+24140

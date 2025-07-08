@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-45248
+
+Date: 15/02/2025
+
+From:
+
+Baral-Thakur
+
+22 Bobal, Rohtak-090890
+
+To:
+
+Karpe Group
+
+H.No. 599, Sood Road, Tiruvottiyur 870450
+Amount Paid: €23445
+
+Payment Mode: Cash

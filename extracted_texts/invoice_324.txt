@@ -1,0 +1,66 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-65686
+
+Date: 31/01/2024
+
+Issued By:
+
+Kadakia Group
+
+33/652, Tata Marg, Bihar Sharif-840363
+To:
+
+Comar PLC
+
+77/47, Aggarwal Nagar Ichalkaranji-450512
+
+GSTIN: XR805538FA711Z8
+
+Item Description
+
+Nulla Praesentium mollitia sint incidunt.
+Pariatur Non dicta quasi laborum.
+Consequatur Doloribus ipsa aliquid.
+
+Occaecati Nemo ab repudiandae corporis.
+A Id occaecati doloribus nostrum.
+Necessitatibus Praesentium ipsum quia.
+
+Grand Total: 50207
+
+Rate
+
+3445
+
+%1634
+
+8835
+
+%3314
+
+1826
+
+2023
+
+Quantity
+1
+
+9
+
+Total
+
+%3445
+
+=14706
+
+25845
+
+%3314
+
+212782
+
+%10115

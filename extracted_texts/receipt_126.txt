@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-40578
+
+Date: 23/05/2024
+
+From:
+
+Chopra and Sons
+
+37 Balasubramanian, Gwalior 397744
+To:
+
+Brahmbhatt, Swamy and Bath
+
+H.No. 970 Atwal Bathinda 533067
+Amount Paid: €11352
+
+Payment Mode: UPI

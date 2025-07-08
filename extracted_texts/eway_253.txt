@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-313702
+
+Date: 07 Oct 2024
+
+Consignor:
+
+Kar Inc
+
+H.No. 766 Varty Marg Eluru-495093
+Consignee:
+
+Bhattacharyya-Brar
+
+93/236, Sodhi Marg, Kavali 317423
+Vehicle No: Ft12kM4191
+
+GSTIN: jd180827Tf967Z5
+
+Item Description
+
+Totam Veritatis quasi cumque facilis.
+
+Error Accusantium aut.
+
+Quantity
+22
+
+21
+
+Value
+$20245
+
+$41507

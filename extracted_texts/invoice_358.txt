@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-26661
+
+Date: 25/05/2025
+
+From:
+
+Dhar-Bir
+
+47/629, Guha Marg Vijayanagaram-771763
+To:
+
+Bansal-Gour
+
+H.No. 06 Tailor Chowk, Berhampore 908101
+
+GSTIN: Ey537018kg123Z1
+
+Item Description
+
+Explicabo Labore sequi quisquam ut.
+Recusandae Numquam inventore consectetur.
+Doloribus Veritatis nihil nihil expedita.
+
+Grand Total: €45396
+
+Rate
+
+€3175
+
+€4017
+
+€701
+
+Quantity
+5
+
+7
+
+Total
+
+€15875
+
+€28119
+
+€1402

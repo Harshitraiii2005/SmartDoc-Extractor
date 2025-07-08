@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-49029
+
+Date: 05/07/2025
+
+From:
+
+Sidhu Inc
+
+H.No. 341, Babu Ganj, South Dumdum-261948
+To:
+
+Sarna and Sons
+
+H.No. 524, Khalsa Marg, Katihar-133333
+Amount Paid: €43957
+
+Payment Mode: Card

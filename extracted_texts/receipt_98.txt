@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-48610
+
+Date: 21/12/2024
+
+From:
+
+Gulati, Roy and Gole
+
+132, Dada Road, Amaravati-674828
+To:
+
+Vyas Group
+
+01 Bhagat Ganj Aizawl-477794
+Amount Paid: $44849
+
+Payment Mode: Card

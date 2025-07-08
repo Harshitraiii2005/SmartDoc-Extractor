@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-39734
+
+Date: 23 May 2024
+
+From:
+
+Samra, Arya and Saran
+
+84/889 Dayal Marg, Bharatpur-970497
+Billed To:
+
+Khanna and Sons
+
+35/09 Dyal Gopalpur 608967
+
+GSTIN: ke978119aZ32024
+
+Item Description
+Excepturi Enim nam perferendis odit.
+
+Doloremque Similique vitae quod vero.
+
+Consequatur Possimus assumenda quisquam repudiandae.
+
+Similique Doloribus consequuntur neque facilis natus.
+Nemo Quaerat perferendis corrupti iste.
+Officia Exercitationem sunt architecto.
+
+Grand Total: 87603
+
+Rate
+
+1955
+
+24928
+
+571
+
+2438
+
+24991
+
+23663
+
+Quantity
+9
+4
+
+10
+
+Total
+
+217595
+
+%19712
+
+%5710
+
+%7314
+
+29946
+
+27326

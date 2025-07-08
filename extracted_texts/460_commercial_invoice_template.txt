@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5770
+Date: 23 May 2025
+
+Exporter
+
+Goodman, Woods and Horn
+877 Taylor Way Spencerville, MS 43050
+
+Importer
+
+Andrade-Romero
+422 Mercado Brooks Apt. 328 Pamelaton, ID 54307
+
+Buyer Ref: 14€257bc-14b5-45d4-83aa-277 1f244972d
+Origin: Guatemala
+Destination: Kuwait
+
+Currency: USD
+Incoterms: EXW
+
+Claim 2947 9 $353.8 $3757.36
+
+Leg 2884 $536.32 $6328.58
+Western 1172 $794.73 $2813.34
+
+Freight: $336.93
+
+Insurance: $192.38
+Total Invoice Value: $4564.21

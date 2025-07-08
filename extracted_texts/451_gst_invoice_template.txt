@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-1159
+Date: 25 Jan 2025
+
+Supplier
+
+Marsh Inc
+
+758 Manuel Extensions Wernerborough, GA 05418
+GSTIN: 924371568846
+
+Contact: (813)256-8226x3570
+
+Buyer
+
+Murphy, Glenn and Jones
+
+81702 Adams Point East Kellyview, NY 14740
+GSTIN: 519597613518
+
+Contact: 618-443-0583x49742
+
+Place of Supply: North Candace
+
+Description ;HSN Qty [Unit Price | Taxable Value CGST SGST Total
+
+Around 3448 fo | $201.48 $1813.32 $163.2 $163.2 $2139.72
+
+Sub Total: $561.23
+
+CGST: $120.81
+
+SGST: $92.56
+
+Grand Total: $1426.33
+
+Amount in Words: 3177 dollars only
+
+PO Number: PO-7293
+
+Terms: They expect month where recently.
+
+Reverse Charge: No

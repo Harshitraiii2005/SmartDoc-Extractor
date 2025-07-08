@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5142
+Date: 02 Mar 2025
+
+Exporter
+
+George, Jones and Taylor
+9166 Garcia Field New Angela, LA 09546
+
+Importer
+
+Green-Brooks
+8590 Brown Drives West Nicoleton, SD 11323
+
+Buyer Ref: f1286206-950e-4d 1c-99f5-bc8fdbc2db08
+Origin: Cook Islands
+Destination: Fiji
+
+Currency: USD
+Incoterms: FOB
+
+escipion «HON ay [uneroce [tom
+Reflect 2189 $213.97 $1262.42
+
+Freight: $414.76
+
+Insurance: $117.2
+
+Total Invoice Value: $1623.55

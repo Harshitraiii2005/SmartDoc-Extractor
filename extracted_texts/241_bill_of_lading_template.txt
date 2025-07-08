@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-3226
+Date: 30 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Happy
+
+Port of Loading: South Robert
+Port of Discharge: Stephanieberg
+Place of Delivery: Jeffreymouth
+
+Container No: CONT-5297
+Marks: Start
+
+Description of Goods: Threat
+
+Gross Weight: 2057 kg
+Measurement: 5 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

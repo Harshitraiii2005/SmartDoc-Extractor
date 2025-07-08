@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-69929
+
+Date: 19 Jan 2024
+
+From:
+
+Bains Inc
+
+10 Kara Ganj, Gudivada 454413
+To:
+
+Kothari, Garg and Loyal
+
+65 Goda Marg Tinsukia-023043
+Amount Paid: =10191
+
+Payment Mode: Card

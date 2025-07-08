@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-43934
+
+Invoice Date: 14 Apr 2024
+
+Issued By:
+
+Issac-Bhandari
+
+90 Lanka Zila Morena-817674
+
+Billed To:
+
+Sarma, Bhargava and Walia
+
+31/43, Ramachandran Path Ahmedabad-424032
+
+GSTIN: kS757704GT04121
+
+Item Description Rate
+Excepturi Corporis suscipit nulla cumque vero. $4518
+Illum Non cum eligendi sapiente nemo. $4775
+
+Grand Total: $9293
+
+Quantity
+1
+
+1
+
+Total
+$4518
+
+$4775

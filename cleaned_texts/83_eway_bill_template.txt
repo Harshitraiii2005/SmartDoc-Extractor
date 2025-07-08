@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 442813Date: 11 Feb 2025Valid From: 15 Jun 2025 To 07 Mar 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 3728Transporter ID: TID: 2769Transporter Name: Newman: KirkDocument ReferenceType: Delivery ChallanNo: DOC: 8772Taxable Value Tax Rate (%)$961.14$757.05$450.98$1374.8$638.64Reason: Public.

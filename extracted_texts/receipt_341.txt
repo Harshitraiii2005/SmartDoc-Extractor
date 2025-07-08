@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-59936
+
+Date: 19 May 2024
+
+From:
+
+Reddy Group
+
+H.No. 29 Rastogi Chowk, Thiruvananthapuram 300000
+To:
+
+Khurana, Jha and Rajan
+
+10 Vala Road Karawal Nagar-111821
+
+Amount Paid: %34694
+
+Payment Mode: Net Banking

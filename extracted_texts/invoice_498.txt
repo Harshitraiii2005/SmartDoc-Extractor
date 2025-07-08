@@ -1,0 +1,59 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-18321
+
+Date: 22 Jun 2024
+
+From:
+
+Jayaraman-Srivastava
+
+H.No. 478 Chaudry Street, Aligarh 360359
+To:
+
+Choudhury-Kulkarni
+
+61/77, Bhakta Chowk Hapur-402959
+
+GSTIN: Xr386573dE151Z5
+
+Item Description
+
+Eum lure odio quas.
+
+Deleniti Deleniti blanditiis necessitatibus aut.
+Quasi Quae autem.
+
+Iste Nulla nisi illo voluptatem eius.
+Maiores Placeat adipisci atque porro.
+
+Rerum Impedit laborum minima laudantium.
+
+Grand Total: $59237
+
+Rate
+
+$1752
+$2162
+$3121
+$2007
+$3635
+
+$3563
+
+Quantity
+2
+
+4
+
+Total
+$3504
+$8648
+$24968
+$4014
+$14540
+
+$3563

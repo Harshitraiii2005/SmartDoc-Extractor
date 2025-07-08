@@ -1,0 +1,75 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-48394
+
+Date: 13 Jun 2024
+
+Issued By:
+
+Saini, Randhawa and Chaudhary
+H.No. 389 Dara Nagar, Amroha-606814
+
+Billed To:
+Vora-Dey
+
+177, Wali Marg Tumkur 479511
+
+GSTIN: XP515847LY417Z1
+
+Item
+Debitis
+Odio
+Ipsam
+Similique
+
+Dolorem
+
+Description
+Laudantium quasi.
+Ullam veniam.
+
+Harum maiores.
+
+Corrupti autem ducimus labore et.
+
+Labore numquam rerum aut.
+
+Grand Total: =74904
+
+Rate
+
+21395
+
+940
+
+24943
+
+21783
+
+21517
+
+Quantity
+10
+
+10
+
+7
+
+1
+
+10
+
+Total
+
+13950
+
+9400
+
+%34601
+
+21783
+
+%15170

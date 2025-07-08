@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-7861
+
+Date: 30-03-2024
+
+From:
+
+Dhingra, Bhargava and Dugal
+
+57/892, Chokshi Nagar, Unnao-725615
+To:
+
+Chacko, Ray and Sachdeva
+
+71/556 Walla Chowk, Nandyal-847641
+Amount Paid: $30237
+
+Payment Mode: Card

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-99455
+
+Date: 21 Mar 2024
+
+From:
+
+Golla-Handa
+
+H.No. 352 Sahni Marg, Gangtok-933238
+To:
+
+Sharma, Tiwari and Chand
+
+H.No. 88 Savant Circle Haldia-823859
+Amount Paid: $2826
+
+Payment Mode: UPI

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-24029
+
+Date: 30 May 2025
+
+From:
+
+Roy Ltd
+
+638 Kulkarni Zila, Chandigarh 792213
+
+To:
+
+Subramanian PLC
+
+65/922 Chauhan Street, Secunderabad 820843
+Amount Paid: €45129
+
+Payment Mode: Card

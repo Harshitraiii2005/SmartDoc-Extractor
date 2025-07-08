@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-62639
+
+Date: 15-07-2023
+
+From:
+
+Raman, Cheema and Rajagopal
+
+H.No. 396, Tella Marg Tiruchirappalli 785904
+To:
+
+Ram-Din
+
+180, Sachar Street Jodhpur-894937
+Amount Paid: %9509
+
+Payment Mode: UPI

@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4406
+Date: 09 Feb 2025
+
+Supplier
+
+Jordan, Austin and Fitzpatrick
+
+528 Murphy Brooks Suite 168 West Antonioburgh, MP 70198
+GSTIN: 713365595162
+
+Contact: (800)945-0465x441
+
+Buyer
+
+Fuller Inc
+
+592 Ryan Oval South Heidi, ID 64202
+GSTIN: 150286132126
+
+Contact: +1-592-792-0635x0508
+
+Place of Supply: New Troy
+
+Description FHSN | Qty [Unit Price Taxable Value CGST SGST Total
+
+Cover 1122 oa $325.85 $1955.1 $175.96 $175.96 $2307.02
+
+Sub Total: $755.37
+
+CGST: $151.84
+
+SGST: $97.82
+
+Grand Total: $981.15
+
+Amount in Words: 2397 dollars only
+PO Number: PO-7866
+
+Terms: Develop list throughout.
+
+Reverse Charge: Yes

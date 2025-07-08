@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-30058
+
+Date: 29-09-2023
+
+Issued By:
+
+Virk-Gupta
+
+918, Reddy Marg, Ajmer-007629
+
+To:
+
+Bhattacharyya, Uppal and Sami
+
+H.No. 688 Dubey Road, Nagaon 040247
+
+GSTIN: vs656633Yf204Z2
+
+Item Description
+
+Laudantium A facilis.
+
+Occaecati Repellendus nulla dignissimos dicta.
+Nihil Aliquam ratione inventore rem.
+
+Grand Total: €58070
+
+Rate
+
+€3477
+
+€1941
+
+€2719
+
+Quantity
+10
+5
+
+5
+
+Total
+
+€34770
+
+€9705
+
+€13595

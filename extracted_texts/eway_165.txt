@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-692391
+
+Date: 19/03/2024
+
+Consignor:
+
+Kaur, Sabharwal and Gokhale
+
+79/265 Ghosh Path Amritsar-845534
+Consignee:
+
+Master, Malhotra and Bassi
+
+H.No. 506, Kara Chowk, Fatehpur 493809
+Vehicle No: uh12sf2556
+
+GSTIN: Fe270792np872Z6
+
+Item Description
+
+Ipsum Quasi dolor dolorem inventore.
+
+Maxime Rerum fugit velit.
+
+Quantity
+9
+
+31
+
+Value
+
+€6344
+
+€19179

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-48627
+
+Date: 01/05/2025
+
+From:
+
+Sen LLC
+
+482 Devan Chowk Satara-565433
+
+To:
+
+Sawhney and Sons
+
+46/944 Kohli Nagar Gorakhpur-399961
+Amount Paid: $28405
+
+Payment Mode: Cash

@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-81481
+
+Date: 24/12/2024
+
+Issued By:
+
+Deol-Deol
+
+H.No. 91, Acharya Nagar, Bidhannagar 788382
+
+To:
+
+Kaul, Kothari and Mammen
+
+H.No. 211, Raman Road, Sangli-Miraj & Kupwad 658674
+
+GSTIN: JT004798kg929Z2
+
+Item Description
+
+Vero Voluptatum ab cumque illum.
+Enim Officiis quas.
+
+Consequuntur Dolore repudiandae.
+
+Earum Nobis voluptates ipsam ad hic.
+
+Grand Total: $53667
+
+Rate
+
+$4346
+$3175
+$2471
+
+$3429
+
+Quantity
+3
+
+8
+
+Total
+$13038
+$25400
+$4942
+
+$10287

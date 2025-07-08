@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-46670
+
+Date: 07-09-2024
+
+From:
+
+Bhasin-Saraf
+
+98/327, Goswami Road, Hyderabad 467907
+Billed To:
+
+Lall Group
+
+799, Das Street Jamalpur-060872
+
+GSTIN: Bc344282ei359Z2
+
+Item Description Rate
+Et Fugit ullam quis occaecati. $1118
+Corrupti Optio eius consectetur ea. $2185
+
+Grand Total: $24137
+
+Quantity
+4
+
+9
+
+Total
+$4472
+
+$19665

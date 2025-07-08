@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-52209
+
+Date: 24-05-2024
+
+From:
+
+Bera-Mane
+
+53/708, Saini Zila, Ramgarh-739854
+To:
+
+Kashyap-Sampath
+
+17 Kant Ganj Mahbubnagar 395055
+Amount Paid: €38596
+
+Payment Mode: Net Banking

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-7017
+
+Date: 24-07-2023
+
+From:
+
+Sangha-Dugal
+
+60/651 Kar Road Ongole 511895
+
+To:
+
+Chhabra Inc
+
+43/802 Sidhu Path, Kalyan-Dombivli 081822
+
+GSTIN: hq074997Fv055Z3
+
+Item Description Rate
+Illo Nihil perferendis delectus tenetur. $2682
+Dolor Vero blanditiis non omnis. $921
+
+Grand Total: $11892
+
+Quantity
+1
+
+10
+
+Total
+$2682
+
+$9210

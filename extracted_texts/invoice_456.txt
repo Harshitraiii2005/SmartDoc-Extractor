@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-23450
+
+Date: 28 Feb 2024
+
+Issued By:
+
+Bose Ltd
+
+H.No. 319, Bajwa Circle Anantapuram-806314
+Billed To:
+
+Basu-Mammen
+
+H.No. 46 Subramaniam Silchar-726002
+
+GSTIN: gd728790jA811Z3
+
+Item Description
+
+Veritatis Numquam quidem perspiciatis dolorum illum.
+
+Exercitationem | Tempore rem cum provident dolorem.
+
+Quae Ducimus alias aliquid aliquam reprehenderit.
+Nam Soluta dolorum saepe.
+
+Eligendi Quisquam corporis ducimus.
+
+Ut Earum impedit et.
+
+Grand Total: €98605
+
+Rate
+
+€1203
+
+€1778
+
+€3049
+
+€2904
+
+€4904
+
+€3075
+
+Quantity
+8
+1
+7
+
+10
+
+Total
+
+€9624
+
+€1778
+
+€21343
+
+€29040
+
+€24520
+
+€12300

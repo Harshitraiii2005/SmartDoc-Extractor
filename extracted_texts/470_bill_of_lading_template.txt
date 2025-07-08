@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-5257
+Date: 24 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: School
+
+Port of Loading: Lake Patrick
+
+Port of Discharge: Adamchester
+Place of Delivery: New Danielchester
+
+Container No: CONT-4396
+Marks: West
+
+Description of Goods: City
+
+Gross Weight: 4246 kg
+Measurement: 12 cbm
+Freight Terms: Collect
+
+BILL OF LADING

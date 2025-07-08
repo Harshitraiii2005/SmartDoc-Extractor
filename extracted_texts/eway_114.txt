@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-310038
+
+Date: 21/04/2024
+
+Consignor:
+
+Sura, Grover and Joshi
+
+72 Khalsa Zila Jammu-659950
+Consignee:
+
+Bhandari-Borah
+
+61/292 Varughese Circle Karnal-146560
+Vehicle No: Jq61Z16126
+
+GSTIN: Jf1237881B393Z0
+
+Item Description
+
+Vero Optio dolore velit libero optio.
+
+Saepe Corporis placeat facilis nobis amet.
+
+Quantity
+22
+
+21
+
+Value
+
+246364
+
+%34456

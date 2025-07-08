@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-8096
+Date: 01 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Under
+
+Port of Loading: North Oliviafort
+Port of Discharge: South Codyland
+Place of Delivery: Annaland
+
+Container No: CONT-6339
+Marks: Choose
+
+Description of Goods: Present
+
+Gross Weight: 1225 kg
+Measurement: 16 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

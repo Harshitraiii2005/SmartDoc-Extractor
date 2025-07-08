@@ -1,0 +1,59 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-3594
+
+Invoice Date: 04/06/2025
+
+Issued By:
+
+Chaudhry Inc
+
+65 Char Marg, Akola 667895
+
+Billed To:
+
+Shukla, Sidhu and Gour
+
+26/428 Krishnamurthy Nagar Chinsurah-462329
+
+GSTIN: yv222592VT538Z5
+
+Item Description
+
+Qui Perspiciatis dignissimos maiores nisi beatae.
+Modi Adipisci ratione corrupti unde iste.
+
+Nobis Occaecati deserunt quaerat.
+
+Ratione | Omnis distinctio corporis earum necessitatibus.
+
+Grand Total: =39245
+
+Rate
+
+2760
+
+=1661
+
+2947
+
+22736
+
+Quantity
+7
+3
+
+10
+
+Total
+
+%19320
+
+24983
+
+%9470
+
+25472

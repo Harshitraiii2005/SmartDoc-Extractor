@@ -1,0 +1,74 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-52849
+
+Invoice Date: 24-06-2025
+
+Issued By:
+Wagle LLC
+
+H.No. 55, Gera Street, Jaunpur 518260
+
+To:
+Setty Ltd
+
+68/217, Kari Street, Sri Ganganagar-417341
+
+GSTIN: mb661157kKN869Z1
+
+Item
+
+Illo
+
+Ex
+
+Illo
+
+Delectus
+
+Quos
+
+Description
+
+Nisi ipsum odio.
+
+Cum saepe.
+
+Fugiat odit ipsa maiores.
+Sequi aspernatur.
+
+Debitis minus.
+
+Grand Total: €33634
+
+Rate
+
+€1281
+
+€1681
+
+€1741
+
+€2254
+
+€3503
+
+Quantity
+7
+
+1
+
+Total
+
+€8967
+
+€1681
+
+€6964
+
+€9016
+
+€7006

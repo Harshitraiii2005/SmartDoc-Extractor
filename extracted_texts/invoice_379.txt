@@ -1,0 +1,29 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-18772
+
+Date: 24 Mar 2024
+
+Issued By:
+
+Suri, Mangat and Singhal
+
+28, Ramesh Ganj, Raiganj 088382
+To:
+
+Datta-Mall
+
+08 Devan Circle Thanjavur 190869
+
+GSTIN: Yt697982Lf773Z8
+
+Item Description Rate Quantity Total
+Quo Animi eveniet. €2101 9 €18909
+Amet Suscipit hic quod. €4740 2 €9480
+Impedit Voluptas excepturi. €2347 8 €18776
+Maxime Voluptatem quod. €3428 6 €20568
+
+Grand Total: €67733

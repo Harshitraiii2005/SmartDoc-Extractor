@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-63022
+
+Date: 19-11-2024
+
+From:
+
+Sinha and Sons
+
+H.No. 64 Khanna Chowk, Kalyan-Dombivli 401187
+To:
+
+Agate-Dixit
+
+05/01, Bhasin Purnia 760297
+
+Amount Paid: $36923
+
+Payment Mode: Card

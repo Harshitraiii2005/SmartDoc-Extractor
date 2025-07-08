@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-55539
+
+Date: 26 Sep 2024
+
+Issued By:
+
+Kurian-Dalal
+
+011 Goyal Path, Belgaum 654290
+
+To:
+
+Ray and Sons
+
+02/54 Khalsa Street, Vijayawada 594732
+
+GSTIN: fg158956Rs083Z0
+
+Item Description Rate
+
+Voluptatibus Soluta odio illo debitis. 24490
+Delectus Earum porro numquam. 22228
+lure Eaque culpa natus cumque. %2698
+
+Grand Total: =57886
+
+Quantity
+9
+
+3
+
+Total
+
+240410
+
+%6684
+
+=10792

@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-220001
+
+Date: 18 Dec 2024
+
+Consignor:
+
+Krishna, Date and Cheema
+
+56/04, Ranganathan Marg, Vijayawada-240420
+Consignee:
+
+Bora-Lalla
+
+02, Bains Chowk Pondicherry-241974
+
+Vehicle No: OQ62yC3919
+
+GSTIN: eX033908Xy023Z5
+
+Item Description
+Quisquam Amet labore molestiae voluptatibus.
+Repellendus Consequatur occaecati ipsam iusto.
+
+Fuga Mollitia temporibus quidem eligendi.
+
+Quantity
+18
+8
+
+37
+
+Value
+
+€43540
+
+€34129
+
+€49777

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-517332
+
+Date: 25-03-2025
+
+Consignor:
+
+Shenoy and Sons
+
+H.No. 07 Chad Ganj Aurangabad 269917
+Consignee:
+
+Shankar, Batra and Yadav
+
+94 Sagar Circle, Vadodara-405164
+Vehicle No: PD31WJ7850
+
+GSTIN: lf433900Vw409Z6
+
+Item Description
+
+Nemo Aperiam ea numquam quisquam.
+
+Possimus Repudiandae molestiae nobis assumenda unde.
+
+Quantity
+43
+
+15
+
+Value
+$23537
+
+$45133

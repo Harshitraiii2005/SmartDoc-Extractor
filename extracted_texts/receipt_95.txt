@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-58410
+
+Date: 13 Mar 2025
+
+From:
+
+Varkey LLC
+
+41/292, Sibal, Kottayam-329018
+
+To:
+
+Khalsa LLC
+
+H.No. 123, Varty Road, Srinagar-799211
+Amount Paid: $35710
+
+Payment Mode: UPI

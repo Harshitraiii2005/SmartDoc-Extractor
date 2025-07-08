@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-92735
+
+Date: 13-10-2023
+
+Issued By:
+
+Walla-Agate
+
+H.No. 649 Sastry Marg, Bhilwara 994006
+Billed To:
+
+Dixit-Borah
+
+94 Cherian Mysore-208376
+
+GSTIN: 2zC933960nG318Z2
+
+Item Description
+
+Vitae IIlo molestias.
+
+Quisquam Nostrum autem.
+
+lure Natus fugit facilis sed autem.
+Vel Molestias pariatur ullam.
+Voluptatibus Temporibus esse vitae.
+
+Grand Total: €50482
+
+Rate
+
+€4260
+
+€1939
+
+€2932
+
+€1452
+
+€4043
+
+Quantity
+2
+
+9
+
+Total
+
+€8520
+
+€17451
+
+€14660
+
+€5808
+
+€4043

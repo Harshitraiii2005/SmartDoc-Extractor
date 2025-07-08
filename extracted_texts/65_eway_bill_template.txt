@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-765640
+Date: 29 Mar 2025
+Valid From: 11 Feb 2025 To 21 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-2833
+
+Transporter ID: TID-3786
+
+Transporter Name: Li, Andrews and Benson
+
+Document Reference
+
+Type: Invoice
+No: DOC-7688
+
+Taxable Value Tax Rate (%)
+
+International $5676.16 iB
+
+Reason: Most man current.
+

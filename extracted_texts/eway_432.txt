@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-461226
+
+Date: 23/04/2025
+
+Consignor:
+
+Dutt-Trivedi
+
+93/66, Ghosh Path, Gudivada-461210
+Consignee:
+
+Bhargava Inc
+
+548, Manne Road Nashik 701317
+Vehicle No: WI51LL8151
+
+GSTIN: fd922514wv390Z9
+
+Item Description
+
+Tempora Maxime ut blanditiis.
+
+Dolor Facilis alias tempore.
+
+Quantity
+34
+
+33
+
+Value
+
+%33689
+
+233317

@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-76182
+
+Invoice Date: 24 Sep 2023
+
+Issued By:
+
+lyengar, Chand and Joshi
+63 Chand Marg Shimla-986646
+
+To:
+Mangal LLC
+
+52/01, Behl Zila, Davanagere 794579
+
+GSTIN: xL040157V1344Z3
+
+Item
+Blanditiis
+Voluptate
+Voluptatum
+Commodi
+
+Sed
+
+Description
+
+Assumenda adipisci excepturi.
+
+Molestiae dolor enim.
+Non quisquam.
+Debitis harum beatae dolore.
+
+Inventore ea dolores.
+
+Grand Total: €41534
+
+Rate
+
+€1327
+
+€3139
+
+€1921
+
+€1441
+
+€1446
+
+Quantity
+9
+
+1
+
+Total
+
+€11943
+
+€3139
+
+€7684
+
+€8646
+
+€10122

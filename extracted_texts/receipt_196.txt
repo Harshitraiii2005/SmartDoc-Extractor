@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-80893
+
+Date: 26 Jan 2025
+
+From:
+
+Raju-Rattan
+
+12/425 Bumb Road, Chandrapur-800689
+To:
+
+Hora Ltd
+
+74/09, Dayal Street Bhilwara-515973
+Amount Paid: $42845
+
+Payment Mode: Card

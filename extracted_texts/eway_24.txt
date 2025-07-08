@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-627290
+
+Date: 17 Dec 2024
+
+Consignor:
+
+Agrawal and Sons
+
+H.No. 86, Sura Road Vadodara 446766
+Consignee:
+
+Das, Khanna and Chand
+
+H.No. 58 Char Nagar Morbi 816716
+Vehicle No: HB17af3386
+
+GSTIN: eR021930NN02226
+
+Item Description
+
+Quas Non ab impedit atque officiis.
+
+Quantity
+
+36
+
+Value
+
+€25541

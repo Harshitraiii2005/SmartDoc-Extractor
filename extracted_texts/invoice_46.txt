@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-4564
+
+Date: 29/10/2023
+
+Issued By:
+
+Das-Basak
+
+H.No. 50, Sinha Path Gurgaon-238666
+
+To:
+
+Tank-Lala
+
+H.No. 927, Vaidya Street, Yamunanagar 895442
+
+GSTIN: Xx416781DX409Z5
+
+Item Description Rate
+Totam Odit ut atque quaerat. 990
+Reiciendis Ab sit totam. 21918
+Ilum Ullam facilis eius quod. %2183
+
+Grand Total: =38951
+
+Quantity
+4
+8
+
+9
+
+Total
+
+%3960
+
+%15344
+
+=19647

@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-99244
+
+Date: 17-08-2023
+
+From:
+
+Chakrabarti, Tara and Chauhan
+H.No. 83 Mall Marg Rohtak-298699
+To:
+
+Char, Batra and Devi
+
+41, Kari Street, Orai-484105
+Amount Paid: $28226
+
+Payment Mode: Card

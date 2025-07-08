@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-75418
+
+Date: 15 Jun 2025
+
+From:
+
+Date Group
+
+36/36 Dugar Path, Miryalaguda 593332
+To:
+
+Bhatia-Korpal
+
+232, Baria Street, Begusarai-222510
+Amount Paid: $16678
+
+Payment Mode: Card

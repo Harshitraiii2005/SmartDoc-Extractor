@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-84176
+
+Date: 25/04/2025
+
+From:
+
+Konda-Buch
+
+27/22 Kant Circle Pondicherry 896163
+
+To:
+
+Salvi, Sankar and Chhabra
+
+27/804 Raju Ganj, Kalyan-Dombivli 737679
+
+GSTIN: QI961559Rd026Z3
+
+Item Description
+Soluta Laboriosam architecto saepe sequi.
+Maiores Magnam a ipsa.
+
+Atque Fuga distinctio.
+
+Vel Delectus accusantium enim qui doloribus.
+
+Grand Total: €52822
+
+Rate
+
+€4592
+
+€1221
+
+€1248
+
+€1238
+
+Quantity
+8
+
+4
+
+Total
+
+€36736
+
+€4884
+
+€7488
+
+€3714

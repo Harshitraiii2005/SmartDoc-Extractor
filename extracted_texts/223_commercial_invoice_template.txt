@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-7139
+Date: 27 Apr 2025
+
+Exporter
+
+Walker-Mccarty
+223 Benjamin Mount Apt. 721 Berrymouth, HI 80191
+
+Importer
+
+Rivas-Wilkinson
+240 Kyle Ville Fowlerview, OR 06171
+
+Buyer Ref: 65b1c55a-036d-4444-98e7-77ee4 12fd264
+Origin: Northern Mariana Islands
+Destination: Mozambique
+
+Currency: EUR
+Incoterms: EXW
+
+Certain 9787 6 $972.14 $6882.75
+Beautiful 5150 $834.33 $2953.53
+
+Party 6109 6 $38.68 $273.85
+Music 1248 $699.26 $5775.89
+Politics 8310 $58.53 $483.46
+
+Freight: $388.58
+Insurance: $144.26
+Total Invoice Value: $3867.96

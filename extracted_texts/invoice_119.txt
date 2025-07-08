@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-73639
+
+Date: 31/10/2023
+
+Issued By:
+
+Manne Group
+
+H.No. 17 Gera Chowk, Ujjain 031507
+Billed To:
+
+Sengupta-Dara
+
+79/988, Bajaj Circle Vellore 713788
+
+GSTIN: Yp375110S0616Z5
+
+Item Description
+Quo Delectus ex quia debitis.
+Ea Officiis eligendi ullam.
+
+Exercitationem Commodi incidunt commodi repellendus.
+
+Grand Total: $34006
+
+Rate
+$1745
+$2477
+
+$1662
+
+Quantity
+10
+4
+
+4
+
+Total
+$17450
+$9908
+
+$6648

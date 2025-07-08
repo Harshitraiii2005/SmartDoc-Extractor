@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6708
+Date: 05 Jun 2025
+
+Supplier
+
+Adams, Herman and Hodges
+
+182 Jonathan Club Suite 744 West Kimberlychester, NV 50401
+GSTIN: 172730888056
+
+Contact: 862.272.3404x584
+
+Buyer
+
+Edwards LLC
+
+5898 Jones Divide Lake Allisonville, MS 35020
+GSTIN: 301450904165
+
+Contact: 499.857.5434x742
+
+Place of Supply: South James
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+American 2408 '8 | $981.64 $7853.12 $706.78 |$706.78 | $9266.68
+
+Sit 1162 18 | $437.03 $3496.24 $314.66 |$314.66 | $4125.56
+fwil = | 8624 4 | $882.54 $3530.16 $317.71 |$317.71 | $4165.59
+
+Sub Total: $988.93
+
+CGST: $180.73
+
+SGST: $104.95
+
+Grand Total: $1536.73
+
+Amount in Words: 4304 dollars only
+PO Number: PO-7554
+
+Terms: Be ever environmental.
+
+Reverse Charge: No

@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7251
+Date: 12 May 2025
+
+Supplier
+
+Rogers, Jones and Miller
+
+865 Charles Harbors Suite 346 South Justinmouth, MI 06183
+GSTIN: 947722630034
+
+Contact: 971-307-5764
+
+Buyer
+
+Bennett-Lopez
+
+063 Desiree Parkway North Annette, AL 24157
+GSTIN: 164779260517
+
+Contact: 001-312-773-9514x6711
+
+Place of Supply: Jessicaville
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Challenge 7307 $217.35 $1521.45 $136.93 |$136.93 | $1795.31
+History 5114 fo | $473.69 $4263.21 $383.69 | $383.69 | $5030.59
+
+Many 6358 $767.27 $2301.81 $207.16 |$207.16 | $2716.14
+Town 1727 6 | $700.68 $4204.08 $378.37 |$378.37 | $4960.81
+Key 3481 $66.37 $464.59 $41.81 $41.81 $548.22
+
+Sub Total: $694.86
+
+CGST: $67.38
+
+SGST: $87.31
+
+Grand Total: $851.69
+
+Amount in Words: 1206 dollars only
+PO Number: PO-9015
+
+Terms: Child perform me according full.
+
+Reverse Charge: Yes

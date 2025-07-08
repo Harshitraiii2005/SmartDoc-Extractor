@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-44565
+
+Date: 09-11-2024
+
+Issued By:
+
+Buch PLC
+
+H.No. 56 Lal Chowk, South Dumdum 452766
+Billed To:
+
+Kakar Group
+
+H.No. 606, Chatterjee Marg Nandyal-094874
+
+GSTIN: Gp244719JJ244Z2
+
+Item Description
+Id Distinctio sed optio non.
+
+Labore Nulla blanditiis ut non assumenda.
+
+Aliquid Occaecati accusantium quo ad eveniet.
+
+Grand Total: =58684
+
+Rate Quantity
+
+843 8
+3489 10
+3410 5
+
+Total
+
+26744
+
+%34890
+
+17050

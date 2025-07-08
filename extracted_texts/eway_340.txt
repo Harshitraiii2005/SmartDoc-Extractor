@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-991991
+
+Date: 22 Sep 2023
+
+Consignor:
+
+Cherian Inc
+
+09/77 Hegde Road, Barasat-401370
+Consignee:
+
+Gaba-Badal
+
+66 Tripathi Road Rohtak 474858
+Vehicle No: Tw33qZ7976
+
+GSTIN: Mf602390wC779Z9
+
+Item Description
+
+Tempora Laudantium possimus error.
+
+Quantity
+
+30
+
+Value
+
+$18950

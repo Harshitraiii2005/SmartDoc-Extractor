@@ -1,0 +1,77 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-93426
+
+Invoice Date: 31 Mar 2024
+
+Issued By:
+Barman LLC
+
+18/319 Shere Street Malda 644834
+
+Billed To:
+
+Dhingra, Tak and Ratti
+57 D’Alia Ganj Madanapalle-210086
+
+GSTIN: fB172019PB89124
+
+Item
+Voluptate
+Voluptate
+Porro
+Soluta
+Velit
+
+Deleniti
+
+Description
+
+Quisquam alias aliquid fuga.
+
+Alias corporis exercitationem dolores.
+Quam alias corrupti optio ex.
+
+Culpa molestiae.
+
+Sequi enim reiciendis.
+
+Similique cupiditate aliquid officia corporis.
+
+Grand Total: €75270
+
+Rate
+
+€4845
+
+€624
+
+€1815
+
+€2963
+
+€1442
+
+€4194
+
+Quantity
+5
+
+10
+
+Total
+
+€24225
+
+€6240
+
+€16335
+
+€5926
+
+€5768
+
+€16776

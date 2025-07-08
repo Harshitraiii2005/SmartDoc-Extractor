@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-57340
+
+Date: 21-03-2025
+
+From:
+
+Sawhney Ltd
+
+42 Khanna Road Bellary 018154
+To:
+
+Kannan, Rajagopalan and Date
+063 Mall Ganj Mangalore-260043
+
+GSTIN: Do922832Hv131Z9
+
+Item Description Rate Quantity Total
+Cum Porro ab dolore voluptate. $976 3 $2928
+Debitis Error molestias neque tempora atque. $654 8 $5232
+Id Explicabo vel. $2364 5 $11820
+Aut Repellat cum asperiores. $1987 9 $17883
+
+Grand Total: $37863

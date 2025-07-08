@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8085
+Date: 21 Mar 2025
+
+Supplier
+
+Koch Inc
+
+42638 Bowen Walk Suite 044 West Marcfurt, WV 03600
+GSTIN: 930231490380
+
+Contact: (702)864-6746x552
+
+Buyer
+
+Stone-Gardner
+
+714 Nicholson Rapids Suite 971 East Davidberg, IA 01228
+GSTIN: 386163563924
+
+Contact: (528)699-8114x424
+
+Place of Supply: New Paul
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Least 9449 $709.78 $3548.9 $319.4 |$3194 | $4187.7
+
+Reflect 9554 $636.28 $4453.96 $400.86 $400.86 $5255.67
+6985 1 | $231.42 $231.42 $20.83 $20.83 $273.08
+
+Sub Total: $1259.82
+
+CGST: $168.53
+
+SGST: $113.04
+
+Grand Total: $1473.81
+
+Amount in Words: 3675 dollars only
+PO Number: PO-2056
+
+Terms: Much keep camera include door.
+
+Reverse Charge: No

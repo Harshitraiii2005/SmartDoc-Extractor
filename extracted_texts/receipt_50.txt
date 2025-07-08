@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-19399
+
+Date: 19/12/2024
+
+From:
+
+Kuruvilla-Chakraborty
+
+H.No. 011 Comar Street Darbhanga 002160
+To:
+
+Ganesh, Mander and Balasubramanian
+10/79 Som Marg, Tiruvottiyur 634915
+Amount Paid: €33215
+
+Payment Mode: UPI

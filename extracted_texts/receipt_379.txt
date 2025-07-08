@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-86408
+
+Date: 21 Apr 2025
+
+From:
+
+Rao, Mani and Mannan
+
+71/83 Ramachandran Street, Khammam 820321
+To:
+
+Kala-Shanker
+
+71, Bandi Road Ongole-429983
+
+Amount Paid: =21244
+
+Payment Mode: UPI

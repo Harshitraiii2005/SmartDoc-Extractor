@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-54868
+
+Date: 20-07-2024
+
+From:
+
+Bassi, Contractor and Rege
+
+953 Shenoy Street Thanjavur 304761
+To:
+
+Mani, Sundaram and Suri
+
+00, Amble Circle Arrah-119256
+Amount Paid: $18404
+
+Payment Mode: UPI

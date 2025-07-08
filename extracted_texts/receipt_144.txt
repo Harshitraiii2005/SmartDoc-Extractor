@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-59133
+
+Date: 10/07/2023
+
+From:
+
+Bhasin-Sule
+
+H.No. 01 Dugar Circle, Maheshtala-066686
+To:
+
+Mannan-Basak
+
+838 Khatri Marg, Jalandhar 098533
+Amount Paid: $31638
+
+Payment Mode: Card

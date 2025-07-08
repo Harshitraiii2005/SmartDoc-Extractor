@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-61032
+
+Date: 31-08-2024
+
+From:
+
+Khare, Bhardwaj and Sengupta
+96/734 Roy Path Gopalpur-194635
+To:
+
+Sagar, Johal and Sachar
+
+H.No. 950, Lad Circle, Bikaner-677507
+Amount Paid: %39102
+
+Payment Mode: Net Banking

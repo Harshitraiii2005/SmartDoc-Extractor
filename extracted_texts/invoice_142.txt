@@ -1,0 +1,29 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-63905
+
+Invoice Date: 23/01/2025
+Issued By:
+
+Halder Group
+
+782, Devan Street Aizawl-453039
+To:
+
+Dubey, Walia and Swaminathan
+60, Bajwa Street, Salem-268684
+
+GSTIN: Ef735073Jn598Z9
+
+Item Description Rate Quantity Total
+Accusantium Omnis quidem neque suscipit. €604 7 €4228
+Animi Id odio. €4483 10 €44830
+Natus Architecto ea occaecati dolores. €1830 4 €7320
+Repellat Nisi beatae provident eum. €1528 8 €12224
+Cupiditate Ratione blanditiis asperiores. €2009 4 €8036
+Totam Veritatis earum fuga numquam. €2309 10 €23090
+
+Grand Total: €99728

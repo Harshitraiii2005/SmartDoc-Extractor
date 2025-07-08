@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-447
+
+Date: 04 Mar 2025
+
+From:
+
+Bhattacharyya, Kale and Dave
+H.No. 27, Toor Marg Satara-124228
+To:
+
+Grover-Dada
+
+693, Singh Path Nanded-166673
+Amount Paid: €42871
+
+Payment Mode: Card

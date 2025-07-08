@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-392039
+
+Date: 14-12-2024
+
+Consignor:
+
+Bath, Ramachandran and Srinivas
+
+996, Venkataraman Marg, Gudivada-284477
+Consignee:
+
+Guha Inc
+
+808, Som Zila Morbi-939561
+
+Vehicle No: mG28vs9153
+
+GSTIN: ht529426bC011Z0
+
+Item Description
+Laudantium Nam necessitatibus veniam.
+Nisi Quo itaque a.
+
+Ilum Nihil consectetur distinctio quo.
+
+Quantity
+30
+25
+
+16
+
+Value
+$29742
+$19840
+
+$49939

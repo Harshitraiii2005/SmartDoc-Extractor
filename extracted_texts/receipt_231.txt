@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-5657
+
+Date: 24 Jan 2025
+
+From:
+
+lyengar-Chatterjee
+
+H.No. 53 Bhasin Path, Kurnool-362862
+To:
+
+Karan-Kari
+
+38 Chandra Ganj Loni 473501
+Amount Paid: €3283
+
+Payment Mode: Net Banking

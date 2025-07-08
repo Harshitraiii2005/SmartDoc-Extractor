@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-309094
+
+Date: 07 Apr 2025
+
+Consignor:
+
+Ram-Khurana
+
+119 Goswami Road Nizamabad 884667
+Consignee:
+
+Borra Ltd
+
+H.No. 78, Sunder Road Yamunanagar 092163
+Vehicle No: 0e39vs1488
+
+GSTIN: cW4001200z602Z2
+
+Item Description
+Adipisci Nostrum delectus accusantium.
+Voluptatum Facere necessitatibus commodi repudiandae.
+
+Possimus Animi eaque nesciunt beatae.
+
+Quantity
+32
+34
+
+3
+
+Value
+$33001
+$8760
+
+$20064

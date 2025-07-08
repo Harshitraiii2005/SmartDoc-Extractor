@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-2372
+Date: 20 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Fact
+
+Port of Loading: North Jennifer
+Port of Discharge: Lake Tammy
+Place of Delivery: North Michaelville
+
+Container No: CONT-1796
+Marks: Allow
+
+Description of Goods: Value
+
+Gross Weight: 2300 kg
+Measurement: 7 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

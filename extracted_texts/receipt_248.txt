@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-64252
+
+Date: 20-09-2024
+
+From:
+
+Deol Ltd
+
+H.No. 53, Ray Nagar, Satna-189112
+To:
+
+lyengar and Sons
+
+H.No. 444 Lal Nagar, Chapra 021559
+Amount Paid: €2392
+
+Payment Mode: Net Banking

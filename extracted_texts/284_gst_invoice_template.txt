@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6294
+Date: 21 Feb 2025
+
+Supplier
+
+Hutchinson-Mcdonald
+
+00903 Jones Junction Apt. 268 Murillomouth, GU 07248
+GSTIN: 299050467193
+
+Contact: 428.495.3827x60759
+
+Buyer
+
+Kane-Washington
+
+0797 Rodgers Stream Katrinaland, AK 69567
+GSTIN: 942375420997
+
+Contact: 619.303.3653x175
+
+Place of Supply: New Tammy
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Attack 5150 fo | $514.5 $4630.5 $416.75 $416.75 $5463.99
+
+Sub Total: $1136.44
+
+CGST: $71.59
+
+SGST: $107.9
+
+Grand Total: $1886.19
+
+Amount in Words: 1788 dollars only
+PO Number: PO-7857
+
+Terms: Floor prove boy result.
+
+Reverse Charge: No

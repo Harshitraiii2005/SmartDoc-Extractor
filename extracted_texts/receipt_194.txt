@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-31831
+
+Date: 23/04/2025
+
+From:
+
+Sabharwal, Singh and Sundaram
+
+248, Ravel Ganj North Dumdum 712526
+To:
+
+Walla-Ahluwalia
+
+H.No. 29 Mall Circle Shahjahanpur 457297
+Amount Paid: 75397
+
+Payment Mode: Net Banking

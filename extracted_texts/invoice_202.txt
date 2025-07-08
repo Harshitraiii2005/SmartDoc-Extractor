@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-15302
+
+Invoice Date: 13/08/2024
+
+From:
+
+Sodhi LLC
+
+39, Grover Street Maheshtala 498470
+To:
+
+Sekhon Inc
+
+97 Taneja Katni 027892
+
+GSTIN: Sd526645yF383Z9
+
+Item Description
+
+Natus Assumenda soluta.
+
+Assumenda Minus nostrum minus libero minus.
+Sed Quibusdam temporibus aspernatur.
+Libero Reiciendis magni.
+
+Consequuntur Quidem non.
+
+Et Harum laudantium quasi et.
+
+Grand Total: %85179
+
+Rate
+
+4898
+
+3099
+
+2513
+
+8772
+
+%2448
+
+21761
+
+Quantity
+4
+
+8
+
+Total
+
+%19592
+
+224792
+
+%10052
+
+%6176
+
+%12240
+
+212327

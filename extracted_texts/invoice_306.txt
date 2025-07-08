@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-23684
+
+Date: 27/11/2024
+
+From:
+
+Bose-Bhatnagar
+
+H.No. 610 Deol Street Jamalpur 393976
+To:
+
+Master and Sons
+
+31, Trivedi Circle Vadodara-731647
+
+GSTIN: Wu094090fW4992Z9
+
+Item Description Rate Quantity Total
+Laudantium Rerum voluptas quas aperiam. =2960 2 25920
+Dolore Sit velit. 24618 10 246180
+Reiciendis Sint sapiente ipsum corporis. %3956 10 %39560
+Sapiente Libero placeat. %3196 3 79588
+Corrupti Magni quae. %3759 8 %30072
+Dolores Nesciunt minima ipsa. %3996 2 =7992
+
+Grand Total: 139312

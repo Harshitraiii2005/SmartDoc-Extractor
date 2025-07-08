@@ -1,0 +1,50 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6803
+Date: 01 Jan 2025
+
+Supplier
+
+Allen, Bell and Mcneil
+
+3598 Wall Way Suite 370 Gonzalesville, OK 86736
+GSTIN: 220766147658
+
+Contact: 238-365-5657
+
+Buyer
+
+Mack Ltd
+
+2690 Gonzales Estate Suite 751 West Davidside, HI 53987
+GSTIN: 322536123109
+
+Contact: (705)600-2258
+
+Place of Supply: Craigborough
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+My 2722 /9 | $680.97 $6128.73 $551.59 | $551.59 | $7231.9
+
+Kitchen 9099 |8 | $414.88 $3319.04 $208.71 | $298.71 | $3916.47
+Somebody 6256 $500.1 $2000.4 $180.04 | $180.04 | $2360.47
+Ability 2739 $809.47 $3237.88 $201.41 | $201.41 | $3820.7
+
+Sub Total: $871.47
+
+CGST: $167.7
+
+SGST: $146.69
+
+Grand Total: $1459.57
+
+Amount in Words: 3434 dollars only
+
+PO Number: PO-4313
+
+Terms: Responsibility which base foreign.
+
+Reverse Charge: No

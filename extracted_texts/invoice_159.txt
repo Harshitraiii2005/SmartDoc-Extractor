@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-5250
+
+Date: 10/01/2024
+
+Issued By:
+
+Trivedi, Bose and Bawa
+
+H.No. 26, Lala Zila, Guwahati 716463
+To:
+
+Ganguly LLC
+
+37 Deshmukh Ganj Amritsar-702638
+
+GSTIN: qn700866cz390Z5
+
+Item Description
+
+Ipsum Fuga perferendis et.
+
+Velit Temporibus optio excepturi porro quisquam.
+A Neque corporis.
+
+Minima Fugiat numquam vel cum.
+
+Grand Total: $61607
+
+Rate
+
+$2116
+$2933
+$2256
+
+$3949
+
+Quantity
+8
+1
+1
+
+10
+
+Total
+$16928
+$2933
+$2256
+
+$39490

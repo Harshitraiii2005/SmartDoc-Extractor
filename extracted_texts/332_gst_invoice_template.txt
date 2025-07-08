@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9302
+Date: 24 Jan 2025
+
+Supplier
+
+Hogan, Sanchez and King
+
+049 Latoya Fork Apt. 118 Jillstad, ME 11897
+GSTIN: 744369382275
+
+Contact: 555.201.0233
+
+Buyer
+
+Tucker Group
+
+840 John Pass Suite 722 West Alberttown, WI 30165
+GSTIN: 914806244456
+
+Contact: 976-623-1993
+
+Place of Supply: Derrickland
+
+Description ;HSN | Qty Unit Price Taxable Value CGST SGST Total
+Tough 2894 '6 | $286.25 $1717.5 $154.57 | $154.57 | $2026.65
+
+Morning 6476 $359.67 $1798.35 $161.85 |$161.85 | $2122.05
+Environment 5122 4 $965.09 $3860.36 $347.43 |$347.43 | $4555.22
+Decision 4674 $831.04 $8310.4 $747.94 |$747.94 | $9806.27
+
+Sub Total: $581.8
+
+CGST: $74.1
+
+SGST: $100.04
+
+Grand Total: $1112.1
+
+Amount in Words: 1512 dollars only
+PO Number: PO-2408
+
+Terms: Provide charge foreign leader.
+
+Reverse Charge: No

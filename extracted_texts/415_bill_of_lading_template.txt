@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-8736
+Date: 17 Jun 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Fine
+
+Port of Loading: North Kimberly
+Port of Discharge: New James
+
+Place of Delivery: West Ronnie
+
+Container No: CONT-5139
+Marks: Difference
+
+Description of Goods: Avoid
+
+Gross Weight: 3166 kg
+Measurement: 12 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

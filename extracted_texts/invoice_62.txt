@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-52798
+
+Invoice Date: 14-02-2025
+
+From:
+
+Karnik Group
+
+H.No. 47 Chahal Road Kottayam-055201
+
+To:
+
+Basu, Guha and Bansal
+H.No. 04, Sule Chowk Bokaro-250387
+
+GSTIN: ht319466XG329Z2
+
+Item
+Mollitia
+Sint
+Impedit
+
+Laborum
+
+Description
+
+Saepe veniam.
+
+Itaque sed totam earum.
+
+lpsam assumenda.
+
+Modi quidem quaerat.
+
+Grand Total: €51418
+
+Rate
+
+€2513
+
+€1091
+
+€1961
+
+€4482
+
+Quantity
+1
+
+4
+
+Total
+
+€2513
+
+€4364
+
+€17649
+
+€26892

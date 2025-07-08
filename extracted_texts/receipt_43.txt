@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-90120
+
+Date: 20-08-2023
+
+From:
+
+Sood, Dalal and Kari
+
+14 Dubey Zila Jehanabad-770721
+
+To:
+
+Dora-Kant
+
+537 Rajagopalan Ganj Barasat 963545
+Amount Paid: =12091
+
+Payment Mode: Net Banking

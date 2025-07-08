@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-35194
+
+Invoice Date: 13 Jan 2025
+
+From:
+
+Dube-Taneja
+
+95, Soni Ganj Bhiwani-245940
+Billed To:
+
+Kohli, Mander and Sachar
+
+H.No. 57 Gera Road Tenali-56367 1
+
+GSTIN: z1314429AG651Z1
+
+Item Description
+
+Enim Harum culpa error.
+
+Quaerat Sequi quos repellat.
+
+Quaerat Deleniti earum similique.
+
+Voluptas Illum consectetur nostrum voluptas.
+
+Grand Total: $38301
+
+Rate
+
+$1829
+$4013
+$1518
+
+$1593
+
+Quantity
+2
+
+4
+
+Total
+$3658
+$16052
+$10626
+
+$7965

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-42021
+
+Date: 21/10/2023
+
+From:
+
+Setty Ltd
+
+H.No. 810 Chaudhuri Ganj Chandigarh-342386
+To:
+
+Ramakrishnan, Vaidya and Master
+
+98/545, Sengupta Marg Ambala-694980
+Amount Paid: €7263
+
+Payment Mode: Net Banking

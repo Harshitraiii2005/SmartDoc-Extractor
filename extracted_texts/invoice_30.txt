@@ -1,0 +1,75 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-79016
+
+Invoice Date: 13 Sep 2024
+
+From:
+Mander Ltd
+
+710 Chahal Nagar, Howrah 147860
+
+To:
+Chhabra Ltd
+
+423, Cherian Giridih-213464
+
+GSTIN: SD263953MD69524
+
+Item
+Tempora
+Consectetur
+Dolore
+Impedit
+lusto
+
+Dolorum
+
+Description
+
+Quae nesciunt dolor placeat.
+Reprehenderit tempora.
+Optio officia perferendis eos.
+Optio eaque deserunt.
+
+Culpa voluptatum ipsum quod.
+
+Perferendis possimus voluptates rerum.
+
+Grand Total: €76706
+
+Rate
+
+€1828
+
+€4582
+
+€1002
+
+€3216
+
+€4708
+
+€1262
+
+Quantity
+7
+
+2
+
+Total
+
+€12796
+
+€9164
+
+€8016
+
+€9648
+
+€28248
+
+€8834

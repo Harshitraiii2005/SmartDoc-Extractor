@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-92351
+
+Date: 20 Dec 2023
+
+From:
+
+Jaggi, Andra and Kumer
+16/516, Barad Street Kolhapur 922831
+
+To:
+
+Sankar-Kamdar
+
+11/123 Hans Path, Haridwar 672414
+
+GSTIN: RJ500861sV652Z6
+
+Item
+Cupiditate
+Et
+Nesciunt
+Culpa
+
+Ducimus
+
+Description
+
+Aut asperiores minima.
+
+Facere perspiciatis reprehenderit.
+
+Quidem id.
+Beatae omnis dolore alias.
+
+Corrupti accusamus culpa amet.
+
+Grand Total: %82733
+
+Rate Quantity
+956 8
+
+24176 1
+
+=2055 9
+
+4901 10
+
+%851 4
+
+Total
+
+7648
+
+24176
+
+%18495
+
+%49010
+
+%3404

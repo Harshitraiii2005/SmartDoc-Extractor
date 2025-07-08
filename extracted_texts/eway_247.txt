@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-645719
+
+Date: 11-08-2023
+
+Consignor:
+
+Ghosh-Brahmbhatt
+
+54/69, Borah Road Karimnagar 225648
+Consignee:
+
+Bora-Rana
+
+710 Lalla Nagar Tirupati-199996
+Vehicle No: dt64gx3320
+
+GSTIN: IP515259LL523Z1
+
+Item Description Quantity
+
+Ea Error eos. 45
+
+Value
+
+€27410

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-10211
+
+Date: 20 Jul 2024
+
+From:
+
+Khurana Group
+
+87, Salvi, Karimnagar-021872
+
+To:
+
+Sibal-Ratta
+
+H.No. 11, Bala Path Siwan 486973
+Amount Paid: €42552
+
+Payment Mode: UPI

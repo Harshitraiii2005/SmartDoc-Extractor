@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-86224
+
+Date: 17/04/2024
+
+From:
+
+Singh, Gokhale and Jaggi
+362, Vig Road, Solapur-807892
+
+Billed To:
+Warrior-Toor
+
+406 Manda Circle, Panvel-734365
+
+GSTIN: GO864012Yu27024
+
+Item
+Quasi
+Voluptatem
+
+Sed
+
+Description
+
+Veritatis expedita quam consequatur nam.
+
+Commodi beatae vero ipsum.
+
+Sit incidunt esse fugit delectus.
+
+Grand Total: =40488
+
+Rate
+
+22534
+
+2709
+
+=1989
+
+Quantity
+3
+
+7
+
+Total
+
+7602
+
+18963
+
+213923

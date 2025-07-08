@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+EWB No: EWB-899646
+Date: 10 Mar 2025
+Valid From: 11 Jan 2025 To 06 Apr 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-5633
+
+Transporter ID: TID-8456
+
+Transporter Name: Shaw, Martinez and Young
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-8767
+
+E-WAY BILL
+
+[Unit Taxable Value Tax Rate (%)
+$2156.48
+
+$5978
+
+Reason: The.

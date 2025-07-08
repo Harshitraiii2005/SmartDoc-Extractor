@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-476931
+
+Date: 16 Jul 2024
+
+Consignor:
+
+Venkataraman PLC
+
+02, Baral Nagar, Gwalior-342272
+Consignee:
+
+Chandra-Khatri
+
+05/52, Dara Road Belgaum-453928
+Vehicle No: Sz38NT9195
+
+GSTIN: tt517223aT215Z4
+
+Item Description
+
+Nulla Nisi labore commodi enim saepe.
+
+Quantity
+
+48
+
+Value
+
+€39429

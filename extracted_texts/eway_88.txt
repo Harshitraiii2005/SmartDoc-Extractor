@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-240400
+
+Date: 15/03/2025
+
+Consignor:
+
+Mammen PLC
+
+26/91 Bassi Circle Etawah 165501
+Consignee:
+
+Gopal, Thakkar and Barad
+
+80/068, Jhaveri Circle, Nagaon-188278
+Vehicle No: |h21ZF4767
+
+GSTIN: xB6806041M450Z0
+
+Item Description
+Quisquam Quis sequi quisquam.
+Quaerat lusto fuga facere.
+
+Soluta Illo quis adipisci magnam repellat.
+
+Quantity
+21
+17
+
+26
+
+Value
+
+€34939
+
+€6907
+
+€24025

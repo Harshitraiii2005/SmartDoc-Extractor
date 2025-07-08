@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-34259
+
+Invoice Date: 23/06/2025
+
+Issued By:
+
+Bumb, Banerjee and Bhargava
+
+68/52 Sridhar Nagar, Rajahmundry-762472
+To:
+
+Samra, Bhatnagar and Mangal
+
+H.No. 279, Bora Ganj Jamnagar-152649
+
+GSTIN: rU078259PY537Z2
+
+Item Description Rate
+Sed Illo mollitia illum beatae placeat. €593
+Dolore Nisi pariatur. €1325
+
+Grand Total: €14612
+
+Quantity
+9
+
+7
+
+Total
+
+€5337
+
+€9275

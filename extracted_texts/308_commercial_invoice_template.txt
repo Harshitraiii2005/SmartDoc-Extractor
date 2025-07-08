@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5254
+Date: 17 May 2025
+
+Exporter
+
+Logan-Lawrence
+844 Shelton Fall Bobbyshire, NC 43548
+
+Importer
+
+Nelson Inc
+387 Christine Terrace Apt. 756 Jamesfort, ND 86389
+
+Buyer Ref: b2506466-a9d5-4182-ba0f-47dfd0168886
+Origin: United States of America
+Destination: New Caledonia
+
+Currency: EUR
+Incoterms: FOB
+
+Mission 5458 $865.23 $1020.97
+
+Enjoy 8109 $778.6 $9187.48
+Power 6993 Bo $134.17 $1266.56
+
+Freight: $248.69
+
+Insurance: $77.32
+
+Total Invoice Value: $1704.69

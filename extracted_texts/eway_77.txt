@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-183863
+
+Date: 20 Jul 2024
+
+Consignor:
+
+Ganesan, Gulati and Walia
+
+722 Vaidya Street, Suryapet 668330
+Consignee:
+
+Kala-Gill
+
+21/28, Aurora Nagar, Thane-172994
+Vehicle No: Gm55NO2103
+
+GSTIN: fp231010Wp657Z9
+
+Item Description
+lpsam Veniam laborum illo possimus.
+Ratione Laudantium quidem pariatur.
+
+Suscipit Animi ex sequi qui.
+
+Quantity
+18
+36
+
+13
+
+Value
+$33037
+$19361
+
+$7016

@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-92754
+
+Date: 12/01/2024
+
+Issued By:
+
+Sen and Sons
+
+52 Handa Road, Korba-303041
+
+To:
+
+Savant-Sachdeva
+
+H.No. 264 Mahal Marg Deoghar-478530
+
+GSTIN: 1rZ965439CA069Z3
+
+Item Description Rate
+Quo lusto mollitia illum. €3185
+Consequatur Ex aperiam. €2339
+
+Grand Total: €25928
+
+Quantity
+3
+
+7
+
+Total
+
+€9555
+
+€16373

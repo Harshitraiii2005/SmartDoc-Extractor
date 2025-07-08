@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-29315
+
+Date: 28/02/2024
+
+Issued By:
+
+Edwin, Bose and Bail
+
+908, Bir Pune 571417
+
+Billed To:
+
+Bora Ltd
+
+04/30 Zacharia Chowk, Nashik 061878
+
+GSTIN: yo238803pA910Z9
+
+Item Description Rate
+
+Ab Et doloremque quas unde rerum. €1424
+Excepturi Consequatur suscipit placeat cupiditate. €4627
+Pariatur Impedit autem soluta. €1926
+
+Grand Total: €47087
+
+Quantity
+6
+5
+
+8
+
+Total
+
+€8544
+
+€23135
+
+€15408

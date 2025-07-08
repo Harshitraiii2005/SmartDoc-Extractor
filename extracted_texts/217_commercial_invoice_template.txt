@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-2375
+Date: 20 Feb 2025
+
+Exporter
+
+Thomas, Miles and Kirk
+7668 King Rue Suite 425 Kellyburgh, LA 63183
+
+Importer
+
+Boone, Graves and Pace
+473 Khan Dam Suite 140 East Kenneth, WI 20001
+
+Buyer Ref: 3963bb06-a3ba-4ad0-b6b1-8996f70553dd
+Origin: Jamaica
+Destination: Niger
+
+Currency: USD
+Incoterms: CIF
+
+Home 9056 6 $621.38 $4399.37
+Ok 3733 $304.51 $718.64
+
+Off 6318 $859.28 $5069.75
+9852 $945.5 $2231.38
+
+Freight: $126.31
+Insurance: $157.93
+Total Invoice Value: $4109.44

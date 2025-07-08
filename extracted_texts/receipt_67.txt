@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-84618
+
+Date: 06-11-2024
+
+From:
+
+Chandran-Trivedi
+
+10/17 Yohannan Zila, Mau 449219
+To:
+
+Chowdhury, Trivedi and Sawhney
+H.No. 166 Gulati Zila Danapur 326958
+Amount Paid: €3680
+
+Payment Mode: Card

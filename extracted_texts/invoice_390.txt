@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-66180
+
+Invoice Date: 08 Apr 2025
+
+Issued By:
+
+Malhotra-Bains
+
+61/74 Krishnamurthy Road Bhind 850791
+Billed To:
+
+Jha, Jani and Kulkarni
+
+H.No. 96, Kapadia Marg Davanagere 904920
+
+GSTIN: Lp274802aY587Z9
+
+Item Description Rate
+Laborum Natus voluptates. €4272
+Ratione Maiores excepturi veniam. €929
+Voluptatibus Asperiores soluta nemo natus. €2472
+
+Grand Total: €54325
+
+Quantity
+7
+
+5
+
+Total
+
+€29904
+
+€4645
+
+€19776

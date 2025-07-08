@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-41034
+
+Invoice Date: 05/11/2024
+
+Issued By:
+
+Korpal Group
+
+88, Sahni Ganj Agartala-475138
+
+To:
+
+Kale-Hari
+
+48/45 Khanna Zila Miryalaguda-398016
+
+GSTIN: Fq014907DC194Z9
+
+Item Description Rate
+Ducimus Vel alias. €4726
+Dolore Quidem saepe est nobis inventore. €2189
+
+Grand Total: €24775
+
+Quantity
+2
+
+7
+
+Total
+
+€9452
+
+€15323

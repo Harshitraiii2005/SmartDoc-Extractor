@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-31564
+Date: 16-12-2023
+
+From:
+
+Divan Ltd
+
+51 Wali Ganj Gwalior-972307
+To:
+
+Sandal-Kant
+
+H.No. 491, Tak, Malda 256925
+Amount Paid: €2051
+
+Payment Mode: Card

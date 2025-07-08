@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-88096
+
+Date: 14/09/2024
+
+From:
+
+Kar-Aggarwal
+
+38, Chada Shimoga-738480
+
+To:
+
+Bera-Buch
+
+H.No. 53 Borra Ganj Jaunpur 831258
+Amount Paid: 7694
+
+Payment Mode: UPI

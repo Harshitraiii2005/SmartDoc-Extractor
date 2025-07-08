@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-61879
+
+Date: 10 Nov 2024
+
+From:
+
+Karan Ltd
+
+18 Bains Marg Ujjain-336533
+
+To:
+
+Kaul Group
+
+87 Gaba Path, Saharanpur-702911
+Amount Paid: €45468
+
+Payment Mode: Net Banking

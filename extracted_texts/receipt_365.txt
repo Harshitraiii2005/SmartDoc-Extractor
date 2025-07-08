@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-22622
+
+Date: 21-09-2023
+
+From:
+
+Bobal, Thaman and Bandi
+
+H.No. 089 Vig Zila Thiruvananthapuram 136462
+To:
+
+Mann LLC
+
+296, Gole Nagar, Udupi 971462
+
+Amount Paid: $22991
+
+Payment Mode: Cash

@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14063
+Date: 10 Nov 2024
+
+From:
+
+Kurian-Chaudry
+
+316, Khatri Zila Sirsa-344203
+To:
+
+Kala-Biswas
+
+64, Ahluwalia Shimla 960094
+Amount Paid: €22249
+
+Payment Mode: UPI

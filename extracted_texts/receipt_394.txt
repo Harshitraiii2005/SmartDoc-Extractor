@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73341
+
+Date: 25 Jan 2024
+
+From:
+
+Chawla, Sem and Tailor
+
+74/294, Bandi Circle Mira-Bhayandar-250597
+To:
+
+Thakur, Dubey and Bhardwaj
+
+148, Barman Road, Giridih-378177
+
+Amount Paid: $15287
+
+Payment Mode: Net Banking

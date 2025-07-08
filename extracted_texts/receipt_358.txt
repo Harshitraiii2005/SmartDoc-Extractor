@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-28291
+
+Date: 23-06-2024
+
+From:
+
+Madan and Sons
+
+75/232 Anne Ganj, Agra 790324
+To:
+
+Jaggi, Venkatesh and Sani
+
+H.No. 57 Ravel Durgapur-514910
+Amount Paid: $29319
+
+Payment Mode: Net Banking

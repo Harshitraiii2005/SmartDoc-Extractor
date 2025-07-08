@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-9815
+Date: 28 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: He
+
+Port of Loading: East Eric
+
+Port of Discharge: East Carol
+Place of Delivery: New Margaret
+
+Container No: CONT-6385
+Marks: Environmental
+
+Description of Goods: Century
+
+Gross Weight: 1456 kg
+Measurement: 18 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

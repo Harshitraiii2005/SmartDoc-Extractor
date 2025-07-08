@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-2895
+Date: 19 Jun 2025
+
+Supplier
+
+Watson-Mayer
+
+13271 Richard Bypass North Christine, CT 29568
+GSTIN: 976756853725
+
+Contact: 842-814-2482x312
+
+Buyer
+
+Kim, Sims and Glass
+
+5008 Washington Ferry Apt. 244 Williamschester, PA 72101
+GSTIN: 882867003746
+
+Contact: +1-722-431-3707x56349
+
+Place of Supply: Maryton
+
+Development 3647 5 $262.78 $1313.9 $118.25 $118.25 $1550.4
+
+Kid 4300 4 $267.2 $1068.8 $96.19  |$96.19 | $1261.18
+
+Sub Total: $1169.44
+
+CGST: $143.64
+
+SGST: $147.89
+
+Grand Total: $1793.69
+
+Amount in Words: 3456 dollars only
+PO Number: PO-8888
+
+Terms: Herself building than catch.
+
+Reverse Charge: No

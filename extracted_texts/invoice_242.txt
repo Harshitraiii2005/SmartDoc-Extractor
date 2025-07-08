@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-32308
+
+Invoice Date: 30-07-2024
+
+Issued By:
+
+Jhaveri-Yohannan
+
+64/97, Dugar Nagar, Jalandhar 997228
+To:
+
+Dube Group
+
+H.No. 483, Sarna Road, Jamnagar-643264
+
+GSTIN: Iq733795ur610Z21
+
+Item Description Rate Quantity Total
+Laborum Recusandae eum pariatur illum iste. %2163 2 24326
+Temporibus Accusantium iusto quis explicabo. 21108 5 %5540
+Tenetur Eum error nesciunt voluptatibus. 24289 3 =12867
+Pariatur Eos magnam praesentium voluptate. %2276 10 %22760
+Eligendi Dolores deleniti. 24265 1 24265
+Blanditiis Magnam adipisci libero facere. %3651 9 %32859
+
+Grand Total: =82617

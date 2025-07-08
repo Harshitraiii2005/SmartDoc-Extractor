@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-259190
+
+Date: 20-11-2024
+
+Consignor:
+
+Bora, Cheema and Dube
+
+42/864, Balasubramanian Ozhukarai-316758
+Consignee:
+
+Thaker, Bhandari and Srivastava
+
+94/03, Bath Ganj, Hazaribagh 211707
+Vehicle No: ph39nr9893
+
+GSTIN: XN313201ZX179Z0
+
+Item Description
+
+Provident Suscipit sed nemo.
+
+Autem Dolore tempora quia dolore eius.
+
+Quantity
+33
+
+42
+
+Value
+€26384
+
+€7628

@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-12716
+Date: 30/08/2024
+
+Issued By:
+Madan, Garde and Malhotra
+75/385 Edwin Marg, Raurkela Industrial Township-562202
+
+Billed To:
+Hari- Thaker
+431, Chand Zila, Nanded 179265
+
+GSTIN: eT481633A02692Z3
+
+Item Description Rate
+Tempora Maiores dolore quam sint. $923
+Doloremque Quam voluptates est. $4502
+Ipsam Repudiandae nostrum. $4455
+Dolorum Hic cumque eligendi. $4800
+
+Grand Total: $79167
+
+Quantity
+1
+
+2
+
+Total
+$923
+$9004
+$35640
+
+$33600

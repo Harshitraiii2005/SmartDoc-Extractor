@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-493920
+
+Date: 22/05/2024
+
+Consignor:
+
+Thakkar-Badal
+
+H.No. 624 Cheema Zila Anantapur-191604
+Consignee:
+
+Lad, Ramakrishnan and Bhavsar
+
+36/658 Gandhi Chowk, Pimpri-Chinchwad 902583
+Vehicle No: mj15Kw7240
+
+GSTIN: Ro416043Mm2512Z7
+
+Item Description
+
+Maiores Inventore dolor est animi.
+
+Dignissimos Doloremque iure numquam dolorem nobis.
+
+Quantity
+30
+
+6
+
+Value
+$32458
+
+$19419

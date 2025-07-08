@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-54424
+
+Date: 19-06-2024
+
+From:
+
+Behl-Shah
+
+13/849 Kothari Path, Dehradun-956836
+Billed To:
+
+Singhal-Dass
+
+43 Andra Street Khora -076913
+
+GSTIN: £2953044fe6642Z6
+
+Item Description
+
+Dolorum Quam numquam velit.
+
+Expedita Harum eaque earum mollitia eveniet.
+Dolor Eos rerum.
+
+Quam Tempore fugit vel.
+
+Deserunt Voluptates excepturi.
+
+Temporibus Excepturi nisi.
+
+Grand Total: =75505
+
+Rate
+
+1045
+
+%2089
+
+%1242
+
+21733
+
+24427
+
+22243
+
+Quantity
+9
+
+1
+
+Total
+
+9405
+
+2089
+
+26210
+
+215597
+
+%30989
+
+11215

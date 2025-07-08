@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-32474
+
+Date: 02/08/2023
+
+From:
+
+Goyal-Yohannan
+
+73, Choudhary Circle Siliguri-662856
+To:
+
+Bahri-Deo
+
+70/80 Sahota Road Amravati 996025
+Amount Paid: $16889
+
+Payment Mode: Card

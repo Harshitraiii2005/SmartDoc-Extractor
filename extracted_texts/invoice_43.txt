@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-8291
+
+Date: 07-05-2024
+
+From:
+
+Ben-Mangal
+
+23, Ravel Ganj Tinsukia 052718
+
+To:
+
+Lad, Johal and Chopra
+
+57/044, Balakrishnan Chowk Siwan 235231
+
+GSTIN: tF425742dS50421
+
+Item Description Rate
+
+Nulla Sunt est ratione laudantium. €1314
+Enim Voluptatibus eos id. €1434
+Corporis Nemo nobis voluptatem in magni. €3472
+
+Grand Total: €23796
+
+Quantity
+8
+2
+
+3
+
+Total
+
+€10512
+
+€2868
+
+€10416

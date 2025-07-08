@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-24550
+
+Date: 18/08/2024
+
+From:
+
+Acharya, Dara and Char
+
+59/66 Bera Nagar Bulandshahr-102469
+To:
+
+Gupta, Salvi and Kunda
+
+97 Yogi Circle Siwan 934345
+
+Amount Paid: =11408
+
+Payment Mode: UPI

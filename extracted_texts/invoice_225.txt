@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-94288
+
+Invoice Date: 17/01/2024
+
+From:
+
+Rajan-Mander
+
+33 Bhatti Zila, Pimpri-Chinchwad-786625
+To:
+
+Dutta, Deshmukh and Dugal
+
+17/56, Dubey, Muzaffarnagar 633779
+
+GSTIN: Ns827552wk32924
+
+Item Description Rate
+Consequuntur Eos minus iure molestias nulla. $4327
+At Quos et itaque sit molestias. $936
+Delectus Sunt modi non qui. $2419
+Sit Impedit hic optio. $2781
+
+Grand Total: $69453
+
+Quantity
+6
+9
+3
+
+10
+
+Total
+$25962
+$8424
+$7257
+
+$27810

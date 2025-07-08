@@ -1,0 +1,78 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-43683
+
+Date: 19/07/2024
+
+From:
+
+Krishnamurthy-Acharya
+H.No. 297 Lal Nagar, Surat 016909
+
+Billed To:
+
+Uppal-Talwar
+
+15 Lalla Ganj Shimoga-192737
+
+GSTIN: Hv808427xh534Z2
+
+Item
+
+Id
+Molestias
+Natus
+Ipsam
+Eligendi
+
+Amet
+
+Description
+Asperiores at blanditiis modi.
+Consectetur assumenda.
+
+Quaerat impedit quidem officia.
+
+Modi dolore eveniet quam magnam.
+
+Officiis voluptas sequi.
+
+Veritatis eos minus.
+
+Grand Total: %67705
+
+Rate
+
+3505
+
+21382
+
+%2989
+
+21373
+
+22723
+
+%3787
+
+Quantity
+4
+
+6
+
+Total
+
+%14020
+
+%8292
+
+%5978
+
+26865
+
+%13615
+
+%18935

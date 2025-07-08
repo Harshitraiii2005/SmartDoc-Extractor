@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-72339
+
+Date: 19-02-2024
+
+From:
+
+Gola-Bhatia
+
+95/20, Soni Street, Jammu-414004
+
+To:
+
+Bhattacharyya-Dara
+
+H.No. 518 Bath Ganj Alappuzha 255692
+Amount Paid: 76011
+
+Payment Mode: Card

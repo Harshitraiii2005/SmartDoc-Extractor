@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-99391
+
+Date: 02/08/2023
+
+From:
+
+Warrior-Borde
+
+28, Anand Zila, Bidhannagar 229734
+Billed To:
+
+Bandi, Lanka and Kibe
+
+23/34 Bahl Street Dewas-713094
+
+GSTIN: PS721064Bq8792Z8
+
+Item Description
+Atque Aperiam magni nobis.
+Natus Praesentium nam vero.
+
+Laborum Quis aliquid quibusdam enim voluptatibus.
+
+Odio Magnam praesentium pariatur.
+
+Deserunt Odit suscipit ducimus.
+
+Grand Total: €77947
+
+Rate
+
+€4156
+
+€3320
+
+€3749
+
+€2558
+
+€2628
+
+Quantity
+3
+
+1
+
+Total
+
+€12468
+
+€3320
+
+€33741
+
+€17906
+
+€10512

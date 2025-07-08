@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-56817
+
+Invoice Date: 30/01/2025
+
+Issued By:
+
+Ghose-lyengar
+
+13/464, Thaker Nagar, Jodhpur 204308
+
+Billed To:
+
+Chowdhury, Chana and Chaudhari
+H.No. 99 Goyal Ganj, Baranagar-770199
+
+GSTIN: QB577790Hv929Z2
+
+Item
+Quod
+Veniam
+Voluptas
+Itaque
+
+Quibusdam
+
+Description
+
+Sapiente perspiciatis ad nam.
+
+Tenetur sunt architecto perspiciatis dignissimos.
+
+Tempora qui.
+Deserunt repellendus officia exercitationem.
+
+Eos explicabo molestias.
+
+Grand Total: €47851
+
+Rate
+
+€2311
+
+€2499
+
+€2307
+
+€1708
+
+€3184
+
+Quantity
+10
+
+1
+
+Total
+
+€23110
+
+€2499
+
+€4614
+
+€1708
+
+€15920

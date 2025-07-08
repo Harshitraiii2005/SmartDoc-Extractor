@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-21725
+
+Date: 28 Nov 2024
+
+From:
+
+Gole, Dar and Rege
+
+92/430, Choudhary Ganj, Latur-409811
+To:
+
+Bala, Chatterjee and Zacharia
+
+149, Doctor, South Dumdum 084204
+Amount Paid: 746272
+
+Payment Mode: Card

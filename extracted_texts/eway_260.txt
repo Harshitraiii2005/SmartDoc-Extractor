@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-970119
+
+Date: 01/12/2023
+
+Consignor:
+
+Banik-Jayaraman
+
+22/54 Mane Path, Munger 816975
+Consignee:
+
+Varma Group
+
+H.No. 186 Wable Marg, Moradabad 105981
+Vehicle No: OL30gJ4851
+
+GSTIN: aZ8269191p923Z3
+
+Item Description
+Ducimus Natus sed deserunt.
+Odio Quas iusto dignissimos tempora.
+
+Reiciendis Optio architecto corrupti.
+
+Quantity
+18
+19
+
+1
+
+Value
+$43864
+$37884
+
+$36667

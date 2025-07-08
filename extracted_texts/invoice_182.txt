@@ -1,0 +1,29 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-14540
+
+Date: 25 Mar 2024
+
+Issued By:
+
+Kohli PLC
+
+63/36, Rana Road, Mira-Bhayandar-211250
+Billed To:
+
+Tata-Kibe
+
+61 Bedi Street, Anmedabad-925685
+
+GSTIN: pH839523K1533Z1
+
+Item Description Rate Quantity Total
+Perspiciatis Provident magni ab sit. 22149 4 %8596
+Rerum Asperiores vel. 22452 5 %12260
+Molestiae Cum recusandae eligendi. %3969 7 227783
+Expedita Blanditiis ut aperiam. 22445 10 %24450
+
+Grand Total: =73089

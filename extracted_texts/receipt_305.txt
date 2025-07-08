@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-15065
+
+Date: 05-06-2024
+
+From:
+
+Atwal, Jaggi and Sethi
+
+H.No. 523, Chand, Berhampur-100791
+To:
+
+Zacharia-Loyal
+
+205, Chand Ganj Tirupati 732243
+Amount Paid: $13252
+
+Payment Mode: Net Banking

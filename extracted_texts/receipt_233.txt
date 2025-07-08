@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-40321
+
+Date: 02/06/2024
+
+From:
+
+Ghose and Sons
+
+24, Chandran Street Bhiwandi 839003
+To:
+
+Talwar-Balakrishnan
+
+72 Bora Nagar Salem-491247
+Amount Paid: €18332
+
+Payment Mode: UPI

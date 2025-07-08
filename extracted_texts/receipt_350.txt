@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-75777
+
+Date: 19-07-2023
+
+From:
+
+Mangat Inc
+
+H.No. 004 Dhaliwal Path Bhusawal-810542
+To:
+
+Lalla PLC
+
+H.No. 882 Koshy Nagar Mahbubnagar 640489
+Amount Paid: $48515
+
+Payment Mode: UPI

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-36552
+
+Date: 19 Apr 2025
+
+From:
+
+Chad, Shukla and Tak
+
+39/74, Handa Circle, Ambala-086115
+To:
+
+Walia PLC
+
+34/890, Srinivasan Ganj Pali-127306
+
+GSTIN: Dc582753JJ0502Z2
+
+Item Description Rate
+Libero Sunt beatae esse. €1986
+Optio Quibusdam quod illo fugiat quaerat. €1058
+
+Grand Total: €10450
+
+Quantity
+1
+
+8
+
+Total
+
+€1986
+
+€8464

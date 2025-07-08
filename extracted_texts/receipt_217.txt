@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-37462
+
+Date: 24-02-2024
+
+From:
+
+Shankar, Sinha and Bora
+
+85/721 Ahuja Ganj, Imphal 174325
+To:
+
+Kibe PLC
+
+853, Babu Ganj Fatehpur 009806
+Amount Paid: $49967
+
+Payment Mode: UPI

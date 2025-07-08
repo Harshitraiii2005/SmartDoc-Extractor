@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-26340
+
+Invoice Date: 05 Nov 2024
+Issued By:
+
+Sani Ltd
+
+H.No. 535, Bhasin, Mysore-651910
+Billed To:
+
+Rout-Ganesh
+
+291, Rama Zila, Sagar 598001
+
+GSTIN: Vk833040To170Z6
+
+Item Description Rate
+Numquam Fugiat consectetur. $1949
+Laborum Nam sint nobis delectus. $4599
+
+Grand Total: $37886
+
+Quantity
+10
+
+4
+
+Total
+$19490
+
+$18396

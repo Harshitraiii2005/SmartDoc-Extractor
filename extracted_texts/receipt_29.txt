@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-48878
+
+Date: 17-03-2025
+
+From:
+
+Swaminathan, Taneja and Sankar
+25/069 Dalal Path Jaunpur-466292
+To:
+
+Gopal PLC
+
+748, Ravi Zila, Tiruchirappalli-819198
+Amount Paid: 710567
+
+Payment Mode: UPI

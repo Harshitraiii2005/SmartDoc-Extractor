@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-92055
+
+Invoice Date: 15/09/2024
+
+Issued By:
+
+Acharya, Chanda and Raju
+
+05 Borra Chowk, Ambattur-104480
+To:
+
+Agarwal and Sons
+
+06, Dhar Chowk Dehradun-660073
+
+GSTIN: Dx711184Rj499Z1
+
+Item Description Rate
+lpsam Id autem. %4922
+Neque Ducimus quam doloribus facere. %937
+Repellendus Officia porro nam amet aut. %2409
+Ea Quisquam veritatis harum nihil quod. 2801
+
+Grand Total: %57444
+
+Quantity
+1
+
+9
+
+Total
+
+24922
+
+8433
+
+21681
+
+22408

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-1424
+
+Date: 24/03/2025
+
+From:
+
+Chokshi, Keer and Bhandari
+
+H.No. 607 Boase Chowk Bulandshahr-658356
+To:
+
+Dewan Inc
+
+H.No. 68, Rajan Ganj Guwahati-593878
+Amount Paid: $1845
+
+Payment Mode: Cash

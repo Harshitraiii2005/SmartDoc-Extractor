@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-15409
+
+Date: 27/02/2024
+
+From:
+
+Yohannan-Sathe
+
+H.No. 19, Balakrishnan Nagar, Allahabad 975547
+To:
+
+Loke, Deep and Ganesh
+
+619, Bahl Road, Avadi 028301
+
+Amount Paid: 718020
+
+Payment Mode: Net Banking

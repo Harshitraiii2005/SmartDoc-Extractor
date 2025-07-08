@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67953
+
+Date: 17-07-2024
+
+From:
+
+Deep Inc
+
+H.No. 28, Soni Road, Loni 041330
+To:
+
+Kala-Sandal
+
+455, Thakkar Nagar, Udaipur 233131
+Amount Paid: €21418
+
+Payment Mode: UPI

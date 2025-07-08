@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-11211
+
+Date: 05/09/2023
+
+From:
+
+Gupta PLC
+
+98/08 Dey Road Tenali-627521
+
+To:
+
+Borah-Warrior
+
+H.No. 934, Goda Street Nashik 555542
+Amount Paid: 13715
+
+Payment Mode: Net Banking

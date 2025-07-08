@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-6339
+
+Date: 28/05/2024
+
+From:
+
+Gera, Jaggi and Rege
+
+H.No. 730 Wagle Chowk Unnao 875766
+To:
+
+Setty-Dixit
+
+25/917 Reddy Circle Sagar 177668
+Amount Paid: €16235
+
+Payment Mode: Card

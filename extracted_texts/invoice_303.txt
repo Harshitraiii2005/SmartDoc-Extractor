@@ -1,0 +1,61 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-16962
+
+Date: 30/06/2025
+
+From:
+
+Chatterjee, Gupta and Lad
+
+H.No. 910 D’Alia Chowk Kottayam-495477
+To:
+
+Tak Inc
+
+20 Barman Marg Sagar-271726
+
+GSTIN: Qy888203ds653Z21
+
+Item Description
+Quo Consectetur a eius.
+
+Consequuntur Tenetur quos qui tenetur.
+
+Architecto Neque delectus.
+Delectus Quasi temporibus quam nobis asperiores.
+Officiis Illo rerum.
+
+Grand Total: €88665
+
+Rate
+
+€1654
+
+€3892
+
+€697
+
+€1014
+
+€3892
+
+Quantity
+9
+
+10
+
+Total
+
+€14886
+
+€38920
+
+€6273
+
+€9126
+
+€19460

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-742225
+
+Date: 20/12/2024
+
+Consignor:
+
+Basak-Basak
+
+19, Shankar Circle Raiganj 773855
+Consignee:
+
+Borah-lyengar
+
+506 Chopra Circle, Guntakal 029118
+Vehicle No: JA63p10714
+
+GSTIN: Ge564704fd868Z6
+
+Item Description
+
+Earum Quod enim minus iste.
+
+Repudiandae Ut ut sint.
+
+Quantity
+43
+
+12
+
+Value
+$31127
+
+$11455

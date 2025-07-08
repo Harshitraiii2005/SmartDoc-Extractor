@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-25514
+
+Invoice Date: 05-04-2024
+
+Issued By:
+Devi Ltd
+
+496 Sastry Zila, Ozhukarai 947116
+
+To:
+
+Raval, Arora and Soman
+47, Sarna Chowk South Dumdum 848863
+
+GSTIN: 0B247029fp06724
+
+Item
+Esse
+Cumque
+A
+
+Magnam
+
+Grand Total:
+
+Description
+
+Ullam praesentium sit ipsam quos.
+Quas repudiandae harum natus.
+Ut quas.
+
+Doloribus dolore.
+
+%52133
+
+Rate
+
+3705
+
+23584
+
+2747
+
+596
+
+Quantity
+10
+
+3
+
+5
+
+1
+
+Total
+
+%37050
+
+%10752
+
+%3735
+
+%596

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-8506
+
+Date: 06/07/2023
+
+From:
+
+Krish, Contractor and Agate
+
+60/68 Sangha Path, Ballia-736929
+
+To:
+
+Savant-Dutt
+
+82/755 Borde Chowk Begusarai-537607
+Amount Paid: $37808
+
+Payment Mode: Net Banking

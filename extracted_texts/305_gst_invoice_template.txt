@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8073
+Date: 12 Feb 2025
+
+Supplier
+
+Smith-Nicholson
+
+USS Lambert FPO AA 71056
+GSTIN: 493755465922
+
+Contact: +1-355-687-8176x6963
+
+Buyer
+
+Lynch and Sons
+
+21585 Wood Ford Dianaside, NE 88061
+GSTIN: 211975889486
+
+Contact: 610-305-0257x189
+
+Place of Supply: Reevesbury
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Yourself 7292 $253.8 $507.6 $45.68  |$45.68 | $598.97
+
+Mother 1616 fo | $442.98 $3986.82 $358.81 $358.81 $4704.45
+Every 5503 $731.99 $731.99 $65.88 $65.88 $863.75
+
+Sub Total: $1354.96
+
+CGST: $130.69
+
+SGST: $176.35
+
+Grand Total: $1389.08
+
+Amount in Words: 3233 dollars only
+
+PO Number: PO-9064
+
+Terms: Poor process clear real son enjoy boy brother.
+
+Reverse Charge: Yes

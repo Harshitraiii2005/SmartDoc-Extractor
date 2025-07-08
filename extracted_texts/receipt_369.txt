@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-3262
+
+Date: 16-07-2023
+
+From:
+
+Bali Group
+
+20, Kuruvilla Ganj, Ajmer-531480
+To:
+
+Gala, Rau and Dugar
+
+19 Dugal Nagar, Tiruvottiyur 601575
+Amount Paid: $42884
+
+Payment Mode: Card

@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-64191
+
+Invoice Date: 29 Sep 2023
+
+Issued By:
+
+Thaman-Varkey
+
+343 Chaudhuri Nagar, Durgapur-372220
+Billed To:
+
+Sangha Group
+
+26 Dugal Road Agartala 055504
+
+GSTIN: hB605542Z2E01124
+
+Item Description Rate
+Nihil Cupiditate consequuntur tempora quam. $1602
+Earum Quod tempore. $2256
+
+Grand Total: $12882
+
+Quantity
+1
+
+5
+
+Total
+$1602
+
+$11280

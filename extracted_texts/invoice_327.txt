@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-82415
+
+Invoice Date: 17-07-2023
+
+Issued By:
+
+Aurora- Tailor
+
+86 Kuruvilla Circle Knandwa-169481
+
+To:
+Gala, Dayal and Dewan
+981 Ganguly Nagar Suryapet 858927
+
+GSTIN: xX0045810b79021
+
+Item Description
+
+Laudantium Esse sed perferendis eligendi.
+Esse Autem corrupti placeat occaecati.
+Deserunt Ipsum impedit quam hic.
+Aliquam Molestiae porro sapiente.
+
+Grand Total: $82560
+
+Rate
+
+$2611
+$3026
+$3894
+
+$3716
+
+Quantity
+10
+
+10
+
+Total
+$26110
+$30260
+$3894
+
+$22296

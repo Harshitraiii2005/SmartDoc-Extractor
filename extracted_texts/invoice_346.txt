@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-22338
+
+Invoice Date: 20/03/2025
+
+From:
+
+Ben-Lad
+
+17/11 D’Alia, Katihar-075614
+
+To:
+
+Vohra-Sarin
+
+61/447, Kulkarni Chowk Ozhukarai 739902
+
+GSTIN: aM2314641065324
+
+Item Description
+
+Architecto Architecto occaecati ut odio quod.
+Perferendis Exercitationem reiciendis.
+
+Optio Itaque sunt eum vero consequuntur.
+
+Grand Total: €34055
+
+Rate
+
+€1953
+
+€3939
+
+€1720
+
+Quantity
+9
+2
+
+5
+
+Total
+
+€17577
+
+€7878
+
+€8600

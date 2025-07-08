@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-95200
+
+Date: 11-07-2024
+
+Consignor:
+
+Kohli, Dara and Konda
+
+H.No. 25, Choudhary Nagar Amroha 597369
+Consignee:
+
+Rege, Deol and Dave
+
+62/69, Savant Path, Bidar 875665
+
+Vehicle No: mC75kx6690
+
+GSTIN: IP078750YU104Z6
+
+Item Description
+
+Incidunt Aliquid dignissimos.
+
+Corporis Libero quibusdam deserunt quis nisi.
+Corporis Repellat odio.
+
+Error Tempora corporis.
+
+Quantity
+43
+49
+
+15
+
+Value
+
+$49813
+$18059
+$36966
+
+$36866

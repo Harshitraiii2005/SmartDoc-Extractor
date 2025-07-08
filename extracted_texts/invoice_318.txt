@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-59456
+
+Date: 10/10/2023
+
+Issued By:
+
+Balakrishnan-Ray
+979 Yogi Nagar Darbhanga-229125
+
+To:
+
+Suresh-Reddy
+
+14/781, Sarin Zila, Allahabad 873699
+
+GSTIN: RL115355sD2342Z6
+
+Item
+Nostrum
+Quas
+Quo
+
+Aliquam
+
+Description
+
+Quasi quod mollitia id.
+
+Maiores quam excepturi quia.
+
+Debitis perferendis.
+
+Dolor enim soluta est.
+
+Grand Total: €80251
+
+Rate
+
+€3244
+
+€2789
+
+€4215
+
+€1667
+
+Quantity
+10
+
+6
+
+Total
+
+€32440
+
+€16734
+
+€21075
+
+€10002

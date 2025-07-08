@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9161
+Date: 18 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Represent
+
+Port of Loading: Deborahchester
+Port of Discharge: Stewartport
+Place of Delivery: Port Theresaport
+
+Container No: CONT-8935
+Marks: Well
+
+Description of Goods: Call
+
+Gross Weight: 1360 kg
+Measurement: 15 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-37300
+
+Date: 05 Nov 2023
+
+From:
+
+Dass PLC
+
+74/560 Chana Nagar, Shimla-125329
+To:
+
+Dewan, Khosla and Manne
+
+05/972 Saini Marg, Vellore-539813
+Amount Paid: 23016
+
+Payment Mode: Net Banking

@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-603580
+
+Date: 28-02-2024
+
+Consignor:
+
+Talwar-Taneja
+
+332, Gopal Street, Chandigarh 964315
+Consignee:
+
+Setty, Lall and Mahal
+
+H.No. 827, Shenoy Nagar Silchar-497499
+Vehicle No: hh28uk3220
+
+GSTIN: Mt001874sS784Z5
+
+Item Description
+
+Architecto Reprehenderit dolor aliquid.
+
+Quantity
+
+8
+
+Value
+
+$42570

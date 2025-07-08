@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-60225
+
+Date: 22-11-2024
+
+Issued By:
+
+Sekhon-Loke
+
+H.No. 668, Devan Zila, Haridwar 209451
+Billed To:
+
+Doshi-Krishnan
+
+42/240, Agate Chowk Rajahmundry 770362
+
+GSTIN: ty740402IK140Z6
+
+Item Description Rate
+
+Error Aut tempora amet dolores. $2809
+Nihil Quos quos optio. $1418
+Sapiente Vero quos. $3555
+
+Grand Total: $35973
+
+Quantity
+8
+
+2
+
+Total
+$22472
+$2836
+
+$10665

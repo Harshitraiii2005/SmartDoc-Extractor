@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-53637
+
+Date: 06 Nov 2024
+
+From:
+
+Barad-Sampath
+
+36, Bose Street Mango 756772
+
+To:
+
+Mani-Balan
+
+94, Dhar Nagar Karimnagar 360244
+Amount Paid: 747591
+
+Payment Mode: Cash

@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-14278
+
+Invoice Date: 13 Dec 2023
+
+Issued By:
+
+Sagar, Dalal and Jani
+376, Sura Ganj Raebareli 487344
+
+To:
+Mall-Doshi
+
+H.No. 34, Bora Road Kulti-313857
+
+GSTIN: Wa250716rt2212Z4
+
+Item
+Aliquid
+Error
+Tenetur
+Commodi
+
+Nulla
+
+Description
+At error id.
+Unde amet natus.
+
+Repellat quas.
+
+Itaque dolor nisi provident.
+
+Quis enim id dolores nam.
+
+Grand Total: $73857
+
+Rate
+
+$2518
+$3687
+$2704
+$1206
+
+$3816
+
+Quantity
+5
+
+5
+
+Total
+$12590
+$18435
+$18928
+$4824
+
+$19080

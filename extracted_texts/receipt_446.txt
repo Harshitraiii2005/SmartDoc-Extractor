@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-54973
+
+Date: 20/07/2024
+
+From:
+
+Vora, Baral and Borde
+
+29/760 Gulati Marg Dharmavaram 369618
+To:
+
+Sehgal, Varkey and Brar
+
+33/464 Sahni Nagar Dhule-270599
+Amount Paid: €16145
+
+Payment Mode: Card

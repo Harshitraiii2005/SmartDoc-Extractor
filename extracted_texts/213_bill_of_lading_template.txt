@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-4767
+Date: 05 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Citizen
+
+Port of Loading: West Susan
+
+Port of Discharge: Davidsonmouth
+Place of Delivery: Lake Williamville
+
+Container No: CONT-5618
+Marks: Evening
+
+Description of Goods: Personal
+
+Gross Weight: 1127 kg
+Measurement: 17 cbm
+Freight Terms: Collect
+
+BILL OF LADING

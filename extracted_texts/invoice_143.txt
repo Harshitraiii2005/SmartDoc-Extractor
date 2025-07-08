@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-82267
+
+Invoice Date: 19/05/2024
+
+From:
+
+Chatterjee Ltd
+
+33/884 Shan Path Karaikudi 966734
+
+To:
+
+Koshy Group
+
+H.No. 184, Bali Circle New Delhi-957926
+
+GSTIN: Mc334842Vu266Z6
+
+Item Description Rate Quantity Total
+Et Dicta nulla quo minima. 24464 1 24464
+Quia Provident perferendis. %3543 1 %3543
+Praesentium In aperiam ea. %2453 10 %24530
+Sit Non deleniti expedita est minima. 2717 10 27170
+Dignissimos Maiores at officia quae minima. 24264 8 234112
+Recusandae Dignissimos vitae temporibus. %3701 7 %25907
+
+Grand Total: %99726

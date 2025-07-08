@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-55926
+
+Date: 12 Sep 2023
+
+From:
+
+Suri-Chawla
+
+732, Babu Marg Satna 263529
+
+To:
+
+Chacko Ltd
+
+H.No. 370 Bose Circle Varanasi-467125
+Amount Paid: $27618
+
+Payment Mode: Card

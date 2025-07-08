@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-57545
+
+Invoice Date: 28 Dec 2023
+
+Issued By:
+
+Ratti Group
+
+33 Agate Road Hazaribagh 039735
+
+To:
+
+Tella, Devi and Raju
+
+46, Kibe Nagar Kirari Suleman Nagar-752794
+
+GSTIN: aB967080FB162Z9
+
+Item Description
+Voluptate Dolores nobis mollitia.
+
+Tempora Deleniti doloremque.
+
+Deleniti Officiis tenetur placeat distinctio temporibus.
+
+Aut Hic perspiciatis quidem.
+
+Grand Total: $42296
+
+Rate
+
+$3351
+$1610
+$3403
+
+$2171
+
+Quantity
+1
+4
+7
+
+4
+
+Total
+$3351
+$6440
+$23821
+
+$8684

@@ -1,0 +1,1 @@
+COMMERCIAL INVOICEInvoice No: INV: 9911Date: 24 Jan 2025ExporterHill: DunnUSS Hunt FPO AE 00755ImporterAnderson: Swanson2349 Aaron Grove East Steven, HI 78531Buyer Ref: bb14e9df: 9263: 4806: 9f45: 4538dce5b91dOrigin: GrenadaDestination: Central African RepublicCurrency: INRIncoterms: CIFStillFreight: $397.42Insurance: $152.42Total Invoice Value: $3802.95

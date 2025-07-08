@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-85777
+
+Invoice Date: 21-12-2023
+
+Issued By:
+
+Sani-lyengar
+
+10/68, Swamy Nagar Karnal 098931
+
+To:
+
+Wable-Mandal
+
+H.No. 329, Kaul Street, Agartala-248263
+
+GSTIN: kd060073p24852Z2
+
+Item Description
+
+Nobis Molestiae animi totam.
+
+Vitae Officiis omnis sapiente ullam.
+Asperiores Porro ullam exercitationem.
+lusto At maxime architecto.
+
+Consectetur Recusandae numquam qui ratione fuga.
+
+Grand Total: €70909
+
+Rate
+
+€2067
+
+€2567
+
+€2387
+
+€4909
+
+€2396
+
+Quantity
+7
+
+6
+
+Total
+
+€14469
+
+€15402
+
+€11935
+
+€14727
+
+€14376

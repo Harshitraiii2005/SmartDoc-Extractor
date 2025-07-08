@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-1355
+
+Date: 31/01/2024
+
+From:
+
+Sem Inc
+
+22 Korpal Circle, Nashik-491142
+To:
+
+Singhal-Agate
+
+286, Borra Circle Kochi-626413
+
+GSTIN: jR626950FF475Z8
+
+Item Description
+
+Reprehenderit | Quis autem veritatis itaque.
+
+Rem Porro soluta laudantium nesciunt.
+Ea Quisquam autem.
+Veniam Quibusdam reprehenderit magni consequatur.
+
+Grand Total: §74173
+
+Rate
+
+3939
+
+21147
+
+3161
+
+3805
+
+Quantity
+8
+3
+
+10
+
+Total
+
+%31512
+
+73441
+
+%31610
+
+7610

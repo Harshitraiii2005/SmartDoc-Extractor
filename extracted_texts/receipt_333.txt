@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-64693
+
+Date: 26 Jul 2023
+
+From:
+
+D’Alia-Divan
+
+41/53, Thakkar Nagar Fatehpur-846575
+To:
+
+Sanghvi, Babu and Manda
+
+85/17, Subramaniam Zila Dhule 642974
+Amount Paid: €48468
+
+Payment Mode: Card

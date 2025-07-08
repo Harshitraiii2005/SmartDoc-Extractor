@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-812864
+Date: 26 Mar 2025
+Valid From: 04 Jun 2025 To 21 May 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Rail
+
+Vehicle No: VEH-6312
+
+Transporter ID: TID-9155
+
+Transporter Name: Mayo, Gonzales and Massey
+
+Document Reference
+
+Type: Invoice
+No: DOC-2772
+
+Description HSN| Qty Unit Taxable Value Tax Rate (%)
+
+Reason: Language always fine sometimes.
+

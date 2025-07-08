@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-392879
+Date: 05/08/2024
+
+Consignor:
+
+Rau-Kibe
+
+H.No. 53 Dada Path, Pune-223643
+Consignee:
+
+Dass LLC
+
+99/07 Salvi Begusarai 244667
+Vehicle No: dX21gx6345
+
+GSTIN: An993742Br96421
+
+Item Description
+
+Libero Enim itaque iste.
+
+Hic Eius quo est labore.
+
+Autem Neque itaque cum possimus.
+
+Quos Illo ratione voluptatibus.
+
+Quantity
+46
+
+20
+
+5
+
+20
+
+Value
+$36766
+$31443
+$7319
+
+$12939

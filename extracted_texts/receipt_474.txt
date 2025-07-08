@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-68204
+
+Date: 27 Aug 2023
+
+From:
+
+Yohannan Inc
+
+77/616 Chana Circle, Jalgaon-245390
+To:
+
+Subramanian-Chakrabarti
+
+52/375 lyer Circle Siwan 202348
+Amount Paid: §23901
+
+Payment Mode: Card

@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-933889
+Date: 28 Feb 2025
+Valid From: 05 Jun 2025 To 04 Feb 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-7629
+Transporter ID: TID-5231
+Transporter Name: Arroyo-Garza
+
+Document Reference
+
+Type: Invoice
+No: DOC-1733
+
+Taxable Value Tax Rate (%)
+$93.35
+$3619.32
+
+$4523.05
+$943.84
+
+Reason: Energy think baby.

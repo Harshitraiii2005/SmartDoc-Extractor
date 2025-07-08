@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-74755
+
+Date: 15/02/2025
+
+From:
+
+Saraf-Jhaveri
+
+91, Krish Bongaigaon-912812
+
+To:
+
+Ratta-Kohli
+
+H.No. 747 Kapoor Marg, Ozhukarai-924989
+Amount Paid: %10548
+
+Payment Mode: Net Banking

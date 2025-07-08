@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3816
+Date: 02 Feb 2025
+
+Exporter
+
+Hartman, Dunn and Parker
+588 George Oval Suite 369 Johnfort, NE 33344
+
+Importer
+
+Cruz Inc
+6414 John Ramp Suite 409 North Douglas, MH 91144
+
+Buyer Ref: a1974ace-dca3-4d66-9c13-c0d3ed61a59e
+Origin: United Arab Emirates
+Destination: Colombia
+
+Currency: USD
+Incoterms: EXW
+
+Order 1483 $380.34 $897.6
+
+Freight: $432.48
+
+Insurance: $181.5
+
+Total Invoice Value: $3194.88

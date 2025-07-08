@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-60343
+
+Date: 18-01-2024
+
+From:
+
+Sachdev and Sons
+
+10/481, Chad Street, Rajpur Sonarpur 670406
+To:
+
+Chauhan, Kumar and Jaggi
+
+41, Sharma Marg Bhiwandi 512990
+
+Amount Paid: %38710
+
+Payment Mode: Net Banking

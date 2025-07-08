@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-91941
+
+Invoice Date: 23/10/2024
+
+From:
+
+Sastry, Anand and Shere
+
+H.No. 493, Date Street Pudukkottai-188731
+To:
+
+Badal PLC
+
+83/60, Krishnan Ganj, Sri Ganganagar-90357 1
+
+GSTIN: wg0128762S333Z3
+
+Item Description Rate
+Dicta Quod error cupiditate iste. $1340
+Debitis Beatae minus vel unde autem. $1544
+
+Grand Total: $18644
+
+Quantity
+7
+
+6
+
+Total
+$9380
+
+$9264

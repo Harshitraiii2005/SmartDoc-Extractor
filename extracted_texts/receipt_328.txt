@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-56411
+
+Date: 21 Jun 2024
+
+From:
+
+Rajagopal, Sha and Balasubramanian
+115 Mammen Path Ramagundam-428058
+To:
+
+Din-Yohannan
+
+94/54 Arya Nagar, Tezpur 732349
+Amount Paid: €47001
+
+Payment Mode: UPI

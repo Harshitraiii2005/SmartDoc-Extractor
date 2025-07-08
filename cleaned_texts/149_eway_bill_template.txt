@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 528360Date: 05 Feb 2025Valid From: 02 Jul 2025 To 30 Mar 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: SeaVehicle No: VEH: 9090Transporter ID: TID: 4322Transporter Name: Winters GroupDocument ReferenceType: Delivery ChallanNo: DOC: 4254Taxable Value Tax Rate (%)Reason: Return so likely.

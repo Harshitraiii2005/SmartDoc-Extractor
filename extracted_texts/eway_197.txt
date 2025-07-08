@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-409039
+
+Date: 28/05/2024
+
+Consignor:
+
+Seth, Brahmbhatt and Keer
+
+H.No. 039 Sundaram, Bhopal-627888
+Consignee:
+
+Kaul-Babu
+
+H.No. 98 Dar Nagar, Bidar-730869
+Vehicle No: 0141Y15623
+
+GSTIN: IW621426a0550Z0
+
+Item Description
+
+Dignissimos Alias provident.
+
+Reiciendis Occaecati occaecati ab.
+
+Quas Expedita itaque magnam et dolor.
+
+Veritatis Nesciunt quas.
+
+Quantity
+37
+29
+22
+
+13
+
+Value
+
+=11178
+
+=10911
+
+48080
+
+%16958

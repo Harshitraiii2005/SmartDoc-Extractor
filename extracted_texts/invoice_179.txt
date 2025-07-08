@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-85932
+
+Invoice Date: 24-05-2024
+
+From:
+
+Jha Inc
+
+05/190 Shukla Circle, Mehsana 304946
+Billed To:
+
+Raja, Savant and Reddy
+
+21/54 Gade Marg, Adoni-750122
+
+GSTIN: wf752546JK7452Z3
+
+Item Description
+
+Expedita Facere rerum neque ea delectus.
+
+A Amet dignissimos.
+Qui Voluptate rem exercitationem consectetur.
+Ullam Reiciendis delectus similique nihil.
+
+Grand Total: %83304
+
+Rate
+
+24356
+
+3954
+
+21693
+
+23773
+
+Quantity
+8
+1
+4
+
+10
+
+Total
+
+234848
+
+3954
+
+26772
+
+37730

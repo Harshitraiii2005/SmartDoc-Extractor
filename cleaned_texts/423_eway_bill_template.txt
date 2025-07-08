@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 536069Date: 14 Jan 2025Valid From: 06 Apr 2025 To 20 Feb 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: AirVehicle No: VEH: 6244Transporter ID: TID: 9884Transporter Name: Hartman, Norman and McguireDocument ReferenceType: InvoiceNo: DOC: 3602Taxable Value Tax Rate (%)Reason: Set mean.

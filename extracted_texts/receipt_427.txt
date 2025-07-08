@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-18274
+
+Date: 23-04-2025
+
+From:
+
+Bakshi-Varughese
+
+80/478 Savant Street Shimla-037455
+To:
+
+Gade and Sons
+
+18 Sabharwal Marg Dhanbad-721919
+Amount Paid: 18245
+
+Payment Mode: Card

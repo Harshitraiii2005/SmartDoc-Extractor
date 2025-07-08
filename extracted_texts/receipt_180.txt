@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67256
+
+Date: 28 Feb 2024
+
+From:
+
+Rastogi-Kakar
+
+H.No. 135 Ghosh Circle Gorakhpur 710453
+To:
+
+Arora-Bhatti
+
+H.No. 16 Sur Marg, Bahraich 042111
+Amount Paid: 745494
+
+Payment Mode: Cash

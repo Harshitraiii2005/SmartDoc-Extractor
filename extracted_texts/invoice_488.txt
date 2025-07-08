@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-59133
+
+Date: 24 Oct 2024
+
+Issued By:
+
+Sharma Group
+
+58/828 Seshadri Nagar, Nadiad 334759
+To:
+
+Kannan Group
+
+00/06 Lala Chowk, Nadiad-215576
+
+GSTIN: El226707kA453Z5
+
+Item Description Rate
+Quidem Consequatur illo ducimus sapiente id. %4054
+lusto Nostrum dolorum earum possimus. 21995
+
+Grand Total: =40284
+
+Quantity
+6
+
+8
+
+Total
+
+224324
+
+15960

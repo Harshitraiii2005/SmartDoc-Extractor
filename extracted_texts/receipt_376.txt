@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33868
+
+Date: 02-11-2024
+
+From:
+
+Char, Khalsa and Doctor
+
+50/77, Borra Road, Bulandshahr-812791
+To:
+
+Tandon-Swamy
+
+793 Johal Road Jaunpur-395025
+Amount Paid: €13688
+
+Payment Mode: Net Banking

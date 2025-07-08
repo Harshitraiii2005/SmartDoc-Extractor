@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-87332
+
+Invoice Date: 08/07/2024
+
+Issued By:
+
+Karnik Inc
+
+53/430, Borra Road Kolhapur-299928
+To:
+
+Bhandari, Baral and Varughese
+
+26/405 Rajan Chowk, Kishanganj-530562
+
+GSTIN: qv693388Wc155Z7
+
+Item Description
+
+Distinctio Nulla dignissimos aspernatur beatae.
+
+Dicta Repudiandae dolorem officia temporibus iure.
+Rerum Atque harum nihil nulla.
+
+Soluta Voluptatem soluta.
+
+Reprehenderit | Enim facere impedit odit aut.
+
+Commodi Recusandae illum autem.
+
+Grand Total: €92917
+
+Rate
+
+€2716
+
+€686
+
+€4026
+
+€1888
+
+€4429
+
+€2125
+
+Quantity
+5
+8
+
+10
+
+Total
+
+€13580
+
+€5488
+
+€40260
+
+€7552
+
+€13287
+
+€12750

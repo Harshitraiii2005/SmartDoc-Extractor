@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-66705
+
+Date: 08 Sep 2024
+
+From:
+
+Dugar LLC
+
+H.No. 66, Chowdhury Ganj Dewas-100971
+To:
+
+Kala Ltd
+
+H.No. 494, Kota Nagar Thanjavur 667994
+Amount Paid: €18824
+
+Payment Mode: UPI

@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8068
+Date: 03 Jun 2025
+
+Exporter
+
+Fisher-Hutchinson
+Unit 4677 Box 8353 DPO AP 46341
+
+Importer
+
+Pope Inc
+793 Felicia Walk Walkerborough, MN 55703
+
+Buyer Ref: 026670ba-84f8-4 1 ee-8289-d6c0f353d679
+Origin: Croatia
+Destination: Kazakhstan
+
+Currency: USD
+Incoterms: CIF
+
+Occur 3529 6 $188.59 $1335.22
+
+Freight: $466.92
+
+Insurance: $142.26
+Total Invoice Value: $3051.3

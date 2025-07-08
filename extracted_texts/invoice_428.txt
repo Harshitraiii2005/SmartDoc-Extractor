@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-16448
+
+Invoice Date: 18-03-2025
+
+From:
+
+Borde Inc
+
+310 Randhawa Marg, Mirzapur-443839
+To:
+
+Sinha, Kant and Ravel
+
+H.No. 980 Lad Street Chinsurah-353800
+
+GSTIN: Jm672333AY101Z2
+
+Item Description Rate
+Reprehenderit Saepe ut nisi officiis. €2763
+Repellat Voluptas nisi. €4661
+
+Grand Total: €61290
+
+Quantity
+7
+
+9
+
+Total
+
+€19341
+
+€41949

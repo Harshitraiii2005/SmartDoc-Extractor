@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-7055
+Date: 22 Jun 2025
+
+Exporter
+
+Taylor-Mahoney
+09143 Lauren Inlet Suite 826 Port Frank, FL 65100
+
+Importer
+
+Carr, Sanders and Kelly
+USS Graham FPO AA 66257
+
+Buyer Ref: 1a30c91f-3e81-4df8-aa8c-c0c96ad85079
+Origin: Netherlands Antilles
+Destination: Sudan
+
+Currency: EUR
+Incoterms: CIF
+
+escinion «(HSN ay [unwroce [Tom
+
+Freight: $390.97
+
+Insurance: $144.12
+
+Total Invoice Value: $1709.18

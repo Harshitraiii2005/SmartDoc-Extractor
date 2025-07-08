@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-49065
+
+Invoice Date: 29 Sep 2023
+
+From:
+
+Wable Ltd
+
+H.No. 77, Agate Circle Munger 939543
+To:
+
+Dyal-Varghese
+
+H.No. 07 Hora Path, Medininagar 714165
+
+GSTIN: SB435043yz90921
+
+Item Description Rate
+
+Commodi Distinctio quam explicabo. €4607
+Saepe Saepe nam. €3621
+Asperiores IIlum sunt dolorum. €2759
+
+Grand Total: €69742
+
+Quantity
+9
+
+4
+
+Total
+
+€41463
+
+€14484
+
+€13795

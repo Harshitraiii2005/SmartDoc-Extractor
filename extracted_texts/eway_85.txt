@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-224406
+
+Date: 16/11/2024
+
+Consignor:
+
+Chanda PLC
+
+H.No. 908 Cheema Street, Giridih 523056
+Consignee:
+
+Dash-Balan
+
+34/25 Rao Path, Giridih-392679
+
+Vehicle No: EO006gV4436
+
+GSTIN: Re374662XR232Z4
+
+Item Description
+
+Quisquam Illo occaecati neque nam libero.
+
+Nobis Placeat perferendis magni cupiditate.
+
+Quantity
+46
+
+7
+
+Value
+
+%32447
+
+%15087

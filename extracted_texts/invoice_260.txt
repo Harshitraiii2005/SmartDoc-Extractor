@@ -1,0 +1,59 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-33358
+
+Invoice Date: 26/10/2024
+
+From:
+
+Venkataraman-Vohra
+
+85/246 Bahl Zila, Bhavnagar 884045
+To:
+
+Dugar-Dara
+
+91, Hans Road Nandyal-742644
+
+GSTIN: sg6340280k19221
+
+Item Description
+
+Error In iure nostrum adipisci voluptatum.
+Autem Ex harum eum minus cumque.
+Consequuntur Dignissimos minus illum ex.
+
+Est Ipsa nemo et nisi.
+
+Vero Quam voluptate velit ipsam.
+
+Optio Et et reprehenderit iure maxime.
+
+Grand Total: $142512
+
+Rate
+
+$2087
+$3506
+$4212
+$1345
+$4962
+
+$3586
+
+Quantity
+10
+
+8
+
+Total
+$20870
+$28048
+$25272
+$2690
+$29772
+
+$35860

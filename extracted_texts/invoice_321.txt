@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-18418
+
+Invoice Date: 19-12-2024
+
+From:
+
+D’Alia Inc
+
+H.No. 363, Kalita Jhansi 604929
+Billed To:
+
+Bawa and Sons
+
+91/47 Ray Chowk Panvel 855527
+
+GSTIN: MS269204Sz39024
+
+Item Description
+Pariatur | Aperiam saepe.
+
+Veritatis Quisquam ipsam explicabo.
+
+Eos Repellendus accusamus commodi voluptate.
+
+Grand Total: $38296
+
+Rate
+$1684
+$1341
+
+$3761
+
+Quantity
+6
+
+7
+
+Total
+$10104
+$9387
+
+$18805

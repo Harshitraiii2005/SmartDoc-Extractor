@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-307
+
+Date: 21-07-2024
+
+Consignor:
+
+Ramakrishnan, Doctor and Raman
+
+46, Agate Ganj Belgaum-770937
+Consignee:
+
+Sarin Ltd
+
+213, Chopra Nagar, Rajpur Sonarpur 628902
+Vehicle No: FP51gY5665
+
+GSTIN: aQ8631450S66524
+
+Item Description
+
+Aspernatur Magni animi alias.
+
+Eveniet Recusandae sint itaque.
+
+Mollitia Perspiciatis ad doloremque iste explicabo.
+
+Ilum Velit excepturi labore.
+
+Quantity
+22
+
+2
+
+14
+
+18
+
+Value
+
+%12043
+
+%30687
+
+243520
+
+243401

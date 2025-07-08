@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-875715
+
+Date: 04-06-2024
+
+Consignor:
+
+Luthra, Ahluwalia and Ganesh
+
+20, Rajagopal Road Rajahmundry-361678
+Consignee:
+
+Raman-Bahl
+
+H.No. 130 Venkatesh Zila, Chapra-667788
+Vehicle No: KW85xp7320
+
+GSTIN: u0158224jX866Z6
+
+Item Description
+
+Laudantium Eius tempore.
+
+Excepturi Tenetur veniam.
+
+Facilis Impedit doloribus laudantium ipsa.
+
+Consequatur Eius inventore nesciunt dolor animi.
+
+Quantity
+4
+
+15
+
+28
+
+45
+
+Value
+
+9955
+
+%27790
+
+228937
+
+%30528

@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6062
+Date: 04 Apr 2025
+
+Supplier
+
+Bowen Group
+
+951 Joseph Loop Meganbury, KY 30209
+GSTIN: 166736832582
+
+Contact: 363-781-7645x48213
+
+Buyer
+
+Buck-Moore
+
+605 Jennifer Ports Rebeccamouth, AK 33125
+GSTIN: 973031071006
+
+Contact: (786)214-8536
+
+Place of Supply: New Robertburgh
+
+Hospital 3204 on $27.19 $163.14 $14.68 $14.68 $192.51
+
+Hit | 3849 2 $150.38 $300.76 $27.07 |$27.07 | $354.9
+
+Sub Total: $788.6
+
+CGST: $167.14
+
+SGST: $105.12
+
+Grand Total: $1655.15
+
+Amount in Words: 3675 dollars only
+PO Number: PO-7845
+
+Terms: Water affect clear result up.
+
+Reverse Charge: Yes

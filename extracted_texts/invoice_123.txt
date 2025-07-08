@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-30545
+
+Invoice Date: 04/08/2023
+
+Issued By:
+
+Dayal Inc
+
+H.No. 595, Mander Road Rewa 367036
+Billed To:
+
+Raval-Barad
+
+H.No. 222 Sinha Zila, Aizawl-558675
+
+GSTIN: kD047082Dv340Z1
+
+Item Description Rate
+Placeat Voluptatem deleniti molestias officia. €2919
+Porro Excepturi debitis accusantium molestias. €699
+
+Grand Total: €6537
+
+Quantity
+2
+
+1
+
+Total
+
+€5838
+
+€699

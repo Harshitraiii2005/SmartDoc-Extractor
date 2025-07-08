@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-45157
+
+Date: 02-10-2023
+
+From:
+
+Jani-Hayre
+
+H.No. 18, Dar Nagar, Anmedabad 634858
+To:
+
+Walla-Kale
+
+H.No. 37 Chawla Road, Vasai-Virar-059329
+Amount Paid: €15732
+
+Payment Mode: Net Banking

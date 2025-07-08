@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-33824
+
+Invoice Date: 23-11-2024
+
+From:
+
+Sahota Ltd
+
+03, Dhawan Path, Ambala-913163
+
+To:
+
+Gola and Sons
+
+28/626 Karpe Ganj, Katni-109979
+
+GSTIN: Xy351168gK083Z7
+
+Item
+
+Sunt
+
+Laborum
+
+Error
+
+Eos
+
+Description
+
+Nemo consequuntur aut quo.
+
+Repellendus omnis facilis.
+A laborum ipsum deserunt.
+
+Est facere quibusdam.
+
+Grand Total: €109606
+
+Rate
+
+€4655
+
+€3363
+
+€4220
+
+€1347
+
+Quantity
+10
+5
+
+10
+
+Total
+
+€46550
+
+€16815
+
+€42200
+
+€4041

@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-89770
+
+Date: 10/09/2024
+
+From:
+Bedi LLC
+
+H.No. 823, Bumb Chowk Dewas 265909
+
+Billed To:
+
+Ben, Balasubramanian and Brahmbhatt
+22 Basu Ganj Satara-658459
+
+GSTIN: uX915034RI785Z9
+
+Item
+Eligendi
+Explicabo
+Rem
+
+Nihil
+
+Voluptate
+
+Description
+Ducimus aut vitae.
+Beatae nobis.
+Ducimus ullam.
+
+Aspernatur optio hic recusandae.
+
+Voluptas impedit omnis optio quod.
+
+Grand Total: $53237
+
+Rate
+
+$4265
+$1797
+$2579
+$4917
+
+$754
+
+Quantity
+2
+
+1
+
+Total
+$8530
+$1797
+$7737
+$34419
+
+$754

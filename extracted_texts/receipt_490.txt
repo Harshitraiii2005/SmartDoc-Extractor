@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-62266
+
+Date: 21-02-2024
+
+From:
+
+Korpal-Gera
+
+87 Sarin Marg Deoghar-239288
+
+To:
+
+Bera-Dhar
+
+72/92 Walla Road Nagercoil-137698
+Amount Paid: 743250
+
+Payment Mode: Card

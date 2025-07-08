@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-4766
+
+Invoice Date: 15 Aug 2024
+
+From:
+
+Choudhry LLC
+
+H.No. 874, Mahajan Marg, Bhubaneswar 964358
+To:
+
+Chaudhuri Group
+
+H.No. 521, Agarwal Road, Kavali 367182
+
+GSTIN: AM948707BS794Z6
+
+Item Description Rate
+
+Autem Optio voluptatibus temporibus. $2685
+At Perferendis rem officiis. $1990
+Doloribus Repudiandae aperiam quo beatae. $4164
+
+Grand Total: $65253
+
+Quantity
+9
+
+6
+
+Total
+$24165
+$11940
+
+$29148

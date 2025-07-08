@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-80838
+
+Date: 27-05-2024
+
+From:
+
+Sem, Ramanathan and Raj
+
+15, Bhargava Road, Pondicherry 439407
+To:
+
+Batta Ltd
+
+16/732 Devi Nagar Amritsar-040366
+Amount Paid: €35796
+
+Payment Mode: Card

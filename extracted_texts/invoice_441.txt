@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-58095
+
+Invoice Date: 01 Jun 2024
+
+From:
+
+Wable Group
+
+37, Bhatnagar Dhule-408641
+
+Billed To:
+
+Lad Inc
+
+905, Dugar Chowk Karawal Nagar-972685
+
+GSTIN: 1j308002dj89021
+
+Item Description
+Tempore Sapiente optio.
+Culpa Adipisci iste minima.
+
+Commodi Corrupti aperiam tempora facere occaecati.
+
+Grand Total: $38488
+
+Rate
+$2072
+$4152
+
+$2876
+
+Quantity
+1
+
+6
+
+Total
+$2072
+$24912
+
+$11504

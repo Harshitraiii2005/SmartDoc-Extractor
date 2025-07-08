@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-46278
+
+Date: 11/01/2025
+
+From:
+
+Divan, Saxena and Varughese
+
+33/546, Kalla Chowk, Aurangabad 222280
+To:
+
+Baria Group
+
+03/005 Bir Ganj, Haridwar 410627
+Amount Paid: $26067
+
+Payment Mode: Card

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-38272
+
+Date: 12-10-2024
+
+From:
+
+Srivastava, Shankar and Sane
+
+34 Chokshi Road, Begusarai-610160
+To:
+
+Rout and Sons
+
+98 Samra Path Ratlam 076416
+Amount Paid: $23983
+
+Payment Mode: UPI

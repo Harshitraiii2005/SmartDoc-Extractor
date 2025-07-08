@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-29009
+
+Date: 03-06-2025
+
+From:
+
+Ganesh and Sons
+
+H.No. 73 Khatri Circle, Delhi-633541
+To:
+
+Shukla, Shanker and Karpe
+
+H.No. 57 Mand Hindupur-082217
+Amount Paid: $26972
+
+Payment Mode: Cash

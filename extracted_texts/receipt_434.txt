@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-11115
+
+Date: 31/07/2024
+
+From:
+
+Sathe and Sons
+
+H.No. 44, Mani Chowk Uluberia 731261
+To:
+
+Dutta-Doctor
+
+54 lyer Road Hubli-Dharwad-960464
+Amount Paid: =24413
+
+Payment Mode: Cash

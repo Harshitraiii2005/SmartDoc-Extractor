@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-762788
+Date: 14 Jun 2025
+Valid From: 28 Apr 2025 To 06 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-6187
+
+Transporter ID: TID-7448
+
+Transporter Name: Mccarty, Wolf and Rollins
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-2591
+
+a
+
+Taxable Value Tax Rate (%)
+$4908.3
+
+Reason: Professional interest teach space.
+
+$2631.0
+$3898.25
+

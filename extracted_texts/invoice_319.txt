@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-21479
+
+Invoice Date: 10 Nov 2023
+
+Issued By:
+Zachariah-Borah
+
+847 Tak Ganj, Haridwar 390343
+
+Billed To:
+Bandi Inc
+
+72/13, Tripathi Vadodara 775941
+
+GSTIN: Rt483942rU785Z3
+
+Item
+Blanditiis
+Mollitia
+Quis
+
+Aliquam
+
+Description
+Similique magnam nemo.
+
+Saepe aut corporis.
+
+Consequuntur dolores nam.
+
+Consectetur quia doloribus.
+
+Grand Total: $69336
+
+Rate
+
+$1260
+$4536
+$3258
+
+$3321
+
+Quantity
+2
+
+6
+
+Total
+$2520
+$27216
+$13032
+
+$26568

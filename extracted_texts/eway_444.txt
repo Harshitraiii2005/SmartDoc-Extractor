@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-519303
+
+Date: 12 Nov 2023
+
+Consignor:
+
+Jayaraman-Garg
+
+24/213 Bhasin Path, Gopalpur 155292
+Consignee:
+
+Warrior-Batta
+
+818, Raman Chowk, Suryapet 376837
+Vehicle No: Tw92Wx9361
+
+GSTIN: Tf566178xY878Z3
+
+Item Description
+
+Nobis Totam reprehenderit facilis aliquam porro.
+
+Quantity
+
+29
+
+Value
+
+$43927

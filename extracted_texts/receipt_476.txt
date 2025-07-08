@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-13384
+
+Date: 21 Mar 2025
+
+From:
+
+Bumb, Sinha and Devi
+
+24/938 Dugar Path Rajkot-586428
+
+To:
+
+Goda, Anand and Balakrishnan
+
+61/825, Kade Circle, Chandigarh 647353
+Amount Paid: $26094
+
+Payment Mode: UPI

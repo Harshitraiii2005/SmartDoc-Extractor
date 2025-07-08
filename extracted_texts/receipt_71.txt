@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-19442
+
+Date: 06/12/2024
+
+From:
+
+Bhavsar Ltd
+
+45/490, Vaidya Circle, Aligarh 338480
+
+To:
+
+Sidhu, Chana and Anand
+
+19/512, Joshi Chowk Narasaraopet-113423
+Amount Paid: $14713
+
+Payment Mode: Cash

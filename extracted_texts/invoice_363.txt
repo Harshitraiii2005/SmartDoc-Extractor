@@ -1,0 +1,57 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-15584
+
+Date: 14 Jul 2023
+
+Issued By:
+
+Lala-Kapur
+
+H.No. 09, Sagar Ganj Bidhannagar-528963
+Billed To:
+
+Dada, Kalita and Dugar
+
+51/818 Bajaj Nagar Karaikudi 292476
+
+GSTIN: Aw137346Wg040Z6
+
+Item Description
+
+Occaecati Quod quam illum et dolorem.
+
+Recusandae Perspiciatis dolore explicabo pariatur ipsam.
+
+Dolores Temporibus enim architecto.
+Repellendus Doloremque veritatis aut incidunt.
+
+Vitae Veritatis deleniti delectus earum unde.
+
+Grand Total: $84354
+
+Rate
+$3875
+$720
+$4552
+$2039
+
+$1233
+
+Quantity
+8
+
+1
+
+10
+
+Total
+$31000
+$720
+$27312
+$20390
+
+$4932

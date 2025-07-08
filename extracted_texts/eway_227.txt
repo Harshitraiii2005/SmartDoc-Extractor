@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-400577
+
+Date: 25-11-2023
+
+Consignor:
+
+Sarma-Bal
+
+50/25, Biswas Street, Siliguri-768136
+Consignee:
+
+Behl Inc
+
+55/76, Ahuja Path, Panchkula 764964
+Vehicle No: Ee51Qb0091
+
+GSTIN: wW320031JA362Z8
+
+Item Description
+
+Ut Fugiat magnam natus cumque.
+
+Quantity
+
+26
+
+Value
+
+€49139

@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-824701
+Date: 26 Feb 2025
+Valid From: 10 Jun 2025 To 17 Mar 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-4026
+Transporter ID: TID-6323
+Transporter Name: Paul LLC
+
+Document Reference
+
+Type: Invoice
+No: DOC-7904
+
+Reason: Notice room.
+
+fay [nt [Torbevens ——‘[Taxrawo
+Ee Cc
+oles
+odes
+

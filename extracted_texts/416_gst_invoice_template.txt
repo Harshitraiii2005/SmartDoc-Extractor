@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3016
+Date: 16 Jan 2025
+
+Supplier
+
+Grant-Johnson
+
+63834 Marquez Station Schaeferland, AS 81561
+GSTIN: 738468567938
+
+Contact: 468.944.1237
+
+Buyer
+
+Gardner Ltd
+
+14891 David Pines Suite 540 South Jamesburgh, NJ 33538
+GSTIN: 643102137755
+
+Contact: 001-576-435-4766x1425
+
+Place of Supply: Conwayfurt
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Provide 8799 $73.26 $512.82 $46.15  |$46.15 | $605.13
+
+Last 2278 $667.81 $3339.05 $300.51 $300.51 $3940.08
+Rock 6003 fo | $276.45 $2488.05 $223.92 $223.92 $2935.9
+Feeling 5449 $394.6 $1973.0 $177.57 $177.57 $2328.14
+
+Sub Total: $1347.17
+
+CGST: $179.58
+
+SGST: $120.76
+
+Grand Total: $1723.63
+
+Amount in Words: 4204 dollars only
+PO Number: PO-7459
+
+Terms: Group anything form senior.
+
+Reverse Charge: No

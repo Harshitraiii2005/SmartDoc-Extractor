@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3755
+Date: 01 Jul 2025
+
+Supplier
+
+Allen and Sons
+
+91197 Heather Overpass Apt. 287 East Karaland, WY 91679
+GSTIN: 889757901444
+
+Contact: 001-753-914-0356x9300
+
+Buyer
+
+Johnson-Ward
+
+98459 Atkins Squares Daniellestad, KS 66178
+GSTIN: 159202217289
+
+Contact: +1-966-346-3964x78696
+
+Place of Supply: Greenside
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Commercial 6313 $768.38 $1536.76 $138.31 $138.31 $1813.38
+
+Sub Total: $1324.87
+
+CGST: $140.55
+
+SGST: $74.78
+
+Grand Total: $1739.03
+
+Amount in Words: 3056 dollars only
+PO Number: PO-5565
+
+Terms: Year nation if offer school.
+
+Reverse Charge: Yes

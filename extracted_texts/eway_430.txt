@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-166293
+
+Date: 19 Apr 2025
+
+Consignor:
+
+Mangal-Boase
+
+37, Gara Circle Jammu-408236
+Consignee:
+
+Sunder-Zachariah
+
+H.No. 944 Konda Road, Jodhpur-151455
+Vehicle No: Oi77in8529
+
+GSTIN: cu566304Tx488Z8
+
+Item Description
+
+Magni Animi eos.
+
+Sequi Occaecati aliquam asperiores laborum autem.
+Quibusdam Quia recusandae doloremque.
+
+Qui Minus tenetur amet.
+
+Quantity
+14
+25
+19
+
+40
+
+Value
+
+€20095
+
+€37558
+
+€23624
+
+€40284

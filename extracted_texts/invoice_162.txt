@@ -1,0 +1,67 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-48830
+
+Invoice Date: 10-09-2023
+
+Issued By:
+
+Bhatt Group
+
+61/42, Sen Marg, Katihar 968555
+
+Billed To:
+
+Sawhney, Barad and Subramanian
+225 Swamy Circle, Bardhaman-401449
+
+GSTIN: uL715102Kj099Z7
+
+Item
+
+Non
+
+Sequi
+Quisquam
+
+Nobis
+
+Description
+Pariatur ea.
+
+Odio exercitationem rerum ullam.
+
+Rem repellat reiciendis aliquid ducimus.
+
+Fuga cum.
+
+Grand Total: €69020
+
+Rate
+
+€2519
+
+€3539
+
+€3859
+
+€3099
+
+Quantity
+4
+4
+
+10
+
+Total
+
+€10076
+
+€14156
+
+€38590
+
+€6198

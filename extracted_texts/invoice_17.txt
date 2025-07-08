@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-89625
+
+Invoice Date: 16-12-2023
+
+From:
+
+Hegde-Dhingra
+
+51, Golla Ganj, Madhyamgram-273278
+To:
+
+Arya, Srinivasan and Kala
+
+93/03 Raju Path, Kavali-531839
+
+GSTIN: JQ880335P1654Z7
+
+Item Description Rate Quantity
+Quis Sed dolorum et quas. €4689 9
+Est Atque omnis a veritatis. €2484 7
+Omnis Id beatae itaque ut. €1828 6
+Est Impedit labore illo quo. €2560 8
+
+Grand Total: €91037
+
+Total
+
+€42201
+
+€17388
+
+€10968
+
+€20480

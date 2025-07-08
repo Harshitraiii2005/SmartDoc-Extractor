@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-2384
+Date: 05 Mar 2025
+
+Exporter
+
+Ray, Guerra and Davis
+503 Colleen Lane West James, DC 10963
+
+Importer
+
+Krueger LLC
+50995 Nicole Crest Suite 317 Lake Hannah, OK 02371
+
+Buyer Ref: f38cc449-7234-4a65-8821-494113cc9046
+Origin: Micronesia
+Destination: Niger
+
+Currency: USD
+Incoterms: FOB
+
+Description
+
+Industry 6203
+Stuff 2162
+
+Door 9565
+Happy 4792
+
+Freight: $116.1
+
+Insurance: $126.66
+Total Invoice Value: $3284.76
+
+funteree tot
+

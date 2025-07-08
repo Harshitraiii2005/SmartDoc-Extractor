@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14651
+
+Date: 16-02-2025
+
+From:
+
+Thaman, Ganesan and Dora
+
+H.No. 532 Ratta Street Nandyal-975743
+To:
+
+Vora-Gokhale
+
+45/315 Lata Circle, Anmednagar 958717
+Amount Paid: 40249
+
+Payment Mode: Net Banking

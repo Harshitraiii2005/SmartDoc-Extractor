@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-34650
+
+Date: 10-02-2024
+
+From:
+
+Lala, Kurian and Bal
+
+34/31, Ben Circle, Raiganj 496524
+To:
+
+Bakshi, Doctor and Gupta
+
+41/510 Hayre Circle, Jabalpur-587042
+Amount Paid: 40047
+
+Payment Mode: Net Banking

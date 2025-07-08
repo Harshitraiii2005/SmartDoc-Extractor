@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-91992
+
+Date: 16 Mar 2025
+
+From:
+
+Johal-Vig
+
+62/73 Kari Path Bathinda 706227
+Billed To:
+
+Sehgal, Deshpande and Ganesh
+418, Kanda Zila Raebareli 758167
+
+GSTIN: eV219615gc104Z2
+
+Item Description
+
+Totam Accusantium rem molestiae voluptas sint.
+
+Nihil Qui recusandae ab ipsam cumque.
+
+Grand Total: €17805
+
+Rate
+
+€2449
+
+€1743
+
+Quantity
+3
+
+6
+
+Total
+
+€7347
+
+€10458

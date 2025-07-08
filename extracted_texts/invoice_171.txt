@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-53830
+
+Date: 31/05/2025
+
+Issued By:
+
+Bobal-Bala
+
+715, Sethi Circle, Loni-048152
+
+Billed To:
+
+Sastry-Hora
+
+71/03 Sibal Path, Mira-Bhayandar-833421
+
+GSTIN: gy285165MU5912Z8
+
+Item Description Rate
+
+Tenetur Error ab. €1848
+Voluptate Quibusdam inventore nostrum. €3892
+Fuga Officia eius natus minus magnam. €4932
+
+Grand Total: €36716
+
+Quantity
+4
+5
+
+2
+
+Total
+
+€7392
+
+€19460
+
+€9864

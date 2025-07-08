@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-54514
+
+Date: 22 Jul 2024
+
+From:
+
+Venkatesh and Sons
+
+H.No. 01 Bir Nagar, Firozabad-051350
+To:
+
+Ramachandran Group
+
+09/06 Kamdar Marg, Ujjain 417184
+Amount Paid: €9910
+
+Payment Mode: Net Banking

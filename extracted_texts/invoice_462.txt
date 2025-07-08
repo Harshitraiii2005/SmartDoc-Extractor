@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-84663
+
+Date: 18 Jul 2024
+
+Issued By:
+
+Sane, Ram and Wable
+
+H.No. 255, Dutt Circle Bellary 003638
+To:
+
+Rege-Atwal
+
+466, Chopra Ganj Srikakulam 036445
+
+GSTIN: xX436222yv806Z4
+
+Item Description
+
+Ducimus Ipsa ad placeat.
+
+Consequatur | Consequuntur debitis eligendi doloribus illo.
+
+Ex Magnam ut facere.
+
+Quia Odit non.
+
+Grand Total: $63139
+
+Rate
+
+$2372
+$2918
+$2366
+
+$3423
+
+Quantity
+5
+
+10
+
+Total
+
+$11860
+$29180
+$11830
+
+$10269

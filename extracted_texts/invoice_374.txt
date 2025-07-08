@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-47152
+
+Date: 18-12-2024
+
+Issued By:
+
+Thaman-Dube
+
+244, Gokhale Ganj Anantapuram-401997
+To:
+
+Bumb, Sachdeva and Kulkarni
+
+22/221 Mani Path, Saharsa 259598
+
+GSTIN: cO723700002452Z8
+
+Item Description Rate
+Temporibus Natus velit quod. %3907
+Expedita Deserunt autem eveniet. 73438
+
+Grand Total: 10783
+
+Quantity
+1
+
+2
+
+Total
+
+3907
+
+6876

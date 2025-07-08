@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-5809
+Date: 08/08/2024
+
+Issued By:
+Datta, Saxena and Gara
+59/034, Dewan Zila Visakhapatnam 504980
+
+Billed To:
+Dora, Saha and Sathe
+H.No. 55 Das, Jabalpur 959944
+
+GSTIN: Cl147044q021727
+
+Item Description
+
+Voluptatum Nulla tempore reprehenderit sequi temporibus.
+
+Culpa Incidunt id.
+
+Grand Total: €40848
+
+Rate
+
+€2747
+
+€4718
+
+Quantity
+8
+
+4
+
+Total
+
+€21976
+
+€18872

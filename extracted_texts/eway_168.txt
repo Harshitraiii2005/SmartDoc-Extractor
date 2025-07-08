@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-851962
+
+Date: 10 Jan 2024
+
+Consignor:
+Chana-Ghose
+
+759, Viswanathan Circle Kolkata 723558
+
+Consignee:
+
+Sahni, Aurora and Shah
+
+H.No. 466, Deep Chowk, Chandigarh 288071
+
+Vehicle No: TyO6vw9963
+
+GSTIN: kG300381Nj79921
+
+Item
+Ipsam
+Ipsum
+Sed
+
+Aut
+
+Description
+
+Explicabo placeat sunt esse.
+Neque tempore non.
+
+Minus optio maxime.
+
+Qui numquam.
+
+Quantity
+27
+8
+
+21
+
+Value
+
+32155
+
+10370
+
+39781
+
+240773

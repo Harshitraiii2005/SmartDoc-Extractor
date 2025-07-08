@@ -1,0 +1,72 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-35539
+
+Invoice Date: 28 Nov 2024
+
+Issued By:
+Verma Inc
+
+02 Kurian Zila Bhusawal 461701
+
+To:
+
+Datta, Soni and Sarkar
+189, Halder Path Jorhat 540672
+
+GSTIN: my830727zP423Z8
+
+Item
+Exercitationem
+Modi
+
+Aut
+
+Quidem
+
+Rem
+
+Grand Total: €94091
+
+Description
+
+Vitae magni ducimus ab laborum.
+Natus expedita minus.
+
+Nulla quod nemo.
+
+Explicabo enim placeat.
+
+Similique fugiat unde vero magnam.
+
+Rate
+
+€3010
+
+€3077
+
+€1097
+
+€2186
+
+€4823
+
+Quantity
+7
+
+5
+
+Total
+
+€21070
+
+€15385
+
+€5485
+
+€8744
+
+€43407

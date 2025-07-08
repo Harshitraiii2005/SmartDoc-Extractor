@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-73325
+
+Date: 21/09/2024
+
+From:
+
+Krishnamurthy-Hayer
+
+H.No. 467 Barad Chowk, Mumbai-198261
+To:
+
+Randhawa-Sheth
+
+46/32, Krish Circle Proddatur-964236
+Amount Paid: $8532
+
+Payment Mode: UPI

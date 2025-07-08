@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-880185
+
+Date: 10-03-2024
+
+Consignor:
+
+Chand Ltd
+
+H.No. 76 Kumer Marg, Hubli-Dharwad-7567 10
+Consignee:
+
+Dara and Sons
+
+116, Lad Street Phusro 803579
+
+Vehicle No: PL650m1034
+
+GSTIN: Np116228Lf931Z0
+
+Item Description
+
+Cumque Saepe inventore cumque nemo.
+
+Quantity
+
+29
+
+Value
+
+$18648

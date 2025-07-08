@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3528
+Date: 26 Mar 2025
+
+Exporter
+
+Woods Ltd
+0584 Benjamin Points Suite 895 New Jennaburgh, NJ 50800
+
+Importer
+
+Morris Inc
+43422 Miller Rue Suite 474 Lake Kathrynburgh, KS 86520
+
+Buyer Ref: 8dbc74dc-aac7-4063-b166-e92b94e76772
+Origin: Antarctica (the territory South of 60 deg S)
+Destination: Equatorial Guinea
+
+Currency: EUR
+Incoterms: FOB
+
+Stay 7343 $149.08 $527.74
+
+Find 7569 $956.88 $5645.59
+Suddenly 6507 6 $324.72 $2299.02
+
+Freight: $192.61
+
+Insurance: $61.04
+
+Total Invoice Value: $3851.47

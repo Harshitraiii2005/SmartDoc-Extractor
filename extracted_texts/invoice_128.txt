@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-54912
+
+Date: 17-10-2024
+
+Issued By:
+
+Bahl Group
+
+77/335, Sanghvi Mira-Bhayandar-936053
+
+To:
+
+Sule, Kulkarni and Master
+
+12/633, Bhargava Path, Pimpri-Chinchwad 371970
+
+GSTIN: cR892528BS4402Z2
+
+Item Description Rate
+Illum Unde similique. $2926
+Praesentium Expedita ducimus quisquam. $4816
+
+Grand Total: $37674
+
+Quantity
+3
+
+6
+
+Total
+$8778
+
+$28896

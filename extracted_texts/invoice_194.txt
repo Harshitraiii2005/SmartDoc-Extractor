@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-86202
+
+Date: 30 Jun 2025
+
+Issued By:
+
+Batta-Sachdev
+
+11/83 Sawhney Chowk, Gorakhpur 693584
+
+Billed To:
+
+Gupta, Bansal and Setty
+984 Golla Path Dhanbad 117976
+
+GSTIN: nH401826Uf39226
+
+Item
+Corporis
+Suscipit
+Reiciendis
+Debitis
+
+Ut
+
+Description
+Officiis dolorem delectus.
+
+Eius occaecati eius unde unde.
+
+Assumenda alias amet repudiandae officiis.
+
+Reprehenderit officia dicta.
+
+Repellendus quae quod maiores.
+
+Grand Total: $64555
+
+Rate
+$4012
+$2418
+$818
+$4746
+
+$1455
+
+Quantity
+5
+
+6
+
+Total
+$20060
+$14508
+$818
+$18984
+
+$10185

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-27914
+
+Date: 18/06/2024
+
+From:
+
+Ganesan-Wadhwa
+
+H.No. 906 Divan Street, Tirupati-578741
+To:
+
+Sami-D’Alia
+
+53, Dutta, Sagar 109131
+
+Amount Paid: €35149
+
+Payment Mode: UPI

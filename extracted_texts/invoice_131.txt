@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-60549
+
+Date: 16/10/2024
+
+Issued By:
+Ghose-Wali
+
+71/21 Bala Circle Gorakhpur 557580
+
+To:
+
+Kulkarni, Khanna and Mandal
+H.No. 645 Sami Chowk, Saharsa-849741
+
+GSTIN: ck135993Eb392Z3
+
+Item
+Perspiciatis
+Beatae
+Natus
+
+Sed
+
+Rerum
+
+Tenetur
+
+Description
+
+Consequuntur minus doloribus accusantium harum.
+
+Dolor ratione eum eligendi.
+Placeat molestiae nemo mollitia.
+Ducimus minus officiis adipisci.
+Quo id ut itaque officiis.
+
+Eveniet ullam ea amet.
+
+Grand Total: $100510
+
+Rate
+
+$1323
+$3925
+$4376
+$2675
+$2500
+
+$3660
+
+Quantity
+6
+
+5
+
+10
+
+Total
+$7938
+$19625
+$30632
+$2675
+$25000
+
+$14640

@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-34589
+
+Invoice Date: 19 Jul 2024
+
+From:
+
+Badal, Kunda and Bera
+
+H.No. 286, Bora Circle, Kakinada 112863
+To:
+
+Konda Inc
+
+34/22 Kashyap Path, Panipat-226520
+
+GSTIN: aw4753510x303Z7
+
+Item Description Rate
+Eligendi Labore expedita. €2473
+Doloribus | Magnam voluptatem pariatur similique cupiditate. €1991
+Ex Quibusdam reprehenderit commodi. €791
+
+Grand Total: €35658
+
+Quantity
+8
+4
+
+10
+
+Total
+
+€19784
+
+€7964
+
+€7910

@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-8364
+
+Date: 12 Jan 2025
+
+From:
+
+Walia-Gera
+
+H.No. 627, Chawla Marg Bathinda-511678
+To:
+
+Baral PLC
+
+098, Gera Nagar, Gandhinagar-836926
+
+GSTIN: Tr1089630y437Z2
+
+Item Description
+
+Labore Neque magni laboriosam nam.
+Atque Distinctio sapiente consectetur.
+Perferendis Autem consectetur suscipit deleniti.
+Assumenda Ab mollitia iusto.
+
+Quam Eveniet praesentium natus.
+
+Grand Total: $96012
+
+Rate
+
+$2046
+$4299
+$3831
+$2988
+
+$1566
+
+Quantity
+5
+
+10
+
+Total
+
+$10230
+$42990
+$15324
+$14940
+
+$12528

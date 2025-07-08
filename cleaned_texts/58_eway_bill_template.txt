@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 248961Date: 30 May 2025Valid From: 16 Jun 2025 To 14 Mar 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: AirVehicle No: VEH: 6204Transporter ID: TID: 8100Transporter Name: Paul PLCDocument ReferenceType: InvoiceNo: DOC: 6332Taxable Value Tax Rate (%)Reason: Citizen pattern instead.

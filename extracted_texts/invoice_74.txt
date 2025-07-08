@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-90889
+
+Invoice Date: 16 Aug 2024
+
+From:
+
+Agate-Sridhar
+
+14/532 Barman Street, Bihar Sharif 221208
+Billed To:
+
+Loke-Dalal
+
+94/37, Kunda Chowk Siwan 753771
+
+GSTIN: XZ445119Rf075Z4
+
+Item Description Rate
+A Alias quam cum. %2926
+Ut Modi laboriosam. =1898
+
+Grand Total: =36852
+
+Quantity
+10
+
+4
+
+Total
+
+29260
+
+27592

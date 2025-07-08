@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-910251
+
+Date: 01-01-2025
+
+Consignor:
+
+Ganguly-Dhingra
+
+H.No. 443, Tiwari Zila Thanjavur-469328
+Consignee:
+
+Batra, Sarkar and Mani
+
+672, Sankaran Ganj, Adoni 347471
+Vehicle No: Xh29Bs5515
+
+GSTIN: eF444777fU313Z0
+
+Item Description
+
+Corporis Enim alias pariatur sapiente.
+
+Tenetur Impedit sed.
+
+Praesentium Nostrum fugiat veniam explicabo asperiores.
+
+Qui Ab eum rem numquam.
+
+Quantity
+32
+
+5
+
+34
+
+17
+
+Value
+
+%10242
+
+236541
+
+49601
+
+32803

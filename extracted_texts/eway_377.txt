@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-327595
+
+Date: 08/03/2025
+
+Consignor:
+
+Srinivasan-Mandal
+
+83 Tripathi Street, Haldia-718475
+
+Consignee:
+
+Date-Dubey
+
+163 Ramakrishnan Marg, Ramagundam-41 7862
+Vehicle No: qp95kb1404
+
+GSTIN: Co335706bF889Z6
+
+Item Description
+Cum Reprehenderit totam blanditiis.
+Totam Nisi autem.
+
+Numquam Quia doloribus.
+
+Quantity
+22
+4
+
+16
+
+Value
+$19260
+$34795
+
+$48027

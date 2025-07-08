@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-12806
+
+Invoice Date: 27/11/2023
+
+From:
+
+Shroff-Tata
+
+03 Bhandari Road Miryalaguda-700111
+Billed To:
+
+Mallick-Karpe
+
+85 Guha Ganj Ozhukarai-426985
+
+GSTIN: aZ342845YG427Z8
+
+Item Description Rate
+Dolores Doloremque architecto deleniti impedit eveniet. 2947
+Quaerat Delectus ullam explicabo. 21373
+Sequi Sunt fuga vel velit vitae. %846
+Soluta Qui exercitationem omnis molestias. %4003
+
+Grand Total: =39746
+
+Quantity
+6
+
+9
+
+Total
+
+25682
+
+212357
+
+1692
+
+20015

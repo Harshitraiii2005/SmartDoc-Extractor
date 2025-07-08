@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-151376
+
+Date: 08-05-2024
+
+Consignor:
+
+Sur Inc
+
+467 Tata Road Maheshtala 332458
+
+Consignee:
+
+Mangat and Sons
+
+62 Contractor Ganj Bhalswa Jahangir Pur 925699
+Vehicle No: UJ27aU7743
+
+GSTIN: Tw871766RT1042Z3
+
+Item Description
+
+Nostrum Quas voluptate magni aspernatur dicta.
+
+Quantity
+
+36
+
+Value
+
+$26558

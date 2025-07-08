@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-4918
+Date: 19 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Me
+
+Port of Loading: Smallside
+
+Port of Discharge: New Ericshire
+Place of Delivery: East Marissa
+
+Container No: CONT-8016
+Marks: Parent
+
+Description of Goods: There
+
+Gross Weight: 4098 kg
+Measurement: 10 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

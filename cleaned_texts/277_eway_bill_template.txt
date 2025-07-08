@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 815208Date: 03 Jan 2025Valid From: 09 Jun 2025 To 24 Apr 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: RailVehicle No: VEH: 1296Transporter ID: TID: 2806Transporter Name: Harris and SonsDocument ReferenceType: Delivery ChallanNo: DOC: 8001Taxable Value Tax Rate (%)Reason: Indicate.

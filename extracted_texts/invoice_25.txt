@@ -1,0 +1,58 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-65707
+
+Invoice Date: 28-08-2023
+
+Issued By:
+
+Dasgupta, Tank and Bhatti
+
+H.No. 68 Swamy Nagar, Sangli-Miraj & Kupwad-818458
+To:
+
+Sha, Dhillon and Thakur
+
+H.No. 125 Dhaliwal Marg, Noida-753620
+
+GSTIN: Mr0600540h3542Z8
+
+Item Description
+
+Nesciunt Autem fuga ad ullam.
+
+Dolorum Ducimus quisquam perspiciatis corrupti.
+Accusantium Possimus aliquam ipsum.
+
+Excepturi Error commodi esse quaerat.
+
+Doloribus Vitae architecto perferendis distinctio.
+Cupiditate Quaerat rerum dolorum delectus.
+
+Grand Total: $41683
+
+Rate
+$528
+$2518
+$2225
+$1156
+$1919
+
+$4758
+
+Quantity
+7
+
+3
+
+Total
+$3696
+$7554
+$6675
+$10404
+$3838
+
+$9516

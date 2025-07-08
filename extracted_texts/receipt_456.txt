@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-54955
+
+Date: 14 Oct 2023
+
+From:
+
+Gole-Shere
+
+H.No. 842, Baria Street Ichalkaranji 990651
+To:
+
+Loke-Barman
+
+15/646 Shah Path, Gudivada-836906
+Amount Paid: $36240
+
+Payment Mode: Cash

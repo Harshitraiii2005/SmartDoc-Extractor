@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-13865
+
+Date: 30 Mar 2025
+
+From:
+
+Loyal-Kapoor
+
+904 Sampath Circle Burhanpur 192229
+To:
+
+Raj-Sura
+
+23/810, Sankaran Street Bally 679404
+Amount Paid: €42298
+
+Payment Mode: Net Banking

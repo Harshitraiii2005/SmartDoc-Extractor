@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-10213
+
+Date: 20-03-2024
+
+From:
+
+Hegde, Bhagat and Mallick
+
+96, Char Street, Pallavaram 453729
+To:
+
+Balan, Sahota and Madan
+
+262 Kara Circle, Tezpur 871447
+Amount Paid: €32576
+
+Payment Mode: UPI

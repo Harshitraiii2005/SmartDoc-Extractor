@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-54602
+
+Date: 19 Jul 2023
+
+From:
+
+Badal, Varty and Maharaj
+
+11 Andra, Amravati 398591
+
+To:
+
+Kunda, Kapadia and Rajagopalan
+H.No. 434, Bhalla Marg Hospet 031869
+Amount Paid: €18423
+
+Payment Mode: Net Banking

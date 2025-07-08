@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-57305
+
+Date: 06 Aug 2024
+
+From:
+
+Som and Sons
+
+75/824, Bhattacharyya Ganj Nangloi Jat-452395
+To:
+
+Badal-Dass
+
+H.No. 23 Konda Ganj Arrah 993626
+
+Amount Paid: $26278
+
+Payment Mode: Net Banking

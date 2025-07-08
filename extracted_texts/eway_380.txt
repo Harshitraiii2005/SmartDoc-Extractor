@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-956376
+
+Date: 06/10/2024
+
+Consignor:
+
+Zachariah PLC
+
+82 Verma Zila Latur 980105
+Consignee:
+
+Kapoor, Dhawan and Kibe
+
+68/428 Dixit Chowk, Nandyal 780354
+Vehicle No: wD960K0164
+
+GSTIN: dD161937ec128Z0
+
+Item Description
+
+Nemo Id recusandae minus.
+
+Quantity
+
+12
+
+Value
+
+212126

@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-777926
+
+Date: 25 Mar 2024
+
+Consignor:
+
+Walia LLC
+
+575 Joshi Zila Ajmer 480365
+
+Consignee:
+
+Bahri-Ravel
+
+90/61 Kuruvilla Zila, Thiruvananthapuram-741965
+Vehicle No: Xv79NR0249
+
+GSTIN: ly743830IH032Z6
+
+Item Description
+
+Eos Ratione consequuntur eos.
+
+Vel Inventore eius laudantium nobis provident.
+
+Quantity
+6
+
+4
+
+Value
+
+€23852
+
+€27460

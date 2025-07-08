@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-69012
+
+Date: 12-12-2023
+
+From:
+
+Dhaliwal Ltd
+
+H.No. 91, Loyal, Munger 763442
+To:
+
+Batra-Jani
+
+23/45 Manne Zila, Nagercoil 755922
+Amount Paid: €35277
+
+Payment Mode: Card

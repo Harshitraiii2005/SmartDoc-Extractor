@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-39393
+
+Invoice Date: 16 Jul 2024
+
+Issued By:
+
+Sem, Kalla and Madan
+
+462 Kothari Ganj Madhyamgram 902465
+
+To:
+
+Toor, Bains and Uppal
+
+69/555 Konda Ganj, Sultan Pur Majra 024096
+
+GSTIN: pQ049900s057225
+
+Item Description Rate
+Possimus Rem laudantium. 24931
+Quibusdam Autem enim illum. =1559
+Architecto Fugiat cum ipsam aperiam. %590
+
+Grand Total: =35654
+
+Quantity
+6
+2
+
+5
+
+Total
+
+%29586
+
+%3118
+
+2950

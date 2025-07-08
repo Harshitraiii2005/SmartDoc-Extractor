@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-437218
+
+Date: 27-10-2024
+
+Consignor:
+
+Choudhary LLC
+
+H.No. 40, Bandi Road Agra-863490
+Consignee:
+
+Verma Ltd
+
+H.No. 25, Srinivas Chowk Kavali-998180
+Vehicle No: xA86iA0936
+
+GSTIN: 0a504227eC 16427
+
+Item Description
+Sed Quia quia dignissimos.
+Debitis Nemo repellat.
+
+Expedita Voluptatibus quam sunt.
+
+Quantity
+8
+3
+
+27
+
+Value
+
+€30446
+
+€5747
+
+€11368

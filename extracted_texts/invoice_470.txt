@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-41036
+
+Invoice Date: 08 Oct 2024
+
+Issued By:
+
+Dhar-Srinivas
+
+13 Chhabra Zila, Bhatpara 388291
+
+To:
+
+Vaidya, Bhalla and Arora
+04/10 Dugar Ganj Jehanabad-773255
+
+GSTIN: CQ195353HT003Z7
+
+Item
+
+Rem
+Nobis
+Totam
+Voluptates
+
+Quasi
+
+Description
+
+Perferendis temporibus.
+
+Vero quas illum.
+
+Laboriosam doloremque saepe.
+
+Repudiandae repellendus soluta.
+
+Deserunt quam aliquid deserunt accusamus.
+
+Grand Total: $71124
+
+Rate
+$847
+$2620
+$4463
+$1350
+
+$3755
+
+Quantity
+8
+
+5
+
+Total
+$6776
+$13100
+$26778
+$9450
+
+$15020

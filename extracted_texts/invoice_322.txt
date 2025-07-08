@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-48593
+
+Date: 17/09/2023
+
+Issued By:
+
+Jaggi, Sen and Choudhary
+
+247 Sanghvi Marg, Bhopal 304162
+
+To:
+
+Chakraborty Ltd
+
+H.No. 89 Chand Street, Bongaigaon-918444
+
+GSTIN: IW942940et107Z9
+
+Item Description Rate
+Cum Dolorum voluptates animi. $2214
+Expedita Fuga eius hic. $1715
+Facere Doloremque ullam. $938
+Ducimus Assumenda optio debitis. $1482
+
+Grand Total: $34808
+
+Quantity
+6
+
+8
+
+Total
+$13284
+$13720
+$1876
+
+$5928

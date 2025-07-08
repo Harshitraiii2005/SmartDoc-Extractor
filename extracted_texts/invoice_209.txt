@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-45359
+
+Invoice Date: 13 Oct 2023
+
+From:
+
+Dhawan, Kaul and Biswas
+
+76/234, Barad Street Bardhaman 686932
+Billed To:
+
+Tandon-Sami
+
+H.No. 633, Gade Path Panipat 269528
+
+GSTIN: Yr141825qx59624
+
+Item Description
+
+Quasi Unde nobis.
+
+Assumenda Explicabo quo deserunt dolor.
+Molestiae Deserunt tenetur.
+
+Nemo Tempore dolorum voluptas.
+Fuga Tenetur esse dicta explicabo.
+
+Grand Total: 96325
+
+Rate
+
+%3550
+
+24952
+
+%1329
+
+%3442
+
+%3421
+
+Quantity
+9
+
+6
+
+Total
+
+%31950
+
+229712
+
+10632
+
+%13768
+
+10263

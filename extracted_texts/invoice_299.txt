@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-72216
+
+Date: 08-04-2024
+
+Issued By:
+
+Aurora, Shroff and Gaba
+
+H.No. 94, Randhawa Rourkela-220821
+To:
+
+Dey and Sons
+
+H.No. 34, Garde Nagar Amritsar-763741
+
+GSTIN: LU273413g9q951Z5
+
+Item Description
+
+Exercitationem Quidem perferendis laboriosam eligendi.
+
+Soluta Exercitationem quod quas esse blanditiis.
+
+Grand Total: %65955
+
+Rate
+
+24719
+
+23753
+
+Quantity
+10
+
+5
+
+Total
+
+247190
+
+18765

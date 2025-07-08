@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-49976
+
+Invoice Date: 09-09-2023
+
+From:
+
+Sarna-Sami
+
+H.No. 225, Agate Karaikudi-183081
+
+To:
+
+Hegde-Varughese
+
+H.No. 39, Varghese Zila Kanpur 053622
+
+GSTIN: Lt059327tY8162Z8
+
+Item Description Rate
+Consequatur Ipsum quis earum. $823
+Repellat In maxime alias. $3871
+
+Grand Total: $9632
+
+Quantity
+7
+
+1
+
+Total
+$5761
+
+$3871

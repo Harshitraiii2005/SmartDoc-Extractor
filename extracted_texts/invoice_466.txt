@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-89234
+
+Date: 01 Mar 2024
+
+From:
+
+Bir LLC
+
+H.No. 322 Swamy Chowk Jehanabad 490412
+Billed To:
+
+Shankar-Sethi
+
+H.No. 89 Thaker Nagar Sultan Pur Majra-323731
+
+GSTIN: BF471350em711Z2
+
+Item Description Rate
+Omnis Unde illo non. 21585
+Earum Sunt sunt incidunt quasi culpa. %2109
+
+Grand Total: 23749
+
+Quantity
+7
+
+6
+
+Total
+
+11095
+
+%12654

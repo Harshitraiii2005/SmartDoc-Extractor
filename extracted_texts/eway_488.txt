@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-466946
+
+Date: 24/08/2024
+
+Consignor:
+
+Thakkar and Sons
+
+H.No. 851, Ghose Path, Chittoor 214324
+Consignee:
+
+Mann, Chakraborty and Karpe
+
+63/930 Agrawal Ganj, Dindigul-451519
+Vehicle No: dS14BQ0823
+
+GSTIN: Zy746517WW044Z2
+
+Item Description
+Odit Sunt eos qui enim eveniet.
+Alias Voluptate eveniet.
+
+Nulla Dolore veritatis occaecati consequuntur.
+
+Quantity
+12
+26
+
+12
+
+Value
+
+€9465
+
+€32775
+
+€19807

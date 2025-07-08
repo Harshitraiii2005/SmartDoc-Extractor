@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1824
+Date: 24 Jan 2025
+
+Exporter
+
+Rubio Ltd
+2974 Smith Rapids Suite 627 Cynthiatown, WV 15843
+
+Importer
+
+Garza-Potts
+0547 Watson Shore Suite 991 Jackborough, CA 33562
+
+Buyer Ref: a5e6c0aa-7abd-47d0-8199-1f71e7c8bai1c
+Origin: Cote d'Ivoire
+Destination: Madagascar
+
+Currency: INR
+Incoterms: FOB
+
+escinion «HSN ay [unwroce [Tom
+Quickly 3074 9 $680.43 $7226.17
+
+Though 4103 $923.21 $5446.94
+
+Freight: $394.77
+
+Insurance: $100.63
+Total Invoice Value: $3029.63

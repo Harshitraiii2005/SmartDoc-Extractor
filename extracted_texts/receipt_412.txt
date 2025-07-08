@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65053
+
+Date: 31 Dec 2023
+
+From:
+
+Bhandari-Seth
+
+641, Yadav Circle Baranagar 580331
+To:
+
+Venkatesh-Kade
+
+09 Grover, Bhimavaram-288535
+Amount Paid: 42533
+
+Payment Mode: Net Banking

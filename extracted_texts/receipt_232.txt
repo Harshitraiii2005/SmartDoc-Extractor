@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-66995
+
+Date: 21-04-2025
+
+From:
+
+Barad PLC
+
+57, Bose Path, Gudivada-703928
+
+To:
+
+Dugar, Kade and Tripathi
+
+H.No. 78 Karan Street, Madhyamgram-213148
+Amount Paid: €11521
+
+Payment Mode: Cash

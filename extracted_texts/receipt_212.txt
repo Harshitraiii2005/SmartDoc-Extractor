@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-2341
+
+Date: 02-01-2025
+
+From:
+
+Kibe-Kaul
+
+234, Mallick Ganj Vellore 430305
+To:
+
+Mandal, Bhagat and Venkatesh
+060 Kapoor Ganj, Khora 540745
+Amount Paid: 733230
+
+Payment Mode: UPI

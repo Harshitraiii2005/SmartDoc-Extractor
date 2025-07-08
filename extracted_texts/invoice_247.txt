@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-44136
+
+Invoice Date: 14 Sep 2023
+
+Issued By:
+
+Virk, Sethi and Dhaliwal
+
+H.No. 266, Chokshi Circle Naihati-853534
+Billed To:
+
+Loke and Sons
+
+09/543 De Zila Jalna 291077
+
+GSTIN: LL306634IW7912Z2
+
+Item Description
+
+Odio lure vel perspiciatis provident dicta.
+Quam Esse sed ratione.
+
+Sunt Consectetur ea.
+
+Esse Doloribus repellat nemo nesciunt.
+Quis Maiores nam reprehenderit voluptas.
+
+Grand Total: $49591
+
+Rate
+$1257
+$2432
+$4521
+$788
+
+$1917
+
+Quantity
+7
+
+2
+
+Total
+$8799
+$4864
+$31647
+$2364
+
+$1917

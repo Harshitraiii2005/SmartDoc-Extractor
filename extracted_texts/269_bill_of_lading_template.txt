@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-2252
+Date: 28 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Thing
+
+Port of Loading: Devonstad
+
+Port of Discharge: North Thomasland
+Place of Delivery: Howardton
+
+Container No: CONT-4184
+Marks: System
+
+Description of Goods: Whatever
+
+Gross Weight: 2232 kg
+Measurement: 5 cbm
+Freight Terms: Collect
+
+BILL OF LADING

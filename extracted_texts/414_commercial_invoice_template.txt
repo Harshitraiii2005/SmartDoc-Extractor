@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-3775
+Date: 20 Jun 2025
+
+Exporter
+
+Smith, Burgess and Lynch
+27430 Mckay Lakes Apt. 930 North Amy, TX 88311
+
+Importer
+
+Frank and Sons
+USS Hale FPO AA 21787
+
+Buyer Ref: 7aeed88b-4cf9-4e25-972f-7a8f288c258
+Origin: Oman
+Destination: Kiribati
+
+Currency: INR
+Incoterms: FOB
+
+Blue 6229 $941.16 $1110.57
+
+Freight: $322.46
+
+Insurance: $139.7
+
+Total Invoice Value: $1378.19

@@ -1,0 +1,70 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-45825
+
+Invoice Date: 21/06/2025
+
+From:
+
+Swaminathan Group
+H.No. 188 Setty Ganj, Bharatpur 679095
+
+To:
+
+Lanka, Hari and Thakkar
+53/868 Baral Road, Dehradun 195456
+
+GSTIN: wK109816PV157Z1
+
+Item
+Illum
+Dolorum
+Sit
+Nemo
+
+Ipsa
+
+Description
+
+Ab nihil repellat numquam nihil.
+
+lusto veritatis doloremque.
+Occaecati facilis.
+
+Sequi ea officiis eum.
+
+IIlum officiis aut delectus ullam.
+
+Grand Total: =87436
+
+Rate
+
+%1603
+
+892
+
+24511
+
+24457
+
+%3910
+
+Quantity
+6
+
+5
+
+Total
+
+%9618
+
+4460
+
+%27066
+
+226742
+
+%19550

@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-94230
+
+Invoice Date: 23/06/2025
+
+From:
+
+Bhatt-Bajaj
+
+157, Subramaniam Marg Parbhani-428877
+Billed To:
+
+Bal Ltd
+
+44/228, Shanker Zila Durgapur-895834
+
+GSTIN: fk912381iM140Z2
+
+Item Description
+
+Nostrum A vel explicabo doloribus quae.
+Optio Quia vero dignissimos.
+Excepturi Quos corrupti tenetur.
+
+Nobis Nesciunt expedita nulla saepe.
+Reprehenderit Tenetur quam aspernatur odit.
+
+Grand Total: €71509
+
+Rate
+
+€725
+
+€4263
+
+€3557
+
+€2833
+
+€1393
+
+Quantity
+6
+
+7
+
+10
+
+Total
+
+€4350
+
+€29841
+
+€3557
+
+€19831
+
+€13930

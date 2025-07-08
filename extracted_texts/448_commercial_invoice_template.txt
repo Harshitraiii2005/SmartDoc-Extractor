@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5004
+Date: 13 Apr 2025
+
+Exporter
+
+Lopez-Smith
+PSC 4462, Box 0705 APO AE 91378
+
+Importer
+
+Davila-Anderson
+7228 Christopher Walk East Jennifer, MA 01086
+
+Buyer Ref: 84af0ce6-3ac4-4842-b043-d54 192653414
+Origin: Finland
+Destination: Italy
+
+Currency: EUR
+Incoterms: FOB
+
+Step 8490 $895.01 $2112.22
+
+Movement 6964 6 $915.71 $6483.23
+
+Freight: $483.7
+
+Insurance: $180.89
+Total Invoice Value: $4560.01

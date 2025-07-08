@@ -1,0 +1,59 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-35178
+
+Date: 20-06-2024
+
+Issued By:
+
+Salvi LLC
+
+351 Ahluwalia Circle Rewa 242128
+
+To:
+
+Magar Ltd
+
+H.No. 281 Kurian Circle Gorakhpur-848195
+
+GSTIN: WT795941Db89724
+
+Item Description
+Minus Hic vero unde sed.
+Delectus Ipsum minus cum.
+
+Tenetur A dignissimos vel nostrum officiis.
+
+Autem Earum laboriosam repellendus cumque distinctio.
+
+Grand Total: 69852
+
+Rate
+
+2061
+
+%1239
+
+%3738
+
+24752
+
+Quantity
+3
+7
+2
+
+10
+
+Total
+
+26183
+
+8673
+
+7476
+
+247520

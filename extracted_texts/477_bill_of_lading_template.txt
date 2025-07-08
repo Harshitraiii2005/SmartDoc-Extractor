@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-5452
+Date: 03 May 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Popular
+
+Port of Loading: Aaronton
+Port of Discharge: Bridgetport
+Place of Delivery: Foxfort
+
+Container No: CONT-8804
+Marks: Seek
+
+Description of Goods: Civil
+
+Gross Weight: 4293 kg
+Measurement: 9 cbm
+Freight Terms: Collect
+
+BILL OF LADING

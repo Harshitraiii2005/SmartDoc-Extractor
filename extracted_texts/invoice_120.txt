@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-23804
+
+Invoice Date: 29/04/2025
+
+Issued By:
+
+Sen-Sur
+
+581 Kaul Chowk Bikaner-495803
+
+To:
+
+Goyal-Sarma
+
+12/11 Chauhan Chowk Warangal-215561
+
+GSTIN: Dp487692VQ51424
+
+Item Description Rate
+Maxime Sit quaerat. 24561
+Doloremque Necessitatibus debitis tempora ut. %3695
+
+Grand Total: =78865
+
+Quantity
+10
+
+9
+
+Total
+
+245610
+
+%33255

@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3059
+Date: 05 Mar 2025
+
+Supplier
+
+Williams, Brown and Wallace
+
+Unit 9527 Box 4913 DPO AP 12870
+GSTIN: 541987393731
+
+Contact: (936)618-0172
+
+Buyer
+
+Kelly-Williams
+
+3296 Michael Heights Apt. 559 Robertton, HI 93422
+GSTIN: 131165080429
+
+Contact: (819)287-7548x9845
+
+Place of Supply: Lake Mary
+
+[Energy «| 6756 '5 | $825.33 $4126.65 $371.4 $371.4 $4869.45
+
+[Nice =| 3542 /10 | $371.06 $3710.6 $333.95 |$333.95 | $4378.51
+
+Sub Total: $1380.06
+
+CGST: $124.12
+
+SGST: $99.68
+
+Grand Total: $1813.57
+
+Amount in Words: 1196 dollars only
+
+PO Number: PO-5235
+
+Terms: Guess economic kind throw skin yet.
+
+Reverse Charge: No

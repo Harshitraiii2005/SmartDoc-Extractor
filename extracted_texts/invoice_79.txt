@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-27212
+
+Invoice Date: 01-11-2024
+
+From:
+
+Raju Inc
+
+98/162, Acharya Street, Alwar-201355
+To:
+
+Borde-Rattan
+
+H.No. 63 Buch, Jaipur-861352
+
+GSTIN: uE952149NU34424
+
+Item Description Rate
+Nesciunt Provident adipisci eum libero. 24823
+Quae Necessitatibus sit. %2583
+Atque Quas ratione veniam est doloremque. %1458
+Illo Laborum doloremque doloribus voluptate excepturi. %899
+
+Grand Total: %51381
+
+Quantity
+6
+2
+
+10
+
+Total
+
+%28938
+
+25166
+
+%14580
+
+22697

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-69008
+
+Date: 14/03/2024
+
+From:
+
+Dutt, Taneja and Dora
+
+88/98 Chaudhry Path, Gudivada-888933
+To:
+
+Varma-Rana
+
+704 Handa Circle, Malda 653266
+Amount Paid: €16610
+
+Payment Mode: UPI

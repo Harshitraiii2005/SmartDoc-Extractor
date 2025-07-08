@@ -1,0 +1,28 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-44567
+
+Date: 02-11-2024
+
+Issued By:
+
+Sood Ltd
+
+H.No. 586 Raval, Knandwa-297701
+Billed To:
+
+Rama-Banerjee
+
+H.No. 018 Varty, Rewa-772695
+
+GSTIN: dQ861358rV423Z5
+
+Item Description Rate Quantity Total
+Sequi Eligendi nam iste. $2040 10 $20400
+Dolores Quam magnam. $2327 1 $2327
+Atque Sapiente laborum iusto adipisci. $4566 9 $41094
+
+Grand Total: $63821

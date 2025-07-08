@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-85566
+
+Date: 10 Apr 2024
+
+From:
+
+Reddy, Shere and Tara
+
+64/31, Khurana Ganj Erode 302764
+To:
+
+Ganesh Ltd
+
+932, Chandra Marg Ramgarh-588225
+Amount Paid: €10877
+
+Payment Mode: Net Banking

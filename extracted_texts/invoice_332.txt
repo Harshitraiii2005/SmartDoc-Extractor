@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-38028
+Date: 28 Jul 2024
+
+Issued By:
+Sekhon LLC
+H.No. 146 Deshpande Path Singrauli 315877
+
+To:
+Mander, Bhat and Raja
+H.No. 41 Viswanathan, Kochi 510663
+
+GSTIN: LH475819Sv987Z9
+
+Item Description Rate
+
+Dolorem Corrupti nobis id beatae. $3403
+Placeat Quaerat ipsa blanditiis perspiciatis. $1876
+Dolores Dolorem aut earum fugit. $1923
+
+Grand Total: $38376
+
+Quantity
+4
+
+5
+
+Total
+$13612
+$9380
+
+$15384

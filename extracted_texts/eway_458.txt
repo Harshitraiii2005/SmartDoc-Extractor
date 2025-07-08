@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-116224
+
+Date: 01 Oct 2024
+
+Consignor:
+
+Jhaveri, Subramanian and Raj
+
+H.No. 280, Kara Circle, Ambala-073544
+Consignee:
+
+Sundaram, Wable and Tata
+
+13/073 Kala Marg, Dehri 448921
+Vehicle No: ev21TX8883
+
+GSTIN: eJ483269eX602Z9
+
+Item Description
+
+Odio Sequi perferendis ratione dolorum.
+
+Quantity
+
+50
+
+Value
+
+€20043

@@ -1,0 +1,68 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-59183
+
+Date: 31 May 2024
+
+From:
+Ben, Garg and Dua
+
+94, Deshpande Nagar North Dumdum-137034
+
+To:
+Lad-Golla
+
+57/872, Rattan Street Sangli-Miraj & Kupwad-163067
+
+GSTIN: ab096869eq597Z0
+
+Item
+Aliquid
+Perspiciatis
+Amet
+
+Cum
+Perspiciatis
+
+A
+
+Description
+
+Velit dignissimos.
+
+Modi corrupti soluta facere.
+
+Autem totam nulla.
+Reprehenderit animi.
+
+Amet aperiam harum.
+
+Dicta fuga dolorum beatae.
+
+Grand Total: $58513
+
+Rate
+$2089
+$734
+$2178
+$2082
+$1033
+
+$4533
+
+Quantity
+6
+
+1
+
+Total
+$12534
+$734
+$10890
+$12492
+$8264
+
+$13599

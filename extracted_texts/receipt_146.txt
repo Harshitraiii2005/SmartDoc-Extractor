@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-85176
+
+Date: 15-09-2024
+
+From:
+
+Hegde Ltd
+
+H.No. 43, Yogi Ganj, Avadi-237209
+To:
+
+Sahota, Varty and Bandi
+
+65/481 Barman Road, Jaipur-982179
+Amount Paid: $43340
+
+Payment Mode: Cash

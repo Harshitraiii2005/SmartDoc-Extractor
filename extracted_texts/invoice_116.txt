@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-11871
+Invoice Date: 21 Mar 2024
+
+Issued By:
+Sen LLC
+07/963 Bassi Street, Jalna 564758
+
+Billed To:
+Bal PLC
+H.No. 62 Verma Marg Ozhukarai-548698
+
+GSTIN: |J073950QD80721
+
+Item Description Rate
+Esse Quaerat eligendi suscipit quis repellendus. €3337
+Aut Aspernatur necessitatibus eius delectus. €4101
+
+Grand Total: €42336
+
+Quantity
+9
+
+3
+
+Total
+
+€30033
+
+€12303

@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-61946
+
+Date: 13-05-2024
+
+Issued By:
+
+Keer, Sandhu and Gour
+
+33/21 Bala, Coimbatore-242138
+
+To:
+
+Ahuja and Sons
+
+82/895 Talwar Zila, Hubli-Dharwad 733029
+
+GSTIN: bR735989VK0062Z8
+
+Item Description
+
+Cupiditate Magnam natus unde.
+
+Blanditiis Corporis omnis modi.
+
+Accusamus Quae cupiditate cumque.
+
+Quae Explicabo ipsam.
+
+Exercitationem Quaerat earum aspernatur dolores.
+
+Grand Total: ¥89058
+
+Rate
+
+3055
+
+2060
+
+2062
+
+24614
+
+2406
+
+Quantity
+6
+
+5
+
+Total
+
+%18330
+
+=10300
+
+=16496
+
+241526
+
+2406

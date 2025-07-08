@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-94499
+
+Date: 06/08/2023
+
+From:
+
+Keer Ltd
+
+79/953 Sodhi Ganj Suryapet-347917
+
+To:
+
+Yadav LLC
+
+H.No. 475, Kakar Marg, Coimbatore 995503
+Amount Paid: 735418
+
+Payment Mode: Card

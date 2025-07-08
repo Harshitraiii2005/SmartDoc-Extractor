@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-69720
+
+Invoice Date: 25-11-2024
+
+From:
+
+Lad Group
+
+H.No. 57 Guha Street, Noida 380456
+To:
+
+Shenoy-Ram
+
+71/35 Gaba Ganj Bijapur 309546
+
+GSTIN: Pi471550jm823Z5
+
+Item Description Rate
+Dolorum Alias dolor. %2386
+Illum Consequuntur fugiat. =1270
+
+Grand Total: §24476
+
+Quantity
+6
+
+8
+
+Total
+
+%14316
+
+=10160

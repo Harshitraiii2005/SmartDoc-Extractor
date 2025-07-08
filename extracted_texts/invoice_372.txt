@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-21300
+
+Invoice Date: 23-01-2025
+
+From:
+
+Srivastava-Agrawal
+
+06 Ghose Nagaon 130124
+
+Billed To:
+
+Kar-Ratti
+
+H.No. 24, Saha Ganj Aurangabad 165354
+
+GSTIN: Je217497UR299Z3
+
+Item Description Rate
+
+Tempora Molestiae quasi enim. €4649
+Officia Natus praesentium molestias. €2901
+Accusamus Ex ipsam perspiciatis beatae. €3799
+
+Grand Total: €43600
+
+Quantity
+4
+6
+
+2
+
+Total
+
+€18596
+
+€17406
+
+€7598

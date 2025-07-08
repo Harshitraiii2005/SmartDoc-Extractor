@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-43506
+
+Date: 01 Sep 2024
+
+From:
+
+Kashyap and Sons
+
+H.No. 92 Jain Firozabad-744482
+To:
+
+Kala-Joshi
+
+21 Mahajan Road, Hosur-240486
+Amount Paid: €5691
+
+Payment Mode: Card

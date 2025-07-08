@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-57910
+
+Date: 01-02-2025
+
+From:
+
+Sarkar, Chada and Dhingra
+
+613 Dhar Bettiah 409789
+
+To:
+
+Rattan, Golla and Banik
+
+H.No. 890 Baral Ganj, Chittoor-615328
+Amount Paid: €42488
+
+Payment Mode: Card

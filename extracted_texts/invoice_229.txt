@@ -1,0 +1,29 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-10480
+
+Invoice Date: 22 Nov 2023
+
+Issued By:
+
+Dash, Dugal and Sabharwal
+
+16, Devan Agra-841401
+
+Billed To:
+
+Barad, Badal and Das
+
+H.No. 915, Grover Circle Saharsa-004425
+
+GSTIN: dm262305dy990Z9
+
+Item Description Rate Quantity Total
+Facilis Sunt quas doloribus. $4257 1 $4257
+Corrupti lure aliquam. $4189 7 $29323
+Laborum Tenetur maiores. $2386 2 $4772
+
+Grand Total: $38352

@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-7056
+
+Invoice Date: 10 Mar 2024
+
+Issued By:
+
+Goel Inc
+
+497, Bhattacharyya Nagar, Anantapur-372790
+To:
+
+Walia and Sons
+
+H.No. 11 Wali Street Cuttack-909687
+
+GSTIN: BE489318Be828Z9
+
+Item Description Rate
+
+Tenetur Officiis maiores consequatur atque. 24930
+Animi Cumque quod mollitia tenetur. 24726
+Possimus Eius dolorum consectetur. 24387
+
+Grand Total: 108704
+
+Quantity
+10
+
+7
+
+Total
+
+249300
+
+33082
+
+226322

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-43589
+
+Date: 17 Aug 2023
+
+From:
+
+Babu and Sons
+
+17/671, Basak Ganj, Parbhani 874267
+To:
+
+Hari-Bedi
+
+91/011, Balay Nagar Naihati 948930
+Amount Paid: €26971
+
+Payment Mode: Card

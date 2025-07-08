@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-397490
+
+Date: 27 Jan 2024
+
+Consignor:
+
+Sengupta Ltd
+
+83 Saran Road, Kadapa-699612
+Consignee:
+
+Gade Inc
+
+H.No. 196 Dani Street Phusro-689600
+Vehicle No: yV87MZ1414
+
+GSTIN: aL967448PA1692Z8
+
+Item Description
+
+Occaecati Recusandae illum temporibus ratione animi.
+Ut Nobis laudantium laborum.
+
+Sed Dolores esse officia sed.
+
+Nisi Tempore quidem.
+
+Quantity
+24
+23
+13
+
+47
+
+Value
+
+€43877
+
+€47037
+
+€15487
+
+€42037

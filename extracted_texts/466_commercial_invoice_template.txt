@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1832
+Date: 24 Jun 2025
+
+Exporter
+
+Howard, Scott and Church
+USNV Mueller FPO AP 19019
+
+Importer
+
+Green, Johnson and Murray
+3721 Paul Rapid New Alicia, FL 24904
+
+Buyer Ref: ac91a15d-cab6-4254-af09-3d251d4cea9a
+Origin: Equatorial Guinea
+Destination: British Indian Ocean Territory (Chagos Archipelago)
+
+Currency: USD
+Incoterms: FOB
+
+Picture 1535 Bo $234.42 $2212.92
+
+Piece 4875 Bo $160.01 $1510.49
+Executive 9710 $382.55 $4514.09
+
+Freight: $133.27
+
+Insurance: $116.72
+
+Total Invoice Value: $2524.59

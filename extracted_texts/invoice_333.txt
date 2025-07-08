@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-72507
+
+Date: 08/01/2024
+
+Issued By:
+
+Mandal Inc
+
+843 Jaggi Chowk, Gorakhpur-819652
+To:
+
+Soni, Banerjee and Chanda
+
+22/441, Sengupta Zila, Kulti 392606
+
+GSTIN: Vx056158GQ482Z5
+
+Item Description
+
+Eos Officiis necessitatibus maxime reprehenderit culpa.
+
+Magni Ab totam sint cumque.
+Hic Animi doloribus fugit voluptatum sapiente.
+Amet Repudiandae quasi nemo architecto.
+
+Itaque | Architecto ab inventore pariatur quia.
+
+Grand Total: $62332
+
+Rate
+$506
+$3271
+$2422
+$2074
+
+$3722
+
+Quantity
+2
+
+6
+
+Total
+$1012
+$19626
+$4844
+$14518
+
+$22332

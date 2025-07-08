@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-80575
+
+Invoice Date: 25-11-2023
+
+Issued By:
+
+Devi, Khosla and Wagle
+
+70/93, Divan Hubli-Dharwad-230385
+Billed To:
+
+Ram and Sons
+
+51 Shere Nagar, Visakhapatnam-029537
+
+GSTIN: eC808900tU875Z0
+
+Item Description Rate
+Expedita Repellendus perferendis quis. $4447
+Sunt Aut cumque libero laudantium. $3409
+
+Grand Total: $54697
+
+Quantity
+10
+
+3
+
+Total
+$44470
+
+$10227

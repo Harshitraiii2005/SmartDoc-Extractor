@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-5554
+Date: 22 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Forget
+
+Port of Loading: West Laura
+
+Port of Discharge: Cohentown
+Place of Delivery: Lake Collinbury
+
+Container No: CONT-6189
+Marks: Common
+
+Description of Goods: Home
+
+Gross Weight: 2300 kg
+Measurement: 14 cbm
+Freight Terms: Collect
+
+BILL OF LADING

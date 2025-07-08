@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-672783
+
+Date: 29-07-2023
+
+Consignor:
+
+Gera, Ravel and Brar
+
+H.No. 46 Acharya Marg Pune 137686
+Consignee:
+
+Suresh, Amble and Hayer
+
+H.No. 32 Dave Marg Aligarh-562034
+Vehicle No: iH76cy4429
+
+GSTIN: KL909179jE466Z2
+
+Item Description
+
+Illo Suscipit illum impedit impedit incidunt.
+
+Cupiditate Amet excepturi provident adipisci.
+
+Quantity
+20
+
+29
+
+Value
+$9931
+
+$19246

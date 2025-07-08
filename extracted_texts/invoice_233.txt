@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-49188
+
+Invoice Date: 10-07-2023
+
+Issued By:
+
+Dora PLC
+
+060, Ben Marg, Jalgaon-642881
+
+To:
+
+Bajaj-Acharya
+
+63/29, Dhawan Marg Bhubaneswar 499153
+
+GSTIN: Rv368347cb263Z6
+
+Item Description Rate
+In Non eius. $1843
+Voluptatum Nemo qui neque. $577
+
+Grand Total: $20738
+
+Quantity
+10
+
+4
+
+Total
+$18430
+
+$2308

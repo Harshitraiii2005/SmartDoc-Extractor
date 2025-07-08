@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-8223
+
+Date: 03-01-2024
+
+From:
+
+Chakraborty Ltd
+
+53/45 Gupta Ganj Salem 274770
+To:
+
+Viswanathan PLC
+
+578 Babu Chowk Loni 599802
+Amount Paid: $9783
+
+Payment Mode: UPI

@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-81226
+
+Date: 22-10-2023
+
+From:
+Dar PLC
+
+59/697 Keer Darbhanga 066213
+
+Billed To:
+
+Sehgal Ltd
+
+H.No. 52 Loyal Ganj Bulandshahr 209735
+
+GSTIN: tB250842xXn078Z2
+
+Item
+Dolore
+Ducimus
+Quod
+Nemo
+
+Optio
+
+Description
+
+Laboriosam rem consequuntur a.
+
+Non ex nesciunt officiis.
+Cum quam.
+Magni libero iusto amet.
+
+Quas minus.
+
+Grand Total: $92904
+
+Rate
+$4761
+$3158
+$4361
+$783
+
+$2362
+
+Quantity
+8
+
+5
+
+Total
+$38088
+$15790
+$13083
+$7047
+
+$18896

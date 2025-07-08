@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-98980
+
+Date: 18 Jul 2023
+
+From:
+
+Dewan, Sur and Bhargava
+
+H.No. 19, Johal Zila, Muzaffarnagar-447045
+To:
+
+Babu-Sharaf
+
+H.No. 47, Bassi Ganj Siwan 007614
+Amount Paid: €14630
+
+Payment Mode: Card

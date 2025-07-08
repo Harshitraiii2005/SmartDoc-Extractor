@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-571898
+
+Date: 21/04/2025
+
+Consignor:
+
+Mahajan and Sons
+
+010, Karpe Street, Tenali 121483
+Consignee:
+
+Saran and Sons
+
+H.No. 22, Dyal Ahmednagar 829889
+Vehicle No: TR93Lw1166
+
+GSTIN: jh205600f1335Z5
+
+Item Description
+
+Quibusdam Suscipit voluptatibus.
+
+Quantity
+
+14
+
+Value
+
+241959

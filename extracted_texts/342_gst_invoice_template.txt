@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9227
+Date: 13 Mar 2025
+
+Supplier
+
+Gonzalez, Ware and Rodriguez
+
+858 Leroy Plain Suite 906 Evelynshire, CA 04462
+GSTIN: 733096300861
+
+Contact: 202-239-8483
+
+Buyer
+
+Cox-Andrade
+
+455 Meza Trace Apt. 741 New kristafurt, MS 79782
+GSTIN: 614981499984
+
+Contact: +1-533-529-8759x90442
+
+Place of Supply: South Seanborough
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Reality 4131 $254.15 $2541.5 $228.73 $228.73 $2998.97
+
+Sub Total: $650.71
+
+CGST: $119.67
+
+SGST: $194.05
+
+Grand Total: $1917.53
+
+Amount in Words: 1682 dollars only
+PO Number: PO-4963
+
+Terms: Such ever provide enjoy thought.
+
+Reverse Charge: Yes

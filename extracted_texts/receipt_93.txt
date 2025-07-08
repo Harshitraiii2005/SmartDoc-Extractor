@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-14438
+
+Date: 28-12-2023
+
+From:
+
+Hans, Tiwari and Dhar
+
+75/32, Ramaswamy Circle Purnia-340202
+To:
+
+Malhotra-Jhaveri
+
+81/90, Kapoor Path Mirzapur 452676
+Amount Paid: $13091
+
+Payment Mode: Card

@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-37008
+
+Date: 05 Feb 2025
+
+Consignor:
+
+Chand-Borde
+
+H.No. 224, Trivedi Ganj, Bathinda 053820
+Consignee:
+
+Khurana-Bobal
+
+H.No. 010 Shanker Circle, Ambattur-022615
+Vehicle No: ve16LB9590
+
+GSTIN: Rc556281uS568Z9
+
+Item Description Quantity
+
+Hic Et exercitationem. 42
+
+Value
+
+€39700

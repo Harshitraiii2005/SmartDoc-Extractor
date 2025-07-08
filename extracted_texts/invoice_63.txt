@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-33331
+
+Invoice Date: 14/01/2025
+
+Issued By:
+Kota Group
+
+74/205, Chacko Path, Sikar 585313
+
+Billed To:
+
+Butala-Goswami
+
+H.No. 50 Chatterjee Circle Karaikudi-104003
+
+GSTIN: 0j921622Cc992Z8
+
+Item
+Distinctio
+Aperiam
+Aspernatur
+
+Nam
+
+Description
+A eligendi.
+Officiis porro corrupti quae.
+
+Delectus tempore non maiores nihil.
+
+Earum totam voluptatibus error officiis.
+
+Grand Total: €44539
+
+Rate
+
+€4339
+
+€1690
+
+€1323
+
+€4665
+
+Quantity
+3
+
+10
+
+Total
+
+€13017
+
+€16900
+
+€5292
+
+€9330

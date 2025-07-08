@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-8425
+Date: 18 Apr 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Process
+
+Port of Loading: Vargasberg
+
+Port of Discharge: South Francisco
+Place of Delivery: North Cassandramouth
+
+Container No: CONT-2502
+Marks: Place
+
+Description of Goods: After
+
+Gross Weight: 2441 kg
+Measurement: 11 cbm
+Freight Terms: Collect
+
+BILL OF LADING

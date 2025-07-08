@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-61219
+
+Date: 01 Jul 2025
+
+From:
+
+Shenoy-Konda
+
+96/123, Dugal Zila Hapur-923170
+To:
+
+Dube, Gera and Shan
+
+38, Bumb Ganj, Bongaigaon-679695
+Amount Paid: €10048
+
+Payment Mode: Cash

@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-3117
+
+Date: 15-02-2025
+
+From:
+
+Basu-Warrior
+
+69, Desai Street Phagwara 868965
+
+To:
+Ravi Group
+
+494, Subramanian Marg Solapur 478478
+
+GSTIN: GN387046Xd123Z8
+
+Item
+
+Vel
+Cupiditate
+Explicabo
+
+Quisquam
+
+Description
+
+Repellendus doloribus in accusamus non.
+
+Soluta dicta odit.
+Ab aliquam natus amet.
+
+Est nemo iusto.
+
+Grand Total: €55515
+
+Rate
+
+€2938
+
+€4711
+
+€1276
+
+€2573
+
+Quantity
+9
+
+4
+
+Total
+
+€26442
+
+€18844
+
+€7656
+
+€2573

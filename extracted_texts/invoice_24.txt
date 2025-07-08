@@ -1,0 +1,82 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-42670
+
+Date: 18 Jul 2024
+
+Issued By:
+Raju and Sons
+
+62/367, Dara Path, Secunderabad 998949
+
+Billed To:
+
+Bhalla-Ramakrishnan
+36/808 Sidhu Street, Rampur-148961
+
+GSTIN: Hs976620KF792Z7
+
+Item
+Distinctio
+Provident
+Ducimus
+Dolores
+Eveniet
+
+Excepturi
+
+Description
+
+Quasi sequi sit ex.
+
+Placeat maiores.
+
+Expedita odit nulla.
+
+Mollitia laudantium sed similique.
+
+Delectus sit.
+
+Tempora voluptatem perferendis nam.
+
+Grand Total: €145188
+
+Rate
+
+€3581
+
+€3155
+
+€1143
+
+€3436
+
+€3273
+
+€4994
+
+Quantity
+9
+
+10
+
+8
+
+8
+
+Total
+
+€32229
+
+€31550
+
+€9144
+
+€27488
+
+€9819
+
+€34958

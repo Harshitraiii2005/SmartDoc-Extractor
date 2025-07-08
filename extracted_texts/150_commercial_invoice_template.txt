@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-4620
+Date: 10 Apr 2025
+
+Exporter
+
+Wilson Inc
+25553 Christina Green Apt. 400 North Elizabethview, WY 52747
+
+Importer
+
+Maddox Ltd
+9058 Camacho Valleys Apt. 881 South Dalton, KY 60481
+
+Buyer Ref: b07fbccf-05f2-4db0-baed-106a0ef87e4e
+Origin: Portugal
+Destination: Bangladesh
+
+Currency: USD
+Incoterms: FOB
+
+5070 $921.17 $5434.9
+
+Freight: $116.0
+Insurance: $182.13
+
+Total Invoice Value: $1229.48

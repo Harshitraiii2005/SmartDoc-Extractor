@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-9035
+Date: 16 Feb 2025
+
+Exporter
+
+Rodriguez-Walters
+5565 Hayes Gateway Suite 711 South Tiffanyburgh, FM 27610
+
+Importer
+
+Perkins-Soto
+USCGC Howard FPO AA 88366
+
+Buyer Ref: ca1e4c61-ce65-4930-b618-4a964a1f2479
+Origin: Swaziland
+Destination: Belarus
+
+Currency: INR
+Incoterms: FOB
+
+Risk 1383 $439.43 $2074.11
+During 5922 $182.36 $430.37
+
+$368.62 $3044.8
+$177.03 $1462.27
+
+Yes 7276
+Box 7653
+
+Freight: $273.5
+
+Insurance: $103.08
+Total Invoice Value: $3652.39

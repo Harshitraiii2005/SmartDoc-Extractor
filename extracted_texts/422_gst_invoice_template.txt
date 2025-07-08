@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8881
+Date: 21 Mar 2025
+
+Supplier
+
+Adams Group
+
+02706 Michael Extensions Dixonhaven, DC 36167
+GSTIN: 431572980316
+
+Contact: +1-847-978-0428x4806
+
+Buyer
+
+Armstrong Inc
+
+884 Elizabeth Village Davidland, IA 70073
+GSTIN: 149686738171
+
+Contact: 001-472-813-2282x8221
+
+Place of Supply: Lake Melody
+
+‘unit Price [Taxable Value [cGst [s@sT | Tota
+$207.55 $207.55 $18.68 $18.68 $244.91
+
+$558.0 $2790.0 $251.1 $251.1 $3292.2
+$980.67 $980.67 $88.26 $88.26 $1157.19
+
+Sub Total: $969.37
+
+CGST: $123.56
+
+SGST: $194.61
+
+Grand Total: $1238.44
+
+Amount in Words: 4735 dollars only
+
+PO Number: PO-1929
+
+Terms: Role send teacher reveal find worker.
+
+Reverse Charge: Yes

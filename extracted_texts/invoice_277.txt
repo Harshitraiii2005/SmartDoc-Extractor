@@ -1,0 +1,43 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-78037
+
+Invoice Date: 01/06/2024
+
+From:
+
+Srinivasan and Sons
+
+309 De Circle, Panihati 315164
+
+To:
+
+Suri LLC
+
+H.No. 20 Borah Ganj Morena-999487
+
+GSTIN: Lk1550410v098Z3
+
+Item Description Rate
+
+Pariatur Soluta tempora pariatur. 22414
+Voluptas Autem mollitia minus. 2080
+Autem Rerum beatae nesciunt. 21118
+
+Grand Total: =37654
+
+Quantity
+5
+
+8
+
+Total
+
+%12070
+
+=16640
+
+%8944

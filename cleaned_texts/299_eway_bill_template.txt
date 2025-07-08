@@ -1,0 +1,1 @@
+E: WAY BILLEWB No: EWB: 381534Date: 02 May 2025Valid From: 04 Jul 2025 To 17 Jun 2025ConsignorGSTIN:ConsigneeGSTIN:Transport DetailsMode: RailVehicle No: VEH: 9689Transporter ID: TID: 6356Transporter Name: Barton, Roth and SanchezDocument ReferenceType: Delivery ChallanNo: DOC: 1179Taxable Value Tax Rate (%)Reason: Increase.

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-61985
+
+Date: 20/08/2024
+
+From:
+
+Jain Inc
+
+48/37 Ramanathan Path Davanagere 912843
+To:
+
+Kant-Gola
+
+11, Contractor Road Giridih 127271
+
+Amount Paid: €2799
+
+Payment Mode: Cash

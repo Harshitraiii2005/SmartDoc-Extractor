@@ -1,0 +1,36 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8264
+Date: 06 Jan 2025
+
+Exporter
+
+Baldwin PLC
+PSC 5804, Box 4536 APO AP 26481
+
+Importer
+
+Wilson-Mathis
+0625 Adrian Fork Apt. 635 South Bobbyberg, FL 54925
+
+Buyer Ref: 70fce98d-0c73-4f57-ba04-844f017a6569
+Origin: Mauritania
+Destination: Liberia
+
+Currency: INR
+Incoterms: CIF
+
+Description
+
+funterce [town
+
+Contain 8310 $524.29 $1855.99
+
+Freight: $389.76
+
+Insurance: $167.61
+
+Total Invoice Value: $2711.46

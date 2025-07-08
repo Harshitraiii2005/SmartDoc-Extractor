@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-15076
+
+Date: 25 Mar 2024
+
+From:
+
+Apte, Butala and Chandran
+
+H.No. 39, Bhatti Ganj, Ajmer-281831
+To:
+
+Buch-Khurana
+
+H.No. 82, Deep Shimoga 044984
+Amount Paid: =1455
+
+Payment Mode: UPI

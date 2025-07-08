@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-2953
+Date: 31 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Able
+
+Port of Loading: New David
+
+Port of Discharge: Swansonborough
+Place of Delivery: Shawmouth
+
+Container No: CONT-9856
+Marks: Single
+
+Description of Goods: Any
+
+Gross Weight: 4547 kg
+Measurement: 16 cbm
+Freight Terms: Collect
+
+BILL OF LADING

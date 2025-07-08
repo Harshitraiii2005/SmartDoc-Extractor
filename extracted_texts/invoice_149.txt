@@ -1,0 +1,75 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-52195
+
+Date: 09 Dec 2024
+
+From:
+
+Kalita-Ratta
+
+706, Dixit Saharsa 540396
+
+To:
+
+Bala Group
+
+H.No. 01 Mandal, Jamshedpur 595135
+
+GSTIN: sf457784vn573Z6
+
+Item Description
+
+Provident Numquam facere.
+
+Ratione Hic voluptate voluptatum.
+
+At Sunt debitis reiciendis consequuntur.
+Officia Impedit voluptates.
+
+Repellat Repellat quaerat molestiae assumenda.
+
+Dignissimos Quam architecto nesciunt.
+
+Grand Total: 133290
+
+Rate
+
+24617
+
+24042
+
+24052
+
+2646
+
+3293
+
+2563
+
+Quantity
+
+4
+
+8
+
+10
+
+10
+
+Total
+
+=18468
+
+%32336
+
+24052
+
+%26460
+
+%26344
+
+%25630

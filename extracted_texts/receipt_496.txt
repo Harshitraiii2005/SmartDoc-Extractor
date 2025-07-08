@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-47930
+
+Date: 05/12/2023
+
+From:
+
+Banerjee Group
+
+18/03 Khosla Road, Hazaribagh-992162
+To:
+
+Dhawan LLC
+
+87 Dara Ganj Davanagere-220107
+Amount Paid: $6550
+
+Payment Mode: Cash

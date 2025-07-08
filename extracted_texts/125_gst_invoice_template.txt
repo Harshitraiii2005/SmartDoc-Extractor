@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-6230
+Date: 01 Mar 2025
+
+Supplier
+
+Harris, Dorsey and Cantrell
+
+5698 Martinez Camp Suite 146 East Michael, ND 11082
+GSTIN: 193869864741
+
+Contact: 2367331876
+
+Buyer
+
+Ward-Baker
+
+17382 Davis Extension North Heidi, SD 63112
+GSTIN: 631112662290
+
+Contact: (305)384-5769x083
+
+Place of Supply: Erikastad
+
+Description FHSN | Qty Unit Price | Taxable Value CGST SGST Total
+
+Husband 9411 $517.41 $1034.82 $93.13 $93.13 $1221.09
+
+Sub Total: $1344.3
+
+CGST: $173.36
+
+SGST: $62.79
+
+Grand Total: $1684.95
+
+Amount in Words: 2723 dollars only
+
+PO Number: PO-8008
+
+Terms: Stand beautiful enter word case whose.
+
+Reverse Charge: No

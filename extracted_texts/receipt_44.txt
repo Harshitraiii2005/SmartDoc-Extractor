@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-88997
+
+Date: 14-10-2024
+
+From:
+
+Sehgal-Batta
+
+63/960 Deshpande Marg, Siwan 282295
+To:
+
+Bhattacharyya PLC
+
+H.No. 824, Bumb Road, Mirzapur-255861
+Amount Paid: €8819
+
+Payment Mode: UPI

@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-19321
+
+Date: 23/07/2023
+
+Issued By:
+
+Chander-Kurian
+
+48 Swamy Circle, Chittoor 747929
+Billed To:
+
+Rege-Acharya
+
+H.No. 05, Deo, Kulti 469636
+
+GSTIN: pG275624hP02421
+
+Item Description
+
+Nobis Facilis voluptate pariatur recusandae similique.
+
+Dignissimos | Sunt laboriosam aut accusamus.
+Doloremque | Eaque dolorem error.
+Eius Hic nostrum labore.
+
+Nesciunt Laboriosam atque est.
+
+Grand Total: $41962
+
+Rate
+
+$4660
+$2625
+$4779
+$1387
+
+$3052
+
+Quantity Total
+
+1
+
+7
+
+$4660
+$18375
+$4779
+$11096
+
+$3052

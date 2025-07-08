@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-9247
+Date: 01 Jul 2025
+
+Supplier
+
+Jefferson, Hall and Schultz
+
+0575 Brendan Ford Apt. 652 Lake Christineshire, OK 56347
+GSTIN: 432646740916
+
+Contact: 755-576-3295
+
+Buyer
+
+Walters and Sons
+
+32988 Kerry Gateway Apt. 112 Michaelfort, ND 43207
+GSTIN: 993155426061
+
+Contact: 499.433.3399x9537
+
+Place of Supply: Stephenland
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Executive 8174 fo | $64.04 $576.36 $51.87 $51.87 $680.1
+
+Or 5029 '3 | $263.52 $790.56 $71.15 $71.15 $932.86
+Reduce 8503 '3 | $527.92 $1583.76 $142.54 |$142.54 | $1868.84
+
+Sub Total: $1421.29
+
+CGST: $112.99
+
+SGST: $146.72
+
+Grand Total: $1842.82
+
+Amount in Words: 4704 dollars only
+
+PO Number: PO-5827
+
+Terms: Father information including owner me.
+
+Reverse Charge: No

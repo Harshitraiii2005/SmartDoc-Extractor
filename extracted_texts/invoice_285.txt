@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-18489
+Date: 27/02/2024
+
+From:
+Cheema-Ramachandran
+19/302 Kashyap Zila, Gwalior 283352
+
+To:
+Mani, Raja and Mammen
+16 Dhillon Ganj Durgapur 387414
+
+GSTIN: FL790752aQ328Z4
+
+Item Description Rate
+Quam Incidunt excepturi. =1702
+Porro Autem aperiam consequatur nesciunt iure. %598
+
+Grand Total: 14904
+
+Quantity
+7
+
+5
+
+Total
+
+=11914
+
+%2990

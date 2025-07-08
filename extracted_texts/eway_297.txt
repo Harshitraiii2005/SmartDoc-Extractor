@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-81466
+
+Date: 07 Nov 2023
+
+Consignor:
+
+Arya-Kara
+
+09/90 Chaudhari Path, Allahabad 522462
+Consignee:
+
+Sunder and Sons
+
+28/99 Dara Marg, Firozabad 755543
+Vehicle No: Yg68Mu8647
+
+GSTIN: YT647450sQ6962Z2
+
+Item Description
+Accusamus Ipsum deserunt sapiente quaerat.
+Pariatur Harum praesentium voluptas excepturi.
+
+Aperiam Fugiat sed nostrum harum.
+
+Quantity
+19
+6
+
+34
+
+Value
+
+€10186
+
+€30764
+
+€5526

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-29854
+
+Date: 09/01/2024
+
+From:
+
+Bail PLC
+
+56/626 Goyal Marg, Rourkela 879784
+To:
+
+Thaman PLC
+
+H.No. 39, Mall Path Kozhikode-426200
+Amount Paid: $10661
+
+Payment Mode: Cash

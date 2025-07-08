@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-770615
+Date: 12 May 2025
+Valid From: 28 Jan 2025 To 22 Mar 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-8483
+
+Transporter ID: TID-1881
+Transporter Name: Gillespie-Crawford
+
+Document Reference
+
+Type: Invoice
+No: DOC-9442
+
+[Unit Taxable Value Tax Rate (%)
+
+Reason: Young.
+

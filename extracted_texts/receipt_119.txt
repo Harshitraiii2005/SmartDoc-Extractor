@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-56491
+
+Date: 19/08/2023
+
+From:
+
+Goel Inc
+
+72/26, Shenoy Ganj, Erode 703875
+To:
+
+Mangal-Lalla
+
+33, Kohli Path, Begusarai 147508
+Amount Paid: $27396
+
+Payment Mode: Card

@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8291
+Date: 29 Apr 2025
+
+Exporter
+
+Mcdaniel-Henderson
+41454 Robinson Lock Suite 980 South Jerrychester, MT 94221
+
+Importer
+
+Anderson, Berry and Phillips
+55030 Baxter Well New Latoyaborough, ME 11931
+
+Buyer Ref: fd056a89-39f6-4c1a-9eee-9545fdfaec00
+Origin: Niger
+Destination: Costa Rica
+
+Currency: INR
+Incoterms: EXW
+
+Manager 2113 9 $302.98 $3217.65
+Indeed 4039 6 $607.12 $4298.41
+
+Freight: $390.82
+
+Insurance: $110.92
+
+Total Invoice Value: $2306.12

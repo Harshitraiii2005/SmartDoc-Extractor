@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-291977
+
+Date: 25 Jan 2024
+
+Consignor:
+
+Rastogi PLC
+
+H.No. 02, Saxena Chowk Hubli-Dharwad-890513
+Consignee:
+
+Date Inc
+
+88/330, Sarma Nagar, Parbhani 138056
+
+Vehicle No: ze54ek8169
+
+GSTIN: UJ105597Jn03521
+
+Item Description
+
+Omnis Consequuntur natus expedita nulla atque.
+
+Aspernatur Perferendis modi.
+
+Quantity
+20
+
+20
+
+Value
+$17669
+
+$15692

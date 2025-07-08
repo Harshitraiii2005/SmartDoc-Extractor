@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-33269
+Date: 18/10/2023
+
+Consignor:
+
+Mall-Sur
+
+69/44 Bath Road, Jorhat 727403
+Consignee:
+
+Sundaram-Dara
+
+39/72 Bose Street, Salem-159795
+Vehicle No: uE660z9460
+
+GSTIN: fX098434GA6542Z6
+
+Item Description
+
+Cupiditate Explicabo incidunt minus.
+Minima Unde ullam dicta.
+
+Harum Praesentium itaque eos nam.
+
+Eveniet Reiciendis excepturi ipsum quo.
+
+Quantity
+41
+
+9
+
+16
+
+43
+
+Value
+$13568
+$5764
+$35209
+
+$43923

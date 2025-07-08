@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3799
+Date: 24 Apr 2025
+
+Supplier
+
+Daugherty, Dean and Gray
+
+2324 Michael Track Apt. 930 South Savannahhaven, NJ 25486
+GSTIN: 416854183169
+
+Contact: 256.217.0120
+
+Buyer
+
+Orozco-Sanders
+
+1163 Mike Isle New Sheilaberg, PR 95577
+GSTIN: 470644763169
+
+Contact: 001-722-983-2309x7212
+
+Place of Supply: Lake Dianeberg
+
+|Description [HSN | Qty Unit Price | Taxable Value CGST SGST Total
+$877.95 $1755.9 $158.03 $158.03 $2071.96
+
+$861.93 $8619.3 $775.74 $775.74 $10170.77
+$175.19 $1576.71 $141.9 $141.9 $1860.52
+
+Sub Total: $1348.92
+
+CGST: $98.13
+
+SGST: $191.07
+
+Grand Total: $1278.92
+
+Amount in Words: 3863 dollars only
+PO Number: PO-8801
+
+Terms: Song serious policy themselves.
+
+Reverse Charge: No

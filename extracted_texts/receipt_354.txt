@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-40605
+
+Date: 04/06/2024
+
+From:
+
+Sachdev Ltd
+
+256 Dara Road, Sultan Pur Majra 605087
+To:
+
+Goswami, Dewan and Deep
+
+735, Sinha Path Solapur 592552
+Amount Paid: $37690
+
+Payment Mode: UPI

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-421
+
+Date: 30-05-2024
+
+From:
+
+Mandal, Kari and D’Alia
+
+731 Dutta Nagar, Proddatur 474347
+To:
+
+Batra PLC
+
+H.No. 157 Raju Ganj, Korba 487750
+Amount Paid: $42831
+
+Payment Mode: Cash

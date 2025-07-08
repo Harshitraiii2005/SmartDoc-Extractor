@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-38421
+
+Date: 13 Mar 2025
+
+Issued By:
+
+Tara Ltd
+
+23/17, Maharaj Ganj Kottayam 031082
+
+To:
+
+Ben Group
+
+76/046, Brahmbhatt Street Davanagere 279909
+
+GSTIN: IM862160vj985Z4
+
+Item Description Rate
+Eius Dolores velit id. €4513
+Velit Aspernatur officia. €3361
+
+Grand Total: €32553
+
+Quantity
+2
+
+7
+
+Total
+
+€9026
+
+€23527

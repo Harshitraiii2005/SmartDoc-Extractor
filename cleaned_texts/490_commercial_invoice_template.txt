@@ -1,0 +1,1 @@
+COMMERCIAL INVOICEInvoice No: INV: 1469Date: 14 Jan 2025ExporterDavis: Moore65606 Brian Creek Lloydville, AZ 75600ImporterSmith Ltd4458 Sara Estate New Deborah, DC 06428Buyer Ref: 278e1f8e: ee56: 4f2b: a868: 57980663238bOrigin: Cook IslandsDestination: New ZealandCurrency: INRIncoterms: EXW2488 $726.58 $3429.46Freight: $205.55Insurance: $75.91Total Invoice Value: $4178.95

@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-50478
+
+Date: 17 Aug 2023
+
+Issued By:
+
+Magar, Kalla and Chowdhury
+
+58/451, Dey Nagar Bangalore 568198
+Billed To:
+
+Aurora-Dasgupta
+
+11, Kuruvilla Chowk Patna-984851
+
+GSTIN: 0q713236Wy722Z2
+
+Item Description Rate
+Expedita Maxime debitis ducimus rerum ea. €1577
+Tenetur Autem ad facere provident. €1270
+
+Grand Total: €16426
+
+Quantity
+8
+
+3
+
+Total
+
+€12616
+
+€3810

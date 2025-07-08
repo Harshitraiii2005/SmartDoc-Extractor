@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-400332
+
+Date: 02-07-2025
+
+Consignor:
+
+Barad Ltd
+
+H.No. 838, Ganesan Street Kolhapur 699894
+Consignee:
+
+Ramesh PLC
+
+H.No. 80 Chanda Street, Bhiwandi-105083
+Vehicle No: skO00yv8412
+
+GSTIN: ki744752m0704Z0
+
+Item Description Quantity
+
+Praesentium Id ex. 19
+
+Value
+
+=17251

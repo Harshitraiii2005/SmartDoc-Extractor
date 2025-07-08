@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-920138
+
+Date: 28/09/2023
+
+Consignor:
+
+Raval-Shenoy
+
+39/29, Varma Road, Serampore 827397
+Consignee:
+
+Jhaveri LLC
+
+999 Tank Parbhani-839393
+
+Vehicle No: cn7OMR6323
+
+GSTIN: Yf155842Dw343Z6
+
+Item Description
+
+Deserunt Enim dolores voluptate eligendi doloremque.
+Itaque Excepturi ad eaque nemo doloremque.
+Nesciunt Rerum maxime architecto.
+
+Itaque Enim at illum itaque.
+
+Quantity
+19
+23
+12
+
+36
+
+Value
+
+$49342
+$48047
+$35881
+
+$43123

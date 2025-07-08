@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-49098
+
+Invoice Date: 02-05-2024
+Issued By:
+
+Biswas, Kota and Dhaliwal
+791, Sen, Akola-215853
+
+To:
+
+Virk Inc
+
+64 Kala Street Tinsukia 016632
+
+GSTIN: YK588172WG638Z8
+
+Item Description
+
+Ab Explicabo corporis placeat laboriosam.
+Ex Doloribus officia vel.
+
+Id Blanditiis facere neque natus impedit.
+Natus Impedit inventore.
+
+Quo Harum et ipsa perspiciatis.
+
+lusto Quam ratione libero voluptatum omnis.
+
+Grand Total: €149089
+
+Rate
+
+€4907
+
+€4184
+
+€529
+
+€3828
+
+€3505
+
+€3164
+
+Quantity
+5
+
+10
+
+9
+
+10
+
+Total
+
+€24535
+
+€41840
+
+€4761
+
+€38280
+
+€17525
+
+€22148

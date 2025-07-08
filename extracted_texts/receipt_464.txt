@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-83213
+
+Date: 30 Jan 2024
+
+From:
+
+Lall, Kuruvilla and Bal
+
+H.No. 42 Ghose Chowk Ramagundam-847500
+To:
+
+Uppal-Mall
+
+432, Lalla Path Burhanpur-148463
+
+Amount Paid: $27459
+
+Payment Mode: Net Banking

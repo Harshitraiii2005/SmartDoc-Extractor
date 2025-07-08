@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-76689
+
+Date: 17/03/2024
+
+From:
+
+Ramesh, Saha and Andra
+
+64/95, Mann Path Kollam 951486
+
+To:
+
+Bhat, Issac and Randhawa
+
+H.No. 96, Swamy Chowk Mehsana 216511
+Amount Paid: $42402
+
+Payment Mode: Cash

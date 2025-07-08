@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-4193
+
+Date: 31-12-2024
+
+From:
+
+Golla, Barad and Dugal
+
+06 Swaminathan Street, Kakinada 667158
+To:
+
+Shenoy and Sons
+
+36, Badal Nagar Unnao 476493
+
+Amount Paid: 716699
+
+Payment Mode: Card

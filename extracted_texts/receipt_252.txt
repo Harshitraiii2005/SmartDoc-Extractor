@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-32689
+
+Date: 05 Oct 2023
+
+From:
+
+Kata-Dey
+
+36/920, Upadhyay Chowk Hapur-65267 1
+To:
+
+Dave Ltd
+
+72 Singh Chowk, Bidhannagar 176253
+Amount Paid: €35236
+
+Payment Mode: Card

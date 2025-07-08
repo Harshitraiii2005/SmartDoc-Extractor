@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-99220
+
+Date: 22/07/2023
+
+From:
+
+Borah-Goyal
+
+43, Vyas Path, Howrah 780221
+
+To:
+
+Balakrishnan-Chaudhuri
+
+97/88 Chaudry Ganj, Navi Mumbai 981467
+Amount Paid: €11108
+
+Payment Mode: Net Banking

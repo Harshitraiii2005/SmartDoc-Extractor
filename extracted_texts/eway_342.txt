@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-781517
+
+Date: 13 Mar 2024
+
+Consignor:
+
+Ratta PLC
+
+450, Andra, Unnao-791455
+
+Consignee:
+
+Kara-Konda
+
+11/61, Acharya Path, Gandhidham-254289
+Vehicle No: GI13Hw8673
+
+GSTIN: Ti659848cn202Z9
+
+Item Description
+
+Accusantium Placeat labore sequi.
+
+Quantity
+
+9
+
+Value
+
+€33054

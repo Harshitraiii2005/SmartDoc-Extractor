@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-7333
+Date: 18 Mar 2025
+
+Supplier
+
+Hill, Camacho and Edwards
+
+2398 Matthew Ports Suite 797 North Carmenfort, VI 45042
+GSTIN: 637957685272
+
+Contact: +1-427-326-3096x27469
+
+Buyer
+
+Robertson, Green and Tucker
+
+50302 Taylor Isle West Jacqueline, LA 40215
+GSTIN: 718770588964
+
+Contact: +1-646-953-2250x374
+
+Place of Supply: Garciastad
+
+|Description [HSN | Qty Taxable Value CGST SGST Total
+
+$111.96 $895.68 $80.61 $80.61 $1056.9
+
+$2901.5 $3423.77
+
+Sub Total: $1294.31
+
+CGST: $60.84
+
+SGST: $101.9
+
+Grand Total: $886.77
+
+Amount in Words: 2266 dollars only
+
+PO Number: PO-6537
+
+Terms: Stock really song whom yard never media.
+
+Reverse Charge: Yes

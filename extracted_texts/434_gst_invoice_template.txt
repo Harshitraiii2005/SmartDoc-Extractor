@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-8919
+Date: 23 Apr 2025
+
+Supplier
+
+Leach, Morrison and Norris
+
+796 Yvette Court Suite 147 Jonesmouth, AL 76151
+GSTIN: 598038133422
+
+Contact: (652)682-7747x706
+
+Buyer
+
+Carpenter Group
+
+232 Vincent Wells Suite 221 Johnborough, PW 20019
+GSTIN: 924323107630
+
+Contact: 315.820.5965x1582
+
+Place of Supply: Lake Alexfort
+
+Description FHSN | Qty Unit Price | Taxable Value CGST SGST
+
+2687 $154.32 $154.32 $13.89 |$13.89 | $182.1
+
+Sub Total: $575.38
+
+CGST: $197.24
+
+SGST: $117.24
+
+Grand Total: $949.62
+
+Amount in Words: 4429 dollars only
+PO Number: PO-1877
+
+Terms: Money ago market name.
+
+Reverse Charge: No

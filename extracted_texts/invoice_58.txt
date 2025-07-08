@@ -1,0 +1,79 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-61720
+
+Invoice Date: 15 Jul 2023
+
+Issued By:
+Kota-Hari
+
+55 Sur Chowk, Mumbai-926536
+
+Billed To:
+Suri LLC
+
+77/09 Samra Nagar, Morbi 306531
+
+GSTIN: gA2255130m045Z9
+
+Item
+Eveniet
+Possimus
+Et
+
+Atque
+Asperiores
+
+Officiis
+
+Description
+Cupiditate quo.
+Eius deserunt quam placeat.
+
+Sequi sapiente veritatis illo.
+
+Eligendi explicabo repudiandae deleniti.
+
+Quis possimus facilis.
+
+Voluptatibus fugit.
+
+Grand Total: 7119085
+
+Rate
+
+24776
+
+2994
+
+4200
+
+%3764
+
+22626
+
+21733
+
+Quantity
+3
+
+8
+
+10
+
+Total
+
+%14328
+
+%23952
+
+=12600
+
+%26348
+
+%26260
+
+%15597

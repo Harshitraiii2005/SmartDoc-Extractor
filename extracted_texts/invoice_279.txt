@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-87908
+
+Date: 08/06/2024
+
+Issued By:
+
+Dass-Ram
+
+08/74 Badami Karnal-775607
+
+To:
+
+Badal, Rajagopal and Anand
+
+14 Subramaniam Ganj, Shimoga 824538
+
+GSTIN: OA476433HF599Z9
+
+Item Description
+Odit Rem blanditiis velit magni.
+Error Illum odit ipsum tempore magnam.
+
+Recusandae Consequuntur magnam eaque doloribus deserunt.
+
+Placeat Dolores quas exercitationem velit.
+Similique Vero corrupti repellendus.
+Ullam Corrupti consequuntur sunt.
+
+Grand Total: €130492
+
+Rate
+
+€4126
+€2518
+€3608
+€3198
+€4609
+
+€1473
+
+Quantity Total
+
+10
+
+9
+
+€41260
+
+€22662
+
+€10824
+
+€12792
+
+€41481
+
+€1473

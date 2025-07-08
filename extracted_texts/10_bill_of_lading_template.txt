@@ -1,0 +1,27 @@
+
+
+---- Page 1 ----
+B/L No: BL-1769
+Date: 22 Feb 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Leg
+
+Port of Loading: Novakfurt
+
+Port of Discharge: Port Laurieborough
+Place of Delivery: Smithville
+
+Container No: CONT-3273
+Marks: Might
+
+Description of Goods: American
+
+Gross Weight: 1976 kg
+Measurement: 9 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

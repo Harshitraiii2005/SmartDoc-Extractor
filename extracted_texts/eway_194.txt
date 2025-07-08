@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-893171
+
+Date: 05 Nov 2024
+
+Consignor:
+
+Raval, Lal and Jani
+
+87/712, Dubey Nagar, Korba 380526
+Consignee:
+
+Virk, Mani and Hans
+
+297, Dhar Circle, Buxar-792596
+Vehicle No: LX20gu8411
+
+GSTIN: lu795604Cq021Z8
+
+Item Description
+Accusamus Voluptatibus non sequi.
+Quod Dicta ipsum iste corporis nostrum.
+
+Totam Alias ullam velit mollitia similique.
+
+Dolor Perferendis delectus asperiores voluptate beatae.
+
+Quantity
+49
+50
+33
+
+11
+
+Value
+$5379
+$18994
+$27410
+
+$32795

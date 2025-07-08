@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-54823
+
+Date: 19-01-2025
+
+Issued By:
+
+Bhagat-Baria
+
+H.No. 871, Chander Chowk, Amritsar 087637
+Billed To:
+
+Ganguly-Dada
+
+952 Kale Chowk, Karaikudi-493670
+
+GSTIN: uY3686231r303Z8
+
+Item Description
+
+Minus | Consectetur ipsum cupiditate nesciunt labore.
+
+At Facere odio cum vero.
+
+Grand Total: €35893
+
+Rate
+
+€3164
+
+€4253
+
+Quantity
+10
+
+1
+
+Total
+
+€31640
+
+€4253

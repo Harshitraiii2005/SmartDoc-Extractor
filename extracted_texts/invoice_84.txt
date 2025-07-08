@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-71245
+
+Invoice Date: 22/01/2024
+
+Issued By:
+
+Soman Group
+
+H.No. 33 Bath Zila Phagwara-225558
+Billed To:
+
+Banerjee, Warrior and Raman
+
+39/133, Sani Chowk Durgapur-978201
+
+GSTIN: FD492978zQ333Z2
+
+Item Description
+
+Atque Tempore asperiores sed.
+
+Nisi Occaecati totam debitis inventore.
+
+Quasi Ullam rerum earum repellendus accusantium.
+Nulla Velit molestiae quia blanditiis expedita.
+
+Eveniet | Quidem cupiditate officiis in.
+
+Dolore Est rerum assumenda minima optio.
+
+Grand Total: €101251
+
+Rate
+
+€4688
+
+€2295
+
+€4969
+
+€911
+
+€1602
+
+€2931
+
+Quantity
+6
+
+1
+
+Total
+
+€28128
+
+€2295
+
+€49690
+
+€2733
+
+€9612
+
+€8793

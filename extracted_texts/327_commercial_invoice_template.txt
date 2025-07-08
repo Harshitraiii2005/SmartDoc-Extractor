@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-8245
+Date: 09 Feb 2025
+
+Exporter
+
+Warren-Reed
+Unit 2256 Box 6484 DPO AP 96247
+
+Importer
+
+Rowland, Lawrence and Banks
+03818 Robin Corner Suite 766 Lake Scottton, SD 30492
+
+Buyer Ref: f8afacOc-85f9-4280-b793-16c9604a97e1
+Origin: Korea
+Destination: Indonesia
+
+Currency: INR
+Incoterms: FOB
+
+Description
+
+funterce [town
+
+Stay 8527 $428.13 $1010.39
+
+Past 4271 $451.54 $2664.09
+
+Certainly
+
+Freight: $429.31
+Insurance: $73.29
+
+Total Invoice Value: $1182.04
+
+5259 6 $766.16 $5424.41

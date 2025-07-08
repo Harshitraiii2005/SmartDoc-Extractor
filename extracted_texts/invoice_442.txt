@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-66625
+
+Date: 06 Jun 2024
+
+Issued By:
+
+Kohli-Dey
+
+77 Suresh Marg Ghaziabad-172222
+To:
+
+Taneja Inc
+
+29/78, Khanna Zila, Proddatur-225018
+
+GSTIN: tg8888130f336Z5
+
+Item Description
+Repellendus Quae repellat distinctio aliquid.
+Blanditiis Nam expedita quidem eligendi.
+
+Grand Total: $15332
+
+Rate
+$764
+
+$2878
+
+Quantity
+5
+
+4
+
+Total
+$3820
+
+$11512

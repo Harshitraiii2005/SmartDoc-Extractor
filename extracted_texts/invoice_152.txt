@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-34185
+
+Date: 23 Aug 2023
+
+Issued By:
+
+Kashyap-Chada
+
+399, Yogi Marg Srikakulam-045046
+To:
+
+Manda, Varughese and Hegde
+488 Madan Path Bhilai-674602
+
+GSTIN: Fb107538zw336Z6
+
+Item Description
+
+Porro Possimus porro eum vitae.
+
+Sit Adipisci distinctio autem assumenda.
+Magni Aliquid corrupti maiores.
+
+Ex Doloremque cum ex tempora quisquam.
+
+Grand Total: 50022
+
+Rate
+
+21961
+
+24123
+
+22829
+
+3930
+
+Quantity
+6
+
+6
+
+Total
+
+=11766
+
+224738
+
+%5658
+
+7860

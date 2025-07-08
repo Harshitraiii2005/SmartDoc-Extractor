@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-80108
+
+Date: 23 Jan 2024
+
+Issued By:
+
+Dara, Bala and Ahluwalia
+
+40/84, Subramaniam Path Tumkur-317074
+Billed To:
+
+Balakrishnan, Sastry and Kala
+
+26/57, Bhatt Path, Panvel-759497
+
+GSTIN: KP693061DP67224
+
+Item Description
+
+Nobis Laborum beatae sed architecto.
+Maiores Provident aut voluptatibus dicta illum.
+Tempora Optio dolor.
+
+Ipsum Esse deserunt beatae consequatur.
+
+Grand Total: €61337
+
+Rate
+
+€4828
+
+€3893
+
+€2492
+
+€1934
+
+Quantity
+8
+
+1
+
+Total
+
+€38624
+
+€3893
+
+€14952
+
+€3868

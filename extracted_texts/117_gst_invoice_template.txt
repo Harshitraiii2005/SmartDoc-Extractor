@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-4659
+Date: 21 Jun 2025
+
+Supplier
+
+Murray, Harrison and Thomas
+
+36012 Hardy Summit Robertsonville, VI 83889
+GSTIN: 506765802548
+
+Contact: (377)533-2922
+
+Buyer
+
+Lee Inc
+
+5239 Buchanan Via Patriciamouth, LA 57580
+GSTIN: 699677374772
+
+Contact: +1-402-993-4052x8159
+
+Place of Supply: East Jesus
+
+Description ;HSN | Qty |Unit Price _| Taxable Value CGST SGST Total
+Value 6320 |2 | $800.97 $1601.94 $144.17 | $144.17 | $1890.29
+
+Else 7938 |9 | $88.82 $799.38 $71.94 $71.94 $943.27
+Focus 5800 /1 | $210.08 $210.08 $18.91 $18.91 $247.89
+
+Sub Total: $1035.43
+
+CGST: $193.11
+
+SGST: $192.98
+
+Grand Total: $945.25
+
+Amount in Words: 2445 dollars only
+
+PO Number: PO-5182
+
+Terms: Federal watch this statement on large recently.
+
+Reverse Charge: Yes

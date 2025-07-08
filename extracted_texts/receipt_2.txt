@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-8998
+
+Date: 17 Feb 2025
+
+From:
+
+Babu, Kapadia and Dara
+
+78, Kakar, Saharanpur 159106
+To:
+
+Badami-Sood
+
+065, Sood Zila Dindigul-596765
+Amount Paid: €39369
+
+Payment Mode: Net Banking

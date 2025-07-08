@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67889
+
+Date: 10 Jan 2025
+
+From:
+
+Krishna Ltd
+
+48, Sunder Path Faridabad 046144
+To:
+
+Bali, Madan and Butala
+
+787, Virk Road Mirzapur-626146
+Amount Paid: €14562
+
+Payment Mode: Net Banking

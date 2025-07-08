@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-11399
+
+Date: 14 Jun 2025
+
+From:
+
+Sampath, Mangal and Bora
+
+070, Shah Path, Karimnagar 068724
+To:
+
+Bhatnagar, Sood and Choudhry
+
+78/012 Dhingra Chowk, Bhopal-562735
+Amount Paid: €27905
+
+Payment Mode: Net Banking

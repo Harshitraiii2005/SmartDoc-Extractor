@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-96402
+
+Date: 06-01-2025
+
+From:
+
+Gole-Doctor
+
+H.No. 67 Swaminathan Road Aurangabad-862925
+To:
+
+Upadhyay Ltd
+
+482 Kumer Circle, Kishanganj-995261
+
+Amount Paid: €36709
+
+Payment Mode: Cash

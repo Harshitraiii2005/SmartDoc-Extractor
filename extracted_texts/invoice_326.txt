@@ -1,0 +1,41 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-67247
+
+Date: 08-12-2023
+
+From:
+
+Chacko and Sons
+
+25/64 Balan Circle Coimbatore-600894
+To:
+
+Dalal Inc
+
+H.No. 58, Rout Ganj Arrah-213954
+
+GSTIN: xK855969ri094Z3
+
+Item Description Rate
+Minus Eius corrupti. $3839
+Corrupti lusto sed. $892
+Cumque Veniam culpa minus tempora ut. $538
+Amet Atque deserunt. $1407
+
+Grand Total: $37697
+
+Quantity
+7
+
+1
+
+Total
+$26873
+$892
+$4304
+
+$5628

@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-96594
+
+Date: 11 Sep 2024
+
+From:
+
+Lala-Kashyap
+
+46/99, Rao Path Tiruppur 433308
+To:
+
+Gulati-Subramanian
+
+73/814 Dey Circle Amroha 483355
+Amount Paid: €12276
+
+Payment Mode: Net Banking

@@ -1,0 +1,54 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-11591
+
+Invoice Date: 13/08/2023
+
+From:
+
+Bansal-Kota
+
+461, Ramakrishnan Tezpur 972453
+
+Billed To:
+
+Bail, Gera and Chad
+
+70/27, Choudhry Nagar Sambalpur-010249
+
+GSTIN: 2J798644Wd4 1524
+
+Item Description
+
+Quidem Quibusdam nobis voluptates magni amet.
+
+Ratione Omnis vero veritatis quia.
+Ea Eius illum.
+
+Labore Maiores eveniet quis esse dolorem.
+
+Grand Total: $71023
+
+Rate
+
+$3497
+$3112
+$3007
+
+$2928
+
+Quantity
+3
+
+9
+
+Total
+
+$10491
+$28008
+$12028
+
+$20496

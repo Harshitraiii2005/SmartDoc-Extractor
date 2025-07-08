@@ -1,0 +1,69 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-75723
+
+Invoice Date: 02-01-2025
+
+Issued By:
+
+Ghose, Sodhi and Dutta
+
+60/500, Venkataraman Path Hyderabad 678815
+Billed To:
+
+Sangha LLC
+
+17/80 Som Zila, Hazaribagh 789006
+
+GSTIN: hb635680qY30621
+
+Item Description
+
+Nam Praesentium sunt.
+
+In Culpa reprehenderit est.
+
+Quod Aut occaecati possimus unde voluptatem.
+Esse Quibusdam saepe consequuntur ex.
+
+Officia Aeius ad pariatur.
+
+Quod Maxime officiis placeat.
+
+Grand Total: 90573
+
+Rate
+
+2180
+
+2643
+
+2017
+
+2056
+
+%3792
+
+3055
+
+Quantity
+5
+
+10
+
+Total
+
+=10900
+
+%26430
+
+24034
+
+%16448
+
+=11376
+
+21385

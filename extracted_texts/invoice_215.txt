@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-54363
+
+Date: 21 Nov 2023
+
+Issued By:
+
+Sampath, Shanker and Goda
+
+H.No. 40 Chaudhuri Road Anantapuram 817387
+Billed To:
+
+Jain-Sanghvi
+
+58, Varty Street Eluru-072358
+
+GSTIN: cW697100FM368Z1
+
+Item Description
+Est Sed quod magni nulla.
+Quas Repudiandae minima quibusdam.
+
+Magnam — Sed quibusdam explicabo consequuntur veritatis.
+
+Grand Total: €9769
+
+Rate
+
+€1059
+
+€685
+
+€4911
+
+Quantity
+2
+4
+
+1
+
+Total
+
+€2118
+
+€2740
+
+€4911

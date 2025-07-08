@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-52467
+
+Invoice Date: 01 Feb 2025
+
+Issued By:
+
+Kalita, Chakrabarti and Thakur
+
+H.No. 81, Sandhu Zila Sagar-137782
+Billed To:
+
+Butala and Sons
+
+71/946, Chaudhary Chinsurah 546835
+
+GSTIN: gj608798ve950Z2
+
+Item Description
+
+Incidunt Necessitatibus illo.
+
+Fuga Ex laudantium temporibus.
+Animi Ut eos id facere nobis.
+Exercitationem Veniam perspiciatis iure rerum.
+Impedit Tempore possimus.
+
+Soluta Eos in nesciunt.
+
+Grand Total: €89806
+
+Rate
+
+€2009
+
+€2638
+
+€3849
+
+€2678
+
+€1096
+
+€1085
+
+Quantity
+9
+
+1
+
+Total
+€18081
+€2638
+€30792
+€24102
+€8768
+
+€5425

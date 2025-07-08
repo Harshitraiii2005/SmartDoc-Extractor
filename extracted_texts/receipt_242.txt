@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-16113
+
+Date: 10 Nov 2023
+
+From:
+
+Viswanathan-Andra
+
+59/348, Thaman Road, Sagar 747499
+To:
+
+Basu Inc
+
+039, Saha Circle Vasai-Virar 888008
+Amount Paid: $40244
+
+Payment Mode: Card

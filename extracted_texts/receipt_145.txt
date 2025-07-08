@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-42326
+
+Date: 26-06-2025
+
+From:
+
+Dugar-Thaker
+
+H.No. 85, Dugar Bhimavaram-714027
+To:
+
+Konda-Sangha
+
+440, Sarna Nagar, Varanasi-177883
+Amount Paid: =11278
+
+Payment Mode: Cash

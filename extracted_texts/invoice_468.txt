@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-10298
+
+Invoice Date: 18-07-2023
+
+From:
+
+Chatterjee-Anand
+
+H.No. 44 Chawla Path Ulhasnagar 675030
+Billed To:
+
+Khanna, Khare and Mammen
+
+H.No. 965 Randhawa Marg Nangloi Jat-071026
+
+GSTIN: zj436911r0410Z0
+
+Item Description Rate
+Consequuntur lure error. 24167
+Quis Ipsam at eveniet culpa. %3570
+Minus Fugiat ratione minima dolorum. 600
+Consectetur Fuga cum maiores. 8773
+Exercitationem Similique veniam reprehenderit officia. 24486
+
+Grand Total: %54931
+
+Quantity
+1
+
+10
+
+Total
+
+24167
+
+%35700
+
+3000
+
+3092
+
+28972

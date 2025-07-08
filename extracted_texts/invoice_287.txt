@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-53607
+
+Invoice Date: 30-07-2024
+From:
+
+Handa PLC
+
+47 Shan Street, Tezpur-873341
+Billed To:
+
+Kala, Sharma and Varkey
+27/433 Chadha Parbhani 626721
+
+GSTIN: Xg488065mR36521
+
+Item Description
+Ex Nam culpa velit et beatae.
+
+Necessitatibus | Adipisci blanditiis temporibus.
+
+Praesentium Quis earum exercitationem eveniet voluptates.
+Veritatis Vitae ipsa ratione eveniet.
+
+Non Vero amet architecto corporis.
+
+Dolorum Alias autem rem.
+
+Grand Total: $148195
+
+Rate
+$4632
+$3189
+$3123
+$4621
+$624
+
+$3741
+
+Quantity
+6
+
+10
+
+9
+
+7
+
+3
+
+Total
+$27792
+$31890
+$28107
+$32347
+$1872
+
+$26187

@@ -1,0 +1,61 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-8224
+
+Date: 26/02/2024
+
+Issued By:
+
+Konda-Bhargava
+03/56 Bains Zila Dindigul 694837
+
+To:
+
+Goel, Setty and Sarma
+86, Babu Chowk South Dumdum 563904
+
+GSTIN: Rj0O29016mG154Z3
+
+Item
+Libero
+Illum
+Magnam
+Atque
+
+Optio
+
+Description
+
+Libero magnam a nam occaecati.
+
+Hic impedit.
+Tenetur nostrum harum.
+Atque expedita.
+
+Ad anam.
+
+Grand Total: $101239
+
+Rate
+$4482
+$2457
+$816
+$3362
+
+$3154
+
+Quantity
+10
+
+9
+
+Total
+$44820
+$22113
+$5712
+$3362
+
+$25232

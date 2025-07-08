@@ -1,0 +1,61 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-65386
+
+Invoice Date: 08 Jun 2025
+
+Issued By:
+
+Vyas-Bhalla
+
+H.No. 860, Doctor Chowk Davanagere-223189
+Billed To:
+
+Choudhary, Sinha and D’Alia
+
+28, Bhasin Circle Ambattur-225906
+
+GSTIN: BI517456GZ150Z0
+
+Item Description
+
+Cumque_ Molestias repudiandae tempora molestias dignissimos.
+
+Suscipit | Fugit voluptatibus.
+At Totam quis et nam ad.
+
+Minus Temporibus sequi mollitia magni.
+
+Grand Total: €42142
+
+Rate
+
+€2237
+
+€674
+
+€2254
+
+€1711
+
+Quantity
+7
+
+10
+
+8
+
+1
+
+Total
+
+€15659
+
+€6740
+
+€18032
+
+€1711

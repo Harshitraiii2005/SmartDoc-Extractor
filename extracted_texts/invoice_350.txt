@@ -1,0 +1,30 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-21794
+
+Date: 13 Jan 2025
+
+Issued By:
+
+Varty-Gulati
+
+12/281 Bhakta Zila Allahabad 427420
+
+To:
+
+Sankar, Ghosh and Chaudhary
+
+H.No. 245 Ramachandran Ganj Malda-325652
+
+GSTIN: 1z887604HC649Z2
+
+Item Description Rate Quantity Total
+Sequi lpsa nostrum. €1787 5 €8935
+Voluptates Labore nam dolor illum excepturi. €2911 10 €29110
+Vel Adipisci totam reprehenderit a. €1983 9 €17847
+Pariatur Cum praesentium quos officia. €1302 8 €10416
+
+Grand Total: €66308

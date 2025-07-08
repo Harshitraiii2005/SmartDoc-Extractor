@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-34397
+
+Date: 12/01/2025
+
+From:
+
+Chandra, Boase and Raju
+
+H.No. 387 Toor Thane 681558
+To:
+
+Gandhi-D’Alia
+
+985, Kakar Circle Jhansi 638388
+Amount Paid: €18084
+
+Payment Mode: UPI

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-55950
+
+Date: 08 May 2024
+
+From:
+
+Lad-Deshpande
+
+H.No. 720 Madan Zila, Bally-106992
+
+To:
+
+Sama LLC
+
+H.No. 681, Mahal Road Davanagere-231691
+Amount Paid: €19072
+
+Payment Mode: Cash

@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-84941
+
+Date: 11 Jan 2024
+
+From:
+
+Grover Inc
+
+H.No. 45 Hayre Road Patiala 166652
+
+To:
+
+Kashyap, Sunder and Dora
+
+H.No. 270 Mangat Marg Yamunanagar 401187
+Amount Paid: 731360
+
+Payment Mode: Card

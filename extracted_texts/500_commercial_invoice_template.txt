@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-5230
+Date: 14 Apr 2025
+
+Exporter
+
+Nichols Group
+8691 Kelly Village Apt. 881 Port Denisebury, MH 98594
+
+Importer
+
+Garrett-Lawrence
+USCGC Mora FPO AE 69394
+
+Buyer Ref: d8919802-7e06-4518-8ef1-8c928f9fd213
+Origin: Syrian Arab Republic
+Destination: Egypt
+
+Currency: INR
+Incoterms: FOB
+
+Person 4020 $323.38 $3815.88
+Environment 5836 $613.4 $2171.44
+
+Something 8944 lo | $503.38 $5345.9
+Choose 6413 $344.64 $4066.75
+Ok 2024 le | $643.37 $4555.06
+
+Freight: $407.47
+Insurance: $158.58
+Total Invoice Value: $3247.75

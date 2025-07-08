@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-738236
+
+Date: 31-01-2024
+
+Consignor:
+
+Doctor-Kaul
+
+641, Mall Chowk, Ozhukarai-964126
+Consignee:
+
+Basu and Sons
+
+H.No. 11 Shetty Circle Visakhapatnam-503027
+Vehicle No: DV27GU7209
+
+GSTIN: qN757083ur09924
+
+Item Description
+
+Eligendi Officiis vero doloremque incidunt.
+
+Quidem Deserunt voluptatem cum.
+
+Deserunt Eligendi unde voluptas voluptates assumenda.
+
+Non Mollitia dolore veniam.
+
+Quantity
+4
+3
+
+50
+
+Value
+
+223977
+
+243431
+
+244812
+
+19373

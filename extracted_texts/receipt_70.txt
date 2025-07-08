@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-67772
+
+Date: 08/09/2023
+
+From:
+
+Rege, Subramanian and Sahota
+
+312, Zacharia Path Chandigarh-224830
+To:
+
+Ravi and Sons
+
+05, Rajagopalan Road Tiruppur-108655
+Amount Paid: $31031
+
+Payment Mode: Cash

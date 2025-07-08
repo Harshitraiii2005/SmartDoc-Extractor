@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-68991
+
+Date: 27 Aug 2023
+
+From:
+
+Lal and Sons
+
+50/247 Dass Road, Rampur 774654
+To:
+
+Bains, Badal and Kurian
+
+H.No. 18 Rout Circle Mysore 940275
+Amount Paid: $22227
+
+Payment Mode: Cash

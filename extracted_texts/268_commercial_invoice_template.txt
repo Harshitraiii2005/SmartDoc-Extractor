@@ -1,0 +1,32 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-7242
+Date: 28 Jan 2025
+
+Exporter
+
+Adams, Ferguson and Miller
+4017 Jessica Bypass Port Michael, FM 09690
+
+Importer
+
+Melendez, Estrada and Miller
+1755 Gomez Park Velasquezview, WI 88571
+
+Buyer Ref: 1486228c-2138-4b1e-810b-dbea90f08083
+Origin: Vanuatu
+Destination: Slovenia
+
+Currency: EUR
+Incoterms: CIF
+
+escinion «(HSN ay [unwroce [Tom
+
+Freight: $316.82
+
+Insurance: $56.68
+
+Total Invoice Value: $1364.35

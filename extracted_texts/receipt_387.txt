@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-95367
+
+Date: 06-02-2025
+
+From:
+
+Tara Inc
+
+H.No. 16 Bhargava Chowk Kulti-997917
+
+To:
+
+Konda-Dube
+
+96/794 Balakrishnan Marg Muzaffarnagar-291519
+Amount Paid: €43924
+
+Payment Mode: UPI

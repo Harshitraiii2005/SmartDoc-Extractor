@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-37013
+
+Date: 27-11-2023
+
+From:
+
+Kashyap-Sandal
+
+82/61 Joshi Alappuzha 404649
+
+To:
+
+Dugar, Choudhary and Choudhury
+84/74, Saini Road, Warangal-366836
+
+GSTIN: FI1625436vE478Z2
+
+Item Description Rate
+Porro Suscipit provident illum. €1481
+Fugit Magnam doloribus. €4054
+Fuga Nihil tempora nam dignissimos. €3288
+Ab Optio eligendi eveniet vel. €515
+
+Grand Total: €60710
+
+Quantity
+3
+
+10
+
+Total
+
+€4443
+
+€40540
+
+€13152
+
+€2575

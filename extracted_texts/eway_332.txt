@@ -1,0 +1,47 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-168131
+Date: 31-03-2025
+
+Consignor:
+
+Reddy-Ben
+
+H.No. 071, Kulkarni Hapur 077285
+Consignee:
+
+Bal-Garde
+
+67 Bawa Zila Naihati 811429
+Vehicle No: FD40Ww1720
+
+GSTIN: MW091716BE753Z0
+
+Item Description
+
+Omnis Quasi minus eos.
+
+Esse Aliquam sequi mollitia veritatis.
+lure Ipsa velit.
+
+Omnis Maiores enim nostrum hic.
+
+Quantity
+34
+
+48
+
+9
+
+28
+
+Value
+
+$45653
+$41599
+$17215
+
+$14772

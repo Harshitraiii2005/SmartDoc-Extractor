@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SmartDoc-Extractor (Flask)</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background-color: #f9f9f9; }
+    textarea { width: 100%; height: 200px; }
+    .entity { padding: 8px; margin: 4px 0; background: #e8f5e9; border-left: 5px solid #4caf50; }
+  </style>
+</head>
+<body>
+  <h2>📄 SmartDoc-Extractor (Flask)</h2>
+  <form method="POST" enctype="multipart/form-data">
+    <label><b>Upload Document</b> (.txt, .pdf, .docx, .csv, .jpg, .png):</label><br>
+    <input type="file" name="document" required><br><br>
+    <button type="submit">🚀 Extract</button>
+  </form>
+
+  {% if extracted_text %}
+    <h3>📄 Extracted Text</h3>
+    <textarea readonly>{{ extracted_text }}</textarea>
+
+    <h3>🧠 Extracted Entities</h3>
+    {% if entities %}
+      {% for ent in entities %}
+        <div class="entity"><b>{{ ent.label }}</b>: {{ ent.text }}</div>
+      {% endfor %}
+    {% else %}
+      <p><i>No entities detected.</i></p>
+    {% endif %}
+  {% endif %}
+</body>
+</html>

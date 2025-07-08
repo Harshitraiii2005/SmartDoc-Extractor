@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-575144
+
+Date: 17-12-2023
+
+Consignor:
+
+Ramaswamy-Raval
+
+51/98 Soman Road Parbhani-056255
+Consignee:
+
+Verma Ltd
+
+05/34, Ganguly Ganj, Madanapalle 712286
+Vehicle No: SV43UA9664
+
+GSTIN: €E381383vc346Z0
+
+Item Description
+
+Rem Impedit est soluta sed.
+
+Libero Dignissimos provident non voluptatibus.
+Tempore Similique quo neque quia.
+
+Recusandae Alias quisquam.
+
+Quantity
+42
+
+6
+
+41
+
+48
+
+Value
+
+$12355
+$28526
+$24464
+
+$36175

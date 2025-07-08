@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-42394
+Date: 20 Apr 2025
+
+From:
+Datta and Sons
+H.No. 38 Bora Street, Haldia 632850
+
+To:
+Bawa-Arya
+H.No. 85, Kapoor Zila Vellore 013132
+
+GSTIN: sM679593jB83421
+
+Item Description Rate Quantity Total
+Fuga Tempora officia praesentium. €3561 5 €17805
+Dolorum Suscipit facere in alias. €1513 9 €13617
+Aliquam Sint cupiditate alias nemo. €2669 3 €8007
+Iste Ratione expedita aut. €1944 9 €17496
+Quibusdam lusto reiciendis sunt laborum. €4963 10 €49630
+
+Grand Total: €106555

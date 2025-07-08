@@ -1,0 +1,29 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-64183
+
+Date: 15-09-2024
+
+Issued By:
+
+Karan, Chandran and Chauhan
+
+60/86, Balasubramanian Nagar, Vellore-252438
+Billed To:
+
+Batta, Raman and Keer
+
+51/282 Sura Ballia 384667
+
+GSTIN: 9j473839nm700Z0
+
+Item Description Rate Quantity Total
+Repudiandae Aspernatur sunt recusandae. €524 6 €3144
+Quod Asperiores consectetur unde. €1164 1 €1164
+Modi Sit maiores labore hic. €3630 6 €21780
+Earum Magnam fugit voluptatem. €1631 4 €6524
+
+Grand Total: €32612

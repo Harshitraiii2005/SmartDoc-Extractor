@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-52552
+
+Date: 16 Dec 2024
+
+Issued By:
+
+Manne Inc
+
+67 Ramachandran Circle, Delhi-774052
+Billed To:
+
+Grover Inc
+
+35/356 Dada Path, Vellore 728953
+
+GSTIN: VU928400DP372Z0
+
+Item Description Rate
+Consequuntur Fuga perferendis. €634
+Exercitationem Doloribus velit. €4628
+
+Grand Total: €17054
+
+Quantity
+5
+
+3
+
+Total
+
+€3170
+
+€13884

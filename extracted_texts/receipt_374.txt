@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-19662
+
+Date: 24 Feb 2024
+
+From:
+
+Ahuja, Ganesan and Bhasin
+
+97 Yohannan, Yamunanagar 455460
+To:
+
+Kamdar, Sem and Sarkar
+
+H.No. 36 De, Sasaram-019509
+Amount Paid: $26701
+
+Payment Mode: Card

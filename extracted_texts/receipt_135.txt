@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-95890
+
+Date: 25-08-2023
+
+From:
+
+Biswas Inc
+
+H.No. 643, Chatterjee Nagar Kavali 432157
+To:
+
+Bhatnagar Inc
+
+14 Tandon Street Jamalpur-555797
+Amount Paid: €44257
+
+Payment Mode: Cash

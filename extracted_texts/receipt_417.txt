@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-55943
+
+Date: 04/02/2025
+
+From:
+
+Kapoor-Shankar
+
+69/290 Sangha Zila Mira-Bhayandar-175873
+To:
+
+Bhatnagar, Kant and Bumb
+
+381 Choudhary Marg Panipat-797152
+Amount Paid: €27800
+
+Payment Mode: UPI

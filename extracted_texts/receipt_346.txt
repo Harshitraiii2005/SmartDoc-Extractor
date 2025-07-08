@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-69814
+
+Date: 30/12/2024
+
+From:
+
+Sood, Saxena and Chaudhry
+
+354 Bhattacharyya Chowk, Bathinda-594747
+To:
+
+Doshi, Solanki and Bhalla
+
+742 Solanki Circle Baranagar-291558
+Amount Paid: $25072
+
+Payment Mode: Cash

@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-150450
+
+Date: 12/01/2025
+
+Consignor:
+
+Deol Inc
+
+748, Rao Street Karimnagar-019325
+Consignee:
+
+Raj LLC
+
+H.No. 48, Batta Nagar Amaravati-584 182
+Vehicle No: wk82UI4883
+
+GSTIN: IA669451RO114Z4
+
+Item Description
+
+Cupiditate Molestias assumenda necessitatibus magnam eos.
+
+Voluptate Aut nemo velit hic quam.
+
+Totam Ullam occaecati hic facilis voluptatum.
+
+Quantity
+21
+19
+
+10
+
+Value
+$35781
+$30343
+
+$12602

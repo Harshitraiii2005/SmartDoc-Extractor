@@ -1,0 +1,37 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-70953
+
+Date: 30/12/2023
+
+Issued By:
+
+Sastry, Sangha and Bhalla
+
+13/85 Loyal Path Gurgaon-399918
+Billed To:
+
+Bajwa-Majumdar
+
+H.No. 790, Bhagat Zila, Hosur-096023
+
+GSTIN: XK789018PR340Z6
+
+Item Description Rate
+Sunt Quasi necessitatibus. $2925
+Quidem Animi praesentium laudantium. $3036
+
+Grand Total: $47910
+
+Quantity
+6
+
+10
+
+Total
+$17550
+
+$30360

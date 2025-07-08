@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-63895
+
+Date: 27/06/2024
+
+Issued By:
+
+Chana, Karpe and Venkatesh
+
+22 Gole Circle, Shimla-688545
+To:
+
+Choudhury-Comar
+
+91/01, Suresh Zila Nellore 320977
+
+GSTIN: Sw202727ak1982Z5
+
+Item Description Rate
+Dolor Ipsam ut nemo. €854
+Aperiam Modi et quo. €4268
+Provident Saepe inventore totam. €1261
+Provident Ipsam soluta accusamus inventore. €2394
+Omnis Nobis placeat illo. €939
+
+Grand Total: €63172
+
+Quantity
+4
+
+10
+
+9
+
+2
+
+1
+
+Total
+
+€3416
+
+€42680
+
+€11349
+
+€4788
+
+€939

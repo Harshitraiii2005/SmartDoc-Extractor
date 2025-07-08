@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-5222
+Date: 06 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: As
+
+Port of Loading: Tammyport
+Port of Discharge: Davisstad
+Place of Delivery: West Jessica
+
+Container No: CONT-9893
+Marks: Age
+
+Description of Goods: Modern
+
+Gross Weight: 2731 kg
+Measurement: 7 cbm
+Freight Terms: Collect
+
+BILL OF LADING

@@ -1,0 +1,75 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-74874
+
+Date: 27 Dec 2023
+
+Issued By:
+
+Kashyap-Singh
+
+89/753 Solanki Street Khammam 394118
+
+To:
+Dora-Gaba
+
+H.No. 41, Salvi Marg Hajipur 718002
+
+GSTIN: Wn516285qF948Z7
+
+Item
+
+Hic
+Asperiores
+Adipisci
+Ullam
+Similique
+
+Mollitia
+
+Description
+
+Sit exercitationem dolorem.
+
+Rem soluta.
+
+Velit fuga commodi cum incidunt.
+
+Ea sint.
+
+Distinctio dolor delectus quia deleniti.
+
+Voluptatum asperiores.
+
+Grand Total: $83618
+
+Rate
+
+$3480
+$1926
+$2502
+$2394
+$2538
+
+$616
+
+Quantity
+6
+9
+2
+
+10
+
+2
+
+Total
+$20880
+$17334
+$5004
+$23940
+$15228
+
+$1232

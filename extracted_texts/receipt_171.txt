@@ -1,0 +1,21 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-55373
+
+Date: 16-04-2025
+
+From:
+
+Viswanathan, Dugar and Kapadia
+33/740 Chauhan Ganj, Madurai-859466
+To:
+
+Verma, Virk and Contractor
+
+596 Agrawal Marg, Kishanganj 273793
+Amount Paid: €40259
+
+Payment Mode: Card

@@ -1,0 +1,82 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No:
+
+INV-18229
+
+Date: 21-12-2024
+
+From:
+Hari-Bajaj
+
+91/007, Sengupta Marg Malda 501282
+
+Billed To:
+
+Aurora Group
+75/927, Goel Street Shahjahanpur 937691
+
+GSTIN: 1m326494Qk059Z5
+
+Item
+Expedita
+Id
+Reiciendis
+Molestias
+Vitae
+
+Omnis
+
+Grand Total
+
+Description
+
+Labore at earum culpa.
+Aliquid harum consequuntur.
+Nam dolores qui deserunt.
+
+Aliquam assumenda laudantium perferendis.
+
+Recusandae molestiae possimus ipsam inventore.
+
+Tempora eaque porro.
+
+> 87423
+
+Rate
+
+2059
+
+3150
+
+24522
+
+23558
+
+22613
+
+2612
+
+Quantity
+4
+
+10
+
+8
+
+Total
+
+%8236
+
+%31500
+
+%22610
+
+=7116
+
+%13065
+
+24896

@@ -1,0 +1,42 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-839693
+
+Date: 13-06-2024
+
+Consignor:
+
+Dada-Sabharwal
+
+608, Vora Chowk Muzaffarpur 491632
+Consignee:
+
+Wali and Sons
+
+82, Sood Nagar Salem-731050
+Vehicle No: ON15bI9002
+
+GSTIN: 0j376582CS13121
+
+Item Description
+Dolor Tenetur cum ratione.
+Fugit Sed dolor deserunt eum fugit.
+
+Voluptatum Temporibus nihil temporibus explicabo aspernatur.
+
+Quantity
+45
+35
+
+1
+
+Value
+
+242453
+
+241242
+
+246051

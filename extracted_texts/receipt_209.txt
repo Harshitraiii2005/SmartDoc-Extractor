@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-63319
+
+Date: 04 Apr 2024
+
+From:
+
+Setty, Rajagopalan and Shankar
+
+H.No. 75, Balan Road Sambhal 429071
+To:
+
+Krishnamurthy, Suri and Walia
+
+H.No. 29 Kadakia Marg Karaikudi 023778
+Amount Paid: €4347
+
+Payment Mode: Card

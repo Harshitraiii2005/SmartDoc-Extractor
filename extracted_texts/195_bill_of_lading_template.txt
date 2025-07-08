@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-5118
+Date: 18 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Process
+
+Port of Loading: Jasmineside
+Port of Discharge: Galvanhaven
+Place of Delivery: Lake Jeffrey
+
+Container No: CONT-8220
+Marks: International
+
+Description of Goods: Couple
+
+Gross Weight: 3316 kg
+Measurement: 8 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

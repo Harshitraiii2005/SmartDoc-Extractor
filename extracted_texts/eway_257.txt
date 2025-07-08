@@ -1,0 +1,38 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-524204
+
+Date: 09/07/2023
+
+Consignor:
+
+Behl, Toor and Chauhan
+
+880, Ram Nagar Tinsukia-750791
+Consignee:
+
+Desai-Amble
+
+H.No. 04 Dua Chowk, Anantapur 785673
+Vehicle No: kL63t05598
+
+GSTIN: hg636537Tu075Z2
+
+Item Description
+
+Nam Quis vitae.
+
+Nihil Commodi minus numquam.
+
+Quantity
+5
+
+26
+
+Value
+€15894
+
+€7445

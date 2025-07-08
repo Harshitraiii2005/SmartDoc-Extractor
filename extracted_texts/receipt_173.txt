@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-55055
+
+Date: 10-04-2025
+
+From:
+
+Kuruvilla Ltd
+
+H.No. 180, Kar Circle, Kirari Suleman Nagar-439191
+To:
+
+Gandhi, Gara and Dani
+
+H.No. 180, Chokshi Marg Kalyan-Dombivli-462733
+Amount Paid: €46023
+
+Payment Mode: UPI

@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-425496
+
+Date: 03-10-2024
+
+Consignor:
+
+Thaman Inc
+
+H.No. 62, Bahl Nagar Thane-240423
+Consignee:
+
+Cheema PLC
+
+H.No. 31, Ganesh Marg, Jodhpur 078233
+Vehicle No: Ec51Lw9316
+
+GSTIN: PB1919150J6212Z7
+
+Item Description
+
+Repellat Vel exercitationem nihil facere.
+
+Quantity
+
+2
+
+Value
+
+$22508

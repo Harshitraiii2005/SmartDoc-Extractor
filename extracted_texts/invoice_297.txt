@@ -1,0 +1,52 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-48067
+
+Date: 23-08-2024
+
+Issued By:
+
+Chokshi, Venkataraman and Yadav
+
+56/22, Kohli Ganj Vellore-156843
+
+Billed To:
+
+Kala, Bandi and Lall
+
+71/855, Manne Road, Secunderabad-581513
+
+GSTIN: vq073072sA962Z3
+
+Item Description Rate
+Consequuntur Eveniet voluptate cupiditate veritatis reiciendis. %982
+Voluptatum Totam deserunt. 22013
+Eveniet Quisquam sunt eligendi omnis. 21807
+Hic Corrupti dolor quis dolor. %2270
+Consectetur Placeat exercitationem rem cupiditate. %643
+
+Grand Total: %61675
+
+Quantity
+5
+
+10
+
+7
+
+10
+
+Total
+
+24910
+
+20130
+
+%12649
+
+%22700
+
+21286

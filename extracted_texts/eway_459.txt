@@ -1,0 +1,35 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-647292
+
+Date: 30/12/2024
+
+Consignor:
+
+Cheema Inc
+
+55, Uppal Zila, Jamalpur 900391
+
+Consignee:
+
+Hans LLC
+
+H.No. 50, Sangha Ganj, Anantapuram 131020
+Vehicle No: wt65fP6388
+
+GSTIN: hK750081JU58225
+
+Item Description
+
+Harum Explicabo praesentium consequuntur nobis sequi.
+
+Quantity
+
+37
+
+Value
+
+236423

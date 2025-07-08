@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-12787
+
+Date: 17 Apr 2024
+
+From:
+
+Date PLC
+
+242 Ahluwalia Path Kottayam 792156
+To:
+
+Tata-Sethi
+
+469, Tella Marg Bhimavaram-216826
+Amount Paid: $2511
+
+Payment Mode: Net Banking

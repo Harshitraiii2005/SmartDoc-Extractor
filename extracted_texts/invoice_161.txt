@@ -1,0 +1,63 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-4862
+
+Invoice Date: 07-06-2024
+
+Issued By:
+Shenoy-Loke
+
+H.No. 960, Setty Road, Kalyan-Dombivli-747765
+
+Billed To:
+
+Mandal-Kumar
+
+H.No. 03, Kari Ganj Narasaraopet 972326
+
+GSTIN: uS377481MG958Z8
+
+Item
+Commodi
+Eveniet
+Voluptate
+
+Modi
+
+Description
+
+Esse est sapiente voluptate a.
+Molestias omnis reprehenderit.
+Rerum facilis eligendi debitis.
+
+Nulla eos molestiae.
+
+Grand Total: 26902
+
+Rate
+
+1732
+
+21571
+
+%2937
+
+24201
+
+Quantity
+1
+
+4
+
+Total
+
+%1732
+
+26284
+
+%14685
+
+24201

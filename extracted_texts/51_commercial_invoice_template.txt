@@ -1,0 +1,34 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-6157
+Date: 09 Mar 2025
+
+Exporter
+
+Ross, Perkins and Foster
+48157 Susan Crossing West Brittany, LA 90990
+
+Importer
+
+Hansen-Mccormick
+6065 Jones Landing Port Kyle, PW 35091
+
+Buyer Ref: 5756a73e-fb/7d-4e3a-8da7-e79c74821242
+Origin: Sri Lanka
+Destination: Albania
+
+Currency: EUR
+Incoterms: EXW
+
+Line 3327 9 $527.83 $5605.55
+
+Sense 4994 $239.25 $1129.26
+Push 1663 Bo $55.02 $519.39
+
+Freight: $229.8
+
+Insurance: $126.39
+Total Invoice Value: $1400.0

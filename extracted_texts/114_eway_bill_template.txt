@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+
+EWB No: EWB-269692
+Date: 03 Apr 2025
+Valid From: 03 Feb 2025 To 14 Jan 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+
+Transport Details
+
+Mode: Road
+
+Vehicle No: VEH-3323
+Transporter ID: TID-1517
+Transporter Name: Rios-Dickerson
+
+Document Reference
+
+Type: Invoice
+No: DOC-9955
+
+Taxable Value Tax Rate (%)
+
+Reason: Growth wall.

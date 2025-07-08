@@ -1,0 +1,46 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-85185
+Invoice Date: 01-02-2024
+
+From:
+Dhawan, Bava and Grover
+H.No. 977, Sur Marg Bhusawal 575882
+
+Billed To:
+Shenoy, Viswanathan and Krish
+17 Toor Path Aligarh 070001
+
+GSTIN: Ck481307eV576Z0
+
+Item Description
+
+lusto Iste perspiciatis.
+Quam Labore libero voluptas.
+Magnam Nostrum perferendis.
+
+Grand Total: %60266
+
+Rate
+
+3640
+
+21125
+
+3523
+
+Quantity
+7
+
+9
+
+Total
+
+%25480
+
+%10125
+
+%24661

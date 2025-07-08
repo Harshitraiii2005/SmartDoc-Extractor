@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-707373
+Date: 25/04/2025
+
+Consignor:
+
+Anand Inc
+
+29 Gole Circle Surat-138992
+Consignee:
+
+Sarin Inc
+
+597, Bhatti Path, Aligarh 727516
+Vehicle No: EU24HU4007
+
+GSTIN: xG8158670H656Z8
+
+Item Description
+
+Occaecati Molestiae labore deleniti quisquam.
+
+Quantity
+
+31
+
+Value
+
+€34987

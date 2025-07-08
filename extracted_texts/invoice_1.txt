@@ -1,0 +1,65 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-85315
+
+Date: 19 Sep 2023
+
+Issued By:
+
+Kunda-Kumer
+
+95/643 Maharaj Nagar, Ambala 125911
+
+Billed To:
+
+Doctor-Lata
+
+70, Sen Nagar, Gopalpur-641977
+
+GSTIN: rr855815Vs287Z6
+
+Item
+Cupiditate
+lure
+Voluptas
+
+Libero
+
+Description
+Repudiandae dicta enim placeat.
+
+Accusantium facere nostrum.
+
+Sit accusantium repudiandae sit eaque.
+
+Voluptates dicta nam quos.
+
+Grand Total: €13372
+
+Rate
+
+€2370
+
+€1248
+
+€2643
+
+€644
+
+Quantity
+1
+
+2
+
+Total
+
+€2370
+
+€2496
+
+€5286
+
+€3220

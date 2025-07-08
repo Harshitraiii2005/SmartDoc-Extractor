@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-845984
+Date: 19 Feb 2025
+Valid From: 18 Mar 2025 To 28 May 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Air
+
+Vehicle No: VEH-1845
+Transporter ID: TID-9260
+Transporter Name: Brown LLC
+
+Document Reference
+
+Type: Invoice
+No: DOC-3335
+
+Taxable Value Tax Rate (%)
+
+Reason: Compare still different.

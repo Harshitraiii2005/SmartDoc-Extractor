@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-65461
+
+Date: 02 Sep 2023
+
+From:
+
+Walla, Sami and Saxena
+
+H.No. 68 Chatterjee Zila Mangalore-447657
+To:
+
+Chad-Sampath
+
+02/80, Shenoy Road Dhule-801212
+Amount Paid: €4624
+
+Payment Mode: Cash

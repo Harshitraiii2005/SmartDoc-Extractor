@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-10398
+
+Date: 20/12/2024
+
+From:
+
+Lal-Trivedi
+
+86/257 Kar, Raiganj-593182
+
+To:
+
+Karnik and Sons
+
+H.No. 945, Wagle Chowk, Guntur 628216
+Amount Paid: €45345
+
+Payment Mode: Card

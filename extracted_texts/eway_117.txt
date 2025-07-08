@@ -1,0 +1,48 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-79973
+
+Date: 02/02/2024
+
+Consignor:
+
+Rattan, Sachdeva and Vaidya
+
+29, Kalla Nagar Bahraich 646047
+Consignee:
+
+D’Alia, Rana and Banerjee
+
+356 Dora Nagar Tadepalligudem 853480
+Vehicle No: RL14ct9660
+
+GSTIN: Vn650177vt113Z3
+
+Item Description
+
+Similique Veritatis quibusdam.
+Tenetur Est magnam sequi.
+
+Culpa Blanditiis repellendus rem.
+
+Beatae Expedita delectus alias eos.
+
+Quantity
+2
+7
+3
+
+25
+
+Value
+
+249884
+
+%6917
+
+%21266
+
+25754

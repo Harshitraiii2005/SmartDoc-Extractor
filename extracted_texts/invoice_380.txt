@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-81844
+
+Invoice Date: 22-10-2023
+
+Issued By:
+
+Sura, Kashyap and Krishna
+931, Shetty Circle Amroha-439270
+
+Billed To:
+
+Sawhney, Tank and Suri
+885 Shroff Chowk Alappuzha-709063
+
+GSTIN: jw730741Zt869Z8
+
+Item
+
+Ex
+Tenetur
+Provident
+Nulla
+
+Sapiente
+
+Description
+Dolor esse facere nihil expedita.
+
+Praesentium adipisci nobis sint.
+
+Necessitatibus officia ea vero mollitia.
+
+Odio voluptas libero magni.
+
+Praesentium numquam fugit error.
+
+Grand Total: ¥100407
+
+Rate
+
+24650
+
+21375
+
+24226
+
+%3724
+
+24562
+
+Quantity
+10
+
+5
+
+Total
+
+%46500
+
+26875
+
+%12678
+
+229792
+
+24562

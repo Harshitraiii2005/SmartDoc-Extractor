@@ -1,0 +1,71 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-50659
+Date: 27 Oct 2024
+
+From:
+
+Rau, Chawla and Chaudhari
+33/300, Thaman Ganj, Allahabad 859477
+
+To:
+Lal-Varty
+
+H.No. 353, Setty Street Lucknow 701369
+
+GSTIN: Uj697555EX98227
+
+Item
+
+Hic
+
+Recusandae
+
+Veritatis
+
+Officia
+
+Esse
+
+Cum
+
+Description
+
+Ex saepe harum quo iste.
+
+Esse corrupti dolor reprehenderit odio.
+
+Quos illum culpa rerum.
+Itaque impedit magnam optio quasi.
+Aliquid tenetur.
+
+Neque sed deserunt et.
+
+Grand Total: $67477
+
+Rate
+
+$3140
+$3140
+$4577
+$1226
+$4426
+
+$1433
+
+Quantity
+4
+
+8
+
+Total
+$12560
+$25120
+$4577
+$4904
+$8852
+
+$11464

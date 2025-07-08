@@ -1,0 +1,53 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-85768
+
+Invoice Date: 05/08/2024
+
+Issued By:
+
+Comar and Sons
+
+522 Khalsa Zila, Orai 121515
+
+Billed To:
+
+Chander, Balakrishnan and Thaker
+H.No. 65, Vohra Circle, Jalgaon-152530
+
+GSTIN: tL834849L144229
+
+Item Description
+
+Pariatur Nisi laudantium.
+
+Eos Temporibus laudantium odio.
+Eligendi Ab atque dolorem.
+
+Inventore Mollitia tempore fugiat iure.
+
+Grand Total: $77319
+
+Rate
+
+$2226
+$4178
+$3620
+
+$1487
+
+Quantity
+9
+
+5
+
+Total
+
+$20034
+$20890
+$28960
+
+$7435

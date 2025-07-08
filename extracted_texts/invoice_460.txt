@@ -1,0 +1,56 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-1046
+
+Invoice Date: 21 Jan 2025
+
+Issued By:
+
+Agrawal, Thakur and Ahluwalia
+
+H.No. 93 Bose Surendranagar Dudhrej 344776
+Billed To:
+
+Varghese, Chowdhury and Sur
+
+55 Dhingra Chowk Bhubaneswar-658502
+
+GSTIN: uJ310642sU8782Z6
+
+Item Description
+
+Esse Est culpa qui.
+
+Ipsam Provident deleniti rerum.
+
+Nemo Maxime nesciunt sint maiores.
+
+Neque Molestias rerum reiciendis assumenda.
+
+Consequatur Aliquid amet blanditiis.
+
+Grand Total: $41698
+
+Rate
+$3455
+$1003
+$1906
+$868
+
+$4032
+
+Quantity
+2
+
+10
+
+Total
+$6910
+$10030
+$5718
+$6944
+
+$12096

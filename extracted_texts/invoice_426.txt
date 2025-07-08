@@ -1,0 +1,52 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-48781
+
+Date: 17-01-2025
+
+Issued By:
+
+Chaudhary, Bansal and Khurana
+
+829, Shroff Chowk Nellore-803087
+
+To:
+
+Sinha Inc
+
+H.No. 399, Sani Road Gudivada-787655
+
+GSTIN: KY310295uV7282Z2
+
+Item Description
+
+lusto Adipisci repellat excepturi.
+
+Placeat Earum aperiam nemo commodi.
+Ducimus Error unde necessitatibus voluptatum.
+Itaque Id accusamus corporis dolor reiciendis.
+
+Grand Total: $36905
+
+Rate
+
+$2890
+$1370
+$2628
+
+$3323
+
+Quantity
+2
+
+1
+
+Total
+$5780
+$1370
+$13140
+
+$16615

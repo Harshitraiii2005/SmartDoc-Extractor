@@ -1,0 +1,40 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-46753
+
+Invoice Date: 10/04/2025
+
+From:
+
+Toor, Apte and Sarin
+
+73/51, Brar Path, Bhiwandi 624717
+To:
+
+Shah PLC
+
+94/162 Kata, Saharanpur-939410
+
+GSTIN: uu8404450C2952Z2
+
+Item Description Rate
+Ilum Inventore sint veritatis laboriosam suscipit. $3577
+Ea A vel dicta natus. $510
+Maiores Nam asperiores commodi ab. $2239
+
+Grand Total: $33087
+
+Quantity
+7
+7
+
+2
+
+Total
+$25039
+$3570
+
+$4478

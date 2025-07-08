@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-33608
+
+Date: 02-03-2024
+
+From:
+
+Batra-Bhatnagar
+
+H.No. 133 Saraf Ganj, Varanasi 659461
+To:
+
+Deshpande-Apte
+
+H.No. 610 Kala Chowk, Proddatur-997986
+Amount Paid: $26733
+
+Payment Mode: Cash

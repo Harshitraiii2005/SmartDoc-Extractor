@@ -1,0 +1,23 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-89995
+
+Date: 29 Nov 2023
+
+From:
+
+Gade-Choudhry
+
+14, Dugar Street Barasat-827187
+
+To:
+
+Kade-Anand
+
+264 Brahmbhatt Road, Ambarnath 294935
+Amount Paid: €41705
+
+Payment Mode: Cash

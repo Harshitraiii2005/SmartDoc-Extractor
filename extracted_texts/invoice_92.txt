@@ -1,0 +1,55 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-16167
+Invoice Date: 11/04/2025
+
+From:
+Seshadri and Sons
+H.No. 84, Balasubramanian Nagar, Bardhaman 007719
+
+Billed To:
+Sachar- Tiwari
+960, Bali Street, Surendranagar Dudhrej 848232
+
+GSTIN: Hgq301093IM620Z5
+
+Item Description
+
+Assumenda Ut eius aut.
+
+Eius Ipsa provident quidem quod voluptates.
+Culpa Amet aliquam ipsam.
+
+Consequuntur Neque non officia voluptatem.
+
+Grand Total: %57168
+
+Rate
+
+22253
+
+%3995
+
+%3038
+
+%602
+
+Quantity
+9
+3
+8
+
+1
+
+Total
+
+220277
+
+11985
+
+%24304
+
+%602

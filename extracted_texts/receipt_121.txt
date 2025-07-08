@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-10717
+
+Date: 13 May 2025
+
+From:
+
+Mannan, Saran and Sane
+
+08/77 Sangha Nagar, Delhi 939100
+To:
+
+Ravel Group
+
+16 Gandhi Path, Nashik-320623
+Amount Paid: €39237
+
+Payment Mode: UPI

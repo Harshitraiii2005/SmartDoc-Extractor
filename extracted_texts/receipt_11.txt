@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-69339
+
+Date: 30/01/2024
+
+From:
+
+Shroff-De
+
+26/201, Sarin Zila, Bardhaman 371890
+To:
+
+Vaidya-Kapadia
+
+52/519 Sunder Meerut-485251
+Amount Paid: 48102
+
+Payment Mode: Card

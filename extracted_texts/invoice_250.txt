@@ -1,0 +1,62 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Inv No: INV-58890
+
+Date: 14-12-2024
+
+From:
+
+Krishnan, Bora and Joshi
+
+63/457 Subramanian Zila, Phagwara-794598
+Billed To:
+
+Dugal-Bath
+
+06/712 Buch Ganj Salem 163285
+
+GSTIN: tZ450703SW563Z0
+
+Item Description
+
+lure Nostrum autem.
+
+Accusamus Suscipit eaque repellendus aliquam.
+Tempora Vitae expedita harum expedita.
+Praesentium Quasi deleniti.
+
+Unde Beatae veritatis illum.
+
+Grand Total: €65055
+
+Rate
+
+€3237
+
+€3838
+
+€4605
+
+€2449
+
+€1026
+
+Quantity
+8
+
+2
+
+Total
+
+€25896
+
+€7676
+
+€9210
+
+€17143
+
+€5130

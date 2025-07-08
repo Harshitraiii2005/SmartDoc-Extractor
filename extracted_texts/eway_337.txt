@@ -1,0 +1,45 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-638107
+
+Date: 13/03/2024
+
+Consignor:
+
+Varghese, Gupta and Sur
+
+77, Shanker Chowk, Hospet 644559
+Consignee:
+
+Shankar Ltd
+
+H.No. 75 Dubey Marg Haridwar 566391
+Vehicle No: UM53Jw8683
+
+GSTIN: LT669044pG158Z6
+
+Item Description
+
+Tenetur Doloribus laboriosam vitae consequatur explicabo.
+
+Consequuntur Voluptatum accusamus.
+Temporibus Sequi commodi harum.
+
+Quisquam Ilo accusantium.
+
+Quantity
+4
+46
+
+35
+
+Value
+
+$23433
+$15822
+$23658
+
+$30976

@@ -1,0 +1,39 @@
+
+
+---- Page 1 ----
+E-Way Bill
+
+E-Way Bill No: EWB-830125
+
+Date: 28-04-2024
+
+Consignor:
+
+Chanda-Dass
+
+728 Kamdar Street Purnia 954249
+Consignee:
+
+Thakur-Sathe
+
+76/54, Bhalla Marg Mirzapur-259257
+Vehicle No: hD91Lm5283
+
+GSTIN: SA108809EQ469Z0
+
+Item Description
+
+Eaque Laboriosam mollitia illum.
+
+Laborum Illum vel.
+
+Quantity
+4
+
+19
+
+Value
+
+236843
+
+=19169

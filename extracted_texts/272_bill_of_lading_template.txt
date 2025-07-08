@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-9115
+Date: 25 Mar 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Young
+
+Port of Loading: Murphyport
+Port of Discharge: Amberburgh
+Place of Delivery: South Katrina
+
+Container No: CONT-9683
+Marks: Daughter
+
+Description of Goods: Happy
+
+Gross Weight: 4868 kg
+Measurement: 7 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

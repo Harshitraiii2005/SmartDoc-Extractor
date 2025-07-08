@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-82108
+
+Date: 21-10-2023
+
+From:
+
+Karan and Sons
+
+H.No. 951, Shenoy Circle Karnal 326677
+To:
+
+Chadha-Roy
+
+H.No. 508, Sekhon, Ozhukarai 085020
+Amount Paid: €648
+
+Payment Mode: Card

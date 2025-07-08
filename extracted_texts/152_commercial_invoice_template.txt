@@ -1,0 +1,31 @@
+
+
+---- Page 1 ----
+COMMERCIAL INVOICE
+
+Invoice No: INV-1712
+Date: 21 Jan 2025
+
+Exporter
+
+Mills-Rivers
+258 April Stravenue Port Jamesshire, WV 66993
+
+Importer
+
+Rodriguez-Griffin
+65898 Sellers Stream Suite 996 Scottfort, TX 21700
+
+Buyer Ref: 704641bc-f417-484f-9819-c05646c9c633
+Origin: Uruguay
+Destination: Samoa
+
+Currency: USD
+Incoterms: CIF
+
+funterce [Tow
+$76.6 $723.1
+
+Freight: $478.19
+Insurance: $190.43
+Total Invoice Value: $4448.11

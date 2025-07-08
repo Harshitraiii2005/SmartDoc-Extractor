@@ -1,0 +1,44 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice No: INV-7133
+
+Date: 31-05-2024
+
+Issued By:
+
+Borah-Tak
+
+H.No. 00, Saha Street Ichalkaranji 308394
+To:
+
+Raj LLC
+
+317 Balan Gangtok 832062
+
+GSTIN: uK324836PU34524
+
+Item Description
+Voluptatum Asperiores necessitatibus deleniti.
+Neque Natus ad.
+
+Grand Total: §14922
+
+Rate
+
+831
+
+24968
+
+Quantity
+6
+
+2
+
+Total
+
+24986
+
+%9936

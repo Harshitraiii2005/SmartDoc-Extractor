@@ -1,0 +1,26 @@
+
+
+---- Page 1 ----
+B/L No: BL-6741
+Date: 07 Jan 2025
+
+Shipper
+Consignee
+Notify Party
+
+Vessel: Here
+
+Port of Loading: Adrianview
+Port of Discharge: Bryanmouth
+Place of Delivery: Woodton
+
+Container No: CONT-4986
+Marks: Within
+
+Description of Goods: Score
+
+Gross Weight: 3602 kg
+Measurement: 14 cbm
+Freight Terms: Prepaid
+
+BILL OF LADING

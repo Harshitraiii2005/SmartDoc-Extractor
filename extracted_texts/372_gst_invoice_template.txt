@@ -1,0 +1,49 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-3809
+Date: 13 Apr 2025
+
+Supplier
+
+Jennings-Richardson
+
+4291 Rogers Parkways Frankchester, MN 83995
+GSTIN: 627442711191
+
+Contact: 001-919-508-6369x2099
+
+Buyer
+
+Patterson Group
+
+047 Luis Vista Suite 102 Port Carla, ND 15467
+GSTIN: 248304615496
+
+Contact: +1-984-377-5728x3877
+
+Place of Supply: Morganchester
+
+Description ;HSN | Qty Unit Price | Taxable Value CGST SGST Total
+Quickly 5581 8 | $54.0 $432.0 $38.88 $38.88 $509.76
+
+Fund 8217 $767.7 $3070.8 $276.37 $276.37 $3623.54
+Game 4167 fo | $365.93 $3293.37 $296.4 $296.4 $3886.18
+
+Sub Total: $1414.47
+
+CGST: $194.75
+
+SGST: $122.22
+
+Grand Total: $1553.01
+
+Amount in Words: 1302 dollars only
+
+PO Number: PO-7566
+
+Terms: Southern Mrs somebody act will whatever two him.
+
+Reverse Charge: Yes

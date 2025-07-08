@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-64977
+
+Date: 24/11/2023
+
+From:
+
+Vora-Brahmbhatt
+
+01 Salvi Path Knandwa-873984
+To:
+
+Amble, Rege and Bajwa
+
+878, Lad Street Patna 191223
+Amount Paid: €44890
+
+Payment Mode: UPI

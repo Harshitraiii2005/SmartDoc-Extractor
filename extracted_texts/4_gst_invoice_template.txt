@@ -1,0 +1,51 @@
+
+
+---- Page 1 ----
+GST TAX INVOICE
+
+Invoice No: INV-5174
+Date: 14 Jun 2025
+
+Supplier
+
+Smith-Harvey
+
+04114 Stephanie Glens West Timothy, VI 58612
+GSTIN: 828560219086
+
+Contact: 001-538-502-4008x669
+
+Buyer
+
+Ingram, Russell and Mejia
+
+8481 Thomas Extensions Suite 727 Garrisonside, ME 49370
+GSTIN: 891216487071
+
+Contact: 443-857-1273x159
+
+Place of Supply: East Carlyville
+
+Description FHSN | Qty Unit Price | Taxable Value CGST SGST Total
+Also 5856 $568.61 $5686.1 $511.75 | $511.75 | $6709.6
+Republican 3027 $71.41 $357.05 $32.13 $32.13 $421.32
+
+Base 7495 $105.45 $738.15 $66.43 $66.43 $871.02
+View 2689 $620.48 $1240.96 g1it.69 6 $111.69 ~—*| $1464.33
+Nor 5967 $242.31 $242.31 $21.81 $21.81 $285.93
+
+Sub Total: $1017.17
+
+CGST: $134.49
+
+SGST: $54.54
+
+Grand Total: $1020.63
+
+Amount in Words: 2035 dollars only
+
+PO Number: PO-1405
+
+Terms: So miss opportunity by environmental me task professional.
+
+Reverse Charge: No

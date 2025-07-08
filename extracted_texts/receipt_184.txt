@@ -1,0 +1,22 @@
+
+
+---- Page 1 ----
+Payment Receipt
+
+Receipt No: REC-47905
+
+Date: 13/03/2025
+
+From:
+
+Majumdar Ltd
+
+66 Sathe Circle, Katihar-200957
+To:
+
+Sankar-Gopal
+
+92/989, Date Nagar, Morbi 682740
+Amount Paid: €49872
+
+Payment Mode: Cash

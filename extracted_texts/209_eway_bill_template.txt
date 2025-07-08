@@ -1,0 +1,33 @@
+
+
+---- Page 1 ----
+E-WAY BILL
+EWB No: EWB-296767
+Date: 25 Jan 2025
+Valid From: 16 Mar 2025 To 31 Mar 2025
+
+Consignor
+
+GSTIN:
+
+Consignee
+
+GSTIN:
+Transport Details
+
+Mode: Sea
+
+Vehicle No: VEH-9780
+Transporter ID: TID-5735
+Transporter Name: Jacobs-Smith
+
+Document Reference
+
+Type: Delivery Challan
+No: DOC-1625
+
+Taxable Value Tax Rate (%)
+$6016.32
+$2175.1
+
+Reason: Score rate.

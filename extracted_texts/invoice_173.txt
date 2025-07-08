@@ -1,0 +1,79 @@
+
+
+---- Page 1 ----
+Tax Invoice
+
+Invoice #: INV-23511
+
+Invoice Date: 28-10-2024
+
+From:
+Jain-Shroff
+
+H.No. 16 Dora Zila Guna 133256
+
+To:
+Bera PLC
+
+41/00 Grewal Nagar, Satara 634297
+
+GSTIN: Hd828597LQ182Z9
+
+Item
+
+Id
+Possimus
+Cumque
+Aspernatur
+Similique
+
+Maiores
+
+Description
+
+Sint inventore.
+
+Excepturi non officia exercitationem voluptates.
+
+Numquam nostrum aut.
+Ex magni pariatur.
+Soluta quam debitis.
+
+Voluptatum dolorem eius.
+
+Grand Total: §152122
+
+Rate
+
+22358
+
+3211
+
+22357
+
+24714
+
+24896
+
+=1942
+
+Quantity
+7
+
+6
+
+10
+
+Total
+
+=16506
+
+%19266
+
+29428
+
+242426
+
+%48960
+
+215536
