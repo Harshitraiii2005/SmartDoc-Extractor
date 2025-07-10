@@ -1,6 +1,8 @@
-spacy
 flask
-uvicorn
-pdf2image
 pytesseract
+pdfplumber
 python-docx
+spacy
+pandas
+Pillow
+fpdf

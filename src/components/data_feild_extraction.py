@@ -39,7 +39,7 @@ class FieldExtractor:
                 elif ent.label_ == "MONEY":
                     fields["Amounts"].add(ent.text)
 
-            # Regex-based fields
+            
             regex_patterns = {
                 "Invoice Number": r"(Invoice No|Invoice #|Invoice ID|Invoice Ref|Inv No|Document No|Receipt No|Bill No)[^\n:]*[:]\s*([A-Z0-9\-/]+)",
                 "Revision Number": r"(Revision No|Revision Number|Version)[^\n:]*[:]\s*(.+)",
@@ -90,7 +90,7 @@ class FieldExtractor:
                 match = re.search(pattern, text, re.I)
                 fields[field] = match.group(len(match.groups())) if match else None
 
-            # Convert all sets to string
+            
             for key in fields:
                 if isinstance(fields[key], set):
                     fields[key] = ", ".join(fields[key]) if fields[key] else None

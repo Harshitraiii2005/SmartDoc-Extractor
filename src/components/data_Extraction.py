@@ -11,7 +11,7 @@ class DataExtractor:
         self.config = config
         os.makedirs(self.config.output_dir, exist_ok=True)
 
-        # Set Tesseract path
+        
         pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
         logging.info("🔧 Tesseract path set successfully.")
 

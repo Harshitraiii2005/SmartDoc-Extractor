@@ -3,61 +3,137 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SmartDoc Extractor</title>
+  <title>SmartDoc-Extractor</title>
+  <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-</head>
-<body>
-  <!-- Particles Background -->
-  <div id="particles-js"></div>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    body {
+      background-color: #0f0f1a;
+      color: #f8f9fa;
+      font-family: 'Inter', sans-serif;
+    }
 
-  <!-- Header -->
-  <header class="header">
-    <div class="header-left">Harshit Rai</div>
-    <div class="header-center">📄 SmartDoc Extractor</div>
-    <div class="header-right">📞 7394809484</div>
-  </header>
+    .gradient-text {
+      background: linear-gradient(90deg, #6c5ce7, #a29bfe);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .card-3d {
+      transition: transform 0.5s ease;
+      transform-style: preserve-3d;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    }
+
+    .card-3d:hover {
+      transform: translateY(-10px) rotateX(5deg);
+    }
+
+    .floating {
+      animation: floating 6s ease-in-out infinite;
+    }
+
+    @keyframes floating {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-15px); }
+    }
+  </style>
+</head>
+<body class="min-h-screen">
+
+  <!-- Navbar -->
+  <nav class="fixed w-full z-50 bg-black bg-opacity-80 backdrop-blur-md py-4 px-8">
+    <div class="max-w-7xl mx-auto flex justify-between items-center">
+      <div class="text-2xl font-bold gradient-text">SmartDoc-Extractor</div>
+      <div class="hidden md:flex space-x-6">
+        <a href="/" class="text-white hover:text-purple-300 transition">Home</a>
+        <a href="/app" class="text-white hover:text-purple-300 transition">Try Now</a>
+        <a href="#features" class="text-white hover:text-purple-300 transition">Features</a>
+      </div>
+    </div>
+  </nav>
 
   <!-- Hero Section -->
-  <main class="main-content">
-    <h1>Revolutionize Document Intelligence</h1>
-    <p>SmartDoc Extractor helps you intelligently extract data from PDFs, images, Word files, and more using OCR + AI.</p>
-    <a href="/app" class="btn-start">🚀 Start Extracting</a>
+  <section class="min-h-screen flex items-center justify-center pt-24 px-4">
+    <div class="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
+      <div class="space-y-6">
+        <h1 class="text-5xl md:text-6xl font-bold leading-tight">
+          AI-powered <span class="gradient-text">Document Extractor</span>
+        </h1>
+        <p class="text-lg text-gray-300 max-w-xl">
+          Upload PDFs, DOCX, Images, or CSVs and extract structured text and entities instantly with our trained NLP model.
+        </p>
+        <button onclick="window.location.href='/app'" class="px-8 py-3 bg-gradient-to-r from-purple-600 to-indigo-600 rounded-full font-medium hover:opacity-90 transition transform hover:scale-105">
+          Try It Now
+        </button>
+      </div>
+      <div class="relative floating">
+        <div class="card-3d bg-gray-900 bg-opacity-70 backdrop-blur-lg rounded-3xl p-6 border border-gray-800">
+          <img src="{{ url_for('static', filename='images/hero.png') }}" alt="SmartDoc Illustration" class="rounded-2xl w-full h-auto" />
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <!-- What We Built -->
-    <section class="section">
-      <h2>🛠 What We’ve Built</h2>
-      <ul>
-        <li>Invoice field extractor using spaCy NER</li>
-        <li>OCR-powered image/PDF reader</li>
-        <li>Multi-format support: PDF, DOCX, TXT, CSV, Images</li>
-        <li>PDF download of extracted results</li>
-      </ul>
-    </section>
-
-    <!-- Future Scope -->
-    <section class="section">
-      <h2>🔮 Future Approach</h2>
-      <ul>
-        <li>Multi-language support</li>
-        <li>Cloud document integration (Google Drive, Dropbox)</li>
-        <li>Entity confidence scoring & validation</li>
-        <li>Mobile app version with camera OCR</li>
-      </ul>
-    </section>
-  </main>
+  <!-- Features Section -->
+  <section id="features" class="py-20 px-4 bg-gradient-to-b from-transparent to-gray-900">
+    <div class="max-w-7xl mx-auto">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl font-bold mb-4">Core <span class="gradient-text">Features</span></h2>
+        <p class="text-gray-400 max-w-2xl mx-auto">Built with cutting-edge NLP and OCR tech for fast, reliable document processing.</p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="card-3d bg-gray-800 bg-opacity-70 rounded-3xl p-6 border border-gray-700">
+          <h3 class="text-xl font-semibold mb-3 text-purple-400">Multi-Format Support</h3>
+          <p class="text-gray-300">Extract from PDF, DOCX, TXT, CSV, and image files using OCR and NLP.</p>
+        </div>
+        <div class="card-3d bg-gray-800 bg-opacity-70 rounded-3xl p-6 border border-gray-700">
+          <h3 class="text-xl font-semibold mb-3 text-purple-400">Named Entity Recognition</h3>
+          <p class="text-gray-300">Identify key entities like invoice numbers, dates, organizations with high accuracy.</p>
+        </div>
+        <div class="card-3d bg-gray-800 bg-opacity-70 rounded-3xl p-6 border border-gray-700">
+          <h3 class="text-xl font-semibold mb-3 text-purple-400">Downloadable Results</h3>
+          <p class="text-gray-300">Export extracted content and entities into a downloadable PDF file.</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- Footer -->
-  <footer class="footer">
-    <p>📬 Let’s connect — <a href="mailto:harshitrai@example.com">harshitrai@example.com</a></p>
-    <p>Made with ❤️ by <strong>Harshit Rai</strong></p>
+  <footer class="bg-gray-950 text-gray-300 py-12 mt-16 border-t border-purple-800">
+    <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-3 gap-8">
+      
+      <!-- Contact Form -->
+      <div>
+        <h3 class="text-lg font-semibold mb-4 text-purple-400">Let's Connect</h3>
+        <form action="mailto:harshit.rai@example.com" method="post" enctype="text/plain">
+          <input type="text" name="name" placeholder="Your Name" class="w-full p-2 mb-2 rounded bg-gray-800 border border-gray-600 text-white">
+          <input type="email" name="email" placeholder="Your Email" class="w-full p-2 mb-2 rounded bg-gray-800 border border-gray-600 text-white">
+          <textarea name="message" rows="3" placeholder="Your Message" class="w-full p-2 mb-2 rounded bg-gray-800 border border-gray-600 text-white"></textarea>
+          <button type="submit" class="w-full bg-purple-700 hover:bg-purple-800 py-2 rounded font-semibold text-white">Send Message</button>
+        </form>
+      </div>
+
+      <!-- Social Links -->
+      <div class="flex flex-col items-center justify-center space-y-4">
+        <h3 class="text-lg font-semibold text-purple-400">Follow Me</h3>
+        <div class="flex space-x-6 text-2xl">
+          <a href="https://github.com/harshit-rai" class="hover:text-purple-400" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://linkedin.com/in/harshit-rai" class="hover:text-purple-400" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://instagram.com/harshit.rai" class="hover:text-purple-400" target="_blank"><i class="fab fa-instagram"></i></a>
+        </div>
+      </div>
+
+      <!-- Credits -->
+      <div class="text-center md:text-right">
+        <h3 class="text-lg font-semibold text-purple-400 mb-2">Made by</h3>
+        <p class="text-xl font-bold text-white">Harshit Rai</p>
+        <p class="text-sm text-gray-500 mt-1">© 2025 SmartDoc-Extractor</p>
+      </div>
+    </div>
   </footer>
 
-  <script>
-    particlesJS.load('particles-js', '{{ url_for("static", filename="js/particles.json") }}', function() {
-      console.log('Particles.js config loaded');
-    });
-  </script>
 </body>
 </html>

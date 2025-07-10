@@ -2,9 +2,10 @@ import os
 import re
 import unicodedata
 from src.logger import logging
-from src.exception import CustomException
+from src.exception import MyException
+from src.entity.config_entity 
 from src.entity.config_entity import DataCleanerConfig
-from src.entity.artifact_entity import DataCleanerEntity
+from src.entity.artifact_entity import DataExtractionArtifact
 
 class DataCleaner:
     def __init__(self, config: DataCleanerConfig):
@@ -14,19 +15,19 @@ class DataCleaner:
 
     def clean_text(self, text: str) -> str:
         try:
-            # Remove unwanted page markers (e.g., ---- Page 1 ----)
+            
             text = re.sub(r"-{2,}\s*Page\s*\d+\s*-{2,}", "", text)
 
-            # Remove non-printable characters
+            
             text = ''.join(c for c in text if c.isprintable())
 
-            # Normalize Unicode text
+            
             text = unicodedata.normalize("NFKC", text)
 
-            # Fix hyphenated line breaks
+            
             text = re.sub(r"-\n(\w+)", r"\1", text)
 
-            # Merge lines while preserving double breaks
+            
             lines = text.splitlines()
             merged_lines = []
             buffer = ""
@@ -45,10 +46,10 @@ class DataCleaner:
 
             text = "\n".join(merged_lines)
 
-            # Clean extra spaces
+            
             text = re.sub(r"[ \t]+", " ", text)
 
-            # Standardize separators
+            
             text = re.sub(r"\s*[-–]\s*", ": ", text)
 
             return text.strip()

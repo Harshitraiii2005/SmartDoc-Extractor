@@ -1,16 +1,21 @@
-# Use a Python base image
-FROM python:3.10-slim
+FROM python:3.11-slim
 
-# Set working directory
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
+
 WORKDIR /app
 
-# Copy requirements and install dependencies
-COPY requirements.txt .
+COPY requirements.txt /app/
+COPY app.py /app/
+COPY templates /app/templates/
+COPY static /app/static/
+COPY fonts /app/fonts/
+COPY frontend /app/frontend/
+COPY trained_invoice_ner /app/trained_invoice_ner/
+
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the code
-COPY . .
+EXPOSE 5000
 
-# Set the command to run your app
 CMD ["python", "app.py"]

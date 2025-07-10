@@ -3,7 +3,7 @@ import json
 import csv
 import spacy
 from src.logger import logging
-from src.exception import CustomException
+from src.exception import MyException
 from src.entity.config_entity import NERDataPreparerConfig
 from src.entity.artifact_entity import NERDataPreparerArtifact
 
