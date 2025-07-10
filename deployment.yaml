@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: smartdoc-extractor
-        image: harshitrai20/smartdoc-extractor:latest
+        image: username/smartdoc-extractor:latest
         imagePullPolicy: Always
         resources:
           requests:
